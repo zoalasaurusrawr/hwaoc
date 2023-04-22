@@ -1,0 +1,3 @@
+Contenedor de corazn
+Un objeto muy codiciado. Aumenta el nmero
+de corazones de todos los aliados.

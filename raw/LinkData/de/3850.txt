@@ -1,0 +1,81 @@
+[es]1_3__8_12____Hyliaans[ed]_e___ hemd
+Een doodnormaal kledingstuk dat populair
+is in Hyrule. Het is comfortabel, licht en
+stevig. Veel reizigers dragen deze kleding.
+[es]1_2__7_11____ninja-outfit
+Een kledingstuk dat generaties geleden is gemaakt
+door de Sheikahs. De stof onderdrukt geluiden.
+Zelfs als je rent, maak je niet veel lawaai.
+[es]1_3__8_12____Hyliaans[ed]_e___ harnas
+Het harnas van de soldaten van Hyrule. Door
+de metalen platen biedt het goede bescherming.
+Je kunt zien dat het door een vakman is gemaakt.
+[es]1_3__8_12____Rito-hemd
+Kleding gemaakt door de Rito's voor Hylianen die door
+Tabantha en Hebra willen reizen. De vele lagen met veren
+houden zelfs in de ergste vrieskou goed warmte vast.
+[es]1_3__8_12____Gerudo-topje
+Kleding die wordt gedragen door Gerudo-vrouwen.
+Het ontwerp is luchtig en houdt geen hitte vast.
+Het typische Gerudo-design maakt dit erg populair.
+[es]1_3__8_12____woestijnpantser
+Kleding voor mannen die in het geheim wordt verkocht
+in de Geheime Gerudo-club. Dankzij de ijskracht van de
+vele saffieren, houdt deze kleding de drager lekker koel.
+[es]1_3__8_12____lichtgevend[ed]_e___ hemd
+Deze outfit is alleen verkrijgbaar in de Geheime Gerudo-club.
+In het donker kun je een apart patroon zien dat is gemaakt
+met verpulverde lichtgevende steen.
+[es]1_3__8_12____anti-vuurpantser
+Een harnas dat is ontwikkeld door de Gorons om nieuwsgierige
+Hylianen in staat te stellen op bezoek te komen in Goron-stad.
+Het is gemaakt van steen, dus magma kan je niet deren.
+[es]1_3__8_12____Zora-pantser
+Een pantser dat door de Zora-prinses van elke generatie
+wordt gemaakt voor haar toekomstige echtgenoot.
+Weet je zeker dat je dit mag dragen?
+[es]1_3__8_12____geavanceerd[ed]_e___ harnas
+Dit harnas is gemaakt met de technologie van de
+Sheikahs en geavanceerde onderdelen. Het roept
+bewondering op voor de wetenschap van vroeger.
+[es]13_2__9_21____klimhandschoenen
+Handschoenen die met behulp van oude technieken
+speciaal zijn gemaakt om mee te klimmen. Door de
+antisliplaag kun je je energie efficinter gebruiken.
+[es]1_3__8_12____rubberen harnas
+Een pak dat het lichaam bedekt met
+rubber, een materiaal waarvan niet langer
+bekend is hoe het gemaakt werd.
+[es]1_3__8_12____barbarenharnas
+Kleding die werd gedragen door een oorlogs-
+zuchtige stam uit Faron. Door het speciale
+ontwerp verhoogt deze kleding je vechtlust.
+[es]1_3__8_12____wilderniskostuum
+Deze kleding is gemaakt voor de held die
+door de wildernis reist. Toevallig is de
+kleding precies jouw maat.
+[es]1_3__8_12____schaduwkostuum
+De handelaar van het Doodskopmeer heeft dit zwarte pak ontwikkeld
+als resultaat van zijn onderzoek naar monsters. Het is een nepversie
+van de groene kleding die altijd wordt gedragen door de held.
+[es]1_3__8_12____krijgershemd
+Men zegt dat deze groene kleding van een held
+was die door vele werelden heeft gereisd. Als
+je hem aantrekt, blijkt hij je perfect te passen.
+[es]1_3__8_12____Hemd der Uitverkorenen
+Een kledingstuk voor de vijf Uitverkorenen die waardig zijn
+bevonden door de koninklijke familie van Hyrule. Er zijn
+gebeden van de prinses in geweven om het Onheil af te weren.
+[es]1_3__8_12____gevoerd[ed]_e___ hemd
+Een warm hemd zoals dat door bergbewoners
+wordt gedragen. De dikke stof en de handschoenen
+zorgen dat de lichaamswarmte goed bewaard blijft.
+[es]1_3__8_12____versleten hemd
+Een oud, dun hemd met iets te korte
+mouwen. Het valt weliswaar bijna uit elkaar,
+maar het kan nog prima worden gebruikt.
+[es]1_3__8_12____lijfwachtuniform
+Het statige uniform van de koninklijke lijfwacht van
+Hyrule. Door het schitterende embleem op de borst
+straalt het uniform waardigheid uit. Het is gemaakt
+van lichte materialen, en is stijlvol en praktisch.

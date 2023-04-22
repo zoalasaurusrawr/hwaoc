@@ -1,0 +1,261 @@
+Vittoria
+Tempo
+Nemici KO
+Totale
+Armi ottenute
+Materiali ottenuti
+Scendi in campo
+Sfida
+Accedi
+Campo di battaglia
+Compagni
+Cronologia
+Nemici
+Alleati
+Stato
+[es]8_16_24_32_40_48_64_68_armi
+[es]8_16_24_32_40_48_64_68_armature
+Quantit da acquistare
+Annulla
+Quantit ottenuta
+Gi in possesso
+Novit
+[t]%s[s0][/]
+[t]%s[s0][/]
+Semi Korogu
+Ricompensa
+Materiale cercato
+Vendi
+Annulla
+Bacchetta del fuoco
+Bacchetta del ghiaccio
+Bacchetta elettrica
+Tempo
+Azioni
+Attacco normale
+Colpo caricato
+Attacco forte
+Azione personaggio
+[es]6_14_22_30_38_46_62_67_materiali
+Compagni
+Mappa
+Battaglie
+Missioni battaglia
+Negozi
+Missioni di Hyrule
+Selezione personaggio
+Costo
+Nuovo livello
+Armi possedute
+Armi arrugginite
+Materiali necessari
+Ricerca materiali
+Hai messo in ordine abiti e armature
+Seleziona abito/armatura
+Seleziona il colore
+Squadra
+Cibo
+Nessun effetto
+Scendi in campo
+Cucina
+Ricetta
+Statistiche
+Menu
+Effetto del cibo
+Nome del piatto
+Descrizione del piatto
+Rupie
+Capitolo %d -
+Fondi armi
+Forgiatura massima
+Rimuovi marchi
+Lucida
+Compra
+Vendi
+Tingi
+Metti via
+Teletrasporto
+Scegli personaggio
+Scegli arma da potenziare
+Scegli armi da usare come materiale
+Scegli materiale
+Scegli arma da modificare
+Scegli arma da modificare
+Scegli armi da vendere
+Costo
+Prezzo
+Valore
+Quantit da acquistare
+Quantit
+Opzioni
+Comandi di base
+Tutorial
+Impostazioni
+Abbandona battaglia
+Salva
+Carica
+Schermo del titolo
+Rimuovi uno
+Rimuovi tutti
+Lista merce
+Stock
+Ricompensa vittoria
+Nessun marchio
+Lista prezzi
+Colore
+Chiudi
+Voglio comprare!
+Voglio vendere.
+Nessun problema.
+Non importa.
+Vendi tutto
+Compra tutto
+Galleria
+Personaggi
+Filmati
+Storia
+Missioni di Hyrule
+Missioni di Hyrule completate:
+Capitolo [t]%s[s0][/] -
+(parte [t]%s[s0][/])
+Livello di difficolt
+Facile
+Normale
+Difficile
+Molto difficile
+amiibo
+Usa gli amiibo
+Non usare gli amiibo
+Inverti comandi verticali della visuale
+Inverti comandi orizzontali della visuale
+Velocit della visuale
+Molto lenta
+Lenta
+Normale
+Veloce
+Molto veloce
+Sensori di movimento
+Rumble
+Impostazioni pulsanti
+Stile Dynasty Warriors
+Stile Zelda
+Conferma
+Lingua delle voci
+Lingua del testo
+Giapponese
+Inglese
+Francese
+Francese (Canada)
+Italiano
+Tedesco
+Spagnolo
+Spagnolo (America Lat.)
+Olandese
+Cinese (tradizionale)
+Cinese (semplificato)
+Coreano
+Visualizzazione degli indicatori
+Mostra furigana
+Mostra sottotitoli
+Volume colonna sonora
+Volume effetti sonori
+Volume delle voci
+Impostazioni iniziali
+Usa tutto
+Ricompensa primo completamento
+Regole speciali
+Armature ottenute
+Ricompensa completamento
+Bottino di guerra
+Resoconto battaglia
+Riprova
+Dall'inizio della battaglia
+Aiuta
+Collabora
+Completabile
+COMPLETATA
+SCONFITTA
+VITTORIA
+Azioni
+Missioni con sensore
+[t]%s[s2][/]/[t]%s[s1][/]/[t]%s[s0][/]
+Salvataggio automatico
+Impostazioni
+Conferma
+Calamit sigillata
+Strumenti Sheikah
+[es]3_11_19_27_35_43_59_65_stasys
+[es]5_13_21_29_37_45_61_66_bomba radiocomandata
+[es]2_10_18_26_34_42_58_65_glacyor
+[es]2_10_18_26_34_42_58_65_kalamitron
+Azione personaggio
+[es]7_15_23_31_39_47_63_67_abiti
+Scegli il capo
+Capi ottenuti
+Hai messo in ordine: [t]%s[s0][/]
+Gi in possesso:
+Verifica azione
+Comandi
+Composizione della squadra
+SUCCESSO
+Posizione attuale
+Inizia
+Audio
+Piatti ottenuti
+Link
+Zelda
+Re Rhoam
+Mipha
+Daruk
+Revali
+Urbosa
+Impa
+Sidon
+Yunobo
+Teba
+Riju
+Castonne
+Fate radiose
+Maestro Koga
+Monaco Myz Kyoshia
+Terrako
+Calamit Ganon
+Sblocco accesso alle strutture
+Vantaggi in battaglia
+[es]6_14_22_30_38_46_62_67_materiali
+Potenziamento strutture
+Cibo
+Strumenti Sheikah
+Livello contribuzione
+Colossi sacri
+Sensore Sheikah
+Potenziamento di tutti i compagni
+Livello consigliato
+Ricerche per: [t]%s[s0][/]
+Percentuale di completamento
+Condizioni di completamento
+Percentuale di ottenimento
+Effetti sonori
+Musica
+Voci
+Strutture
+Materiali specifici del campo di battaglia
+Aggiungi marchio nascosto
+Nemici principali
+NUOVO LIVELLO
+Manovra [eg2][v]%s[s0][/]
+Narrazione
+Storia
+La galleria  stata aggiornata.
+Battaglia completa
+Battaglia normale
+Battaglia del colosso
+Mostra barra dell'energia
+La barra dell'energia  visibile.
+Record
+Mostra comandi
+Battaglie normali
+Battaglie dei colossi
+Tempo di gioco
+ possibile cucinare.
+Capitolo %d

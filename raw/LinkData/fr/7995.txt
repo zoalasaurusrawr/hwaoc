@@ -1,0 +1,139 @@
+[$0004] Attaque standard / [$0003] Attaque forte
+[$0001] Coup fatal
+[$0009] (maintenir) : se protger
+[$0009] (prs d'un ennemi puissant) : cibler l'adversaire
+[$0002] Esquiver
+[$0004] (aprs une esquive de justesse) : foncer
+[$0010] + [$0004] Bombes  distance
+[$0010] + [$0001] Cryonis
+[$0010] + [$0002] Polaris
+[$0010] + [$0003] Cinetis
+[$0007] Changer de personnage
+Videz la jauge d'avant-poste en liminant les ennemis qui le dfendent.
+liminez l'ennemi puissant pour prendre le contrle de l'avant-poste.
+[$0010] + [$0001] (sur des ennemis dans l'eau) : Cryonis
+[$0004] Attaque rapproche / [$0010] Attaque  distance
+[$0011] (maintenir) : cibler / [$0011] (relcher) : attaquer
+[$0001] Coup fatal
+Dtruisez les obstacles avec des attaques rapproches ([$0004])
+ou spciales ([$0001]).
+Actionnez la baguette de feu sur un terrain recouvert d'herbe.
+[$0008] Intercepter
+Les attaques de glace sont efficaces contre les ennemis de feu.
+[$0014] Zoom sur la mini-carte
+[$0010] Projectile de glace
+[$0004] Coup de trompe
+[$0103] (maintenir) : cibler / [$0103] Mille lances de glace
+[$0010] + [$0002] (sur un objet en mtal) : Polaris
+Maintenez [$0003] enfonc aprs l'attaque forte finale d'un combo,
+puis relchez pour porter un coup supplmentaire.
+[$0011] Attaque en remonte de cascade
+[$0011] Activer la puissance du magma form par vos attaques fortes
+[$0011] Dcoller et voler dans les airs
+[$0011] (maintenir) : remplir la jauge de foudre
+[$0009] Bouclier de Daruk
+[$0011] Faire apparatre un symbole d'ennemi
+[$0003] L'absorber avec une attaque forte
+Absorbez 3 symboles d'ennemis pour intensifier votre coup fatal ([$0001]).
+[$0012] Donner des instructions aux allis
+[$0011] Activer les effets de modules sheikahs placs par vos attaques
+[$0010] Projectile de lave
+[$0004] Pitinement
+[$0103] (maintenir) : cibler / [$0103] Pluie de lave
+[$0010] Canon mitrailleur
+[$0103] (sur un ennemi en l'air) : lames de lumire
+[$0103] (maintenir) : cibler (un ennemi au sol) / [$0103] Bombardement arien
+[$0010] Coup de tonnerre
+[$0004] Pas de charge
+[$0103] Tempte lectrique
+Actionnez la baguette de glace sur un plan d'eau.
+Actionnez la baguette lectrique sur une caisse en mtal.
+[$0004] Changer d'angle de vue
+[$0012] Changer de personnage ou d'arme
+[$0013] Abandonner
+Vous ne pouvez pas aller plus loin.
+[$0016] (en maintenant [$0002]) : acclrer
+[$0008] Barrage
+[$0008] Contre-attaque
+Appuyez sur [$0011] au bon moment lors d'une attaque forte
+pour renforcer l'attaque.
+[$0011] Manger un gigot de caillasse pour activer le pouvoir du bouclier
+[$0011] Enchaner des attaques fortes pendant un temps limit
+[$0011] (maintenir) : laisser madame Patricia se dchaner
+Des attaques fortes rptes finissent par vous tourdir.
+Rduisez votre stress avec [$0003].
+[$0011] Changer d'apparence
+[$0011] Librer son pouvoir (permet l'excution de puissantes attaques)
+Rassemblez des Korogus pour une attaque conjointe.
+Faites-en apparatre plusieurs  la fois avec [$0011].
+Certaines attaques changent la grande fe que vous contrlez.
+Absorbez le pouvoir antique des reliques que
+vous avez fait apparatre avec vos attaques.
+[$0011] Attaque au laser / [$0011] (maintenir) : charger le laser
+Dchanez votre violence et propagez la rancur,
+puis absorbez-la avec [$0011].
+[$0010] + [$0004] (sur des ennemis  la garde solide) : Bombes  distance
+[$0010] + [$0001] (sur des ennemis en pleine charge) : Cryonis
+[$0010] + [$0002] (sur des ennemis munis d'armes en mtal) : Polaris
+[$0010] + [$0003] (sur des ennemis en attaque circulaire) : Cinetis
+Aprs un combo d'attaques standard ([$0004]),
+enchanez sur diverses attaques fortes avec [$0003].
+Lorsque la jauge de point faible apparat,
+profitez-en pour attaquer l'adversaire.
+Monstres dots de particularits lmentaires
+[$0011] Action spcifique du personnage
+[$0008] Utiliser un objet
+[$0006] Changer d'objet slectionn
+[$0002]>[$0002] (face  une paroi) : saut mural
+[$0002] (en tant en l'air) : planer
+[$0015] Cibler
+Maintenez [$0003] pour charger de la puissance
+et renforcer votre attaque forte.
+Maintenez [$0003] pour charger de la puissance
+et renforcer une attaque forte ultrieure.
+Aprs une attaque forte, appuyez plusieurs fois sur [$0003] pour vider
+la jauge de foudre en une puissante attaque.
+[$0011] Faire apparatre un symbole d'ennemi
+[$0003] L'absorber par une attaque forte au petit sabre
+Prenez la pose avec [$0011], puis renforcez
+votre attaque avec [$0003] au bon moment.
+Une fois la jauge de rancur pleine,
+appuyez sur [$0011] pour passer en mode Flau.
+[$0011] Manger pour reprendre des forces
+et charger plus vite une attaque forte
+[$0011] Librer son stress pour excuter
+la technique du rai de lumire mystique
+[$0008] + [$0002] Utiliser un objet de rgnration
+[$0008] (maintenir) : changer d'objet slectionn
+[$0017] Changer la cible du verrouillage
+[$0002] Esquiver / [$0009] Se protger
+[$0015] Verrouiller un ennemi puissant
+[$0008] + [$0004] Baguette de feu
+[$0008] + [$0003] Baguette de glace
+[$0008] + [$0001] Baguette lectrique
+Appuyer sur [$0011] au moment de lancer une attaque forte
+pour effectuer une attaque forte dsespre.
+[$0003] Manger pour soigner des dgts temporaires
+[$0011] Charger l'ennemi
+[$0011] (maintenir) : dcocher une puissante flche
+Appuyez plusieurs fois sur [$0003] lors d'une attaque forte
+pour dcocher une vole de flches.
+Librez le pouvoir antique des reliques avec [$0011] pour devenir gant.
+[$0016] Se dplacer
+[$0104] Rinitialiser le viseur
+[$0017] Dplacer le viseur
+[$0022] + [$0023] + [$0016] Bombes  distance
+[$0022] + [$0023] + [$0016] Cryonis
+[$0022] + [$0023] + [$0016] Polaris
+[$0022] + [$0023] + [$0016] Cinetis
+[$0022] + [$0023] + [$0016] (sur une caisse en mtal) : Polaris
+[$0022] + [$0023] + [$0016] (sur des ennemis  la garde solide) : Bombes  distance
+[$0022] + [$0023] + [$0016] (sur des ennemis en pleine charge) : Cryonis
+[$0022] + [$0023] + [$0016] (sur des ennemis munis d'armes en mtal) : Polaris
+[$0022] + [$0023] + [$0016] (sur des ennemis en attaque circulaire) : Cinetis
+[$0022] + [$0023] + [$0016] Utiliser un objet de rgnration
+[$0009] + [$0011] (maintenir) : changer d'objet slectionn
+[$0022] + [$0023] + [$0016] Baguette de feu
+[$0022] + [$0023] + [$0016] Baguette de glace
+[$0022] + [$0023] + [$0016] Baguette lectrique
+[$0012] Changer de personnage

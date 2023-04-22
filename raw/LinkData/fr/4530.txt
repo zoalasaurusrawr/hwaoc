@@ -1,0 +1,12 @@
+[es]3_7_11_16_1_32_19_36_pe rouille
+Cette pe  une main est tellement ronge
+par la rouille qu'il n'est plus possible de
+discerner avec prcision sa forme d'origine.
+[es]2_7_11_16_1_31_19_36_espadon rouill
+Cette pe  deux mains a t abandonne
+si longtemps qu'elle est totalement rouille.
+Il est impossible de s'en servir comme arme.
+[es]3_6_10_15_1_32_18_35_hallebarde rouille
+Cette hallebarde est terriblement rouille
+suite  une exposition prolonge au vent
+et aux intempries.

@@ -1,0 +1,201 @@
+[es]4_8_12_17_1_33_18_37_champis vapeur
+Une dlicieuse prparation vgtarienne.
+Cuits dans un crin de feuilles, les
+champignons prennent une saveur divine.
+[es]4_8_12_17_1_33_18_37_champis marins
+Marins dans une prparation au miel,
+ces champignons sucrs-sals offrent
+une incomparable richesse aromatique.
+[es]3_6_10_15_1_32_18_35_grillade de Tabanta
+Une spcialit de Tabanta,  base de
+champignons locaux enrobs de pte  pain
+et grills. Idale pour se rchauffer.
+[es]4_8_12_17_1_33_18_37_brochettes de champis
+Les inconditionnels des champignons se
+rgaleront de ce plat simple, dlicieux et
+trs consistant.
+[es]2_5_9_14_1_31_18_34_saut aux herbes
+Un savoureux saut vgtal aux ingrdients
+tous plus parfums les uns que les autres.
+[es]3_6_10_15_1_32_18_35_brioche d'Akkala-Est
+Croustillante  l'extrieur et fondante 
+l'intrieur, cette spcialit du relais de l'est
+d'Akkala doit tre consomme rapidement.
+[es]3_6_10_15_1_32_18_35_grande pole vgtale
+Un dlicieux plat vgtarien obtenu en
+faisant sauter des herbes des montagnes
+ feu trs vif.
+[es]2_5_9_14_1_31_18_34_ragot de citrouille
+Ce plat est prpar en faisant longuement
+mijoter de la citrouille armo. Il est souvent
+servi au village de Cocorico.
+[es]2_5_9_14_1_31_18_34_ragot de carotte
+Un seul bol de ce potage  la douceur
+caractristique contient de nombreuses
+carottes.
+[es]2_5_9_14_1_31_18_34_velout de viande
+Ce velout prpar  partir de morceaux de
+viande lgrement braiss et de lgumes
+frais est particulirement roboratif.
+[es]2_5_9_14_1_31_18_34_velout de poisson
+Cette soupe onctueuse contient de gros
+morceaux de poisson qui lui confrent un
+parfum iod des plus apptissants.
+[es]2_5_9_14_1_31_18_34_pot-au-feu d'Adeya
+Un pot-au-feu de poissons locaux, prpar
+dans de l'eau puise sur place. Beaucoup ne
+visitent Adeya que pour pouvoir y goter.
+[es]2_5_9_14_1_31_18_34_velout de cur
+Les fruits donnent  ce velout une douceur
+incomparable. Il parat qu'il rapproche les
+gens qui le partagent.
+[es]3_6_10_15_1_32_18_35_viande vapeur
+Toute la saveur de la viande est retenue
+ la cuisson dans une enveloppe de
+feuilles au riche parfum.
+[es]3_6_10_15_1_32_18_35_citrouille farcie
+Grande spcialit du village de Cocorico, ce
+plat de viande se consomme dans la niche
+creuse dans la chair d'une citrouille armo.
+[es]2_5_9_14_1_31_18_34_Va Meets Vo
+Le fameux cocktail du bar gerudo... ou plutt
+un jus de fruits tropicaux qui l'imite. Il est servi
+bien glac, dans un rcipient fait de glace.
+[es]3_6_10_15_1_32_18_35_tourte  la viande
+La pte s'imprgne des sucs de la viande
+pendant la cuisson, le rsultat est tout
+simplement irrsistible.
+[es]3_6_10_15_1_32_18_35_viande divine sale
+Un plat extraordinaire qui fait la part belle
+aux morceaux de viande de premier choix.
+Les gourmets seront ravis !
+[es]2_5_9_14_1_31_18_34_poisson vapeur
+Une prparation raffine obtenue en faisant
+lentement cuire le poisson dans des feuilles
+aux riches armes boiss.
+[es]2_5_9_14_1_31_18_34_crabe sal
+Tous les pcheurs vous diront qu'un crabe
+ne sera jamais meilleur que dans ce plat
+simple,  peine relev d'un soupon de sel.
+[es]3_6_10_15_1_32_18_35_tourte au poisson
+Ce plat est trs rpandu dans les villages
+de pcheurs. La saveur du poisson et le
+craquant de la pte y sont trs apprcis.
+[es]3_6_10_15_1_32_18_35_daurade meunire
+Ce plat savoureux est particulirement
+apprci par les populations de la cte.
+Frache  souhait, la daurade est  tomber.
+[es]2_7_11_16_1_31_19_36_uf dur
+Cet uf de volatile a cuit dans les eaux chaudes
+qui jaillissent des entrailles de la terre. Facile 
+prparer, il est trs populaire auprs des enfants.
+[es]3_7_11_16_1_32_19_36_omelette nature
+Ralis en un clin d'il, voil un plat qui met
+tout le monde d'accord. La couleur dore de
+la prparation est des plus apptissantes.
+[es]2_5_9_14_1_31_18_34_souffl des Mouettes
+Ce souffl  base de lait, d'ufs et de
+beurre, assaisonn d'herbes d'Hyrule est
+une spcialit de la cit des Mouettes.
+[es]3_7_11_16_1_32_19_36_omelette aux herbes
+La valeur nutritive de cette omelette lgre
+aux lgumes finement hachs en fait un plat
+trs rpandu et toujours apprci.
+[es]4_8_12_17_1_33_18_37_boulettes aux champis
+Le parfum de champignon que dgagent ces
+boulettes de riz quand on ouvre la feuille
+dans laquelle elles ont cuit est  tomber.
+[es]4_8_12_17_1_33_18_37_boulettes aux herbes
+Aromatises aux herbes sauvages, ces
+boulettes de riz sont un plat typique du
+village de Cocorico.
+[es]4_8_12_17_1_33_18_37_boulettes au poisson
+La saveur de ces boulettes de riz varie
+en fonction du type de poisson utilis
+pour leur confection.
+[es]2_5_9_14_1_31_18_34_risotto aux lgumes
+La grande douceur des lgumes fait de ce
+risotto un plat trs apprci des enfants.
+[es]2_5_9_14_1_31_18_34_curry
+Tout le monde adore ce plat universellement
+connu. Son got simple et savoureux en fait
+un incontournable dont on ne se lasse pas.
+[es]3_6_10_15_1_32_18_35_paella de la mer
+Cette spcialit maritime comblera les
+amateurs de fruits de mer. Idal pour un
+repas de fte aux accents ocaniques.
+[es]2_5_9_14_1_31_18_34_pilaf de volaille divine
+Prpar exclusivement avec la viande de
+volaille la plus noble, chaque bouche de
+ce plat est une explosion de saveurs.
+[es]2_5_9_14_1_31_18_34_plat de crmonie
+Ce plat servi  la crmonie d'intronisation
+des Prodiges a t prpar pour tre copieux
+et au got de tous les peuples prsents.
+[es]2_5_9_14_1_31_18_34_pain au froment
+Le bl utilis pour confectionner ce pain
+provient de la rgion de Tabanta. Sa mie
+lastique est riche en armes.
+[es]2_5_9_14_1_31_18_34_bonbon au miel
+Une sucrerie au bon miel frachement
+rcolt. Ses vertus nutritionnelles ne
+sont plus  prouver !
+[es]3_6_10_15_1_32_18_35_crpe au miel
+Un filet de miel recouvre ce dessert et
+lui prte sa puissante saveur. Un grand
+classique connu de tous les gourmands.
+[es]4_8_12_17_1_33_18_37_fruits au miel
+Les saveurs acide et sucre
+se combinent  merveille dans
+ce dessert des plus gourmands.
+[es]2_5_9_14_1_31_18_34_flan
+Ce dessert se prpare en cuisant des ufs
+et du lait dans un moule. Il fond littralement
+dans la bouche.
+[es]3_6_10_15_1_32_18_35_tarte aux ufs
+Ce dessert s'obtient en faisant mijoter une
+crme aux ufs jusqu' ce qu'un dlicieux
+fumet s'en dgage.
+[es]3_6_10_15_1_32_18_35_crpe aux baies
+Pour russir ce dessert, la pte doit rester
+souple. Des baies lgrement acidules
+sont ensuite ajoutes en garniture.
+[es]2_5_9_14_1_31_18_34_gteau aux fruits
+Ce gteau dlicieux est riche en fruits frais
+typiques des contres d'Hyrule. Le dessert
+idal pour les grandes occasions !
+[es]2_5_9_14_1_31_18_34_gteau au monstre
+Un gteau spcial  l'extrait de monstre.
+Selon la rumeur, il est impossible d'en oublier
+le got une fois qu'on en a mang une part.
+[es]2_5_9_14_1_31_18_34_curry de monstre
+Ce curry original est prpar  partir d'extrait
+de monstre. Sa saveur stimulante ne doit
+rien aux pices.
+[es]2_5_9_14_1_31_18_34_ragot de monstre
+La saveur apporte par l'extrait de monstre
+ ce plat de viande et de crustacs est tout
+ fait unique en son genre.
+[es]2_7_11_16_1_31_19_36_lixir frique
+Ce remde curatif contient le mystrieux
+pouvoir gurisseur des fes. Il dgage un
+doux parfum sucr.
+[es]3_6_10_15_1_32_18_35_brochette de viande pikpik
+Une brochette juteuse de viande
+grille  point sur les flammes.
+[es]3_6_10_15_1_32_18_35_brochette de la mer glagla
+Une prparation rapide et savoureuse.
+Cuisin de cette manire, le poisson
+rvle toute la subtilit de ses armes.
+[es]3_6_10_15_1_32_18_35_brochette de champis lectro
+Une prparation trs simple qui rvle
+tout le got de ces champignons aux
+belles couleurs champtres.
+[es]2_5_9_14_1_31_18_34_plat douteux
+Un fumet bizarre se dgage de ce curieux
+amas. S'il reste comestible, son aspect
+rebutant en fait un plat peu prsentable !
+[es]15_6_10_15_1_32_18_35_viande pice
+Le piment attnue le got dominant de la
+viande tout en relevant ses saveurs les
+plus subtiles.

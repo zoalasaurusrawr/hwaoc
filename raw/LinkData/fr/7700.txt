@@ -1,0 +1,146 @@
+Bombes  distance
+Cinetis
+Cryonis
+Polaris
+Lancez plusieurs bombes  distance  la suite.
+Invoquez un automate qui avance en lanant des bombes. Dirigez-le
+avec [$0016], arrtez-le avec [$0002] et faites-le exploser avec [$0011].
+Lancez une srie de bombes  distance.
+Lancez une bombe  distance droit devant vous. Si elle touche
+une cible, elle disperse de petites bombes qui explosent aussi.
+Faites tomber une pluie de bombes sur les ennemis.
+Lancez une bombe  distance droit devant vous. Aprs l'explosion,
+plusieurs colonnes de lave surgissent dans la zone affecte.
+Lancez des bombes  distance en l'air droit devant vous. Elles
+entranent tous les ennemis qu'elles touchent sur leur trajectoire.
+Faites rouler une bombe  distance droit devant vous. Votre bouclier
+bloque le souffle de l'explosion et vous propulse dans les airs.
+Lancez une bombe  distance dans les airs.
+Lancez en l'air une srie de bombes  distance. Appuyez sur [$0004]
+au bon moment pour les propulser une  une avec votre lance.
+Faites apparatre devant vous une range de bombes  distance.
+Dfinissez leur trajectoire avec [$0016] et faites-les exploser avec [$0004].
+Visez avec [$0016], puis lancez une bombe  distance avec prcision.
+Lancez une bombe, puis glissez sur votre bouclier pour qu'elle explose.
+Votre bouclier vous protge et le souffle vous propulse dans les airs.
+Lancez une srie de bombes  distance. Si des Korogus
+sont prsents, ils en lanceront eux aussi.
+Tirez une salve de bombes  distance droit devant vous.
+Faites jaillir une grande quantit de bombes  distance.
+Invoquez une bombe  distance.
+Lancez une srie de bombes  distance, puis tirez un laser
+pour les faire exploser.
+Faites apparatre des bombes  distance devant vous,
+puis frappez-les pour les parpiller et les faire exploser.
+Immobilisez les ennemis en face de vous pendant un temps limit.
+Immobilisez les ennemis tout autour de vous pendant un temps limit.
+Vous pouvez ensuite les jecter en appuyant sur [$0011].
+Immobilisez les ennemis en face de vous pendant un temps limit, puis
+chargez des flches de lumire avec [$0004] et lancez-les avec [$0003].
+Immobilisez les ennemis un certain temps, puis dclenchez avec [$0003]
+une explosion d'autant plus forte que la lumire est concentre.
+Immobilisez les ennemis devant vous pendant un temps limit, et
+profitez-en pour leur porter une puissante attaque avec [$0003].
+Immobilisez les ennemis tout en faisant apparatre une boule de feu
+que vous expdiez devant vous aprs l'avoir frappe.
+Immobilisez les ennemis en face de vous, puis tirez en l'air une vole
+de flches qui retombera en pluie sur vos ennemis.
+Immobilisez les ennemis en face de vous pendant un temps limit,
+et profitez-en pour leur assner de multiples coups d'pe.
+Immobilisez les ennemis devant vous pendant un temps limit, et
+profitez-en pour leur porter des coups supplmentaires avec [$0003].
+Immobilisez une lance que vous avez jete et les ennemis autour
+d'elle, puis frappez la lance pour infliger des dgts supplmentaires.
+Immobilisez les ennemis autour de vous et faites trembler le sol. Les
+rochers que l'onde de choc fait apparatre infligent aussi des dgts.
+Immobilisez pendant un temps limit les ennemis viss avec [$0016].
+Immobilisez les ennemis tout autour de vous pendant un temps limit,
+et infligez-leur des dgts en plus en tournant avec madame Patricia.
+Immobilisez les ennemis devant vous pendant un temps limit, et s'il y
+a des Korogus prsents, ils leur infligent des dgts supplmentaires.
+Immobilisez temporairement les ennemis en face de vous, chargez
+votre attaque avec [$0117], puis percutez les ennemis avec [$0002].
+Immobilisez les ennemis en face de vous pendant un temps limit. Des
+sous-fifres yigas les attaquent, mais vous tes immobilis vous aussi.
+Immobilisez les ennemis  proximit pendant un temps limit.
+Immobilisez les ennemis tout autour de vous et tirez automatiquement
+une salve de lasers que vous pouvez orienter avec [$0016].
+Immobilisez les ennemis tout autour de vous
+pendant un temps limit.
+Crez sous vos pieds une colonne de glace qui vous propulse en l'air.
+Visez avec [$0016] et faites tomber des projectiles de glace avec [$0003].
+Faites-les ensuite exploser en appuyant sur [$0011].
+Faites apparatre un mur de glace devant vous, puis dtruisez-le.
+Crez une colonne de glace devant vous, puis frappez-la pour
+projeter des clats de glace qui retomberont au sol en pluie acre.
+Faites apparatre une colonne de glace devant vous.
+Faites apparatre une colonne de glace sous vos pieds pour vous
+propulser en l'air. Vous pouvez ensuite briser cette glace avec [$0003].
+Faites apparatre des colonnes de glace devant vous.
+Crez devant vous une colonne de glace qui expdie vos ennemis
+dans les airs. Appuyez aussitt sur [$0003] pour les foudroyer en vol.
+Crez une colonne de glace devant vous. Appuyez aussitt sur [$0003]
+pour monter dessus, et dirigez-la avec [$0016].
+Faites apparatre une colonne de glace devant vous. Appuyez
+sur [$0003] au bon moment pour propulser la colonne avec de l'eau.
+Crez une plateforme de glace sous vos pieds pour vous propulser 
+en l'air. Faites-la ensuite clater avec [$0003] pour blesser les ennemis.
+Faites apparatre plusieurs projectiles de glace qui vous protgent
+en tournoyant autour de vous.
+Faites apparatre une colonne de glace devant vous, puis appuyez
+sur [$0003] et madame Patricia chargera l'ennemi en le poussant.
+Faites rebondir une colonne de glace devant vous.
+Une fois brise, des Korogus en sortiront pour vous aider.
+Faites apparatre une colonne de glace sous vos pieds.
+Crez une pile de blocs de glace sous vos pieds. Frappez dessus
+pour propulser les blocs vers l'avant en commenant par ceux du bas.
+Faites apparatre sous vos pieds une colonne de glace qui vous
+expdiera dans les airs avec vos ennemis.
+Faites apparatre une cage de glace. Les ennemis emprisonns
+ne pourront pas s'chapper tant qu'elle ne sera pas dtruite.
+Fait apparatre une cage de glace qui emprisonne l'ennemi.
+Faites apparatre une barrire de ronces de glace devant vous.
+Servez-vous du magntisme pour attraper des objets mtalliques
+et porter des attaques.
+Attirez des objets mtalliques par magntisme et faites-les flotter
+au-dessus de vous. Propulsez-les ensuite vers l'avant avec [$0011].
+Rassemblez des objets au loin par magntisme,
+puis provoquez une explosion lumineuse sur l'amas.
+Rassemblez des objets au loin par magntisme, attirez l'amas vers
+vous, puis propulsez-le vers l'avant d'un coup de votre pe.
+Servez-vous du magntisme pour attraper des objets mtalliques
+et porter des attaques.
+Attirez des objets mtalliques par magntisme et faites-les tournoyer.
+Crez devant vous un tourbillon magntique
+qui attaque en entranant les objets mtalliques.
+Rassemblez des objets au loin par magntisme,
+puis faites tomber la foudre sur l'amas.
+Crez une immense pe grce aux objets mtalliques alentour
+et utilisez-la pour attaquer.
+Attirez des objets mtalliques par magntisme
+et ramenez-les  vous.
+Appuyez sur [$0002] pour attraper par magntisme tous les objets
+mtalliques d'une zone et les attirer vers vous.
+Attirez des objets mtalliques par magntisme et faites-les tournoyer
+autour de vous.
+Crez un tourbillon magntique devant vous. Les ennemis
+qui entrent en contact avec celui-ci s'y retrouveront pigs.
+Crez devant vous un tourbillon magntique qui attire tous les objets
+mtalliques, et faites tomber la foudre grce au masque du tonnerre.
+Servez-vous du magntisme pour attirer des objets mtalliques et
+attaquer. Des Korogus sortiront d'un coffre pour vous aider.
+Utilisez le magntisme pour attirer des objets mtalliques,
+puis les recracher droit devant vous.
+Faites apparatre pendant un temps limit des boulets mtalliques.
+Contrlez les boulets et autres objets mtalliques par magntisme.
+Servez-vous du magntisme pour attraper des objets mtalliques
+et porter des attaques.
+Faites apparatre un tourbillon magntique qui attire les ennemis.
+Pendant ce temps, vous pouvez utiliser librement votre rayon laser.
+Attirez plusieurs paratonnerres vers vous et faites-les tomber au sol
+devant vous. La foudre les frappera, lectrocutant vos ennemis.
+Faites apparatre une range de bombes  distance devant vous.
+Dterminez leur trajectoire avec [$0016] avant de les faire exploser.
+Faites exploser les bombes  distance alignes devant vous
+en appuyant sur [$0004].
+Faites exploser les bombes  distance alignes devant vous.

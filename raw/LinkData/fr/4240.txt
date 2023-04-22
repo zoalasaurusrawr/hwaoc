@@ -1,0 +1,290 @@
+[eb][eg2][v]%s[s0][/] fuit.
+[eb][eg2][cp][v]%s[s0][/] fuient.
+[eb][eg2][cp][v]%s[s0][/] fuient.
+[eb][eg2][v]%s[s0][/] ou [eg2][v]%s[s1][/] fuit, ou vous perdez [eg2][t]%s[s2][/].
+[eb][eg2][cp][v]%s[s0][/] ou [eg2][cp][v]%s[s1][/] fuient, ou vous perdez [eg2][t]%s[s2][/].
+[eb][eg2][cp][v]%s[s0][/] ou [eg2][cp][v]%s[s1][/] fuient, ou vous perdez [eg2][t]%s[s2][/].
+[eb][eg2][v]%s[s0][/] fuit, ou vous ne sauvez pas [eg1][t]%s[s1][/].
+[eb][eg2][cp][v]%s[s0][/] fuient, ou vous ne sauvez pas la totalit [eg4][cp][t]%s[s1][/].
+[eb][eg2][cp][v]%s[s0][/] fuient, ou vous ne sauvez pas la totalit [eg4][cp][t]%s[s1][/].
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/] ou [eg2][v]%s[s3][/] fuit.
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/] ou [eg2][cp][v]%s[s3][/] fuient.
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/] ou [eg2][cp][v]%s[s3][/] fuient.
+[eb][eg2][v]%s[s0][/] atteint la ligne de dfense.
+[eb][eg2][v]%s[s0][/] et ses allis atteignent la ligne de dfense.
+[eb][eg2][cp][v]%s[s0][/] atteignent la ligne de dfense.
+[eb][eg1][t]%s[s0][/] fuit.
+[eb][eg1][cp][t]%s[s0][/] fuient.
+[eb][eg1][cp][t]%s[s0][/] fuient.
+[eb][eg2][v]%s[s0][/] ou [eg2][v]%s[s1][/] fuit.
+[eb][eg2][cp][v]%s[s0][/] ou [eg2][cp][v]%s[s1][/] fuient.
+[eb][eg2][cp][v]%s[s0][/] ou [eg2][cp][v]%s[s1][/] fuient.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/] ou [eg2][v]%s[s2][/] fuit.
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/] ou [eg2][cp][v]%s[s2][/] fuient.
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/] ou [eg2][cp][v]%s[s2][/] fuient.
+Vous perdez [eg2][t]%s[s0][/].
+Vous perdez [eg2][cp][t]%s[s0][/].
+Vous perdez [eg1][t]%s[s0][/].
+[eb][eg1][t]%s[s0][/] tombe.
+Le temps limite est coul.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/] ou [eg2][v]%s[s3][/] fuit, ou vous perdez [eg2][t]%s[s4][/].
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/] ou [eg2][cp][v]%s[s3][/] fuient, ou vous perdez [eg2][t]%s[s4][/].
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/] ou [eg2][cp][v]%s[s3][/] fuient, ou vous perdez [eg2][t]%s[s4][/].
+[eb][eg2][v]%s[s0][/] ou [eg2][v]%s[s1][/] fuit, ou vous perdez [eg2][t]%s[s2][/].
+[eb][eg1][t]%s[s0][/] fuit,
+ou vous perdez [eg2][t]%s[s1][/].
+[eb][eg1][t]%s[s0][/] et ses allis fuient, ou vous perdez [eg2][t]%s[s1][/].
+[eb][eg2][cp][t]%s[s0][/] fuient, ou vous perdez [eg2][t]%s[s1][/].
+[eb][eg1][t]%s[s0][/] ou [eg2][v]%s[s1][/] fuit, ou vous perdez la base allie.
+[eb][eg1][t]%s[s0][/] ou [eg2][v]%s[s1][/] et leurs allis fuient, ou vous perdez la base allie.
+[eb][eg1][cp][t]%s[s0][/] ou [eg2][cp][v]%s[s1][/] fuient, ou vous perdez la base allie.
+(rserv)
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/], [eg2][v]%s[s3][/] ou [eg2][v]%s[s4][/] fuit.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/], [eg2][v]%s[s3][/] ou [eg2][v]%s[s4][/] et leurs allis fuient.
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/], [eg2][cp][v]%s[s3][/] ou [eg2][cp][v]%s[s4][/] fuient.
+Pas de condition de dfaite.
+Vous perdez [eg2][t]%s[s0][/].
+[eb][eg1][t]%s[s0][/] dcouvre le trsor.
+[eb][eg1][cp][t]%s[s0][/] dcouvrent le trsor.
+[eb][eg1][cp][t]%s[s0][/] dcouvrent le trsor.
+La totalit [eg4][t]%s[s0][/] est en flammes.
+La totalit [eg4][cp][t]%s[s0][/] est en flammes.
+La totalit [eg4][cp][t]%s[s0][/] est en flammes.
+Les portes [eg4][t]%s[s0][/] sont dtruites.
+Les portes [eg4][cp][t]%s[s0][/] ont t dtruites.
+Les portes [eg4][cp][t]%s[s0][/] ont t dtruites.
+[eb][eg2][v]%s[s0][/] atteint son point d'vasion.
+[eb][eg2][v]%s[s0][/] et ses allis atteignent leur point d'vasion.
+[eb][eg2][cp][v]%s[s0][/] atteignent leur point d'vasion.
+[eb][eg2][b]%s[s0][/] est hors de combat.
+[eb][eg1][b]%s[s0][/] et ses allis sont hors de combat.
+[eb][eg1][cp][b]%s[s0][/] sont hors de combat.
+Le temps imparti est coul, ou [eg2][b]%s[s0][/] est hors de combat.
+(emplacement rserv)
+(emplacement rserv)
+Vous subissez des dgts.
+(emplacement rserv)
+(emplacement rserv)
+[eb][eg2][v]%s[s0][/] pntre dans [eg2][t]%s[s1][/], ou le temps imparti est coul.
+[eb][eg2][v]%s[s0][/] et ses allis pntrent dans [eg2][t]%s[s1][/], ou le temps imparti est coul.
+[eb][eg2][cp][v]%s[s0][/] pntrent dans [eg2][t]%s[s1][/], ou le temps imparti est coul.
+Vous subissez une attaque.
+(emplacement rserv)
+(emplacement rserv)
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/] ou [eg2][v]%s[s2][/] fuit,
+ou vous perdez [eg2][t]%s[s3][/].
+(emplacement rserv)
+(emplacement rserv)
+[eb][eg1][t]%s[s0][/] fuit, ou vous perdez [eg2][t]%s[s1][/].
+(emplacement rserv)
+(emplacement rserv)
+[eb][eg2][r]%s[s0][/] atteint [eg2][t]%s[s1][/].
+[eb][eg2][cp][r]%s[s0][/] atteignent [eg2][t]%s[s1][/].
+[eb][eg2][cp][r]%s[s0][/] atteignent [eg2][t]%s[s1][/].
+Vous perdez [eg2][t]%s[s0][/] ou le temps imparti est coul.
+(emplacement rserv)
+(emplacement rserv)
+[eb][eg2][v]%s[s0][/] atteint [eg2][t]%s[s1][/].
+[eb][eg1][v]%s[s0][/] et ses allis atteignent [eg2][t]%s[s1][/].
+[eb][eg1][cp][v]%s[s0][/] atteignent [eg2][t]%s[s1][/].
+[eb][eg1][v]%s[s0][/] pntre dans [eg2][t]%s[s1][/].
+[eb][eg2][v]%s[s0][/] et ses allis pntrent dans [eg2][t]%s[s1][/].
+[eb][eg2][cp][v]%s[s0][/] pntrent dans [eg2][t]%s[s1][/].
+[eb][eg2][v]%s[s0][/] fuit ou le temps est coul.
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)
+(rserv)
+(emplacement rserv)
+(emplacement rserv)

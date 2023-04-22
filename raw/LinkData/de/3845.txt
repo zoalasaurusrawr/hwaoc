@@ -1,0 +1,77 @@
+[es]2_25_4_14_5_2_8_19_Hylia-Gewand[ed]__s__
+Robustheit und hohe Beweglichkeit machen
+dieses Gewand bei Reisenden in Hyrule beliebt.
+[es]3_25_4_14_5_6_8_18_Ninja-Anzug[ed]__s__
+Dieser Anzug der Shiekah ist eine Spezialanfertigung
+fr geheime Auftrge. Verursacht auch bei schneller
+Bewegung nicht das geringste Gerusch.
+[es]7_33_6_15_6_7_9_17_Hylia-Rstung
+Diese Rstung wird von hylianischen Soldaten getragen.
+Ein wahres Meisterstck der Schmiedekunst, die ihrem
+Trger einigen Schutz bietet.
+[es]2_25_4_14_5_2_8_19_Orni-Gewand[ed]__s__
+Die Orni-Federn wirken wrmedmmend, was
+es zur ersten Wahl fr Besucher von Tabanta
+und Hebra macht.
+[es]2_25_4_14_5_2_8_19_Damengewand[ed]__s__
+Kleidung, wie sie die Gerudo gern tragen. Ihre Offenheit,
+die verhindert, dass sich Hitze sammelt, und das
+traditionelle Flair machen sie uerst beliebt.
+[es]3_25_4_14_5_6_8_18_Wsten-Schulterschutz[ed]__es__
+Ausrstung fr Mnner, die nur im Gerudo-Geheim-Club
+erhltlich ist. Ein Saphir reduziert dank der Kraft des
+Eises die Auswirkungen von Hitze auf den Trger.
+[es]3_25_4_14_5_6_8_18_Leuchtanzug[ed]__s__
+Exklusiver Anzug des Gerudo-Geheim-Clubs. Bei
+Dunkelheit werden mit Farbe aus Leuchtsteinen
+aufgemalte Symbole auf ihm sichtbar.
+[es]7_33_6_15_6_7_9_17_Anti-Feuer-Rstung
+Eine von Goronen fr Besucher hergestellte Rstung
+aus Stein, die vor glhender Lava schtzt.
+[es]7_33_6_15_6_7_9_17_Zora-Rstung
+Jede Zora-Prinzessin fertigt so eine Rstung fr ihren
+zuknftigen Gemahl nach Ma an. Ob es in Ordnung
+ist, sie einfach so zu tragen...?
+[es]7_33_6_15_6_7_9_17_antike[ed]__n_n_ Rstung
+Eine Spezialrstung, mit antiker Technologie der Shiekah
+aus Teilen von Wchtern hergestellt. Ein wahrhaft
+Ehrfurcht gebietendes Stck.
+[es]7_34_3_16_6_7_1_20_Kletterhandschuhe[ed]___n_
+Die speziell gearbeiteten Handschuhe erlauben
+kraftsparendes Klettern, ohne abzurutschen. Ihre
+spezielle Beschichtung ist antike Technologie.
+[es]7_33_6_15_6_7_9_17_Isolierrstung
+Wertvolle Rstung aus einem antiken Material namens
+Gummi, dessen Herstellungsprozess gegenwrtig
+nicht bekannt ist.
+[es]7_34_3_16_6_7_1_20_Barbarenkleider[ed]___n_
+Kleidung eines Kriegerstamms, der einmal in der
+Phirone-Region gelebt haben soll. Die Verzierungen
+sollen Mut und Kampfgeist des Trgers steigern.
+[es]2_25_4_14_5_2_8_19_Wildnisgewand[ed]__s__
+Dieses grne Gewand soll fr den Helden
+gemacht sein, der die Wildnis durchstreift.
+Es hat genau deine Gre!
+[es]2_25_4_14_5_2_8_19_Dunkelgewand[ed]__s__
+Im Zuge seiner Forschungen hat der Hndler vom
+Totenkopf-Teich dieses dstere Spiegelbild des grnen
+Gewandes entworfen, das einst ein gewisser Held trug.
+[es]2_25_4_14_5_2_8_19_Warriors-Gewand[ed]__s__
+Grnes Gewand, das einem Helden gehrt haben soll,
+der viele Welten bereist hat. Es sitzt wie angegossen.
+[es]2_25_4_14_5_2_8_19_Reckengewand[ed]__s__
+Nur die fnf vom Knigshaus Hyrule ausgewhlten
+Recken drfen diese Kleidung tragen. Sie ist mit den
+Gebeten von Prinzessin Zelda gesegnet.
+[es]2_25_4_14_5_2_8_19_Winterwams[ed]__es__
+Warme Kleidung der Bergbewohner. Dank
+des dicken Stoffes und der Handschuhe
+bleibt die Krperwrme erhalten.
+[es]2_25_4_14_5_2_8_19_[edc]alte[ed]s__n_n_ Hemd[ed]__s__
+Dnnes Hemd, das viele Jahre auf dem Buckel hat.
+Es ist zwar ausgefranst, aber erfllt noch seinen
+Zweck. Die rmel sind etwas zu kurz.
+[es]2_25_4_14_5_2_8_19_Leibwache-Gewand[ed]__s__
+Die Uniform der kniglichen Leibwache von Hyrule be-
+steht aus leichtem Material und ist kleidsam und prak-
+tisch zugleich. Ein Wappen verleiht zustzliche Wrde.

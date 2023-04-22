@@ -1,0 +1,373 @@
+Tree Branch
+Wooden branches such as this are pretty common,
+but it's surprisingly well-balanced. It doesn't do much
+damage but can serve as a weapon in a pinch.
+Soup Ladle
+A kitchen implement often used for serving delicious
+soups. It was carved from the wood of a sturdy tree,
+so it actually packs quite the wallop.
+Traveler's Sword
+A very common sword often kept by travelers to
+fend off small beasts. It's fairly durable but a bit
+unreliable against monsters.
+Soldier's Broadsword
+A sword brandished by the soldiers who protect
+Hyrule Castle. Its durable blade is well tuned for
+slaying monsters.
+Knight's Broadsword
+Knights of Hyrule carry this sword. This blade is
+highly valued thanks to its ease of use and high
+attack power.
+Royal Broadsword
+The Hyrulean royal family awards this sword to
+knights who achieved remarkable feats. A sword
+that balances strength and beauty as elegantly
+as this one is a rare find.
+Forest Dweller's Sword
+Koroks made this sword for Hylians. It's made
+of wood, so it isn't the best choice for head-on
+attacks. Its original intent was likely clearing vines
+to forge paths through forests.
+Zora Sword
+The ornamentation that adorns this blade is
+a traditional Zora design. It's forged from a
+rust-proof metal.
+Feathered Edge
+Rito craftsmen forged this lightweight, double-edged
+sword so Rito warriors could soar into battle
+unhindered by its weight.
+Ancient Short Sword
+The blade of this sword was made using an ancient
+power lost to this modern age. Its blade appears
+only when drawn, and its cutting power surpasses
+metal swords.
+Royal Guard's Sword
+A Sheikah-made replica of the sword that seals
+the darkness. It was made with ancient technology
+to oppose the Great Calamity.
+Boko Club
+A crude Bokoblin club made to clobber small prey.
+It's essentially a stick.
+Spiked Boko Club
+A reinforced Bokoblin club made to maximize
+damage. The sharpened bones jabbed into it
+make it a brutal weapon.
+Dragonbone Boko Club
+This Bokoblin club has been reinforced with
+fossilized bones to maximize clobbering potential.
+Only the brawniest of Bokoblins can manage its
+immense weight.
+Lizal Boomerang
+A curved sword favored by the Lizalfos. It can be
+used to attack directly or can reportedly be thrown
+like a boomerang.
+Lizal Forked Boomerang
+Blue Lizalfos in particular like this weapon. It has
+one more blade than the Lizal boomerang to give
+it additional cutting power.
+Lizal Tri-Boomerang
+More blades means more attack power! It can be
+used as a boomerang, but all those blades makes
+that a bit more dangerous. Carried by Black Lizalfos
+seasoned in battle.
+Guardian Sword
+A sword often wielded by Guardian Scouts. Its blue
+energy blade is a product of ancient technology.
+Guardian Sword+
+This Guardian sword has enhanced power over the
+standard model. Its cutting capabilities are improved.
+Guardian Sword++
+The abilities of this Guardian sword have been
+boosted to the maximum, as evidenced by its
+increase in size. It slices through armor like a
+hot knife through butter!
+Lynel Sword
+This Lynel-made sword was designed with smashing
+in mind rather than slicing. It's on the heavy side
+compared to what Hylians are used to, but it's
+very strong.
+Mighty Lynel Sword
+This Lynel-made sword boasts more blades and more
+attack power. A skilled Lynel can draw this sword
+simply in passing and still cut a foe in two.
+Savage Lynel Sword
+A brutal sword carried by white-haired Lynels.
+The savage blades are strong enough to cut
+down any foe, no matter how strong.
+Boomerang
+This throwing weapon was originally used by the
+forest-dwelling Koroks. Its unique shape allows it to
+return after being thrown, but it's perfectly functional
+in melee combat, as well.
+Spring-Loaded Hammer
+This strange hammer is one of the specialties of the
+merchant from Skull Lake. Being struck by it doesn't
+hurt much.
+Bokoblin Arm
+A skeletal arm that keeps moving even after it's
+severed from its body. It's kind of gross to strap
+it to your back, but it'll do in a pinch.
+Lizalfos Arm
+The arm of a Stalizalfos that continues to struggle
+even in death. It can be used as a weapon. You can
+feel it wiggling when you strap it to your back...
+Master Sword
+The legendary sword that seals the darkness.
+Its blade gleams with a sacred luster that can
+oppose the Calamity. Only a hero chosen by the
+sword itself may wield it.
+Training Sword
+A wooden practice sword used by soldiers of the
+Hyrulean army. It has a decent weight to it.
+Gripping it takes you back to your early days
+of training.
+Lucky Ladle
+A metal ladle that somehow always feels warm.
+You can almost smell the mouthwatering aroma
+of a hot meal on a cold day.
+Korok Leaf
+A single swing of this giant, sturdy leaf can create
+a gust of wind strong enough to blow away light
+objects. These will sometimes fall off trees as
+they're chopped down.
+Farming Hoe
+A farming tool primarily used for tilling fields.
+Its fine craftsmanship is sturdy enough to
+withstand backbreaking fieldwork, but its
+battle applications are untested.
+Boat Oar
+Made for paddling boats, but it was made sturdy
+enough to fight strong currents. Maybe it's useful
+for self-defense in a pinch.
+Iron Sledgehammer
+This large iron sledgehammer was originally
+used for mining, but it works reasonably well
+as a weapon too. 
+Woodcutter's Axe
+A woodcutter's tool of choice for felling trees.
+Its formidable weight and uneven balancing
+make it a slow, inefficient weapon.
+Double Axe
+This double-sided axe was designed with fighting in
+mind. It's a bit unwieldy, so it requires a well-practiced
+technique to use efficiently.
+Giant Boomerang
+This massive boomerang requires two hands.
+Originally used for hunting, it was modified for
+use as a weapon. The blades on the inner curves
+make it a bit tricky to wield.
+Traveler's Claymore
+A basic two-handed sword often wielded by
+aspiring adventurers. Its immense weight can
+send enemies flying.
+Zora Longsword
+Although the Zora prefer spears to swords, they
+made this two-handed weapon using a special metal.
+It found popularity among Hylians for its unique design.
+Gerudo Claymore
+Only the most talented Gerudo sword fighters carry
+this two-handed sword. It's actually much lighter than
+it appears and is surprisingly easy to wield.
+Eightfold Longblade
+A single-edged sword seldom seen in Hyrule.
+This weapon is passed down through the
+Sheikah tribe and has an astonishingly
+sharp edge ideal for slicing.
+Edge of Duality
+A curious double-edged sword crafted using Sheikah
+technology. It was originally made for Hyrulean
+knights unfamiliar with single-edged blades.
+Ancient Bladesaw
+This two-handed sword was forged using ancient
+Sheikah technology. Its unique rotating blades give
+it impressive cutting power that will slice enemies
+to shreds.
+Royal Guard's Claymore
+The Sheikah used the very essence of ancient
+technology to forge this greatsword. It was designed
+to oppose the Calamity.
+Boko Bat
+A clunky club made by a Bokoblin. Swing it with
+gusto to deal some serious damage.
+Spiked Boko Bat
+After much consideration by Bokoblins on how to
+improve the Boko bat, they simply attached sharp
+spikes to it. A skilled fighter can cause immense
+damage with this.
+Dragonbone Boko Bat
+Used by only the toughest Bokoblin warriors, this
+Boko bat has been fortified by fossilized bone.
+It boasts a high durability and is strong enough to
+beat down powerful foes.
+Moblin Club
+A crudely fashioned club favored by Moblins.
+It's carved from a sturdy tree but is sloppily made.
+Spiked Moblin Club
+Animal bone has been affixed to this Moblin club to
+greatly improve its damage.
+Dragonbone Moblin Club
+The bone of an ancient beast has been affixed to this
+Moblin club, further increasing its damage. Moblins
+carrying these in battle are particularly dangerous.
+Ancient Battle Axe
+A weapon used by Guardian Scouts. Its unique blade
+was forged using ancient technology. The wide and
+thin blade is what makes it so powerful.
+Ancient Battle Axe+
+This ancient battle axe's damage output has been
+increased to maximum. It's sharp enough to cut
+through almost anything, so it may have been used
+to forge new routes.
+Ancient Battle Axe++
+This ancient battle axe's damage output is scaled up
+to peak performance. Ancient technology makes it
+possible to enhance cutting power beyond metal
+weapons' limits.
+Lynel Crusher
+This two-handed weapon is favored by the Lynels.
+It may be more accurate to call it a lump of metal
+than a weapon, but if wielded by a Lynel, it can
+pound you into a fine dust.
+Mighty Lynel Crusher
+This Lynel-made two-handed weapon has been
+reinforced to increase its durability and striking
+power. Its overwhelming heft will crush your foes.
+Savage Lynel Crusher
+This Lynel-made two-handed weapon is immensely
+heavy thanks to a rare metal from Death Mountain's
+peak. The power of its downward swing is in a class
+all its own.
+Windcleaver
+This sword is favored by high-ranking members of the
+Yiga. When wielded by a proficient fighter, its unique
+shape cleaves the very wind and creates a vacuum.
+Moblin Arm
+A Moblin bone that continues to move even after
+being detached from its body. The bone is thick
+enough to be used as a weapon.
+Wooden Mop
+Just a mop to the untrained eye, it excels at tidying
+up the place. But it owes its sturdy construction to a
+true craftsman, so it actually has some combat merit.
+Farmer's Pitchfork
+A farming tool used to collect hay efficiently. It's light
+enough to be used by anyone. The four prongs are
+very sharp.
+Throwing Spear
+A specialized spear weighted to excel as a throwing
+weapon. It's perfectly balanced to be thrown farther
+than your average spear, able to pierce targets from
+a great distance.
+Soldier's Spear
+A long spear used by the guards of Hyrule Castle.
+Easy to use but difficult to master. The iron tip is
+very sturdy, and the shaft will not burn when exposed
+to flame.
+Knight's Halberd
+A spear used by knights adept in mounted combat.
+The spearhead is modeled after an axe.
+Royal Halberd
+This spear is issued to the knights who guard
+Hyrule Castle's throne room. Its ornate design
+was applied by a craftsman in service to the
+royal family.
+Forest Dweller's Spear
+The Koroks made this spear for Hylians. The shaft is
+made from a light, sturdy wood, offering ease of use.
+The spearhead is made from a much harder wood,
+offering strength.
+Drillshaft
+Goron artisans used recycled metal to forge this
+weapon. The tip is made from an old excavation bore,
+which affords it unmatched piercing capabilities.
+Feathered Spear
+Its lightweight design is a hallmark of Rito
+craftsmanship. It's made from light and sturdy
+materials, which afford Rito warriors ease of
+use during aerial combat.
+Gerudo Spear
+This spear's center of gravity is in its tip, making it a
+bit unwieldy for the average fighter. But in the hands
+of a skilled Gerudo warrior, it's a weapon of
+reliable strength.
+Serpentine Spear
+The spearhead of this weapon is uniquely Sheikah in
+design. Spear masters of the Sheikah tribe can use
+the crescent shape to snag their opponents and
+deliver brutal cuts.
+Ancient Spear
+This spear is the result of countless hours of research
+into the ancient technology used by Guardians.
+The glowing spearhead has high piercing potential.
+Royal Guard's Spear
+This Sheikah-made spear was created using ancient
+technology to combat the Calamity. Its attack power
+is very high.
+Boko Spear
+A spear haphazardly carved from a large tree branch.
+It looks like its original intent was for skewering meat
+and cooking it, but it does have some combat merit
+as well.
+Spiked Boko Spear
+A Boko spear enhanced with sharpened animal bones.
+It's light, easy to use, and deals a decent amount
+of damage.
+Dragonbone Boko Spear
+This Boko spear has been strengthened with
+fossilized bones. The bones are positioned outward
+so the fangs bite at the opponent. Beware Bokoblins
+carrying this weapon.
+Moblin Spear
+This wooden spear is most often used by Moblins.
+It's just a pointy stick made from a hastily whittled
+tree, so its stabbing power is pretty low.
+Spiked Moblin Spear
+This Moblin-made spear uses a horned animal bone
+as the spearhead. Like many Moblin weapons it's
+sloppily made, but this one packs some respectable
+piercing power.
+Dragonbone Moblin Spear
+This spear is a fan favorite among Moblins.
+The spearhead is made from fossilized bones
+adorned with spikes, which greatly increases
+its stabbing power.
+Lizal Spear
+The brutal, ripping edge of this weapon's spearhead is
+a distinctly Lizalfos design.
+Enhanced Lizal Spear
+Judging by the harpoon-like spearhead of this
+Lizalfos-made spear, the Lizalfos use it for fishing
+as well as combat. Try not to get caught on the
+wrong end of its barbs.
+Forked Lizal Spear
+Skilled Lizalfos warriors tend to favor this spear.
+What it lacks in piercing power, it makes up for
+with the brutal wounds its dual ripping blades
+will inflict.
+Guardian Spear
+Wielded by Guardian Scouts, this spear has a high
+piercing power and is a testament to the Sheikah's
+high level of technology. The spearhead appears only
+when brandished.
+Guardian Spear+
+The tip of this Guardian spear has been enlarged and
+strengthened. It's a bit shorter than your average
+spear, perhaps to facilitate use in tight spaces.
+Guardian Spear++
+This Guardian spear's output has been boosted to
+the maximum. The spearhead is designed for optimal
+stabbing, capable of easily piercing most armor.
+Lynel Spear
+The crescent-shaped spearhead of this Lynel-made
+weapon gives it poor balance, making it difficult to
+wield. Lynels, however, can swing it effectively with
+a single hand.
+Mighty Lynel Spear
+The weight and cutting edge of this Lynel-made
+spear have both been enhanced. It's immensely heavy
+for a Hylian, but a Lynel can cleave through rock with
+a single swing.
+Savage Lynel Spear
+White-haired Lynels favor this brutal spear.
+Its axe-like spearhead and exceptional weight
+give it a

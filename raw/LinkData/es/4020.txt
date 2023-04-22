@@ -1,0 +1,92 @@
+[es]1_1_10_15_____"Los siete colores"
+Encuentra qu color te favorece
+ms en "Los siete colores" y dale
+un poco de alegra a este mundo
+de aburrida blancura!
+Saeli
+[es]1_1_10_15_____"Almacenes Rocosos"
+"Almacenes Rocosos", siempre
+abierto para cubrir todas tus
+necesidades!
+Balgoro
+[es]1_1_10_15_____"Tesoros de Lanayru"
+Te doy la bienvenida a la aldea
+Goponga y a este comercio!
+Tenemos todo lo necesario
+para enriquecer tu da a da.
+Elin
+[es]1_1_10_15_____"La zanahoria rauda"
+Buscas un recuerdo de tu visita
+a Kakariko? Nada mejor que una de
+nuestras especialidades regionales.
+Solo en "La zanahoria rauda"!
+Benio
+[es]1_1_10_15_____"La gema resplandeciente"
+Es hora de brillar!
+Gracias a nuestros artculos,
+eclipsars a las estrellas!
+Selam
+[es]3_7_12_17_____cooperativa agrcola de Mabe
+Necesitas un tentempi tonificante?
+Prueba un vaso de leche fresca
+de nuestra granja.
+Makimi
+[es]2_6_11_16_____gremio de herreros de Hyrule
+Contamos con las tcnicas
+ms avanzadas para darles
+nueva vida a tus armas.
+Cedor
+[es]1_1_10_15_____"El soplo de color"
+Te cansa el color de tu ropa
+de siempre? Ests en el lugar
+adecuado! En "El soplo de color"
+sabemos ms de tintes que nadie.
+Agik
+[es]2_6_11_16_____campo de adiestramiento
+Guerreros de Hyrule!
+Mejoren aqu su tcnica!
+Rubel
+[es]3_7_12_17_____sala de meditacin
+Una serena calma te invade al entrar
+en esta singular sala del templo;
+es un lugar ideal para prepararte
+mentalmente para el combate.
+[es]1_1_10_15_____Mendro, el mercader
+Rico pescado fresco!
+Pescado con estas mismas manos!
+Mira qu preciosidades!
+Mendro
+[es]1_1_10_15_____Dayfa, la mercader
+He recorrido este ancho mundo
+en busca de valiosos minerales,
+pero lo ms preciado que encontr
+fue esta fruta. Compra y vers!
+Dayfa
+[es]1_1_10_15_____Bena, la mercader
+No sabes lo que son los hongos
+silvestres hasta que no hayas
+probado estos de aqu!
+Bena
+[es]1_1_10_15_____Segimo, el mercader
+Ncleos por aqu, ejes por all!
+Buscas partes para tu guardin?
+Habla con el rey de la mecnica
+ancestral!
+Segimo
+[es]1_1_10_15_____Chiry, la mercader
+Vamos a ganarnos el sueldo
+para pagarme los estudios
+de reliquias ancestrales!
+Chiry
+[es]1_1_10_15_____Tudi, el mercader
+Cada da que vendo vegetales,
+es un da en que he ganado dinero
+para comprar carne. Vivan los
+vegetales! Por la carne, claro.
+Tudi
+[es]1_1_10_15_____Rodo, el mercader
+Mi pasin es viajar.
+Y vender estas cosas que
+me voy encontrando por ah
+para seguir viajando an ms!
+Rodo

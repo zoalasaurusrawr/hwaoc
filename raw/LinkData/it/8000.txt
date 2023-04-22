@@ -1,0 +1,138 @@
+[$0004] Attacco normale
+[$0003] Attacco forte
+[$0001] Mossa speciale
+Tieni premuto [$0009] per parare
+Premi [$0009] vicino a un nemico potente per agganciarlo
+[$0002] Schivata
+Schiva all'ultimo momento e premi [$0004] per contrattaccare
+[$0010] + [$0004] Bomba radiocomandata
+[$0010] + [$0001] Glacyor
+[$0010] + [$0002] Kalamitron
+[$0010] + [$0003] Stasys
+[$0007] Cambia personaggio
+Elimina i nemici dentro un avamposto per ridurre la barra dell'avamposto.
+Sconfiggi il nemico potente per conquistare l'avamposto.
+Premi [$0010] + [$0001] contro nemici in acqua per usare il glacyor
+[$0004] Attacco ravvicinato
+[$0010] Attacco a distanza
+Tieni premuto [$0011] per agganciare un bersaglio
+e rilascialo per attaccare
+[$0001] Mossa speciale
+Distruggi ostacoli da vicino con [$0004] o con la mossa speciale [$0001]
+Usa la bacchetta del fuoco sul terreno erboso.
+[$0008] Intercettazione
+Il ghiaccio  efficace contro i nemici dell'elemento fuoco.
+[$0014] Ingrandisci la minimappa
+[$0010] Proiettile glaciale
+[$0004] Sollevamento
+Tieni premuto [$0103] per agganciare
+Rilascia [$0103] Punte glaciali
+[$0010] + [$0002] (su oggetti di metallo) Kalamitron
+Dopo l'ultimo attacco forte di una combo, tieni premuto [$0003]
+e rilascialo per eseguire un attacco extra
+[$0011] Attacco risalita della cascata
+[$0011] Risveglia la forza del magma che hai creato con gli attacchi forti
+[$0011] Librati in aria e vola nel cielo
+Tieni premuto [$0011] per caricare la barra dei fulmini
+[$0009] Egida di Daruk
+[$0011] Fai apparire simboli di ostilit
+[$0003] Assorbili con l'attacco forte
+Raccogli 3 simboli di ostilit per potenziare la mossa speciale con [$0001]
+[$0012] Dai ordini ai compagni
+[$0011] Fai reagire gli oggetti creati dagli attacchi
+con gli strumenti Sheikah
+[$0010] Bomba magma
+[$0004] Pestone
+Tieni premuto [$0103] per mirare
+Rilascia [$0103] Pioggia di magma
+[$0010] Mitraglia
+[$0103] (su nemici a mezz'aria) Lame di luce
+Tieni premuto [$0103] Mira su nemici a terra
+Rilascia [$0103] Bombardamento
+[$0010] Attacco di fulmini
+[$0004] Carica
+[$0103] Tempesta di lampi
+Usa la bacchetta del ghiaccio sull'acqua.
+Usa la bacchetta elettrica su casse di metallo.
+[$0004] Cambia punto di vista
+[$0012] Cambia arma o personaggio
+[$0013] Abbandona la battaglia
+Non puoi procedere oltre.
+[$0002] (tenuto premuto) + [$0016] Scatta
+[$0008] Barriera
+[$0008] Controffensiva
+Premi [$0011] al momento giusto durante l'attacco forte per potenziarlo
+[$0011] Mangia dell'arrocciosto e attiva il potere dell'egida
+[$0011] Permette di creare combo di attacchi forti per un tempo limitato
+[$0011] (tenuto premuto) Fai scatenare Papizia
+Dopo gli attacchi forti, puoi cadere in confusione per lo stress.
+Riprenditi con [$0003].
+[$0011] Trasformati
+[$0011] Rilascia energia e ottieni l'abilit di sferrare subito attacchi forti
+Raduna Korogu per un attacco congiunto.
+Puoi farli apparire premendo [$0011].
+Attacca passando da una fata all'altra.
+Assorbi il potere ancestrale dalle reliquie che hai fatto apparire
+con gli attacchi.
+Tieni premuto [$0011] Carica laser
+Rilascia [$0011] Attacco laser
+Dopo la violenta diffusione del rancore, premi [$0011] per assorbirlo
+[$0010] + [$0004] (su nemici in parata) Bombe radiocomandate
+[$0010] + [$0001] (su nemici alla carica) Glacyor
+[$0010] + [$0002] (su nemici con armi metalliche) Kalamitron
+[$0010] + [$0003] (su nemici che eseguono attacchi rotanti) Stasys
+In seguito a una combo di attacchi normali con [$0004],
+premi [$0003] per effettuare vari tipi di attacchi forti.
+Se appare l'indicatore del punto debole,  la tua chance per attaccare.
+Mostri con poteri elementali
+[$0011] Azione personaggio
+[$0008] Usa oggetto portatile
+[$0006] Cambia oggetto portatile
+[$0002][$0002] (di fronte a una superficie verticale) Salto a parete
+[$0002] (a mezz'aria) Cavalca il vento
+[$0015] Aggancia
+Tieni premuto [$0003] per caricare l'attacco forte
+Tieni premuto [$0003] per caricare e potenziare l'attacco forte successivo
+Premi ripetutamente [$0003] dopo l'attacco forte per consumare
+la barra dei fulmini e lanciare un attacco potente
+[$0011] Fai apparire simboli di ostilit
+[$0003] Assorbili con l'attacco forte dello spadino
+In posa con [$0011], premi [$0003] al momento giusto per potenziare l'attacco
+Con barra del rancore piena, premi [$0011] per passare
+alla modalit calamit
+Recupera mangiando con [$0011] e riduci il tempo di carica
+dell'attacco forte
+Premi [$0011] per liberarti dello stress e scagliare il raggio mistico
+[$0008] + [$0002] Usa oggetti di ripristino
+Tieni premuto [$0008] Seleziona oggetto portatile
+[$0017] Cambia bersaglio agganciato
+[$0002] Schiva / [$0009] Para
+[$0015] Aggancia un nemico potente
+[$0008] + [$0004] Bacchetta del fuoco
+[$0008] + [$0003] Bacchetta del ghiaccio
+[$0008] + [$0001] Bacchetta elettrica
+Premi [$0011] al posto dell'attacco forte per un attacco forte disperato
+[$0003] Recupera con del cibo il danno temporaneo subito
+[$0011] Affondo caricato
+Tieni premuto [$0011] per scoccare una potente freccia
+Premi ripetutamente [$0003] durante un attacco forte
+per scagliare una raffica di frecce
+[$0011] Libera il potere ancestrale per trasformarti in gigante
+[$0016] Spostati
+[$0104] Resetta la mira
+[$0017] Mira
+[$0022] + [$0023] + [$0016] Bomba radiocomandata
+[$0022] + [$0023] + [$0016] Glacyor
+[$0022] + [$0023] + [$0016] Kalamitron
+[$0022] + [$0023] + [$0016] Stasys
+[$0022] + [$0023] + [$0016] (su cassa di metallo) Kalamitron
+[$0022] + [$0023] + [$0016] (su nemici in parata) Bombe radiocomandate
+[$0022] + [$0023] + [$0016] (su nemici alla carica) Glacyor
+[$0022] + [$0023] + [$0016] (su nemici con armi metalliche) Kalamitron
+[$0022] + [$0023] + [$0016] (su nemici che eseguono attacchi rotanti) Stasys
+[$0022] + [$0023] + [$0016] Usa oggetti di ripristino
+Tieni premuto [$0009] + [$0011] Seleziona oggetto portatile
+[$0022] + [$0023] + [$0016] Bacchetta del fuoco
+[$0022] + [$0023] + [$0016] Bacchetta del ghiaccio
+[$0022] + [$0023] + [$0016] Bacchetta elettrica
+[$0012] Cambia personaggio

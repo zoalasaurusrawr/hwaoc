@@ -1,0 +1,117 @@
+Attaque normale : [$0004]
+Attaque puissante : [$0003]
+Coup spcial : [$0001] (une fois la jauge de coup spcial pleine)
+Repositionner la camra : [$0009] / Se protger : [$0009] (maintenu)
+Cibler l'adversaire : [$0009] (prs d'un ennemi puissant)
+Annuler : [$0009] (en ciblant un adversaire)
+Esquiver : [$0002]
+Saut mural : [$0002][$0002] (face  une paroi) 
+* Avec certains personnages seulement
+Cibler : [$0015]
+Les ennemis puissants baisseront parfois leur garde (aprs une
+attaque, par exemple), leur jauge de point faible s'affichera alors.
+Attaquez-les sans relche pour vider cette jauge.
+Si vous parvenez  vider la jauge de point faible, appuyez
+sur [$0003] pour excuter un puissant coup point faible.
+Esquivez une attaque ennemie de justesse, puis
+appuyez sur [$0004] pour contre-attaquer en fonant.
+Bombes  distance : [$0010] + [$0004]
+Ce module dclenche une explosion destructrice.
+Cryonis : [$0010] + [$0001]
+Cre un bloc de glace.
+Crez de la glace dans un plan d'eau pour geler vos ennemis.
+Polaris : [$0010] + [$0002]
+Permet de manipuler les objets mtalliques  distance.
+Polaris permet de manipuler les objets mtalliques  distance.
+Particulirement efficace contre les ennemis munis d'quipement en mtal.
+Cinetis : [$0010] + [$0003]
+Ce module fige objets et ennemis pendant un temps limit.
+Changer le personnage contrl : [$0007]
+L'onglet Allis de l'cran du menu ([$0012]) vous permet de donner
+des instructions  un personnage que vous ne contrlez pas directement,
+afin qu'il se dirige vers la destination choisie en appuyant sur [$0001].
+Videz la jauge d'avant-poste et un ennemi puissant apparatra.
+liminez ensuite cet ennemi pour prendre le contrle de l'avant-poste.
+Vous pouvez rcuprer des baguettes sur
+certains monstres, dans des caisses, etc.
+Brandir la baguette de feu : [$0011] + [$0004]
+Brandir la baguette de glace : [$0011] + [$0003]
+Brandir la baguette lectrique : [$0011] + [$0001]
+Actionner : [$0004] (avec une baguette brandie) 
+Zoomer sur la mini-carte : [$0015]
+Appuyez sur [$0015]  nouveau pour revenir  la taille standard.
+Action spcifique du personnage : [$0011]
+Consultez l'explication de ses actions pour plus de dtails.
+Sprinter : [$0016] (en maintenant [$0002] enfonc)
+Planer : [$0002] (en tant en l'air) 
+Face  une paroi ou d'autres obstacles, certains personnages peuvent faire un
+saut mural en appuyant deux fois de suite sur [$0002] pour s'lancer dans les airs.
+Les bombes  distance sont efficaces contre des ennemis
+ la garde solide. L'impact de l'explosion brisera leur garde.
+Cryonis est efficace contre des ennemis en pleine charge.
+Dresser des obstacles de glace sur leur route stoppera leur lan.
+Polaris est efficace contre les ennemis munis d'quipement en mtal.
+Cherchez les opportunits et exploitez-les.
+Cinetis est efficace contre des ennemis en pleine attaque circulaire.
+Si vous les figez dans leur mouvement, ils se retrouveront dsquilibrs.
+Utiliser un objet : [$0008]
+Changer d'objet slectionn : [$0006]
+Utilisez la baguette de feu sur un terrain recouvert d'herbe pour
+l'enflammer. Rassemblez les ennemis d'une zone, puis mettez-y le feu.
+Leurs armes en bois brleront aussi.
+Utilisez la baguette de glace sur un plan d'eau pour le faire geler.
+Rassemblez les ennemis d'une zone et gelez-les tous d'un seul coup
+pour les immobiliser.
+Actionnez la baguette lectrique sur une caisse en mtal pour l'lectriser
+d'un coup de foudre. Tous les ennemis  proximit recevront une dcharge
+et seront incapables de bouger.
+ travers tout le royaume d'Hyrule, la puissance des monstres s'est renforce et
+des monstres dots de diffrentes particularits lmentaires sont mme apparus.
+Prenez garde  leurs attaques lmentaires, mais tirez parti
+de leurs faiblesses pour prendre l'avantage.
+Passez d'un onglet  l'autre avec [$0008]/[$0010] pour consulter
+l'historique de la bataille jusqu' prsent et voir les diffrents
+objets que vous avez obtenus dans le butin de la bataille.
+Utiliser un objet : [$0008] 
+Slectionner un objet : Maintenir [$0008] enfonc
+Attaque normale : [$0004]
+Appuyez sur [$0003] aprs une ou plusieurs attaques normales
+pour enchaner sur diverses attaques puissantes.
+Action spcifique du personnage : [$0011]
+Pour plus de dtails, slectionnez Statut dans le menu [$0012].
+Cibler/Dsactiver le ciblage : [$0015]
+Changer de cible : [$0017] (avec un ennemi cibl)
+Utiliser un objet de rgnration : [$0008] + [$0002]
+Cela vous fait rcuprer des curs.
+Baguette de feu : [$0008] + [$0004]
+Lance une boule de feu sur vos ennemis. Mettez le feu aux herbes hautes
+pour propager un incendie qui infligera beaucoup de dgts aux ennemis.
+Baguette de glace : [$0008] + [$0003]
+Envoie une bourrasque d'air glacial qui peut faire geler un plan d'eau
+et fige sur place tous les ennemis alentour.
+Baguette lectrique : [$0008] + [$0001]
+Lance une attaque lectrique qui peut lectriser les caisses en mtal.
+Tout ennemi touch par une dcharge lectrique se retrouve tourdi.
+Esquiver : [$0002]
+Parer : [$0009]
+Bombes  distance : [$0022] + [$0023] + [$0016]
+Ce module dclenche une explosion destructrice.
+Cryonis : [$0022] + [$0023] + [$0016]
+Ce module cre de la glace.
+Polaris : [$0022] + [$0023] + [$0016]
+Ce module manipule  distance les objets mtalliques.
+Cinetis : [$0022] + [$0023] + [$0016]
+Ce module fige objets et ennemis pendant un temps limit.
+Utiliser un objet de rgnration : [$0022] + [$0023] + [$0016]
+Cela vous fait regagner des curs.
+Baguette de feu : [$0022] + [$0023] + [$0016]
+Cette baguette fait tomber une boule de feu sur vos adversaires. Mettez le feu  l'herbe
+du terrain pour propager un incendie qui infligera beaucoup de dgts aux ennemis.
+Baguette de glace : [$0022] + [$0023] + [$0016]
+Cette baguette envoie une bourrasque d'air glacial qui peut faire geler un plan
+d'eau et fige sur place d'un seul coup tous les ennemis aux alentours.
+Baguette lectrique : [$0022] + [$0023] + [$0016]
+Cette baguette lance une attaque lectrique qui peut lectriser les caisses
+en mtal. Tout ennemi touch par une dcharge lectrique se retrouve tourdi.
+Activer/dsactiver le ciblage d'un ennemi : [$0014]
+En ouvrant le menu ([$0012]), vous pouvez changer le personnage contrl.

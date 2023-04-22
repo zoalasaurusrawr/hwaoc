@@ -1,0 +1,95 @@
+[es]2_5_9_14_1_31_18_34_pantalon Hylien
+Ce pantalon trs rpandu est confectionn
+ partir d'un tissu lger et robuste qui le rend
+trs confortable. Il est particulirement
+apprci des voyageurs.
+[es]4_8_12_17_1_33_18_37_chausses furtives
+Ces chausses touffant tout bruit de tissu
+froiss et dont les Sheikahs se servent
+couramment dans leurs missions d'infiltration
+sont le fruit de technologies antiques.
+[es]4_8_12_17_1_33_18_37_jambires de soldat
+Forges dans un mtal solide, ces jambires
+de soldat Hylien sont si lourdes qu'il n'est
+pas facile de les enfiler.
+[es]2_5_9_14_1_31_18_34_pantalon duveteux Piaf
+Ce pantalon fourr de premires plumes Piafs
+constitue une excellente protection contre le
+froid. Les Piafs en vendent dans leur village
+pour les Hyliens.
+[es]2_5_9_14_1_31_18_34_sarouel de damoiselle
+Ce pantalon court et confortable est typique
+du style traditionnel simple et naturel des
+Gerudos, mais n'en reste pas moins lgant.
+[es]2_5_9_14_1_31_18_34_pantalon des sablons
+Les saphirs qui garnissent ce pantalon
+pour homme vendu au Club Secret
+Gerudo abritent un pouvoir de glace
+qui aide  supporter la chaleur.
+[es]4_8_12_17_1_33_18_37_chausses nox
+Colores  la poudre de gemme nox, ces
+chausses vendues au Club Secret Gerudo
+mettent une trange lueur dans l'obscurit.
+[es]4_8_12_17_1_33_18_37_bottes de pierre
+Fabriques par les artisans Gorons pour les
+Hyliens qui visitent leur village, ces bottes
+composes de pierre et autres matriaux
+ininflammables rsistent bien  la chaleur.
+[es]4_8_12_17_1_33_18_37_jambires Zoras
+On dit que ces jambires transmises chez
+les Zoras de gnration en gnration
+seraient faites en cailles de dragon et
+permettraient de nager plus vite.
+[es]4_8_12_17_1_33_18_37_jambires archoniques
+Cette protection a t conue par Faras
+d'aprs les technologies utilises pour crer
+les Gardiens. Elle tmoigne de la sagesse
+des temps anciens.
+[es]4_8_12_17_1_33_18_37_souliers d'escalade
+Conus d'aprs des technologies antiques
+dans un matriau antidrapant, ces souliers
+offrent une bonne stabilit d'appui mme sur
+les terrains accidents.
+[es]2_5_9_14_1_31_18_34_pantalon isolant
+D'antiques technologies ont permis de crer
+ce pantalon  partir de caoutchouc. Malgr
+de nombreuses recherches, on ignore encore
+comment ce matriau antique tait produit.
+[es]3_6_10_15_1_32_18_35_culotte barbare
+Les tatouages qui accompagnent cet habit
+d'un peuple guerrier qui aurait autrefois vcu
+en Firone augmentent la combativit de
+leur porteur.
+[es]3_6_10_15_1_32_18_35_culotte des landes
+On dit que cet habit aurait t confectionn
+spcialement pour le Hros qui voyage 
+travers les landes sauvages. Vous vous
+y sentez incroyablement  l'aise.
+[es]2_5_9_14_1_31_18_34_pantalon noir
+Au cours de ses recherches sur les monstres,
+le marchand de l'tang du Crne a imagin un
+monstre enfant par les tnbres pour crer
+ce pantalon qui semble pourtant normal.
+[es]2_5_9_14_1_31_18_34_pantalon de guerrier d'Hyrule
+Ce pantalon aurait appartenu au Hros qui a
+voyag  travers les mondes, et il l'apprciait
+beaucoup. Il est  votre taille et vous vous
+y sentez parfaitement  l'aise.
+[es]4_8_12_17_1_33_18_37_bottes de neige
+En rpartissant le poids de leur porteur, ces
+bottes autrefois utilises dans l'ascension
+de monts enneigs permettent de marcher
+sans souci mme dans la neige profonde.
+[es]4_8_12_17_1_33_18_37_bottes des sables
+Ces bottes de grande valeur autrefois
+portes par les Gerudos permettent de
+ne pas s'enfoncer dans le sable et ainsi
+de ne pas tre ralenti dans le dsert.
+[es]2_5_9_14_1_31_18_34_vieux pantalon
+Ce pantalon cribl de trous et un peu court
+est trs us, mais plutt confortable.
+[es]4_8_12_17_1_33_18_37_bottes de garde royal
+La couleur blanche de ces bottes de crmonie
+de la garde royale leur donne une noblesse
+incomparable. Elles allient lgance et aisance
+de mouvement.

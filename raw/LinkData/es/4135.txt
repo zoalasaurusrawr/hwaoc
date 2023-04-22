@@ -1,0 +1,82 @@
+Mapa de Hyrule
+Elige tu destino con la piedra sheikah. Recorre todo Hyrule y resuelve cualquier problema
+que se te presente mientras desarrollas las habilidades de los miembros de tu grupo.
+Equipar armas
+Puedes cambiar el equipo de los miembros de tu grupo en la opcin Grupo.
+Para cambiar los integrantes del grupo, pulsa [$0012] desde el mapa de Hyrule.
+Peticiones
+Ayuda al pueblo de Hyrule a prepararse para enfrentarse a Ganon. Resolver los problemas
+de cada zona tambin ayudar a que tus compaeros adquieran experiencia.
+Retos
+La disrupcin creada por el guardin procedente del futuro ha abierto un portal a un campo
+de batalla en otro mundo. Aprovecha para tomar parte en diferentes combates.
+Cambiar de personaje
+Puedes elegir qu miembros de tu grupo te acompaarn en la batalla en la opcin Grupo.
+Para cambiar los integrantes del grupo, pulsa [$0012] desde el mapa de Hyrule.
+Listas
+Pulsa [$0008]/[$0010] en el mapa de Hyrule para acceder a la lista de retos o de peticiones,
+entre otras posibilidades.
+Tiendas
+A medida que completes peticiones irs desbloqueando tiendas y otros establecimientos.
+Recetas
+Ahora puedes cocinar antes de partir hacia el combate.
+Todos los aliados podrn disfrutar de tus platos y sus beneficios.
+Postas y mercaderes ambulantes
+La mejora de las comunicaciones ha permitido la creacin de un gremio de mercaderes.
+Ahora puedes comprar objetos raros en las postas frecuentadas por mercaderes ambulantes.
+Sensor sheikah
+Si necesitas materiales especficos para una peticin o para cocinar, puedes buscarlos gracias
+al sensor de la piedra sheikah. Pulsa [$0003] en las pantallas de peticiones o de cocinar.
+Reparaciones de Terrak
+Recorre Hyrule y gnate la ayuda de sus habitantes para buscar materiales ancestrales.
+Seguro que as puedes reparar a Terrak.
+Campo de batalla de la luna carmes
+Cuando sale la luna carmes, el malvolo poder de Ganon alcanza su clmax. Te atreves
+a librar batallas ms encarnizadas que nunca contra enemigos an ms poderosos?
+Potenciar las armas al mximo
+Los mejores herreros a lo largo y ancho de Hyrule han unido fuerzas.
+Ahora puedes aumentar el nivel mximo de tus armas en el gremio de herreros de Hyrule.
+Eliminar el xido de las armas
+En el gremio de herreros pueden limpiar y pulir tu armamento oxidado
+hasta convertirlo en equipo de primera calidad.
+Torre de la llanura
+Una misteriosa torre que surgi de repente en la llanura de Hyrule. Desde su cima se divisa
+todo Hyrule, lo que le concede un gran valor estratgico en la guerra contra Ganon.
+Eliminar sellos de las armas
+El gremio de herreros ha encontrado la manera de eliminar los sellos grabados en las armas.
+Ahora puedes personalizar tu armamento como ms te guste.
+Combinar sellos
+Puedes mejorar las caractersticas de un arma, como el dao que inflige o su potencia
+de ataque, grabando en ella varios sellos con la misma forma.
+Gremio de herreros de Hyrule
+El gremio de herreros te ayudar a fusionar armas para crear una an ms poderosa,
+y tambin te puede comprar las armas que no necesites.
+Campo de adiestramiento
+Haz que tus aliados entrenen para que desarrollen sus habilidades.
+Necesitars rupias para entrenar.
+Comercios
+Visita las tiendas para comprar y vender todo tipo de materiales. Cada una se especializa
+en diferentes productos.
+Tintorera
+Puedes teirte el atuendo del color que quieras.
+Necesitars rupias para pagar el servicio de teido.
+Sala de meditacin
+Medita en silencio en el templo y visualiza un combate
+en un mundo imaginario para mejorar tu tcnica.
+Por el bien de Hyrule
+Si completas peticiones en una regin y ayudas a sus gentes, contribuirs a su bienestar
+y desarrollo, y podrs obtener fuerzas adicionales que te ayudarn a ganar la guerra.
+Fusionar armas
+Cuando fusionas armas para aumentar su nivel y potencia de ataque,
+tambin puedes transferir sus sellos, segn el nivel del arma.
+Torre de la llanura
+Link, caballero de Hyrule, te encomiendo la misin
+de proteger la torre que ha aparecido, ya que
+es un importante punto de la batalla. Adems...
+Torre de la llanura
+Merece el poder de este guardin
+capaz de viajar en el tiempo nuestra confianza?
+Avergualo junto a los investigadores.
+Torre de la llanura
+Que la Diosa Hylia te proteja.
+Rhoam Bosphoramus Hyrule

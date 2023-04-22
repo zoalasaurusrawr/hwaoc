@@ -1,0 +1,153 @@
+Vous ne pouvez changer [eg2][v]%s[s0][/] qu' l'cran titre.
+Voulez-vous vraiment retourner  l'cran titre ?
+Toute progression non sauvegarde sera perdue.
+Voulez-vous livrer les matriaux requis ?
+Mipha, Daruk, Urbosa et Revali semblent
+enferms dans leur crature divine...
+[v]%s[s0][/] et [v]%s[s1][/] sont de retour !
+Aucun marchand n'est prsent actuellement...
+Appliquer les paramtres slectionns ?
+Voulez-vous vraiment quitter la bataille ?
+Tout ce qui a t acquis durant cette bataille sera perdu.
+Voulez-vous vraiment retourner  l'cran titre ?
+Toute progression non sauvegarde sera perdue.
+Nouvel objectif dfini.
+Modifie le niveau de difficult.
+Active ou dsactive les fonctionnalits amiibo.
+Ce jeu est compatible avec les amiibo.
+Activer les fonctionnalits amiibo ?
+Les fonctionnalits amiibo sont actuellement
+actives. Dsactiver les fonctionnalits amiibo ?
+Le module amiibo est dsormais disponible sur
+la tablette sheikah. Vous pouvez modifier ce
+paramtre  tout moment dans les options.
+Le module amiibo n'est plus disponible sur
+la tablette sheikah. Vous pouvez modifier ce
+paramtre  tout moment dans les options.
+Inverse les commandes verticales de la camra.
+Inverse les commandes horizontales de la camra.
+Modifie la vitesse de dplacement de la camra.
+Active ou dsactive la vise gyroscopique.
+Active ou dsactive la fonction de vibrations.
+Change la configuration des boutons.
+Modifie la langue de doublage.
+Modifie la langue d'affichage des textes.
+Modifie l'affichage sur l'cran de jeu.
+Affiche ou masque la lecture des kanjis.
+Affiche ou masque les sous-titres.
+Ajuste le volume des musiques.
+Ajuste le volume des bruitages.
+Ajuste le volume des voix.
+Voulez-vous vraiment rinitialiser les paramtres ?
+Appliquer les changements effectus dans
+la composition et/ou l'quipement de l'quipe ?
+La position par dfaut des gyroscopes va tre rinitialise.
+Placez la console ou la manette dans la position voulue, puis appuyez sur [$0001].
+(Vous pouvez rinitialiser cette position en combat en appuyant sur [$0104].)
+Vous avez dsormais accs
+[eg3][t]%s[s0][/].
+Voulez-vous vraiment quitter
+[eg2][t]%s[s0][/] ?
+Utiliser
+Tenez l'amiibo sur le point de contact NFC.
+Voulez-vous sauvegarder ?
+Sauvegarde...
+Donnes sauvegardes.
+Voulez-vous charger ces donnes de sauvegarde ?
+Voulez-vous charger ces donnes de sauvegarde ?
+Votre progression actuelle sera perdue.
+Vous n'avez pas les ressources ncessaires.
+[eb][eg2][v]%s[s0][/] a gagn en puissance.
+Chargement...
+Chargement termin.
+Vous ne pouvez pas transporter davantage
+[eg7][cp][t]%s[s0][/].
+[eb][eg2][v]%s[s0][/] ne peut pas transporter davantage
+[eg7][cp][t]%s[s1][/].
+Choisissez ce que vous voulez vendre.
+Vous avez vendu [eg2][cp][t]%s[s0][/]
+que vous ne pouviez pas transporter.
+Vous pouvez  tout moment modifier vos paramtres de jeu
+via le menu des paramtres.
+Vous devez changer [eg7][t]%s[s0][/]
+pour pouvoir partir au combat.
+Placez un amiibo sur le point de contact NFC.
+La lecture des donnes a chou.
+La lecture des donnes a chou. L'objet
+scann ne semble pas tre un amiibo.
+Vous ne pouvez plus recevoir de rcompense
+de cet amiibo aujourd'hui.
+Vous ne pouvez plus recevoir d'autres
+rcompenses amiibo aujourd'hui.
+Vous avez reu une rcompense amiibo !
+Vous avez obtenu [eg1][t]%s[s0][/].
+[eb][eg2][v]%s[s0][/] ne peut pas sortir de sa crature divine...
+Les habitants [eg4][t]%s[s0][/] vous
+ont fait un cadeau en signe de gratitude !
+Les donnes de l'amiibo sont corrompues.
+Les donnes de l'amiibo sont corrompues.
+Accdez aux paramtres amiibo de la console
+pour restaurer les donnes.
+Les donnes de l'amiibo sont corrompues.
+Aucune copie des donnes n'existe.
+Vous pouvez peut-tre restaurer les donnes  l'aide
+d'une console sur laquelle vous avez utilis l'amiibo.
+Si vous voulez l'utiliser sans restaurer les donnes,
+vous pouvez le rinitialiser dans les paramtres
+amiibo de la console.
+Votre inventaire est plein, vous ne pouvez pas
+recevoir la rcompense.
+Vendre [eg2][cp][t]%s[s0][/] que vous ne pouvez pas transporter ?
+Le nombre de recherches que vous pouvez effectuer
+simultanment avec le dtecteur sheikah a augment.
+Le temps de recharge [eg4][t]%s[s0][/] a diminu.
+Le nombre de pommes que vous pouvez transporter a augment.
+Le nombre d'utilisation des baguettes a augment.
+Voulez-vous vraiment commencer une nouvelle partie ? Attention, vos donnes de
+sauvegarde actuelles seront effaces et vos rcompenses amiibo ne seront pas
+conserves. Le nombre de fois que vous avez scann un amiibo sera rinitialis.
+La date a chang. Les rcompenses amiibo que vous n'aviez pas encore
+rcupres en jeu vont tre effaces. Voulez-vous continuer  jouer et
+recevoir vos rcompenses ?
+Vous avez obtenu [eg2][cp][t]%s[s0][/] de Zelda,
+Mipha, Daruk, Revali et Urbosa.
+Voulez-vous supprimer une recherche en cours pour en ajouter une nouvelle ?
+Vous avez enregistr une mission en Hyrule.
+Vous avez reu une rcompense.
+Voulez-vous vraiment commencer une nouvelle partie ?
+Attention, vos donnes de sauvegarde actuelles seront effaces.
+Une fois effaces, vos donnes de sauvegardes ne pourront
+plus tre rcupres. Voulez-vous vraiment les effacer ?
+Voulez-vous commencer avec ces paramtres ?
+(Vous pourrez les modifier par la suite.)
+Ce logiciel effectue des sauvegardes automatiques.
+N'teignez pas la console tant que la mention  Sauvegarde... est affiche.
+Vous jouez en mode deux joueurs.
+Vous jouez en solo.
+Afficher les commandes
+Voulez-vous arrter de jouer  deux et quitter la bataille ?
+Vous pourrez reprendre la bataille en cours.
+Si vous choisissez de reprendre depuis le dbut,
+la progression de la bataille sera perdue.
+Les effets des plats ne s'appliquent pas aux batailles en crature divine.
+Voulez-vous continuer ?
+Vous pourrez reprendre la bataille en cours. Si vous choisissez de reprendre depuis
+le dbut, la progression de la bataille sera perdue.
+(Les effets des plats ne s'appliquent pas aux batailles en crature divine.)
+Vous pourrez reprendre la bataille en cours.
+(Les effets des plats ne s'appliquent pas aux batailles en crature divine.)
+Des donnes de sauvegarde de  The Legend of Zelda:
+Breath of the Wild  ont t trouves. Vous avez obtenu
+une arme bonus.
+Un bonus a t trouv.
+Vous avez obtenu une arme bonus.
+Des armes bonus sont incluses.
+Voulez-vous continuer ?
+Voulez-vous commencer  jouer  deux ?
+Voulez-vous arrter de jouer  deux et continuer en solo ?
+Des donnes de sauvegarde de la version dmo ont t dtectes.
+En important ces donnes, vous pourrez continuer votre partie l o vous
+l'aviez arrte. Voulez-vous importer votre sauvegarde de la version dmo ?
+Les donnes de sauvegarde de la version dmo ont t importes.
+Voulez-vous vraiment commencer une partie depuis le dbut,
+sans importer les donnes de sauvegarde de la version dmo ?

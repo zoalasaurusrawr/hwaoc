@@ -1,0 +1,229 @@
+Consigli
+Questi consigli ti faranno comodo per affrontare le battaglie che ti attendono.
+Un vero cavaliere non smette mai di migliorarsi e di imparare.
+Tutorial
+Quando vuoi rivedere quello che hai imparato, accedi
+al menu delle opzioni con [$0013] e consulta i tutorial.
+Attacchi normali
+Premi ripetutamente [$0004] per eseguire una serie di attacchi.
+Attacchi forti
+Premi [$0003] durante una serie di attacchi normali,
+per eseguire vari tipi di attacchi forti.
+Mosse speciali
+Premi [$0001] quando la barra della mossa speciale
+ piena, per sferrare una mossa speciale.
+Salto a parete
+Puoi eseguire un piccolo salto a parete, se ti rivolgi verso una superficie 
+verticale e premi rapidamente [$0002] due volte.
+Ripresa sicura
+Quando un nemico ti lancia in aria, premi [$0002] per tornare a terra indenne.
+Parata
+Tieni premuto [$0009] per proteggerti dagli attacchi nemici.
+Aggancio
+Premi [$0009] quando sei vicino a un nemico potente, per agganciarlo.
+Mentre  agganciato, puoi vedere il suo elemento e quello del suo equipaggiamento.
+Schivata
+Premi [$0002] per spostarti velocemente e schivare gli attacchi nemici.
+Schivare durante un attacco ti permette di rimetterti velocemente in posizione.
+Schivata perfetta
+Quando riesci a schivare un attacco nemico all'ultimo momento,
+avrai l'occasione di contrattaccare.
+Parata perfetta
+Con alcuni personaggi, potrai respingere l'attacco premendo [$0004]
+al momento giusto mentre ti proteggi con lo scudo.
+Indicatore del punto debole
+I nemici potenti hanno un indicatore del punto debole. Quando l'indicatore
+si svuota completamente, puoi eseguire un attacco del punto debole.
+Indicatore del punto debole
+Puoi ridurre maggiormente l'indicatore del punto debole
+con i contrattacchi e gli attacchi elementali.
+Tavoletta Sheikah
+Il potere del guardiano del futuro ti permette di utilizzare
+gli strumenti Sheikah anche quando non hai la tavoletta.
+Tavoletta Sheikah
+Sembra che il potere della tavoletta Sheikah sia stato
+amplificato dall'influenza del guardiano del futuro.
+Tavoletta Sheikah
+Per contrastare la minaccia dei mostri, l'antico laboratorio di corte
+ha sviluppato un componente che amplifica il potere della tavoletta Sheikah.
+Bomba radiocomandata
+Danneggia i nemici con uno scoppio esplosivo.
+Pu essere usata in vari modi, a seconda del personaggio che la usa.
+Glacyor
+Crea ghiaccio e danneggia il nemico. Se colpisci la superficie dell'acqua
+con il ghiaccio, puoi congelare i nemici che si trovano nell'acqua.
+Kalamitron
+Attacca sollevando e manovrando oggetti metallici.
+Pu essere usato anche per rubare l'equipaggiamento metallico dei nemici.
+Stasys
+Ferma il tempo per il nemico, permettendoti di sferrare attacchi unilaterali.
+Fuoco
+Eseguire un attacco di fuoco pu mandare in fiamme la zona circostante.
+Nelle aree erbose, il fuoco si propagher facilmente.
+Ghiaccio
+Gli attacchi di ghiaccio possono congelare i nemici che si trovano nell'acqua.
+Elettricit
+Colpire l'acqua o un oggetto metallico con un attacco elettrico
+permette di emettere una scarica potente che folgora i nemici.
+Bacchette
+Usa [$0008] + [$0003] / [$0004] / [$0001] per sfoderare una bacchetta.
+Sfrutta al meglio gli oggetti e l'ambiente intorno a te.
+Propriet elementali
+I nemici possono avere debolezze elementali che dipendono dal loro equipaggiamento
+o dalla tipologia. Se riesci a sfruttare questi punti deboli, otterrai vantaggi in battaglia.
+Propriet elementali
+Se sconfiggi nemici deboli con il fuoco, il ghiaccio
+o l'elettricit, questi lasceranno cadere dei materiali.
+Propriet elementali
+Alcuni nemici possiedono la forza elementale del fuoco, del ghiaccio
+o dell'elettricit. Prova a sconfiggerli colpendo i loro punti deboli.
+Ordini
+Durante la battaglia, accedi allo schermo Compagni nel menu [$0012],
+per dare ai compagni ordini relativi a obiettivi o percorsi specifici.
+Oggetti di ripristino
+Nel campo di battaglia puoi raccogliere degli oggetti, come ad esempio delle mele,
+e puoi portarli con te o usarli premendo [$0008] + [$0002].
+Correnti ascensionali
+Se usi la paravela in un punto in cui soffia una corrente ascensionale,
+puoi cavalcare la corrente per volare in alto.
+Cavalcare il vento
+Premi [$0002] quando sei a mezz'aria, per cavalcare la corrente con la paravela.
+Missioni di Hyrule
+Completa le missioni di Hyrule nella mappa di Hyrule, per potenziare gli attacchi
+dei tuoi compagni o aumentare il massimo dei cuori che possono avere.
+Missioni di Hyrule
+Completa le missioni di Hyrule nella mappa di Hyrule,
+per poter accedere a nuove strutture.
+Armi
+Puoi potenziare le armi che hai raccolto sul campo
+di battaglia alla gilda dei fabbri di Hyrule.
+Armi
+Fondere insieme due o pi armi permette di crearne una ancora pi forte.
+Le armi usate come materiale per la fusione andranno perdute.
+Marchi
+Le armi possono avere dei marchi intarsiati
+che conferiscono loro effetti aggiuntivi.
+Marchi
+Se combini marchi della stessa forma, l'effetto del marchio
+o la forza dell'arma aumenter.
+Marchi
+Se fondi delle armi e le potenzi fino al loro limite massimo,
+potrebbero apparire dei marchi nascosti.
+Colossi sacri
+Esegui una mossa speciale premendo [$0001].
+Carica la barra e attacca al momento giusto.
+Colossi sacri
+Muoviti con [$0016].
+Mira con [$0017].
+Colossi sacri
+Muoviti con [$0016].
+Mira inclinando la console o il controller.
+Colossi sacri
+Nemici pericolosi
+I nemici contrassegnati con un "!" stanno preparando un attacco pericoloso.
+Devi riuscire a fare la prima mossa.
+Materiali
+I materiali che i nemici lasciano cadere sono di diversi tipi e possono essere usati
+in vari modi. Sicuramente sono utili per le battaglie a venire.
+Cibo
+Non puoi combattere a stomaco vuoto.
+Prima di andare in battaglia mangia qualcosa e fai il pieno di energia.
+Marchi - A caccia di tesori
+Con il sensore puoi individuare scrigni sul campo di battaglia.
+Per localizzarli, dirigiti nella direzione in cui il segnale  pi forte.
+Marchi - A caccia di Korogu
+Con il sensore puoi individuare Korogu che si nascondono sul campo di battaglia.
+Per localizzarli, dirigiti nella direzione in cui il segnale  pi forte.
+Missioni battaglia
+Uno strano mondo al di l del tempo e dello spazio  apparso
+per mano del guardiano del futuro.
+Rinforzi dal futuro
+Grazie al potere del guardiano del futuro, dei compagni legati ai campioni
+sono arrivati da un futuro lontano 100 anni.
+Ganon Dominatore
+Il rancore di Ganon, all'inseguimento del guardiano che ha viaggiato nel tempo,
+si impossessa del guardiano che si trova nello studio di Zelda in questa epoca.
+Dicerie
+Sembra che gli spiriti del bosco, chiamati Korogu, si nascondano in luoghi sospetti.
+Si dice che se ne trovi tanti, succeda una cosa bella.
+Dicerie
+Sembra che da qualche parte ci siano degli spiriti con sembianze di conigli che emanano
+una luce bianco-azzurra. Se riesci a colpirli con un attacco, la felicit ti travolger.
+Bomba radiocomandata
+Efficace contro i nemici in parata.
+Sfonda la difesa del nemico con uno scoppio esplosivo.
+Glacyor
+Efficace contro i nemici che si lanciano alla carica.
+Crea ostacoli di ghiaccio e ferma l'avanzata nemica.
+Kalamitron
+Efficace contro i nemici che attaccano con oggetti metallici. Puoi intercettare il metallo
+che vola verso di te e rispedirlo al mittente per contrattaccare.
+Stasys
+Efficace contro i nemici che roteano velocemente.
+Puoi fermare il tempo e costringerli a perdere l'equilibrio.
+Due mondi
+Quando Terrako, inseguito dal rancore di Ganon,  arrivato dal futuro, 
+ nato un nuovo mondo, diverso da quello contemplato dalla storia originale.
+Mercanti ambulanti
+Mentre tutti a Hyrule collaborano per affrontare la calamit,
+viene fondato un consorzio di mercanti ambulanti.
+Allenamento virtuale
+Puoi praticare le tue tecniche nel mondo dell'immaginazione.
+Non otterrai punti esperienza, ma almeno potrai prepararti psicologicamente.
+Allenamento virtuale
+Puoi cambiare il personaggio che controlli e le armi dal menu [$0012].
+Esci dall'allenamento virtuale con [$0013].
+Avamposti
+Sul campo di battaglia ci sono degli avamposti controllati dai nemici.
+Sconfiggi i nemici all'interno di un avamposto per conquistarlo.
+Avamposti
+Quando conquisti un avamposto nemico, puoi ottenere delle risorse.
+Antico laboratorio di corte
+Un istituto per la ricerca delle antiche reliquie, come i guardiani e i colossi sacri.
+Molti Sheikah sono impegnati nelle ricerche per far fronte alla calamit Ganon.
+Monte Morte
+Una bollente regione vulcanica situata nel nord-est di Hyrule. La famiglia reale
+di Hyrule invia qui i nostri eroi muniti di attrezzatura per le alte temperature.
+Frontiera di Colbacco
+Una regione ad alta quota con basse temperature. La famiglia reale
+di Hyrule invia qui i nostri eroi muniti di attrezzatura resistente al freddo.
+Deserto Gerudo
+Un deserto che si estende nel sud delle Terre Gerudo, con sbalzi termici tra giorno e
+notte. La famiglia reale di Hyrule invia qui i nostri eroi attrezzati per ogni temperatura.
+Foresta di Hyrule
+Una vasta foresta che include il Bosco Perduto e il bosco dei Korogu.
+Il bosco dei Korogu  la casa degli spiriti della foresta noti come Korogu.
+Spada suprema
+L'unica spada al mondo che pu esorcizzare il male.
+Al momento giace nel bosco dei Korogu, che  caduto in mano ai mostri.
+Clan Yiga
+Una fazione della stirpe Sheikah che diecimila anni fa cominci a venerare la
+calamit Ganon a causa del risentimento nei confronti della famiglia reale di Hyrule.
+Clan Yiga
+Un gruppo militante molto abile nelle operazioni sotto copertura. I guerrieri di rango
+pi alto sono dotati di grandi abilit di combattimento e sono perci molto pericolosi.
+Castello di Hyrule
+Un castello di grandi dimensioni che sovrasta dall'alto il regno di Hyrule.
+Per questioni difensive, presenta una struttura interna molto complicata.
+Fortezza di Akkala
+Una base impenetrabile, chiave di volta delle difese di Akkala.  situata
+su un ripido altopiano, da cui le bocche dei suoi numerosi cannoni puntano i nemici.
+Grande calamit
+Innumerevoli guardiani posseduti dalla calamit Ganon sono fuoriusciti
+da cinque pilastri ancestrali apparsi intorno al castello di Hyrule.
+Grande calamit
+I guardiani erano stati originariamente creati come armi per la protezione del
+regno di Hyrule, ma la calamit Ganon ne ha preso il controllo e li ha lanciati all'attacco.
+Piana di Hyrule
+Una vasta pianura che si estende a sud del castello di Hyrule.
+A causa della grande calamit  ormai infestata da mostri e guardiani.
+Muraglia di Finterra
+Una fortificazione che si affaccia sulla strada che collega Hyrule centrale con Necluda.
+Ha l'aspetto di un posto di controllo fatto di pietra, pi che di una vera fortificazione.
+Altopiano delle origini
+Un altopiano ubicato a sud della piana di Hyrule. Per via delle sue alte pareti a picco,
+sono pochi i viandanti che vi si avventurano a piedi.
+Correre
+Muoviti tenendo premuto [$0002] per metterti a correre di scatto.
+Aggancio
+Premi [$0015]

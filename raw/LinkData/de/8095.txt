@@ -1,0 +1,344 @@
+[es]7_33_6_15_6_7_9_17_Rute
+Ein Zweig von einem hylianischen Baum. Nicht die
+mchtigste aller Waffen, aber besser als nichts.
+Zumindest kann man ihn umherschwingen und nach
+Monstern werfen.
+[es]7_33_6_15_6_7_9_17_Holzkelle
+Wird zum Umrhren und Ausschenken von Suppe
+verwendet. Das harte Holz macht sie aber auch zu
+einer von Hyrules Ehemnnern gefrchteten Waffe.
+[es]2_25_4_14_5_2_8_19_Reiseschwert[ed]__s__
+Diese Art Schwert ist in ganz Hyrule zu finden.
+Es ist robust, aber keine sehr effektive Waffe im
+Kampf gegen Monster.
+[es]2_25_4_14_5_2_8_19_Soldatenschwert[ed]__s__
+Diese Art Schwert benutzen die Schlosswachen
+von Hyrule. Seine scharfe Schneide leistet im
+Kampf mit Monstern gute Dienste und ist uerst
+haltbar.
+[es]2_25_4_14_5_2_8_19_Ritterschwert[ed]__s__
+Die Ritter von Hyrule werden mit diesem Schwert
+ausgerstet. Es ist leicht zu fhren und verfgt
+ber eine starke Angriffskraft, weshalb es uerst
+beliebt ist.
+[es]2_25_4_14_5_2_8_19_Knigsschwert[ed]__s__
+Dieses Schwert bekommen nur verdiente Veteranen
+vom Knig verliehen. Es verbindet eine
+augenschmeichelnde Form mit uerst hoher
+Angriffskraft.
+[es]2_25_4_14_5_2_8_19_Waldschwert[ed]__s__
+Ein von den Krogs hergestelltes Schwert.
+Da es aus Holz ist, dient es in erster Linie zur
+Verteidigung. Auerdem lassen sich damit Ranken
+oder Wurzeln aus dem Weg rumen.
+[es]2_25_4_14_5_2_8_19_Zora-Schwert[ed]__s__
+Besitzt eine dnne Klinge und Verzierungen im Stil
+der Zoras. Die Klinge besteht aus einer Legierung,
+die auch im Wasser nie rostet.
+[es]2_25_4_14_5_2_8_19_Eisvogelschwert[ed]__s__
+Ein zweischneidiges Schwert des Orni-Volks. Um im
+Flug seinem Trger nicht zur Last zu fallen, ist es
+extrem leicht.
+[es]2_25_4_14_5_2_8_19_[edc]antike[ed]s__n_n_ Schwert[ed]__s__
+Die blau leuchtende Klinge wurde mit antiker
+Technologie erschaffen. Sie erscheint nur, wenn
+das Schwert gezogen wird, und ist schrfer als
+fast jedes Metall.
+[es]2_25_4_14_5_2_8_19_Gardeschwert[ed]__s__
+Diese Waffe stellt den Versuch der Shiekah dar,
+mit antiker Weisheit das heilige Bannschwert
+nachzuahmen, um die Verheerung bekmpfen zu
+knnen.
+[es]3_25_4_14_5_6_8_18_Bokstock[ed]__s__
+Hiermit erschlagen Bokblin ihre Beute. Im Grunde ist
+es nur ein Stock.
+[es]3_25_4_14_5_6_8_18_Stachel-Bokstock[ed]__s__
+Der Bokblin, der diesen Stock gebastelt hat, hat
+sich wirklich Mhe gegeben. Pass auf, denn die
+spitzen Tierknochen knnen ins Auge gehen.
+[es]3_25_4_14_5_6_8_18_Knochen-Bokstock[ed]__s__
+Ein Bokstock, der mit einem versteinerten Knochen
+verstrkt wurde. So schwer, dass nur die strksten
+Bokblins ihn verwenden knnen.
+[es]3_25_4_14_5_6_8_18_Echsalbumerang[ed]__s__
+Das eigentmlich gebogene Schwert des Echsalfos-
+Volks. Es kann bei Bedarf angeblich wie ein
+Bumerang geworfen werden.
+[es]3_25_4_14_5_6_8_18_Duo-Echsalbumerang[ed]__s__
+Das Schwert der Echsalfos-Krieger. Dank zweier
+Klingen ist es strker als der Echsalbumerang.
+[es]3_25_4_14_5_6_8_18_Trio-Echsalbumerang[ed]__s__
+Ausgestattet mit drei Klingen kann dieses Schwert
+auch als Bumerang verwendet werden. Vor allem
+die gefrchteten schwarzen Echsalfos setzen diese
+Waffe ein.
+[es]2_25_4_14_5_2_8_19_Wchter-Schwert[ed]s__s__
+Ein kleines Schwert, mit dem Nano-Wchter
+ausgestattet sind. Die blaue Klinge basiert auf
+antiker Technologie.
+[es]2_25_4_14_5_2_8_19_Wchter-Schwert[ed]__s__ +
+Verbesserte Form des Wchter-Schwerts.
+Die Klinge ist noch schrfer als die des
+Vorgngermodells.
+[es]2_25_4_14_5_2_8_19_Wchter-Schwert[ed]__s__ ++
+Eine extrem verstrkte Version des Wchter-
+Schwerts, das auch dicke Panzerungen
+durchdringen kann. Um diese Wucht
+aufzubringen, ist es auch erheblich grer.
+[es]2_25_4_14_5_2_8_19_Leunenschwert[ed]__s__
+Das schwere Eisenschwert der Leunen ist weniger
+zum Schneiden als zum Zerschmettern von Gegnern
+gemacht. Nur mit Mhe zu schwingen, aber sehr
+stark.
+[es]2_25_4_14_5_2_8_19_Bestienschwert[ed]__s__
+Ein verstrktes Leunenschwert mit einer
+zustzlichen Klinge. Es heit, dass Leunen es im
+Lauf ziehen und ihren Gegner beim Passieren
+in zwei Hlften zerteilen knnen.
+[es]2_25_4_14_5_2_8_19_Chimrenschwert[ed]__s__
+Eine grausame Waffe, die von weien Leunen
+gefhrt wird. Ihr dicker Stahl schneidet durch
+die dicksten Panzer wie durch Butter.
+[es]3_25_4_14_5_6_8_18_Bumerang[ed]__s__
+Das Waldvolk der Krogs soll diese eigentmliche
+Waffe erfunden haben. Dank seiner Form kehrt sie
+im Idealfall zum Werfenden zurck, kann aber auch
+im Nahkampf geschwungen werden.
+[es]3_25_4_14_5_6_8_18_Scherzhammer[ed]__s__
+Dieser drollige Hammer ist eine Erfindung des
+Hndlers vom Totenkopf-Teich. Ein Treffer tut
+nicht sonderlich weh.
+[es]3_25_4_14_5_6_8_18_Bokblin-Knochen[ed]__s__
+Auch ohne den Rest des Krpers findet dieser Arm
+keine Ruhe. Er kann zur Not als Schlagwaffe
+eingesetzt werden.
+[es]3_25_4_14_5_6_8_18_Echsalfos-Knochen[ed]__s__
+Knochen eines Stalechsalfos, der einfach keine
+Ruhe geben will. Etwas beunruhigend, wenn man ihn
+auf dem Rcken trgt. Dient zur Not als Waffe.
+[es]2_25_4_14_5_2_8_19_Master-Schwert[ed]__s__
+Dieses legendre Schwert besitzt die heilige Kraft,
+das Bse zu bannen und die Verheerung zu
+bekmpfen. Nur der vom Schwert erkorene Held
+kann es fhren.
+[es]2_25_4_14_5_2_8_19_bungsschwert[ed]__s__
+Mit diesem bungsschwert trainieren die Soldaten
+von Schloss Hyrule. Es ist gut ausbalanciert und
+perfekt zum ben von Kampftechniken geeignet.
+Es in der Hand zu halten, fhlt sich nostalgisch an.
+[es]7_33_6_15_6_7_9_17_Glckskelle
+Diese Schpfkelle scheint noch warm von all den
+Mahlzeiten, die man mit ihr an kalten Tagen
+serviert hat. Fast steigt dir der appetitliche
+Duft einer heien Suppe in die Nase!
+[es]3_25_4_14_5_6_8_18_Krog-Fcher[ed]__s__
+Wenn man Bume fllt, entdeckt man bisweilen
+diese wundersamen Bltter. Jeder Schwung erzeugt
+einen starken Windsto, der leichtere Dinge
+mhelos hinwegfegt.
+[es]7_33_6_15_6_7_9_17_Hacke
+Robustes landwirtschaftliches Werkzeug zum
+Umgraben von Feldern. Wenn man damit umzugehen
+wei, leistet es auch als Waffe passable Dienste.
+[es]2_25_4_14_5_2_8_19_Ruder[ed]__s__
+Ein Teil der Ausstattung von Fischerbooten, das
+zur Not auch zur Selbstverteidigung eingesetzt
+werden kann. Es ist wasserabweisend und sehr
+robust.
+[es]3_25_4_14_5_6_8_18_Eisenhammer[ed]__s__
+Ursprnglich zum Zertrmmern von Erz entworfen,
+taugt dieser schwere Hammer auch als Waffe.
+[es]7_33_6_15_6_7_9_17_Holzflleraxt
+Lieblingswerkzeug eines jeden Holzfllers.
+Damit fllt jeder Stamm im Handumdrehen.
+[es]7_33_6_15_6_7_9_17_Meisteraxt
+Eine zum Kmpfen verstrkte Axt mit zwei
+Schneiden. Weil nur wahre Meister vernnftig
+damit umgehen konnten, erhielt sie ihren Namen.
+[es]3_25_4_14_5_6_8_18_[edc]groe[ed]r_n_n_n_ Bumerang[ed]__s__
+Dieser Bumerang ist so riesig, dass man ihn mit
+beiden Hnden werfen muss. Zum Kampf wurde
+diese Jagdwaffe mit Klingen verstrkt. uerst
+schwierig zu handhaben.
+[es]3_25_4_14_5_6_8_18_Reise-Zweihnder[ed]__s__
+Sehr beliebt bei Abenteurern aus ganz Hyrule.
+Mit dieser schweren Waffe kann man Monster
+durch die Luft wirbeln lassen.
+[es]2_25_4_14_5_2_8_19_Zora-Groschwert[ed]__s__
+Gewaltiges Schwert aus einem besonderen Metall.
+Zoras bevorzugen Lanzen, aber bei Hylianern ist
+dieses Schwert aufgrund seiner eleganten
+Gestaltung sehr beliebt.
+[es]3_25_4_14_5_6_8_18_Gerudo-Zweihnder[ed]__s__
+Nur die besten Schwertkmpferinnen unter den
+Gerudo erhalten diese Waffe. Er ist viel leichter,
+als er aussieht, und somit unter den
+Groschwertern recht einsteigerfreundlich.
+[es]2_25_4_14_5_2_8_19_Zanshin-Langschwert[ed]__s__
+Ein traditionelles einschneidiges Schwert des
+Shiekah-Stammes. Sollte eine Fliege es wagen,
+auf der Klinge zu landen, wrde sie in zwei
+Teilen zu Boden fallen.
+[es]2_25_4_14_5_2_8_19_Mushin-Groschwert[ed]__s__
+Dieses zweischneidige Schwert fertigten Shiekah-
+Schmiede speziell fr die Soldaten Hyrules, denen
+die einseitig geschliffenen Shiekah-Kurzschwerter
+allzu fremd sind.
+[es]2_25_4_14_5_2_8_19_[edc]antike[ed]s__n_n_ Groschwert[ed]__s__
+Ein Zweihnder, der auf antiker Shiekah-
+Technologie basiert. Die blau leuchtende Schneide
+rotiert um die Form des Schwertes und zerteilt
+Gegner wie warme Butter.
+[es]3_25_4_14_5_6_8_18_Garde-Zweihnder[ed]__s__
+Die Shiekah erschufen diese Waffe mit der
+Technologie ihrer Vorfahren zum Kampf gegen
+die Verheerung.
+[es]7_33_6_15_6_7_9_17_Bokkeule
+Die Waffe eines Bokblin. Plump, aber sehr
+schmerzhaft, wenn sie trifft.
+[es]7_33_6_15_6_7_9_17_Stachel-Bokkeule
+Von einem Bokblin in einem hellen Moment mithilfe
+von Tierknochen verstrkte Bokkeule. Richtig
+geschwungen richtet sie verheerenden Schaden an.
+[es]7_33_6_15_6_7_9_17_Knochen-Bokkeule
+Eine mit fossilen Knochen verstrkte Bokkeule.
+Stark genug, um auch grere Feinde zu bezwingen.
+Nur die strksten Bokblins besitzen so eine Keule.
+[es]7_33_6_15_6_7_9_17_Mobkeule
+Aus irgendeinem Grund lieben Moblins diese
+dilettantisch gefertigten Keulen aus hartem Holz.
+[es]7_33_6_15_6_7_9_17_Stachel-Mobkeule
+Eine verbesserte Version der Mobkeule, die
+auf der Schlagseite mit Tierknochen verstrkt
+wurde. Dadurch fgt sie dem Opfer deutlich
+mehr Schaden zu.
+[es]7_33_6_15_6_7_9_17_Knochen-Mobkeule
+Auf beiden Seiten mit den Knochen urzeitlicher
+Tiere versehen, sodass sie sich beinahe wie eine
+Axt fhren lsst. Moblins mit einer solchen Waffe
+sind gefhrlich.
+[es]7_33_6_15_6_7_9_17_Wchter-Axt
+Nano-Wchter sind mit so einer Waffe
+ausgestattet. Die breite, dnne Schneide wurde
+mit antiker Technologie erschaffen.
+[es]7_33_6_15_6_7_9_17_Wchter-Axt +
+Eine Wchter-Axt mit gesteigerter Leistung.
+Es wird angenommen, dass sie nicht nur im Kampf,
+sondern auch zum Bahnen von Wegen in der Wildnis
+verwendet wurde.
+[es]7_33_6_15_6_7_9_17_Wchter-Axt ++
+Dank antiker Technologie verfgt diese verstrkte
+Wchter-Axt ber eine Schneidekraft, die man bei
+Metallklingen vergebens sucht.
+[es]2_25_4_14_5_2_8_19_Leunen-Groschwert[ed]__s__
+Die Waffe der Leunen, mehr Keule als Schwert.
+Wenn ein Leune sie schwingt, werden die meisten
+Feinde unter ihrem Gewicht zerschmettert.
+[es]2_25_4_14_5_2_8_19_Bestien-Groschwert[ed]__s__
+Das extraharte Metall an der Spitze steigert
+Angriffskraft und Haltbarkeit dieser Leunen-Waffe.
+Unter ihrem Gewicht werden Gegner einfach
+zerdrckt.
+[es]2_25_4_14_5_2_8_19_Chimren-Groschwert[ed]__s__
+Das Metall vom Gipfel des Todesbergs, aus dem
+dieser Zweihnder geschmiedet wurde, macht ihn
+ungeheuer schwer. Ein einziger Schlag damit
+zerstrt so gut wie alles.
+[es]7_33_6_15_6_7_9_17_Windklinge
+Die exzentrische Klinge des Anfhrers der Yiga-
+Bande. Geschickte Kmpfer knnen die besondere
+Form des Schwertes so nutzen, dass ihre Hiebe
+Druckwellen aussenden.
+[es]3_25_4_14_5_6_8_18_Moblin-Knochen[ed]__s__
+Auch ohne den Rest des Krpers findet dieser Arm
+eines Moblins keine Ruhe. Er kann als Schlagwaffe
+eingesetzt werden.
+[es]3_25_4_14_5_6_8_18_Wischmopp[ed]__s__
+Diese Waffe hat ihren groen Auftritt, wenn es
+darum geht, die gute Stube zu reinigen, kann zur
+Not aber auch Angreifern um die Ohren geschlagen
+werden.
+[es]7_33_6_15_6_7_9_17_Heugabel
+Traditionelles Bauernwerkzeug zur Befrderung von
+Heu. Leicht genug, dass auch alte Vterchen es
+noch heben knnen. Vorsicht mit den spitzen
+Zinken!
+[es]3_25_4_14_5_6_8_18_Wurfspeer[ed]__s__
+Eine besonders effiziente Wurfwaffe. Lsst sich
+dank ihrer speziellen Gewichtung deutlich weiter
+werfen als gewhnliche Lanzen.
+[es]7_33_6_15_6_7_9_17_Soldatenlanze
+Standardausrstung der Palastwachen von Hyrule.
+Es braucht viel bung, um sie effektiv einzusetzen,
+aber dafr ist sie robust und unbrennbar.
+[es]7_33_6_15_6_7_9_17_Ritter-Hellebarde
+Diese Waffe  halb Lanze, halb Axt  bedarf der
+Hand eines erfahrenen Kriegers. Hellebarden sollen
+in frheren Zeiten vor allem von der Reiterei
+getragen worden sein.
+[es]7_33_6_15_6_7_9_17_Knigs-Hellebarde
+Diese prchtig gestaltete Waffe tragen Ritter,
+die reprsentative Orte wie den Audienzsaal
+bewachen.
+[es]7_33_6_15_6_7_9_17_Waldlanze
+Diese Lanze haben die Krogs fr Hylianer
+angefertigt. Sie ist leicht und robust. Die Spitze
+ist aus besonders hartem Holz geschnitzt.
+[es]3_25_4_14_5_6_8_18_Erzbohrer[ed]__s__
+Dieses Werkzeug haben die Goronen aus
+verschiedenen anderen Metallteilen
+zusammengesetzt. Der Bohrkopf ist stark
+genug, um auch hartes Erz zu durchdringen.
+[es]7_33_6_15_6_7_9_17_Elsternlanze
+Die Lanze der Orni-Krieger. Aus besonders leichtem
+und stabilem Material gefertigt, um die Handhabung
+im Flug zu erleichtern.
+[es]7_33_6_15_6_7_9_17_Gerudo-Lanze
+Viele Gerudo-Kriegerinnen schtzen diese Lanze.
+Die schwere Spitze macht die Handhabung
+schwierig, aber die gro gewachsenen Gerudo
+haben kein Problem damit.
+[es]7_33_6_15_6_7_9_17_Sanda-Lanze
+Eine Lanze mit spezieller Sanda-Klinge. Die besten
+Lanzenkrieger der Shiekah knnen damit ihre
+Gegner zu sich heranziehen und gleichzeitig
+kampfunfhig machen.
+[es]7_33_6_15_6_7_9_17_antike[ed]__n_n_ Lanze
+Diese Lanze ist ein Ergebnis der Erforschung der
+antiken Technologie der Wchter. Ihre blau
+leuchtende Spitze kann fast alles durchstoen.
+[es]7_33_6_15_6_7_9_17_Garde-Hellebarde
+Die Shiekah erschufen diese Waffe mithilfe der
+Technologie ihrer Vorfahren fr den Kampf gegen
+die Verheerung. Sie ist uerst stark.
+[es]7_33_6_15_6_7_9_17_Boklanze
+Ein dicker Ast mit angespitztem Ende, nicht mehr.
+Bokblins benutzen ihn, um Fleisch oder Fisch ber
+dem Feuer zu rsten.
+[es]7_33_6_15_6_7_9_17_Stachel-Boklanze
+Ein Bokspeer mit angespitzten Tierknochen am
+Ende. Er ist leichter als Lanzen mit Metallspitzen
+und deshalb berraschend einfach zu verwenden.
+[es]7_33_6_15_6_7_9_17_Knochen-Boklanze
+Eine Waffe aus Kieferteilen eines urzeitlichen
+Tieres. Die Zhne sind noch immer sehr scharf.
+Vor Bokblins mit so einer Lanze sollte man sich
+in Acht nehmen.
+[es]7_33_6_15_6_7_9_17_Moblanze
+Hlzerne Lanze der Moblins. Die Spitze ist hastig
+geschnitzt, sodass diese Waffe nicht besonders
+stark ist.
+[es]7_33_6_15_6_7_9_17_Stachel-Moblanze
+Eine Boklanze, die das Horn eines Tieres als
+Spitze verwendet. Primitiv gefertigt, doch
+nichtsdestoweniger gefhrlich.
+[es]7_33_6_15_6_7_9_17_Knochen-Moblanze
+Die Lanze der strksten Moblin-Krieger. Fossile
+Knochen dienen als Spitzen und machen sie zu
+einer Furcht einflenden Waffe.
+[es]7_33_6_15_6_7_9_17_Echsallanze
+Die am weitesten verbreitete Lanze unter
+Echsalfos. Charakteristisch ist die schartige Spitze.
+[es]7_33_6_15_6_7_9_17_starke[ed]__n_n_ Echsallanze
+Echsallanze mit einer Spitze, die der einer Harpune
+hnelt. Echsalfos 

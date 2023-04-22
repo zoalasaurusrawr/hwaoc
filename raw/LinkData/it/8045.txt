@@ -1,0 +1,64 @@
+Usuario
+Comunicacin activada
+Comunicacin desactivada
+No se ha podido establecer la conexin con la red.
+Activa la comunicacin local.
+Se ha desactivado la comunicacin local.
+Inicia sesin con tu cuenta Nintendo.
+Se ha cerrado la sesin.
+Inicia sesin con tu cuenta Nintendo.
+Vas a acceder a Nintendo eShop.
+Quieres continuar?
+No se ha encontrado el contenido descargable necesario.
+No podrs usar [eg5][cp][t]%s[s0][/].
+El contenido descargable necesario para usar
+[eg5][cp][t]%s[s0][/] no est instalado.
+No se ha encontrado el contenido descargable necesario.
+No podrs usar [eg5][cp][t]%s[s0][/].
+No se ha encontrado el contenido descargable necesario.
+No podrs usar [eg5][cp][t]%s[s0][/].
+No se ha encontrado el contenido descargable necesario.
+No podrs usar [eg5][cp][t]%s[s0][/].
+Comprobando el contenido descargable...
+Se va a iniciar la partida con la comunicacin desactivada.
+Para cambiar las opciones de idioma, la comunicacin debe estar desactivada.
+No se ha podido establecer la conexin. Intntalo de nuevo ms tarde.
+Se anular la opcin de seleccionar [eg5][cp][t]%s[s0][/].
+No hay datos de guardado para [eg5][cp][t]%s[s0][/].
+Se van a crear nuevos datos de guardado.
+Los datos de guardado estn daados y no pueden usarse.
+Si continas, los datos de guardado actuales se borrarn
+y se crearn otros nuevos.
+Quieres empezar a jugar sin crear datos de guardado?
+El contenido descargable se ha borrado,
+as que no estar disponible temporalmente.
+Este programa dispone de guardado automtico.
+Los datos de juego ms recientes se borrarn automticamente.
+No cierres el programa ni toques el botn POWER mientras se guarda la partida.
+Estos datos de guardado pertenecen a otro usuario.
+Si los cargas, no podrs guardar la partida.
+Quieres continuar?
+No puedes guardar la partida usando los datos de guardado de otro usuario.
+Quieres borrar los datos de guardado actuales
+y crear nuevos datos de guardado?
+Se han cargado los datos de guardado de otro usuario.
+Ten en cuenta que no podrs guardar la partida.
+Apodo
+Has iniciado sesin.
+Ests en lnea.
+No has iniciado sesin.
+No ests en lnea.
+Has cerrado sesin.
+Ya no ests en lnea.
+No puedes usar los servicios en lnea debido a las restricciones
+de control parental de esta cuenta Nintendo.
+Se ha cerrado la sesin de la cuenta Nintendo.
+Ya no puedes usar los servicios en lnea.
+Inicia sesin con una cuenta Nintendo.
+No puedes usar la funcin de chat porque est restringida
+para tu cuenta Nintendo.
+No se han podido guardar los datos.
+Actualiza la aplicacin para poder usar las funciones en lnea.
+Se ha producido un error de conexin.
+Volviendo a la pantalla del ttulo...
+Finalizando la batalla...

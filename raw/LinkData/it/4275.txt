@@ -1,0 +1,486 @@
+[es]2_6_11_16_____durin vivaz
+No te dejes engaar por su intenso olor: su poder
+curativo es inmenso.
+[es]2_6_11_16_____coco
+Fruto de la palmera, originario de zonas prximas
+al mar. No posee ningn tipo de efecto especial,
+pero puede usarse como ingrediente para cocinar.
+[es]3_7_12_17_____frambuesa
+Fruta que proviene de regiones fras y nevadas.
+Posee un sabor dulce y no otorga ningn tipo
+de efecto especial, si bien es un ingrediente
+de lo ms comn al cocinar.
+[es]3_7_12_17_____sanda glida
+Una fruta muy especial que se da incluso en los
+desiertos ms clidos. El efecto fro de su jugo
+ayuda a combatir las altas temperaturas.
+[es]3_7_12_17_____baya gnea
+Una baya con un sabor picante muy potente.
+Los platos cocinados con ella tienen un efecto
+calorfico que protege del fro.
+[es]3_7_12_17_____fruta electro
+Ciertos cactus del Desierto de Gerudo dan
+este fruto dulce, cuyos ptalos aislantes
+proporcionan resistencia a la electricidad.
+[es]3_7_12_17_____semilla de loto rauda
+Procede de un loto que crece cerca del agua
+y absorbe nutrientes de esta. Se cree que sus
+semillas aumentan la velocidad de quien
+las consume.
+[es]2_6_11_16_____trufn vivaz
+Como nadie lo haba encontrado an, este tipo
+de trufa vivaz ha crecido enormemente. Permite
+recuperar energa vital ms all del mximo.
+[es]3_7_12_17_____trufa vivaz
+Un tipo de hongo extremadamente raro que crece
+en la tierra y posee un aroma fuerte. Es un alimento
+muy preciado, ya que otorga energa vital extra.
+[es]3_7_12_17_____seta briosa
+Una seta anaranjada difcil de encontrar, pero
+muy apreciada por su supuesta capacidad
+de proporcionar resistencia extra.
+[es]3_7_12_17_____seta de Hyrule
+Una seta que crece por todo Hyrule, cerca
+de los rboles. Su consumo parece regenerar
+energa vital.
+[es]3_7_12_17_____seta vigorosa
+Una seta que crece en los bosques y absorbe
+la energa de la naturaleza, por lo que permite
+recuperar energa vital.
+[es]3_7_12_17_____seta glida
+Suele crecer al pie de los pinos en montaas
+nevadas y es fra al tacto. Se puede consumir
+para obtener resistencia al calor incluso en lugares
+muy calurosos.
+[es]3_7_12_17_____seta gnea
+Suele crecer en zonas calurosas. Al consumirla,
+el calor acumulado en su interior ofrece resistencia
+al fro incluso en lugares glidos.
+[es]3_7_12_17_____seta electro
+Comn en la regin de Gerudo. El sombrero
+tiene propiedades aislantes: al ser consumido,
+proporciona resistencia a la electricidad.
+[es]3_7_12_17_____seta rauda
+Esta seta puede crecer casi en cualquier lado,
+aunque predomina en tejados y acantilados.
+Supuestamente tiene un efecto estimulante
+en los msculos de las piernas.
+[es]3_7_12_17_____seta recia
+Tiene un peculiar corte en el sombrero que parece
+hecho con una espada. Se cree que aumenta
+el espritu competitivo y la fuerza de quien
+la consume.
+[es]3_7_12_17_____seta robusta
+Destaca por su sombrero, que es extremadamente
+duro, supuestamente gracias a un compuesto que
+puede aumentar la defensa de quien la consume.
+[es]3_7_12_17_____seta sigilosa
+Una seta misteriosa que crece en los bosques
+y emite un tenue brillo por la noche. Su consumo
+alerta los sentidos y permite moverse
+ms sigilosamente.
+[es]2_6_11_16_____rbano vivaz grande
+Por su mayor tamao, este rbano vivaz grande
+contiene ms sustancias regeneradoras de
+lo normal, lo que le concede propiedades
+sanadoras sin igual.
+[es]2_6_11_16_____rbano vivaz
+Tubrculo poco comn que suele crecer
+en praderas soleadas. Supuestamente, tiene
+propiedades curativas.
+[es]3_7_12_17_____zanahoria briosa
+Muy apreciada como planta medicinal,
+esta zanahoria es sumamente nutritiva.
+[es]3_7_12_17_____hierba de Hyrule
+Planta cargada de vitalidad que abunda
+en las llanuras de Hyrule.
+[es]3_7_12_17_____zanahoria rauda
+Hortaliza tpica de la aldea Kakariko.
+Dicen que consumirla fortalece piernas y caderas.
+[es]3_7_12_17_____calabaza robusta
+Una calabaza muy resistente que se cultiva
+en los huertos de ciertas aldeas y que, se dice,
+aumenta las defensas de lo lindo.
+[es]3_7_12_17_____hierba glida
+Planta medicinal comn en zonas elevadas, como
+las montaas de Hebra o de Gerudo. Sus hojas
+contienen un compuesto refrescante que concede
+temporalmente cierta resistencia al calor.
+[es]3_7_12_17_____hierba gnea
+Planta medicinal comn en zonas de altas
+temperaturas, como la regin del Desierto
+de Gerudo. Es clida al tacto, por lo que
+se cree que aumenta la resistencia al fro.
+[es]3_7_12_17_____hierba electro
+Abundante en el Desierto de Gerudo, esta planta
+medicinal posee fibras especiales conductoras de
+electricidad y aumenta tu resistencia a la misma
+cuando se consume.
+[es]3_7_12_17_____violeta rauda
+Florece sobre todo en acantilados. Es muy nutritiva
+y, al ingerirla, aumenta la velocidad.
+[es]2_6_11_16_____bulbo recio
+Muy reconocible por sus espinas, tiene un principio
+activo que mejora temporalmente la fuerza
+y la potencia de ataque.
+[es]2_6_11_16_____bulbo robusto
+Planta medicinal tan dura que resulta irrompible.
+El consumo de sus fibras resistentes incrementa
+la capacidad defensiva.
+[es]3_7_12_17_____flor sigilosa
+Florece en zonas tranquilas de Hyrule y desprende
+un ligero brillo por la noche. Su consumo aumenta
+tu sigilo.
+[es]3_7_12_17_____princesa de la calma
+Se dice que esta hermosa flor era la favorita
+de la princesa de Hyrule. Durante un tiempo
+se la crey extinta, aunque en los ltimos
+aos se han encontrado algunos ejemplares.
+[es]1_1_10_15_____carne de caza XXL
+Carne de caza mayor de gran calidad, muy jugosa
+y de sabor inigualable.
+[es]1_1_10_15_____carne de ave XXL
+Se obtiene de ciertas aves y destaca por su exquisita
+calidad. Es tierna y cuenta con un sabor intenso
+que marida bien con otros ingredientes, aunque
+puede disfrutarse sola.
+[es]1_1_10_15_____carne de caza XL
+Un pedazo de carne fresca de calidad superior.
+No es algo que se encuentre todos los das,
+as que saborala a fondo!
+[es]1_1_10_15_____carne de ave XL
+Un pedazo de carne de calidad que no resulta
+fcil de conseguir. Puedes comerla cruda
+o cocinarla para realzar su sabor.
+[es]1_1_10_15_____carne de caza
+Carne que se obtiene de animales de llanuras
+y bosques. Puedes comerla sin ms, pero,
+si la cocinas, disfrutars ms de su sabor.
+[es]1_1_10_15_____carne de ave
+Un pedazo de carne de ave. Es ms sana
+que la carne de caza porque tiene menos grasa.
+Se puede comer cruda, aunque cocinada
+sabe mejor.
+[es]1_1_10_15_____miel de vigor
+Miel directa del panal, llena de nutrientes,
+que ayuda a realzar el sabor de los ingredientes
+con los que se toma.
+[es]1_1_10_15_____arroz de Hyrule
+Alimento predilecto de la aldea Kakariko. Requiere
+una gran cantidad de agua para crecer y es muy
+verstil, por lo que se puede emplear en multitud
+de recetas.
+[es]2_6_11_16_____huevo de ave
+Los nidos que los albergan suelen estar
+en sitios elevados, normalmente rboles.
+Es un alimento muy nutritivo y energtico,
+empleado en numerosas recetas.
+[es]1_1_10_15_____trigo de Tabanta
+Cereal que se cultiva a gran escala en las llanuras
+de Tabanta. Al molerlo, se convierte en harina,
+un producto con numerosos usos culinarios.
+[es]1_1_10_15_____leche fresca
+Se extrae tanto de las vacas como de las cabras
+domsticas de Hatelia. Es un producto muy sabroso,
+por lo que se emplea como base en muchos
+estofados.
+[es]3_7_12_17_____bellota
+Fruto que suele encontrarse en los bosques,
+al pie de los rboles. Las ardillas las adoran
+e intentarn quedrselas todas.
+[es]2_6_11_16_____fruto de rbol
+Los frutos favoritos de pjaros pequeos.
+Puedes comerlo tal y como te lo encuentres,
+aunque tambin puede usarse como complemento
+en algunas recetas.
+[es]1_1_10_15_____caa de azcar
+De esta planta se extrae un jugo dulce
+que se emplea en mltiples recetas de repostera.
+Se puede comprar en diversas tiendas.
+[es]1_1_10_15_____manteca de cabra
+Preparada a partir de leche fresca de cabra
+domstica. Es un producto muy nutritivo que
+se emplea habitualmente en dulces y tartas.
+[es]1_1_10_15_____especias goron
+Una mezcla secreta compuesta por varias especias.
+sala como condimento en tus recetas para darles
+un sabor picante que transmite calidez al cuerpo.
+[es]1_1_10_15_____halita
+Sal cristalizada que proviene de un antiguo mar.
+Es el condimento esencial de todo plato que se precie,
+aunque no puede comerse sola.
+[es]1_1_10_15_____esencia de monstruo
+El resultado de uno de los experimentos nocturnos
+del mercader del Lago Calavera. Puedes usarla
+como condimento en tus recetas, pero que estas
+salgan bien o mal depender de la suerte.
+[es]2_6_11_16_____fragmento de estrella
+Fragmento de una misteriosa roca que cay
+de los cielos. Parece que puede sacarse
+un buen pellizco por l, aunque tambin
+puede tener usos culinarios.
+[es]2_6_11_16_____salmn vivaz
+Pez que habita en aguas fras, por lo que
+su carne es rica en grasa y en gran cantidad
+de nutrientes.
+[es]2_6_11_16_____caracol vivaz
+Habita en grandes nmeros en playas arenosas.
+Su carne es rica en estimulantes.
+[es]3_7_12_17_____lubina vivaz
+Pez de tamao considerable tpico de zonas costeras
+cuya carne es sumamente nutritiva.
+[es]3_7_12_17_____lubina de Hyrule
+Pez comn que se encuentra en cualquier rincn
+de Hyrule. Se puede comer crudo, aunque cocinado
+resulta ms sabroso.
+[es]3_7_12_17_____lubina vigorosa
+Se cree que esta lubina vigorosa ha evitado
+los anzuelos durante mucho tiempo y que,
+como resultado, es el pez ms fuerte de Hyrule.
+[es]3_7_12_17_____trucha glida
+Trucha azulada que nada en aguas fras.
+Se dice que su piel contiene enzimas refrigerantes
+que pueden aprovecharse para adquirir resistencia
+al calor.
+[es]3_7_12_17_____trucha gnea
+Trucha de color rojizo que habita en aguas templadas
+y que almacena calor gracias a un rgano especial.
+Comerla otorga resistencia al fro.
+[es]3_7_12_17_____trucha electro
+Trucha que habita en lagos de agua dulce.
+Sus escamas estn cubiertas de un
+componente aislante que proporciona
+resistencia a la electricidad.
+[es]3_7_12_17_____trucha sigilosa
+La sustancia bioluminiscente gracias a la cual brilla
+en la oscuridad tiene adems como efecto
+un aumento de la concentracin, lo que te permite
+moverte sigilosamente sin generar ningn sonido.
+[es]3_7_12_17_____carpa recia
+Pez que habita en aguas fras. En su hgado
+se encuentra un compuesto que fomenta el
+desarrollo muscular.
+[es]3_7_12_17_____carpa robusta
+Las escamas de este pez ancestral son tan duras
+como la roca, adems de ricas en nutrientes que
+parecen tener un efecto fortalecedor
+de los huesos.
+[es]3_7_12_17_____carpa tricolor
+Variedad de carpa robusta cuyos hermosos
+patrones coloreados son fruto de una minuciosa
+crianza selectiva.
+[es]3_7_12_17_____dorada recia
+Este pez de agua salada tiene un carcter muy
+temperamental. Por eso se cree que, al consumirlo,
+ciertos nutrientes de su carne elevan el espritu
+competitivo y la potencia de ataque.
+[es]3_7_12_17_____dorada robusta
+Pez cubierto de unas escamas muy duras,
+compuestas de una sustancia que refuerza
+los huesos y aumenta la defensa temporalmente
+si se consume.
+[es]2_6_11_16_____caracol sigiloso
+Por la noche, este caracol de agua dulce brilla
+como una lucirnaga. Su consumo agudiza
+los sentidos y permite moverse con mucho sigilo.
+[es]2_6_11_16_____cangrejo recio
+Crustceo costero con unas pinzas muy afiladas.
+La carne de sus extremidades es rica en vitaminas
+que ayudan a fortalecer los msculos.
+[es]2_6_11_16_____cangrejo robusto
+Crustceo con un caparazn especialmente
+resistente. Su nutritiva carne tiene fama
+de aumentar la defensa.
+[es]2_6_11_16_____cangrejo vigoroso
+Especie que aparece habitualmente cuando llueve.
+Consumir su cuerpo robusto, muy sabroso, tiene
+un efecto revigorizante.
+[es]2_6_11_16_____hada
+Cuando te quedes sin energa, esta hada saldr
+automticamente de tu alforja para ayudarte
+a recuperarla. A diferencia de las lucirnagas,
+su brillo se ve a la luz del da.
+[es]3_7_12_17_____mariposa glida
+Una misteriosa mariposa cuyas delicadas alas
+enfran el aire. Su revoloteo entre copos de nieve
+es una hermosa visin. Sirve como ingrediente para
+un preciado elixir que otorga resistencia al calor.
+[es]3_7_12_17_____mariposa gnea
+Habita en los bosques y llanuras de regiones
+clidas. Sus alas absorben el calor del sol y,
+en teora, calientan el cuerpo si se ingieren.
+[es]3_7_12_17_____mariposa electro
+Peculiar insecto que solo aparece cuando llueve.
+Parece que su cuerpo genera un compuesto aislante
+que concede resistencia a la electricidad.
+[es]3_7_12_17_____mariposa ignfuga
+Tipo de mariposa que se encuentra en zonas
+volcnicas de temperaturas muy elevadas.
+Su cuerpo posee un lquido ignfugo que podra
+conceder resistencia al fuego al ser ingerido.
+[es]3_7_12_17_____liblula glida
+Tipo de insecto que tiene preferencia por lugares
+frescos, como las sombras. Sus azuladas alas
+pueden dispersar el calor, propiedad que puede
+transmitirse a quien lo ingiere.
+[es]3_7_12_17_____liblula gnea
+Insecto rojizo en cuyas alas existe una sustancia
+que estimula la sudoracin. Parece que consumirlo
+proporciona proteccin contra el fro.
+[es]3_7_12_17_____liblula electro
+Insecto peculiar que solo aparece cuando llueve.
+Sus largas alas albergan una sustancia que repele
+la electricidad, propiedad que puede absorberse
+durante la digestin.
+[es]2_6_11_16_____grillo vigoroso
+Un grillo lleno de energa que podra saltar todo
+el da. Es altamente nutritivo.
+[es]2_6_11_16_____escarabajo recio
+Rey de los escarabajos que habita en los bosques.
+Por lo visto, algunos de sus nutrientes estimulan
+la circulacin sangunea en el tejido muscular
+y aumentan su eficiencia.
+[es]2_6_11_16_____escarabajo robusto
+El cuerpo de este escarabajo es tan duro
+que parece una armadura. Se dice que ayuda
+a fortalecer el tronco de quien lo consume.
+[es]2_6_11_16_____escarabajo vigoroso
+Excepcional ejemplar de escarabajo que puede vivir
+hasta diez aos. Debido a su longevidad, se cree
+que consumirlo tiene un efecto revitalizante.
+[es]3_7_12_17_____lucirnaga sigilosa
+Insecto que brilla levemente por las noches.
+Sus glndulas fosforescentes tienen fama
+de ser buenas para la concentracin.
+[es]3_7_12_17_____rana rauda
+Rana cargada de energa que suele habitar en sitios
+prximos al agua. Al parecer, consumirla ayuda
+a incrementar la velocidad.
+[es]3_7_12_17_____rana briosa
+Rana poco comn que solo aparece cuando llueve.
+Contiene nutrientes que estimulan el metabolismo.
+[es]2_6_11_16_____lagarto raudo
+Lagarto que habita en bosques y prados. Es capaz
+de huir rpidamente cuando se siente amenazado.
+Por ello su carne ayuda a desarrollar los msculos
+de las extremidades inferiores.
+[es]2_6_11_16_____lagarto vivaz
+Lagarto repleto de vitalidad que habita
+principalmente en zonas boscosas. Su dieta rica
+en nutrientes hace que sea muy indicado para
+recuperar vitalidad.
+[es]2_6_11_16_____lagarto ignfugo
+Lagarto endmico de Eldin. Se pueden aprovechar
+sus escamas para obtener resistencia al fuego.
+[es]1_1_10_15_____pedernal
+Piedra que se emplea para generar fuego,
+lo que la convierte en un objeto imprescindible
+en el arsenal de todo aventurero que se precie.
+[es]1_1_10_15_____mbar
+Una resina fosilizada muy comn en Hyrule, con
+un atractivo brillo de color caramelo, que se utiliza
+en piezas decorativas y de artesana desde
+tiempos inmemoriales.
+[es]2_6_11_16_____palo
+Mineral abundante en Hyrule. La forma delicada
+y su caracterstica iridiscencia recuerdan a las
+de una concha marina. Dicen que alberga
+el poder del agua.
+[es]3_7_12_17_____gema luminosa
+Un misterioso mineral que desprende una luz
+azulada en la oscuridad. Se cree que es una
+manifestacin de un alma difunta. Ciertas
+prendas usan esta gema como material.
+[es]2_6_11_16_____topacio
+Esta hermosa gema de las tierras de Hyrule
+siempre se ha vendido a precios altos.
+Se dice que alberga un poder elctrico.
+[es]2_6_11_16_____rub
+Valioso mineral comn en Hyrule que se vende
+a altos precios desde tiempos inmemoriales.
+Dicen que alberga el poder del fuego.
+[es]2_6_11_16_____zafiro
+Este hermoso mineral azulado, comn en Hyrule,
+siempre ha cotizado muy bien. Dicen que alberga
+el poder del hielo.
+[es]2_6_11_16_____diamante
+El mineral ms valioso que puede hallarse en Hyrule.
+Sus destellos han encandilado a generaciones
+enteras, llegando a pagarse precios
+exorbitantes por l.
+[es]2_6_11_16_____cuerno de bokoblin
+Se obtiene al vencer a un bokoblin, un ser habitual
+de las llanuras de Hyrule. No es comestible.
+[es]2_6_11_16_____colmillo de bokoblin
+Diente que se obtiene tras vencer a un bokoblin.
+Aunque ya no est afilado, conserva su dureza.
+[es]3_7_12_17_____vscera de bokoblin
+Material muy poco comn que se consigue
+tras derrotar a un bokoblin. Se mueve ligeramente
+y da un poco de miedo, pero quiz puedas sacarle
+partido de algn modo.
+[es]2_6_11_16_____cuerno de moblin
+Magnfico cuerno procedente de la cabeza
+de un moblin. Es comestible, pero no como
+ingrediente de platos normales.
+[es]2_6_11_16_____colmillo de moblin
+Obtenido al derrotar a un moblin, este afilado diente
+no sirve como herramienta, pero puede tener
+otros usos.
+[es]3_7_12_17_____vscera de moblin
+Preciado ingrediente obtenido tras derrotar
+a un moblin. Su hedor lo hace inapropiado
+para la cocina, pero seguro que tiene
+alguna otra utilidad.
+[es]2_6_11_16_____cuerno de lizalfos
+Cuerno curvado que adorn en su da la cabeza
+de un lizalfos. Es demasiado duro para cocinarlo,
+pero puedes venderlo en una tienda.
+[es]3_7_12_17_____garra de lizalfos
+Espoln procedente del codo de un lizalfos.
+Puede que tenga algn uso.
+[es]3_7_12_17_____cola de lizalfos
+Incluso cercenada del cuerpo de un lizalfos, contina
+movindose. Esto es signo de la vitalidad por la que
+es tan valorada como alimento.
+[es]3_7_12_17_____cola de lizalfos glido
+Entre las escamas y la carne congelada,
+la cola cortada de un lizalfos glido no es
+comestible, pero puede tener
+alguna otra utilidad.
+[es]3_7_12_17_____cola de lizalfos gneo
+La cola cortada de un lizalfos gneo es incomestible,
+pero tiene otros usos.
+[es]3_7_12_17_____cola de lizalfos elctrico
+La cola cortada de un lizalfos elctrico tiene
+un hedor tan intenso que la hace incomestible.
+Sin embargo, se usa para otro tipo de cosas.
+[es]2_6_11_16_____cuerno de centalen
+Un cuerno de centalen es tan duro que apenas
+hay armas que le puedan causar un rasguo.
+[es]3_7_12_17_____pezua de centalen
+Obtenida de la pata de un centalen,
+es ms grande y pesada que el casco
+de un caballo. Quiz sirva para algo.
+[es]3_7_12_17_____vscera de centalen
+Este ingrediente solo se puede obtener de
+un centalen. Vibra con la energa de este
+monstruo.
+[es]1_1_10_15_____gelatina de chuchu
+Una sustancia viscosa y temblorosa, igual que
+un chuchu. Debido a su naturaleza inestable,
+cambiar de forma si recibe un estmulo
+elctrico, de hielo o de fuego.
+[es]1_1_10_15_____gelatina glida
+Sustancia viscosa y temblorosa, al igual que
+un chuchu glido. Su textura es agradable y fra
+al tacto. Al golpearla, expele una neblina
+que puede llegar a congelar.
+[es]1_1_10_15_____gelatina gnea
+Sustancia viscosa y temblorosa, al igual que
+un chuchu gneo. Desprende calor de forma
+constante. Si la golpeas, explotar y generar
+una llama.
+[es]1_1_10_15_____gelatina elctrica
+Una sustancia viscosa y temblorosa, igual que
+un chuchu elctrico. Posee siempre carga elctrica

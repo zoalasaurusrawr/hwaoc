@@ -1,0 +1,224 @@
+Astuces
+Les astuces qui s'affichent sur cet cran vous seront utiles tout au long de
+l'aventure. Mme le plus expriment des chevaliers en apprend tous les jours !
+Tutoriels
+Lorsque vous voulez relire ce que vous avez dj appris,
+accdez aux tutoriels depuis l'cran des options ([$0013]).
+Attaques standard
+Appuyez sur [$0004]  rptition pour effectuer une srie d'attaques.
+Attaques fortes
+Appuyez sur [$0003] pendant une srie d'attaques standard
+pour effectuer diverses attaques fortes.
+Coups fatals
+Appuyez sur [$0001] lorsque votre jauge de coup fatal est pleine
+pour dclencher un coup fatal.
+Sauts muraux
+Appuyez deux fois rapidement sur [$0002] face  une paroi ou un objet qui se dresse
+devant vous pour rebondir dessus et flotter brivement en l'air.
+Chute amortie
+Lorsqu'un ennemi vient de vous expdier dans les airs,
+appuyez sur [$0002] pour atterrir en douceur.
+Se protger
+Maintenez [$0009] enfonc pour vous protger des attaques ennemies.
+Cibler
+Appuyez sur [$0009] prs d'un ennemi puissant pour le cibler. Cela vous permet
+notamment de connatre son lment et celui de son quipement.
+Esquiver
+Appuyez sur [$0002] pour vous carter en un instant et esquiver une attaque.
+Esquiver pendant une attaque vous permet de vous replacer rapidement.
+Esquive optimale
+Si vous esquivez une attaque ennemie de justesse,
+vous aurez une opportunit de contre-attaquer en fonant.
+Garde optimale
+Si votre personnage est quip d'un bouclier, vous pouvez renvoyer une attaque
+en vous protgeant avec [$0009] puis en appuyant sur [$0004] au bon moment.
+Jauge de point faible
+Les ennemis puissants possdent une jauge de point faible. Une fois qu'elle
+est vide, vous pouvez infliger  l'ennemi un puissant coup point faible.
+Jauge de point faible
+La jauge de point faible diminue plus rapidement lorsque vous foncez
+sur l'ennemi ou que vous lui infligez une attaque lmentaire.
+Tablette sheikah
+Les pouvoirs du Gardien du futur vous permettent d'utiliser
+les modules sheikahs sans possder la tablette sheikah.
+Tablette sheikah
+La puissance de la tablette sheikah a t amplifie
+grce au Gardien venu du futur.
+Tablette sheikah
+Pour faire face  la menace des monstres, le laboratoire antique royal a mis au
+point un dispositif qui amplifie la puissance de la tablette sheikah.
+Bombes  distance
+L'explosion de ces bombes inflige des dgts aux ennemis.
+Selon les allis, elles sont utilises de diffrentes faons.
+Cryonis
+Vous faites apparatre de la glace, qui inflige des dgts. Si la glace touche
+un point d'eau, les ennemis en contact avec celui-ci sont gels.
+Polaris
+Vous pouvez attaquer en soulevant ou dplaant des objets mtalliques.
+Ce module vous permet aussi d'attirer les quipements en mtal des ennemis.
+Cinetis
+Vous arrtez le temps pour vos ennemis, ce qui vous permet
+de les attaquer sans risque de riposte pendant un certain temps.
+Brler un ennemi
+Les attaques de feu peuvent enflammer ce qui vous entoure.
+Le feu se propage particulirement bien dans les zones herbeuses.
+Geler un ennemi
+Les attaques qui utilisent de la glace peuvent geler les ennemis
+en contact avec un point d'eau.
+Foudroyer un ennemi
+Lancer une attaque de foudre sur de l'eau ou un objet mtallique
+provoque une puissante dcharge lectrique qui peut foudroyer les ennemis.
+Baguettes
+Utilisez une baguette avec [$0008] + [$0003], [$0008] + [$0004] ou [$0008] + [$0001]. Exploitez
+l'environnement et les objets alentours pour les employer au meilleur escient.
+lments
+Les ennemis peuvent avoir des points faibles lmentaires lis  leur race
+ou  leur quipement. Tenez compte de ces points faibles pour les battre.
+lments
+Si vous liminez des ennemis faibles avec des attaques de feu, de glace
+ou de foudre, ils laisseront toujours tomber des matriaux.
+lments
+Certains ennemis sont dots des pouvoirs lmentaires du feu, de la glace
+ou de la foudre. Affrontez-les en vous efforant d'utiliser leurs faiblesses.
+Instructions
+Pendant une bataille, depuis l'cran Allis du menu ([$0012]), vous pouvez indiquer
+ vos allis un endroit ou une cible vers lesquels vous voulez qu'ils se dplacent.
+Objets de rgnration
+Sur le champ de bataille, vous pouvez parfois ramasser et transporter des objets
+tels que des pommes. Vous pouvez ensuite les utiliser avec [$0008] + [$0002].
+Courants ascendants
+En utilisant la paravoile  l'emplacement d'un courant ascendant,
+vous pourrez vous lever dans les airs.
+Planer
+Appuyez sur [$0002] quand vous tes en l'air pour planer  l'aide
+de votre paravoile ou tout autre quipement quivalent.
+Missions en Hyrule
+Accomplissez des missions en Hyrule depuis la carte d'Hyrule pour renforcer
+les attaques de vos allis ou augmenter leur nombre de curs.
+Missions en Hyrule
+Accomplissez des missions en Hyrule depuis la carte d'Hyrule
+pour dbloquer l'accs  de nouvelles installations.
+Armes
+Vous pouvez renforcer les armes que vous trouvez sur le champ
+de bataille  la guilde des forgerons d'Hyrule.
+Armes
+Vous pouvez fusionner plusieurs armes pour en crer une nouvelle, plus puissante.
+Les armes utilises comme matriaux disparaissent lors de la fusion.
+Sceaux
+Des sceaux peuvent parfois tre gravs sur les armes,
+ce qui leur donne toutes sortes d'effets supplmentaires.
+Sceaux
+Si vous faites en sorte d'avoir des sceaux de mme forme,
+l'effet du sceau ou la puissance de l'arme peuvent tre renforcs.
+Sceaux
+En fusionnant des armes ou en les renforant au maximum,
+des sceaux secrets peuvent apparatre.
+Cratures divines
+Appuyez sur [$0001] pour dclencher un coup fatal.
+Remplissez la jauge et attendez le bon moment.
+Cratures divines
+Dplacez-vous avec [$0016] et visez avec [$0017].
+Cratures divines
+Dplacez-vous avec [$0016], et visez en inclinant la manette ou la console.
+Cratures divines
+Ennemis dangereux
+Les ennemis surmonts d'un point d'exclamation sont en train
+de prparer une attaque dangereuse. liminez-les en premier.
+Matriaux
+Les ennemis peuvent laisser tomber toutes sortes de matriaux aux
+usages multiples, qui vous seront trs utiles pour les combats  venir.
+Cuisiner des plats
+On ne combat pas le ventre vide ! Avant une bataille,
+mangez quelque chose pour prendre des forces.
+Sceau - Dtecter les trsors
+Il permet de dtecter les coffres sur le champ de bataille. Pour trouver
+un coffre, dirigez-vous dans la direction o le signal est le plus fort.
+Sceau - Dtecter les Korogus
+Il permet de dtecter les Korogus cachs sur le champ de bataille. Pour
+trouver un Korogu, dirigez-vous dans la direction o le signal est le plus fort.
+Missions de combat
+Un monde trange, qui transcende le temps et l'espace,
+est apparu suite  l'arrive du Gardien du futur.
+Renforts venus de l'avenir
+Ces allis, venus du sicle prochain grce aux pouvoirs
+du Gardien du futur, sont troitement lis aux Prodiges.
+Emprise de Ganon
+La rancur de Ganon a suivi le Gardien qui a voyag dans le temps, et pris
+possession du Gardien qui se trouvait dans l'tude de Zelda  cette poque.
+Rumeurs
+Des esprits des bois appels Korogus se cacheraient dans des endroits
+suspects. Essayez d'en trouver le plus possible, cela vous sera utile.
+Rumeurs
+On dit qu'il existe des esprits bleu ple prenant la forme d'un lapin,
+et que le bonheur viendra  vous si une de vos attaques en touche un.
+Bombes  distance
+Elles sont efficaces contre les ennemis qui se protgent beaucoup,
+car leur dflagration brise leur garde.
+Cryonis
+Cryonis est efficace contre les ennemis en pleine charge.
+Dresser des obstacles de glace sur leur route stoppera leur lan.
+Polaris
+Polaris est efficace contre les ennemis qui attaquent avec des objets en mtal.
+Renvoyez-leur les objets mtalliques attirs vers vous pour contre-attaquer.
+Cinetis
+Cinetis est efficace contre les ennemis en pleine attaque circulaire.
+Si vous les figez dans leur mouvement, ils se retrouveront dsquilibrs.
+Autre dimension
+Lorsque Terrako est arriv de l'avenir, poursuivi par la rancur de Ganon,
+une nouvelle dimension s'est cre paralllement  celle de l'histoire originelle.
+Marchands ambulants
+Alors que tous les peuples d'Hyrule unissent leurs forces pour vaincre
+le Flau, les marchands ambulants ont fond un rseau coopratif.
+Simulation de combat
+Grce  la simulation de combat, vous pouvez vous entraner librement.
+Cependant, vous ne gagnez pas de points d'exprience.
+Simulation de combat
+Vous pouvez changer de personnage avec [$0012].
+Pour quitter la simulation de combat, appuyez sur [$0013].
+Avant-postes
+Sur le champ de bataille, vous trouverez des avant-postes contrls par
+l'adversaire. liminez les ennemis pour reprendre ces avant-postes.
+Avant-postes
+Lorsque vous prenez un avant-poste ennemi,
+vous pouvez obtenir diverses ressources.
+Laboratoire antique royal
+On y tudie les reliques antiques telles que les Gardiens et les cratures
+divines. Beaucoup de Sheikahs participent pour lutter contre le Flau.
+Montagne de la Mort
+Une zone volcanique situe au nord-est d'Hyrule. La famille royale y envoie
+Zelda et ses compagnons se prparer aux chaleurs extrmes.
+Confins de Tabanta
+Une rgion froide situe en altitude. La famille royale y envoie Zelda
+et ses compagnons se prparer aux tempratures trs basses.
+Dsert Gerudo
+Une zone dsertique o il fait chaud le jour et froid la nuit. La famille royale y
+envoie Zelda et ses compagnons se prparer aux tempratures extrmes.
+Grande fort d'Hyrule
+Une rgion boise qui comprend les bois Perdus et la fort Korogu.
+Cette dernire abrite des esprits de la fort qu'on appelle les Korogus.
+L'pe de lgende
+Une pe unique au monde capable de sceller les tnbres. Elle repose
+dans la fort Korogu, actuellement occupe par les monstres.
+Gang des Yigas
+Une branche dissidente du clan sheikah oppresse par la famille royale
+d'Hyrule il y a mille ans, et qui vnre maintenant le Flau Ganon.
+Gang des Yigas
+Ce groupe de combattants excelle en missions d'infiltration. Les talents
+ l'pe de ses officiers sont particulirement redoutables.
+Chteau d'Hyrule
+Un vaste chteau surplombant les terres d'Hyrule. Sa structure interne
+est volontairement complexe pour faciliter sa dfense.
+Forteresse d'Akkala
+Une forteresse rpute imprenable, cl de vote des dfenses de la rgion
+d'Akkala. Elle est rige sur des hauteurs et dispose de nombreux canons.
+Le Grand Flau
+D'innombrables Gardiens possds par le Flau Ganon sont sortis
+des cinq monolithes antiques apparus autour du chteau d'Hyrule.
+Le Grand Flau
+Les Gardiens furent  l'origine crs pour protger le royaume d'Hyrule,
+mais le Flau Ganon en a pris le contrle et les fait combattre pour lui.
+Plaine d'Hyrule
+Cette vaste plaine s'tend au sud du chteau d'Hyrule.  cause
+du Grand Flau, elle est infeste de monstres et de Gardiens.
+Muraille d'Elimith
+Situe sur la route 

@@ -1,0 +1,84 @@
+HA0!
+XA1	
+PA<"
+(AI
+pAJ
+La situation est dangereuse, Link.
+Demandez des renforts.
+La situation est critique, Link.
+Demandez immdiatement des renforts.
+Vous avez atteint le seuil de 1 000 ennemis
+vaincus. Magnifique rsultat, Link.
+Nous voici arrivs sur le champ de bataille.
+Allez porter secours  vos allis, Link.
+Lancement de l'attaque, Link.
+Vous devez dfendre cette position, Link.
+Un vnement inattendu est survenu. Gardez
+votre calme et continuez  vous battre, Link.
+Bonne nouvelle confirme. La courbe
+de votre sourire est insuffisante, Link.
+Excution du plan de combat, Link.
+Scurisation de la voie termine.
+Faites avancer vos troupes, Link.
+La traverse de cette zone est interdite.
+Punissez les contrevenants, Link.
+Votre nergie vitale est  un niveau critique.
+Retirez-vous, Link.
+Impossible de poursuivre le combat.
+vacuation du champ de bataille, Link.
+Instabilit motionnelle dtecte.
+Veillez  ne pas vous emporter, Link.
+Vous avez remport la bataille.
+Excellent travail, Link.
+Vous avez perdu la bataille.
+Je compatis  votre dception, Link.
+Vos allis sont en mauvaise posture.
+Allez leur porter secours, Link.
+Dpart au front de Link, chevalier d'Hyrule.
+La situation m'chappe... Je vous en prie,
+j'ai besoin de renforts !
+Non... Je ne peux pas me permettre
+de tomber, pas ici...
+C'est vraiment moi qui ai fait a ?
+J'ai du mal  le croire...
+Moi aussi, j'accomplirai mon devoir !
+S'il nous faut frapper, l'instant me semble bien
+choisi !
+Quoi qu'il arrive, je n'abandonnerai pas cette
+zone  l'ennemi !
+Ce... C'est impossible !
+Quel soulagement !
+Mettons notre plan  excution !
+Je vais pouvoir continuer plus avant !
+Je ne les laisserai jamais passer !
+Je ne peux continuer  vous ralentir de la
+sorte. Il vaut mieux que je batte en retraite.
+Pardonnez-moi... je me replie.
+Je prie pour votre salut.
+Je saurai me montrer  la hauteur !
+Nous avons russi ! La victoire est ntre !
+Comment avons-nous pu en arriver l...
+Si seulement j'avais t plus forte...
+Nous devons aller leur porter secours !
+Je suis Zelda, princesse d'Hyrule !
+Grm... L'adversaire a l'avantage...
+Quelqu'un pourrait-il me prter main-forte ?
+Grrraaah... Je ne peux pourtant pas tourner
+le dos  l'ennemi !
+J'ai encore de la poigne, ma foi !
+Pardonnez-nous d'arriver si tard !
+Passons  l'offensive ! Tous avec moi !
+Nous ne vous cderons pas cette zone si
+facilement !
+Que... Qu'est-ce que cela veut dire ?!
+Bien. Voil qui est dans l'ordre des choses.
+L'occasion est l,  nous de la saisir ! Que
+toutes les units mettent le plan  excution !
+Excellent. Poursuivons notre avance !
+Aussi longtemps que je serai roi,
+vous ne passerez pas par ici !
+Grah... On dirait que l'heure du repli a sonn...
+Impossible de continuer sur cette voie...
+Repli stratgique !
+C'est ici que tout se joue !
+Bravo ! Que l'o

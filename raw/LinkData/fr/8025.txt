@@ -1,0 +1,263 @@
+Bataille termine
+Temps
+K.-O.
+Total
+Armes obtenues
+Matriaux obtenus
+Raids
+Dfis
+Utiliser
+Champ de bataille
+Allis
+Historique
+Ennemis
+Allis
+Statut
+[cs][es]3_7_11_16_1_32_19_36_arme[cm][es]4_8_12_17_1_33_19_37_armes[ce]
+[cs][es]2_5_9_14_1_31_18_34_vtement[cm][es]4_8_12_17_1_33_18_37_vtements[ce]
+NIV 
+EXP 
+Quantit  acheter
+Rinitialiser
+Quantit obtenue
+Sacoche
+Nouveau
+K.-O.
+[t]%s[s0][/]
+[t]%s[s0][/]
+Noix korogu
+Rcompenses
+Matriau slectionn
+quiper
+Vendre
+Annuler
+Baguette de feu
+Baguette de glace
+Baguette lectrique
+Temps restant :
+Action
+Attaque standard
+Attaque charge
+Attaque forte
+Attaque spcifique
+[cs][es]4_8_12_17_1_33_18_37_matriaux[cm][es]4_8_12_17_1_33_18_37_matriaux[ce]
+Allis
+Carte
+Batailles
+Missions de combat
+Boutiques
+Missions en Hyrule
+Choix du personnage
+Niveau souhait
+Armes possdes
+Armes rouilles
+Matriaux ncessaires
+Matriau recherch
+Vtements rorganiss.
+Choisir des vtements
+Choisir une couleur
+quipe
+Plats
+Aucun effet
+Partir au combat
+Cuisiner
+Recette
+tats de service
+Menu
+Effets des plats
+Nom du plat
+Description du plat
+Rubis
+Chapitre %d -
+Fusionner des armes
+Reforger au max
+Retirer des sceaux
+Drouiller
+Acheter
+Vendre
+Teindre
+Retirer
+Se tlporter
+Choisir un personnage
+Arme  renforcer
+Armes  utiliser comme matriaux
+Choisir les matriaux
+Choisir l'arme  modifier
+Choisir l'arme  modifier
+Choisir les armes  vendre
+Prix
+Prix de vente
+Quantit  acheter
+Nombre
+Options
+Commandes
+Tutoriels
+Paramtres
+Abandonner
+Sauvegarder
+Charger
+cran titre
+Retirer un sceau
+Retirer tous les sceaux
+puis
+Objets
+Dispo.
+Rcompense de victoire
+Aucun sceau
+Liste des prix
+Couleur
+Fermer
+Je veux acheter !
+Je veux vendre !
+Aucun problme.
+Laisse tomber.
+Je vends tout.
+J'achte tout.
+Galerie
+Personnages
+Cinmatiques
+Rcit
+Missions en Hyrule
+Missions en Hyrule termines :
+Chapitre [t]%s[s0][/] -
+(partie [t]%s[s0][/])
+Niveau de difficult
+Facile
+Normal
+Difficile
+Hroque
+amiibo
+Utiliser
+Ne pas utiliser
+Camra verticale inverse
+Camra horizontale inverse
+Dplacement de la camra
+Trs lent
+Lent
+Normal
+Rapide
+Trs rapide
+Gyroscope
+Vibrations
+Paramtres des boutons
+Type Dynasty Warriors
+Type Zelda
+Terminer le paramtrage
+Langue de doublage
+Langue d'affichage
+Japonais
+Anglais
+Franais
+Franais (Canada)
+Italien
+Allemand
+Espagnol
+Espagnol (Amrique lat.)
+Nerlandais
+Chinois (traditionnel)
+Chinois (simplifi)
+Coren
+Affichage
+Affichage des furiganas
+Affichage des sous-titres
+Volume des musiques
+Volume des bruitages
+Volume des voix
+Rinitialiser
+Donner tout
+Rcompense initiale
+Rgles particulires
+Vtements obtenus
+Rcompense d'objectif
+Butin
+Historique de combat
+Ressayer
+Recommencer la bataille
+Renfort
+Coopration
+Accomplissable
+TERMIN
+DFAITE
+VICTOIRE
+Actions
+Missions utilisant le dtecteur
+[t]%s[s2][/]/[t]%s[s1][/]/[t]%s[s0][/]
+Sauvegarde automatique
+Paramtres
+Confirmer
+ Une fois le Flau scell
+Modules sheikahs
+[es]1_1_13_18_1_31_18_38_Cinetis
+[es]4_8_12_17_1_33_18_37_bombes  distance
+[es]1_1_13_18_1_31_18_38_Cryonis
+[es]1_1_13_18_1_31_18_38_Polaris
+Action spcifique
+[cs][es]3_6_10_15_1_32_18_35_tenue[cm][es]4_8_1_17_1_33_18_37_tenues[ce]
+Choix de la tenue
+Tenues obtenues
+Rorganisation [eg4][cp][t]%s[s0][/]
+Sacoche
+Confirmer l'action
+Type de commandes
+Composition de l'quipe
+SUCCS
+Position actuelle
+Commencer
+Musiques
+Recettes obtenues
+Link
+Zelda
+Rhoam Bosphoramus
+Mipha
+Daruk
+Revali
+Urbosa
+Impa
+Sidon
+Yunobo
+Teba
+Riju
+Grandes fes
+Grand Kohga
+Guide Miz'Kyosia
+Terrako
+Ganon, le Flau
+Accs aux installations
+Soutien en combat
+[cs][es]4_8_12_17_1_33_18_37_matriaux[cm][es]4_8_12_17_1_33_18_37_matriaux[ce]
+Amlioration des installations
+Plats
+Modules sheikahs
+Niveau de contribution
+Cratures divines
+Dtecteur sheikah
+Tous les allis
+Niveau conseill :
+[t]%s[s0][/] avec dtection
+Taux d'accomplissement
+Conditions d'accomplissement
+Taux d'acquisition
+Effets sonores
+Musique
+Voix
+Installations
+Matriaux exclusifs  ce champ de bataille
+Ajout d'un sceau cach
+Ennemis principaux
+NIVEAU SUPRIEUR
+Aux commandes [eg4][v]%s[s0][/]
+Narration
+Histoire
+La galerie a t mise  jour.
+Les deux batailles
+Bataille normale
+Crature divine
+Affichage des jauges de vie
+Jauges de vie affiches
+Rapports
+Afficher les commandes
+Batailles normales
+Cratures divines
+Temps de jeu
+Vous pouvez cuisiner.
+Chapitre %d

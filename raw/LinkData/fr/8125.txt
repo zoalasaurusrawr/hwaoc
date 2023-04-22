@@ -1,0 +1,300 @@
+liminer [eg2][v]%s[s0][/].
+liminer [eg2][v]%s[s0][/] et ses puissants allis.
+liminer [eg2][cp][v]%s[s0][/].
+Aider la totalit [eg4][cp][t]%s[s0][/].
+Aider la totalit [eg4][cp][t]%s[s0][/].
+Aller aider la totalit [eg4][cp][t]%s[s0][/].
+Dfendre [eg2][t]%s[s0][/].
+Dfendre [eg2][t]%s[s0][/].
+Dfendre [eg2][cp][t]%s[s0][/].
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][cp][t]%s[s0][/].
+Obtenir [eg1][t]%s[s0][/].
+Obtenir [eg1][t]%s[s0][/].
+Obtenir [eg1][cp][t]%s[s0][/].
+liminer [eg2][v]%s[s0][/] et [eg2][v]%s[s1][/].
+liminer [eg2][v]%s[s0][/], [eg2][v]%s[s1][/] et leurs puissants allis.
+liminer [eg2][cp][v]%s[s0][/], et [eg2][cp][v]%s[s1][/].
+Dtruire la totalit [eg4][t]%s[s0][/] et [eg4][t]%s[s1][/].
+Dtruire la totalit [eg4][t]%s[s0][/] et [eg4][t]%s[s1][/].
+Dtruire la totalit [eg4][cp][t]%s[s0][/] et [eg4][cp][t]%s[s1][/].
+(emplacement rserv)
+Dtruire la totalit [eg4][cp][t]%s[s0][/].
+Dtruire la totalit [eg4][cp][t]%s[s0][/].
+Dfendre jusqu'au bout [eg2][t]%s[s0][/].
+Dfendre jusqu'au bout [eg2][t]%s[s0][/].
+Dfendre jusqu'au bout [eg2][cp][t]%s[s0][/].
+S'approcher [eg4][v]%s[s0][/].
+S'approcher [eg4][v]%s[s0][/] et de ses allis.
+S'approcher [eg4][cp][v]%s[s0][/].
+Repousser [eg2][t]%s[s0][/].
+Repousser [eg2][t]%s[s0][/].
+Repousser [eg2][cp][t]%s[s0][/].
+[eb][eg2][v]%s[s0][/] doit atteindre [eg2][t]%s[s1][/].
+[eb][eg2][v]%s[s0][/] doit atteindre [eg2][t]%s[s1][/].
+[eb][eg2][cp][v]%s[s0][/] doivent atteindre [eg2][t]%s[s1][/].
+[eb][eg2][v]%s[s0][/] doit atteindre [eg2][t]%s[s1][/].
+[eb][eg2][v]%s[s0][/] doit atteindre [eg2][t]%s[s1][/].
+[eb][eg2][cp][v]%s[s0][/] doivent atteindre [eg2][t]%s[s1][/].
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][cp][t]%s[s0][/].
+Prendre le contrle [eg4][t]%s[s0][/].
+Prendre le contrle [eg4][cp][t]%s[s0][/].
+Prendre le contrle [eg4][cp][t]%s[s0][/].
+Trouver [eg2][v]%s[s0][/].
+Trouver [eg2][v]%s[s0][/] et ses allis.
+Trouver [eg2][cp][v]%s[s0][/].
+Repousser [eg2][v]%s[s0][/].
+Repousser [eg2][v]%s[s0][/] et ses puissants allis.
+Repousser [eg2][cp][v]%s[s0][/].
+Reprendre  l'ennemi [eg2][t]%s[s0][/].
+Dissiper le malentendu avec [eg2][t]%s[s0][/].
+Dissiper le malentendu avec [eg2][t]%s[s0][/].
+Dissiper le malentendu avec [eg2][cp][t]%s[s0][/].
+Repousser [eg2][t]%s[s0][/] attaquant la plaine d'Hyrule.
+Repousser [eg2][cp][t]%s[s0][/] qui attaquent la plaine d'Hyrule.
+Repousser [eg2][cp][t]%s[s0][/] attaquant la plaine d'Hyrule.
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][cp][t]%s[s0][/].
+Sauver [eg2][v]%s[s0][/] et [eg2][v]%s[s1][/].
+Sauver [eg2][v]%s[s0][/], [eg2][v]%s[s1][/] et leurs allis.
+Sauver [eg2][cp][v]%s[s0][/] et [eg2][cp][v]%s[s1][/].
+Obtenir [eg1][t]%s[s0][/].
+Obtenir [eg1][t]%s[s0][/].
+Obtenir [eg1][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+Assurer la dfense [eg4][t]%s[s0][/].
+Assurer la dfense [eg4][cp][t]%s[s0][/].
+Assurer la dfense [eg4][cp][t]%s[s0][/].
+Inspecter [eg2][t]%s[s0][/].
+Inspecter [eg2][t]%s[s0][/].
+Inspecter [eg2][cp][t]%s[s0][/].
+Sauver la totalit [eg4][t]%s[s0][/].
+Sauver [eg2][t]%s[s0][/] et tous ses allis.
+Sauver la totalit [eg4][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer les ennemis autour [eg4][t]%s[s0][/].
+liminer les ennemis autour [eg4][t]%s[s0][/].
+liminer les ennemis autour [eg4][cp][t]%s[s0][/].
+liminer les ennemis [eg5][t]%s[s0][/].
+liminer les ennemis [eg5][t]%s[s0][/].
+liminer les ennemis [eg5][cp][t]%s[s0][/].
+Retenir [eg2][v]%s[s1][/] jusqu' l'arrive [eg4][v]%s[s0][/].
+Retenir [eg2][v]%s[s1][/] et ses allis jusqu' l'arrive [eg4][v]%s[s0][/].
+Retenir [eg2][cp][v]%s[s1][/] jusqu' l'arrive [eg4][v]%s[s0][/].
+Obtenir le trsor qui repose [eg5][t]%s[s0][/].
+Obtenir les trsors qui reposent [eg5][t]%s[s0][/].
+Obtenir les trsors qui reposent [eg5][cp][t]%s[s0][/].
+Repousser [eg2][v]%s[s1][/] se dirigeant vers [eg2][t]%s[s0][/].
+Repousser [eg2][v]%s[s1][/] et ses allis se dirigeant vers [eg2][t]%s[s0][/].
+Repousser [eg2][cp][v]%s[s1][/] se dirigeant vers [eg2][t]%s[s0][/].
+Sauver [eg2][b]%s[s0][/].
+Sauver [eg2][b]%s[s0][/] et ses allis.
+Sauver [eg2][cp][b]%s[s0][/].
+Garder le contrle [eg4][t]%s[s0][/].
+Garder le contrle [eg4][t]%s[s0][/].
+Garder le contrle [eg4][cp][t]%s[s0][/].
+S'chapper [eg4][t]%s[s0][/].
+S'chapper [eg4][t]%s[s0][/].
+S'chapper [eg4][cp][t]%s[s0][/].
+Fuir [eg2][v]%s[s0][/].
+Fuir [eg2][v]%s[s0][/] et ses allis.
+Fuir [eg2][cp][v]%s[s0][/].
+liminer [eg2][v]%s[s0][/].
+liminer [eg2][v]%s[s0][/] et ses puissants allis.
+liminer [eg2][cp][v]%s[s0][/].
+liminer [eg2][v]%s[s0][/].
+liminer [eg2][v]%s[s0][/] et ses puissants allis.
+liminer [eg2][cp][v]%s[s0][/].
+Se diriger vers [eg2][t]%s[s0][/].
+Se diriger vers [eg2][t]%s[s0][/].
+Se diriger vers [eg2][cp][t]%s[s0][/].
+Rapporter [eg2][t]%s[s0][/].
+Rapporter [eg2][cp][t]%s[s0][/].
+Rapporter [eg2][cp][t]%s[s0][/].
+S'chapper [eg4][t]%s[s0][/].
+S'chapper [eg4][t]%s[s0][/].
+S'chapper [eg4][cp][t]%s[s0][/].
+teindre l'incendie [eg5][t]%s[s0][/].
+teindre l'incendie [eg5][t]%s[s0][/].
+teindre l'incendie [eg5][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s1][/] puissant [eg5][t]%s[s0][/].
+liminer les puissants allis [eg4][t]%s[s1][/] [eg5][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s1][/] puissants [eg5][t]%s[s0][/].
+Sceller [eg2][v]%s[s0][/].
+Sceller [eg2][v]%s[s0][/] et ses puissants allis.
+Sceller [eg2][cp][v]%s[s0][/].
+Aller aider [eg2][t]%s[s0][/].
+Aller aider [eg2][t]%s[s0][/] et ses allis.
+Aller aider [eg2][cp][t]%s[s0][/].
+Retenir [eg2][t]%s[s1][/] jusqu' l'arrive [eg4][t]%s[s0][/].
+Retenir [eg2][t]%s[s1][/] jusqu' l'arrive [eg4][t]%s[s0][/] et de ses allis.
+Retenir [eg2][cp][t]%s[s1][/] jusqu' l'arrive [eg4][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s1][/] [eg4][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s1][/]
+[eg5][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s1][/] [eg4][t]%s[s0][/].
+Remporter le festival de la danse.
+Remporter le festival de la danse.
+Remporter le festival de la danse.
+liminer [eg2][v]%s[s0][/] et [eg2][v]%s[s1][/].
+liminer [eg2][v]%s[s0][/], [eg2][v]%s[s1][/] et leurs puissants allis.
+liminer [eg2][cp][v]%s[s0][/], et [eg2][cp][v]%s[s1][/].
+liminer les nombreux ennemis apparus prs [eg4][t]%s[s0][/].
+liminer les nombreux ennemis apparus prs [eg4][t]%s[s0][/].
+liminer les nombreux ennemis apparus prs [eg4][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s1][/] [eg5][t]%s[s0][/].
+liminer [eg2][t]%s[s1][/] et ses nombreux allis apparus [eg5][t]%s[s0][/].
+liminer le grand nombre [eg7][cp][t]%s[s1][/] apparues [eg5][t]%s[s0][/].
+Retenir [eg2][t]%s[s1][/] jusqu' l'arrive de l'essentiel [eg4][t]%s[s0][/].
+Retenir [eg2][t]%s[s1][/] et ses allis jusqu' l'arrive
+de l'essentiel de la troupe [eg4][t]%s[s0][/].
+Retenir [eg2][t]%s[s1][/] jusqu' l'arrive de l'essentiel de la troupe [eg4][cp][t]%s[s0][/].
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][t]%s[s0][/].
+Atteindre [eg2][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/].
+Reprendre le contrle [eg4][t]%s[s0][/].
+Reprendre le contrle [eg4][t]%s[s0][/].
+Reprendre le contrle [eg4][cp][t]%s[s0][/].
+liminer [eg2][t]%s[s0][/] propageant l'incendie.
+liminer [eg2][t]%s[s0][/] et ses allis propageant l'incendie.
+liminer [eg2][cp][t]%s[s0][/] propageant l'incendie.
+liminer [eg2][t]%s[s1][/] [eg4][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/] du mont de la Mort.
+liminer [eg2][cp][t]%s[s0][/] du mont de la Mort.
+liminer [eg2][t]%s[s1][/] attaquant [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/] attaquant la fort Korogu.
+liminer [eg2][cp][t]%s[s0][/] attaquant la fort Korogu.
+Se frayer un chemin jusqu'[eg3][t]%s[s0][/].
+Se frayer un chemin jusqu'[eg3][t]%s[s0][/].
+Se frayer un chemin jusqu'[eg3][cp][t]%s[s0][/].
+Utiliser [eg2][t]%s[s0][/].
+(emplacement rserv)
+(emplacement rserv)
+liminer [eg2][t]%s[s1][/] se dirigeant vers [eg2][t]%s[s0][/].
+liminer [eg2][cp][t]%s[s0][/] se dirigeant vers le domaine des Zoras.
+liminer [eg2][cp][t]%s[s0][/] se dirigeant vers le domaine des Zoras.
+Empcher l'invasion [eg4][r]%s[s0][/].
+Empcher l'invasion [eg4][r]%s[s0][/] et de ses allis.
+Empcher l'invasion [eg4][cp][r]%s[s0][/].
+Trouver [eg2][b]%s[s0][/].
+Trouver [eg2][b]%s[s0][/] et ses allis.
+Trouver [eg2][cp][b]%s[s0][/].
+Remporter le combat dcisif contre [eg2][t]%s[s0][/].
+(emplacement rserv)
+(emplacement rserv)
+Triompher de l'preuve [eg4][v]%s[s0][/] et [eg4][v]%s[s1][/].
+(emplacement rserv)
+(emplacement rserv)
+Rcuprer [eg2][cp][t]%s[s0][/].
+(emplacement rserv)
+(emplacement rserv)
+Arrter [eg2][v]%s[s0][/].
+Arrter [eg2][v]%s[s0][/].
+Arrter [eg2][cp][v]%s[s0][/].
+liminer [eg2][v]%s[s0][/] semant le chaos.
+liminer [eg2][v]%s[s0][/] semant le chaos.
+liminer [eg2][cp][v]%s[s0][/] semant le chaos.
+Reprendre [eg3][t]%s[s0][/] le contrle [eg4][t]%s[s1][/].
+Reprendre [eg3][t]%s[s0][/] et  ses allis le contrle [eg4][t]%s[s1][/].
+Reprendre [eg3][cp][t]%s[s0][/] le contrle [eg4][t]%s[s1][/].
+Remporter le duel contre [eg2][v]%s[s0][/].
+(emplacement rserv)
+(emplacement rserv)
+Trouver [eg2][v]%s[s0][/] rare.
+Trouver [eg2][v]%s[s0][/] rare et ses allis.
+Trouver [eg2][cp][v]%s[s0][/] rares.
+liminer [eg2][v]%s[s0][/] rare.
+liminer [eg2][v]%s[s0][/] rare et ses allis.
+liminer [eg2][cp][v]%s[s0][/] rares.
+S'chapper [eg4][t]%s[s0][/].
+(emplacement rserv)
+(emplacement rserv)
+Dtruire [eg2][t]%s[s0][/].
+Dtruire [eg2][t]%s[s0][/].
+Dtruire [eg2][cp][t]%s[s0][/].
+Rsister jusqu' la fin du temps allou.
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)
+(emplacement rserv)

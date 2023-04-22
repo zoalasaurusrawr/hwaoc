@@ -1,0 +1,306 @@
+Also, wessen Waffe darf's denn sein?
+Zieh los und gib's ihnen!
+Ich drcke dir die Daumen!
+Du mchtest also eine Waffe verstrken, ja?
+Ich kmmere mich darum!
+So in etwa wird das aussehen.
+Kann ich wirklich loslegen?
+Oha! Ich wei zwar nicht wie, aber gerade ist
+etwas Unglaubliches passiert. Sieh mal  das
+Ergebnis hat meine Erwartungen weit bertroffen!
+Oho, sieh mal einer an!
+Diese Waffe hat das Maximum erreicht!
+So, jetzt hast du erst einmal eine ordentliche
+Waffe! Sag Bescheid, wenn ich wieder etwas
+fr dich tun kann.
+He! Du hast nicht genug Rubine!
+Kein Problem! Ich hab mir diese Technik von einem
+Oktorok abgeschaut. Verrostete Waffen bekomme
+ich wieder blitzeblank, als wren sie nagelneu!
+Bist du dir sicher, dass ich diese Waffe wieder
+aufpolieren soll?
+Na? Da wrden auch die Oktoroks vor Neid
+erblassen, oder? Hier, bitte sehr!
+He! Du hast nicht genug Rubine!
+Wenn du das volle Potential deiner Waffen
+ausreizen willst, bist du bei mir richtig!
+So knnte man das verstrken...
+Mchtest du, dass ich loslege?
+Du hast das Potential davon bis zum Letzten
+ausgereizt. Ich bin schon sehr gespannt, was du
+damit ausrichten wirst!
+Warte mal... Erst solltest du alles Notwendige
+beisammen haben. Komm dann wieder vorbei!
+Wenn du in deine Waffen eingebrannte Siegel
+loswerden willst, kann ich dir weiterhelfen.
+Welches Siegel soll ich entfernen?
+Wenn ich ein Siegel einmal entfernt habe, kann
+man das nicht mehr rckgngig machen. Bist du
+dir sicher, dass ich weitermachen soll?
+Bitte sehr, das Siegel ist weg! Komm wieder,
+wenn ich noch etwas fr dich tun kann.
+Das hier sieht so gut wie neu aus, stimmt's?
+Wenn du Siegel anbringen willst, komm vorbei.
+Warte mal... Erst solltest du alles Notwendige
+beisammen haben. Komm dann wieder vorbei!
+Aha, du willst also Waffen verkaufen?
+Gut, dann lass mal sehen!
+Das hier willst du also loswerden?
+Hm... Wie wr's mit [t]%s[s0][/][ec5] Rubinen?
+Dafr wrde ich dir [t]%s[s0][/][ec5] Rubine zahlen.
+Bist du sicher, dass ich dir das
+abkaufen soll?
+In Ordnung. Gekauft!
+Komm gerne wieder vorbei, wenn du noch
+mehr interessante Waffen anzubieten hast.
+Willkommen! Wie schn, dass du vorbeischaust!
+Was darf's denn heute sein?
+Aha, du mchtest also einkaufen? Schn!
+Stbere nur in Ruhe nach Dingen, die deinen
+Geschmack treffen!
+Soll ich dir etwas abkaufen?
+[eb][eg6][t]%s[s0][/][ec5] also...
+Wie viele davon mchtest du kaufen?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das macht [t]%s[s2][/][ec5] Rubine.
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon willst du verkaufen?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Dafr gebe ich dir [t]%s[s2][/][ec5] Rubine!
+Danke fr deinen Besuch!
+Du scheinst nicht genug Rubine zu besitzen.
+Willkommen, willkommen!
+Wenn du was brauchst, helfe ich gerne!
+Fr dich habe ich meine Waren bersichtlich
+prsentiert! Kauf nur, so viel dein Herz begehrt!
+Ach, du willst was verkaufen?
+Gerne doch! Was denn genau?
+Aha, [eg6][t]%s[s0][/][ec5]?
+Wie viele davon willst du denn?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das kostet [t]%s[s2][/][ec5] Rubine!
+[eb][t]%s[s0][/][ec1] zu verkaufen, ja?
+Wie viel Stck davon rckst du raus?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Dafr biete ich [t]%s[s2][/][ec5] Rubine!
+Danke schn!
+Du hast nicht genug Rubine!
+Hallo! Wir bieten hier Materialien an.
+Vielleicht ist ja etwas fr dich dabei?
+Bitte, sieh dich in Ruhe um.
+Wenn du etwas verkaufen willst, nur zu!
+[eb][eg6][t]%s[s0][/][ec5] alzo?
+Wie viele davon mchtest du kaufen?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das macht [t]%s[s2][/][ec5] Rubine!
+Zo, [eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon hast du im Angebot?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Was hltst du von [t]%s[s2][/][ec5] Rubinen?
+Danke fr deinen Besuch!
+Zo ein Pech... Du hast nicht genug Rubine!
+Willkommen im Zutatenladen Satt & Glcklich!
+Unser Angebot ist vom Allerfeinsten.
+Sieh es dir gerne in Ruhe an!
+Ich kaufe alles.
+[eb][eg6][t]%s[s0][/][ec5] also.
+Wie viele davon brauchst du?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das macht [t]%s[s2][/][ec5] Rubine.
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon mchtest du verkaufen?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1], oder?
+Dafr biete ich [t]%s[s2][/][ec5] Rubine.
+Danke, dass du vorbeigeschaut hast!
+Anscheinend hast du nicht genug Rubine.
+Was fr dich dabei?
+Was darf's sein?
+Wenn du was verkaufen willst, dann zeig her!
+[eb][t]%s[s0][/][ec1]?
+Wie viele davon?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1], ja?
+Dann gib mir [t]%s[s2][/][ec5] Rubine.
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon verkaufst du?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1], oder?
+Sind [t]%s[s2][/][ec5] Rubine in Ordnung?
+Bis demnchst!
+hm... Du hast nicht genug Rubine.
+Von selbst gemolkener Milch bis zu frisch gelegten
+Eiern haben wir allerlei Kstlichkeiten anzubieten!
+Hier prsentieren wir die besten Produkte von
+der Farm. Wenn du etwas kaufen willst, sag
+nur Bescheid!
+Mchtest du etwas verkaufen?
+Aber gerne! Wir nehmen fast alles.
+Wie viel Stck [t]%s[s0][/][ec1] drfen
+es denn sein?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1], richtig?
+Das macht dann [t]%s[s2][/][ec5] Rubine.
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon kann ich dir abkaufen?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1], ja?
+Wren [t]%s[s2][/][ec5] Rubine in Ordnung?
+Danke schn!
+Oh, du hast nicht genug Rubine!
+Huhu! Wie immer habe ich eine hervorragende
+Auswahl an Fischen anzubieten. Allerdings habe
+ich keine Insekten mehr fr die Kder...
+Diese Fische sind mein ganzer Stolz.
+Sieh doch mal!
+Ach so? Du willst etwas verkaufen?
+[eb][t]%s[s0][/][ec1], stimmt's?
+Wie viel darf's denn sein?
+[t]%s[s0][/][ec5]-mal [t]%s[s1][/][ec1]...
+[t]%s[s2][/][ec5] Rubine, bitte!
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon verkaufst du mir?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1], richtig?
+Groartig! Wie wr's mit [t]%s[s2][/][ec5] Rubinen?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1], ja?
+Dafr biete ich [t]%s[s2][/][ec5] Rubine!
+Danke!
+Du hast nicht genug Rubine!
+Vasaaq. Wenn du Lust auf Obst hast,
+dann greif zu.
+Kauf so viele Frchte, wie du willst!
+Wenn du etwas verkaufen willst, bring es einfach
+vorbei. In Ordnung?
+[eb][t]%s[s0][/][ec1] also?
+Wie viel Stck davon mchtest du?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]?
+Das macht [t]%s[s2][/][ec5] Rubine!
+[eb][t]%s[s0][/][ec1], ja?
+Wie viel Stck davon verkaufst du?
+Oh, [t]%s[s0][/][ec1]! Endlich bekomme
+ich, was ich mir gewnscht habe! [t]%s[s1][/][ec5] Stck
+lasse ich mir [t]%s[s2][/][ec5] Rubine kosten.
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1] kaufe
+ich fr [t]%s[s2][/][ec5] Rubine!
+Sarq-sarq. Komm gerne wieder vorbei!
+Du hast aber nicht genug Rubine.
+Dann kann ich dir das nicht verkaufen.
+Meine handverlesenen Pilze sind eine Klasse
+fr sich! Da fllt mir ein, hast du zufllig etwas
+zum Wrzen dabei?
+Pilze, Pilze, hervorragende Pilze!
+Gewrze! Ich brauche Gewrze!
+Tja... Andere Sachen kaufe ich dir aber auch
+gerne ab.
+[eb][eg6][t]%s[s0][/][ec5] hat
+also dein Interesse geweckt?
+Wie viel Stck davon mchtest du?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]?
+Das macht [t]%s[s2][/][ec5] Rubine!
+[eb][t]%s[s0][/][ec1], richtig?
+Wie viel Stck davon soll ich dir abkaufen?
+Oh, [t]%s[s0][/][ec1]! Danach habe
+ich gesucht! Fr [t]%s[s1][/][ec5] Stck davon wrde ich
+[t]%s[s2][/][ec5] Rubine zahlen!
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Wren [t]%s[s2][/][ec5] Rubine fr dich in Ordnung?
+Vielen Dank!
+Du hast nicht genug Rubine!
+Das alles hier ist meine Sammlung!
+Ehrlich gesagt wrde ich gerne auch noch
+Monsterteile sammeln, aber...
+Sieh dir ruhig meine Sammlung an!
+Wenn du etwas haben willst, sag Bescheid.
+Oho, du willst mir also etwas verkaufen?
+Gerne doch, ich kaufe alles!
+[eb][eg6][t]%s[s0][/][ec5] also...
+Wie viel Stck davon mchtest du?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das macht [t]%s[s2][/][ec5] Rubine, wenn's beliebt!
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon verkaufst du?
+Toll, [t]%s[s0][/][ec1]!
+Wenn du mir [t]%s[s1][/][ec5] Stck davon verkaufst,
+gebe ich dir [t]%s[s2][/][ec5] Rubine!
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das kaufe ich dir fr [t]%s[s2][/][ec5] Rubine ab!
+Danke schn, danke schn! 
+Nanu? Du hast nicht genug Rubine!
+Nun, womit kann ich dir behilflich sein?
+Oder knnte ich dich sogar dazu bringen,
+mir etwas zu verkaufen?
+Haben es dir meine Insekten angetan?
+Oh, ich darf dir etwas abkaufen?
+[eb][t]%s[s0][/][ec1], ja?
+Wie viel Stck davon mchtest du kaufen?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das macht dann [t]%s[s2][/][ec5] Rubine. In Ordnung?
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck davon verkaufst du?
+Oh, [eg6][t]%s[s0][/][ec5] hat mir noch
+fr meine Forschung gefehlt! Was hltst du von
+[t]%s[s2][/][ec5] Rubinen fr [t]%s[s1][/][ec5] Stck?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]?
+Das kaufe ich fr [t]%s[s2][/][ec5] Rubine. In Ordnung?
+Vielen Dank!
+Du hast nicht genug Rubine!
+Mit dem Geld, das ich mit dem Verkauf dieses
+Gemses verdiene, werde ich haufenweise
+Fleisch kaufen!
+Kann ich dich fr erntefrisches Gemse
+begeistern? Komm schon, kauf etwas!
+Tu's fr mich!
+Kein Problem! Bring einfach vorbei, was du
+verkaufen willst!
+[eb][t]%s[s0][/][ec1] also?
+Wie viel Stck davon willst du?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das macht [t]%s[s2][/][ec5] Rubine.
+[eb][t]%s[s0][/][ec1]?
+Wie viel Stck soll ich dir abkaufen?
+Oha, [t]%s[s0][/][ec1]!
+Verkaufst du mir [t]%s[s1][/][ec5] Stck fr
+[t]%s[s2][/][ec5] Rubine?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1] nehme
+ich dir fr [t]%s[s2][/][ec5] Rubine ab. Abgemacht?
+Es war mir ein Vergngen, mit dir Geschfte
+zu machen!
+Moment mal. Du hast nicht genug Rubine!
+Hallo! Schlag zu, bevor alles ausverkauft ist!
+Das hier ist unser heutiges Angebot.
+Ich kaufe alles, kein Problem!
+[eb][t]%s[s0][/][ec1], richtig?
+Wie viel darf's sein?
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1]...
+Das macht [t]%s[s2][/][ec5] Rubine!
+[eb][t]%s[s0][/][ec1], richtig?
+Wie viel darf's sein?
+[eb][t]%s[s0][/][ec1]! Mein Wunsch
+geht in Erfllung! Fr [t]%s[s1][/][ec5] Stck zahle
+ich dir [t]%s[s2][/][ec5] Rubine!
+[t]%s[s1][/][ec5]-mal [t]%s[s0][/][ec1] kaufe
+ich dir fr [t]%s[s2][/][ec5] Rubine ab.
+Vielen Dank!
+Du hast aber nicht genug Rubine.
+Mchtest du trainieren?
+Dann trage dich ein und bezahle die Gebhr.
+Whle bitte die gewnschte Stufe.
+Wie viele Stufen willst du trainieren? [t]%s[s0][/][ec5]?
+Das kostet [t]%s[s1][/][ec5] Rubine.
+Es scheint nichts mehr zu geben, was ich dir
+beibringen knnte.
+Komm wieder vorbei, wenn du mehr Erfahrung
+im Kampf gesammelt hast.
+Das Training ist vorbei. Setze deine neuen
+Fhigkeiten zum Wohle von Hyrule ein!
+Nun bist du in allen Kampfknsten versiert!
+Lass uns gemeinsam Hyrule verteidigen,
+mit all unserer Kraft!
+Komm wieder vorbei, wenn du mehr Training
+bentigst!
+Es tut mir sehr leid, aber ohne eine ausreichende
+Anzahl an Rubinen kannst du nicht trainieren.
+Willkommen in unserer traditionsreichen Frberei
+fr Hateno-Farben! Hier kannst du deine Kleidung
+frben oder Farben entfernen lassen.
+Diese Farbe kostet [t]%s[s0][/][ec5] Rubine!
+Oh, das steht dir hervorragend!
+Mchtest du das anbehalten?
+Vielen herzlichen Dank! Beehre uns wieder,
+wenn du eine neue Farbe wnschst.
+Tut mir leid, aber du hast nicht genug Rubine.

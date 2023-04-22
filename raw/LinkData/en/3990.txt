@@ -1,0 +1,276 @@
+So, whose weapon am I looking at?
+Get out there and really give it to 'em.
+I'll be here if ya need me.
+So ya want to improve a weapon, huh?
+Just leave it to me!
+This is how it'll turn out. Ya sure this is
+what ya want?
+Whoa-hoo-hoo! I don't know how, but somethin'
+incredible happened! Look for yourselfit got
+stronger than I expected!
+Hey, ya did it! Ain't that somethin'...
+This weapon is already fully fortified.
+A good weapon! Always glad to help.
+Hey, hold on a second!
+Ya haven't got enough rupees!
+Believe it or not, I learned this by studyin'
+Octoroks... It'll get those rusty weapons
+lookin' good as new!
+Just to be sure, this is the weapon ya want
+to get the old Octo-polish treatment, right?
+What do ya think? Just as good as an Octorok,
+and I'm a much better conversation...er?
+Conversator? Speaker!
+Hey, hold on a second!
+Ya haven't got enough rupees!
+If yer lookin' to draw out the latent power
+of a weapon, ya came to the right place!
+Looks like it can be made stronger this way.
+Ya sure ya want me to get to work?
+This one has reached its full potential.
+Can't wait to see what ya do with it!
+Hold on a second...
+Come back once ya got everythin' ya need, OK?
+Oh, and ya can count on me to remove any
+seals burned into weapons too. Easy!
+Which seal do ya want removed?
+Hey, once that seal is removed, it can't just be
+undone! Ya sure ya want me to remove it?
+One seal removal, just like ya asked!
+Come back again if ya need somethin' else!
+This one looks good as new now, huh?
+Come back if ya want to attach some seals!
+Hold on a second...
+Come back once ya got everythin' ya need, OK?
+Thinkin' about sellin' weapons, huh?
+Just so happens I'm lookin' to buy.
+Let me see!
+So ya want to sell this, then?
+How about...[t]%s[s0][/] rupees?
+I'll take the lot for [t]%s[s0][/] rupees.
+Sound like a good exchange?
+OK, I'll buy it! Be sure to come see me the
+next time ya got interesting weapons!
+Oh, welcome! It's lovely to see you!
+What will it be today?
+Oh, you're here for a little shopping?
+Please! Peruse at your leisure.
+Let me know if you find anything!
+Oh, you're looking to sell something?
+[t]%s[s0][/]? And how many
+would you like to purchase?
+Let me see. Hm, [t]%s[s1][/]...
+Your total is [t]%s[s2][/] rupees!
+You wish to sell [t]%s[s0][/]?
+And how many were you going to part with?
+OK, so [t]%s[s1][/] of them...
+Then that comes to [t]%s[s2][/] rupees!
+Thank you for your patronage!
+Oh dear... You don't seem to have enough rupees.
+Welcome, welcome! If there's anything you need,
+I'm happy to help!
+I've got all our products lined up to make it easy
+for you! Go on, get yourself something nice!
+What's that? You're looking to sell? Well, we buy
+anything. And I mean anything! What ya got?
+[t]%s[s0][/]? Perfect! That'll be...
+Oh wait, how many did you want to buy?
+OK, now if I remember my counting stones,
+[t]%s[s1][/] would run you...[t]%s[s2][/] rupees!
+You're selling [t]%s[s0][/]?
+Aaand...how many?
+Well, for [t]%s[s1][/], I'd say...[t]%s[s2][/] rupees, then!
+Thanks a lot!
+You don't have enough rupees!
+Hello, and welcome to Secro's Supplies.
+Please feel free to examine our products.
+Take a look around. No rush.
+If you have things you'd like to sell,
+please speak up.
+[t]%s[s0][/]? And how many were
+you looking to acquire?
+I would value [t]%s[s1][/] of those at...
+[t]%s[s2][/] rupees.
+[t]%s[s0][/]? How many do you
+wish to sell?
+Well, [t]%s[s1][/] of that would of course be
+[t]%s[s2][/] rupees. Is that agreeable?
+Thank you for your patronage.
+Oh... You seem to lack the required rupees.
+Hello! Welcome to High Spirits Produce.
+We carry the very best products.
+Feel free to browse what's on display!
+We are pretty open to buying
+from customers as well...
+That comes to [t]%s[s0][/].
+How many will you be needing?
+OK, [t]%s[s1][/] will be...[t]%s[s2][/] rupees.
+[t]%s[s0][/]? How many would
+you like to sell?
+Let's see...[t]%s[s1][/]? That will be [t]%s[s2][/] rupees.
+Thanks for stopping by!
+It looks like you don't have enough rupees.
+Ahem...hello. Speak up if you need something.
+Anything catching your eye?
+Show me want you want to sell.
+I can't read minds.
+[t]%s[s0][/]? How many?
+So, [t]%s[s1][/]? I think [t]%s[s2][/] rupees is fair,
+don't you?
+[t]%s[s0][/]? How many are
+you selling?
+Hmm. [t]%s[s0][/]? I hate math...
+[t]%s[s2][/] rupees sound OK?
+Come back whenever.
+So, uh... You need more rupees.
+We've got everything from freshly squeezed
+milk to eggs gathered just this morning!
+You'll find nothing fresher!
+All of our top products are on display!
+If you need anything, don't hesitate to ask!
+Oh, you have goods to sell? Sounds good!
+We pretty much buy anything!
+[t]%s[s0][/]? How many are you
+looking for?
+Lets see... [t]%s[s1][/] would be...[t]%s[s2][/] rupees,
+if you please!
+[t]%s[s0][/]? How many are you
+looking to sell?
+OK! So [t]%s[s1][/]... How does [t]%s[s2][/] rupees
+sound to you?
+Thanks!
+Aww, you don't have enough rupees!
+Come on back once you've got some more!
+Hey there! I've got quite a catch laid out! It took
+all my best insect bait to reel in these, though...
+I'm seriously proud of my catch! Take a good look!
+Oh yeah? Looking to sell something?
+[t]%s[s0][/], right? How many
+were you wanting?
+Let's see... [t]%s[s0][/] would come out to...
+[t]%s[s2][/] rupees!
+You want to sell [t]%s[s0][/]? OK!
+How many, exactly?
+You said [t]%s[s1][/]? One [t]%s[s0][/] is...
+So the total is [t]%s[s2][/] rupees!
+OK, so [t]%s[s1][/], right? Then that'll be
+[t]%s[s2][/] rupees!
+Thanks, friend!
+Hey now, you don't have enough rupees!
+Vasaaq. If you want any fruit, pick
+something you like from here.
+You may buy as many as you like.
+Bring me anything you're hoping to sell.
+All right, so you're interested in the
+[t]%s[s0][/]? How many?
+You want [t]%s[s1][/]? That'll be [t]%s[s2][/] rupees.
+[t]%s[s0][/], yes? How many will
+you be selling?
+[t]%s[s0][/]... Oh. Oh! I'll give you
+[t]%s[s2][/] rupees for [t]%s[s1][/] of them!
+For [t]%s[s1][/]... How about [t]%s[s2][/] rupees!
+Sarqso. Come again!
+You haven't got enough rupees.
+I can't sell you this.
+My carefully selected mushrooms are so tasty!
+I sometimes like to add a little seasoning too...
+Mushrooms, anyone?
+Seasoning! I need seasoning!
+Ah, but I'll buy other things from you too!
+You want [t]%s[s0][/]? How many?
+If it's [t]%s[s1][/] you want, then that'll
+be [t]%s[s2][/] rupees!
+[t]%s[s0][/], right? How many are
+you looking to sell?
+[t]%s[s0][/]! I've been wanting this!
+For [t]%s[s1][/], I'll give you the
+special price of [t]%s[s2][/] rupees!
+Hmm...[t]%s[s1][/]... Would [t]%s[s2][/] rupees be OK?
+Thank you!
+Hey now, you don't have enough rupees!
+Just look at my collection! To tell you the truth,
+I'd like to accumulate monster parts too, but...
+Are you impressed by everything I've collected?
+If there's anything you want, speak up!
+Oho, so you want to sell me something?
+Happy to help you outI'll buy anything!
+[t]%s[s0][/], eh? Aaand...how many?
+OK, [t]%s[s1][/]... It'll be [t]%s[s2][/] rupees then,
+please and thanks!
+[t]%s[s0][/]? How many do you
+want to sell?
+Whoa, that [t]%s[s0][/] is the best!
+If you sell me [t]%s[s1][/], I'll pay [t]%s[s2][/] rupees!
+Well now, [t]%s[s1][/]... I'll buy that for
+[t]%s[s2][/] rupees!
+Thank you ever so muuuuch!
+Hang on! Looks like you don't have enough rupees.
+Well, well... What are you looking for? Or maybe
+you're looking to lighten your pockets a bit?
+So you're interested in my bugs?
+Oh, you're looking to sell me something?
+You want to buy [t]%s[s0][/]?
+How many do you want?
+And [t]%s[s1][/] would cost...[t]%s[s2][/] rupees.
+Is that OK?
+So you want to sell [t]%s[s0][/]?
+How many will that be?
+Whoa-whoa-whoa! [t]%s[s0][/]!
+It's exactly what I need for my research!
+I'll give you [t]%s[s2][/] rupees for [t]%s[s1][/]! Deal?
+So [t]%s[s1][/] would be...[t]%s[s2][/] rupees.
+Is that OK?
+Thank you very much!
+You don't have enough rupees!
+I'm gonna buy a mountain of meat with
+the money I make selling these veggies!
+Can I interest you in some fresh vegetables?
+Go on, buy a bunch!
+Sure thing! Bring me what you want to sell!
+You want [t]%s[s0][/]?
+How many are you gonna buy?
+For [t]%s[s1][/]... I'd say [t]%s[s2][/] rupees is fair!
+You wanna sell [t]%s[s0][/]?
+How many are you willing to part with?
+Whoooa! [t]%s[s0][/]! Will you sell
+me [t]%s[s1][/] for [t]%s[s2][/] rupees?!
+For [t]%s[s1][/], that comes to [t]%s[s2][/] rupees, OK?
+Pleasure doing business!
+Hang on just a minute! You don't seem to have
+enough rupees there.
+Heya! This stuff won't be around forever!
+You better buy something while you can!
+Here's my current lineup!
+I'll buy anything!
+[t]%s[s0][/], right? How many?
+So [t]%s[s1][/], huh... That'll be [t]%s[s2][/] rupees!
+[t]%s[s0][/], right? How many?
+[t]%s[s0][/]! I really want that! And if
+you sell me [t]%s[s1][/], I'll pay [t]%s[s2][/] rupees!
+For [t]%s[s1][/] of them, I'll give you...
+[t]%s[s2][/] rupees!
+Thanks a bunch!
+You don't have enough rupees...
+Is it training you're after? Just fill out this waiver
+absolving us of any liability... Oh, and a small fee!
+Please select your desired level.
+You want to train them up [t]%s[s0][/] levels, right?
+That'll be [t]%s[s1][/] rupees.
+There is nothing left for me to teach.
+Return for additional training once you've
+earned more experience in battle.
+Training is over! Use this power to defend Hyrule!
+You are now a full-fledged warrior!
+Let's do all we can to defend Hyrule!
+Please drop by whenever you feel
+the need to train some more!
+I'm sorry, but it won't be possible to
+train without the required rupees...
+Welcome to the Kochi Dye Shop! We live to dye!
+If you need to dye anything, or turn it back to
+normal, just leave it to me!
+For that color, you're gonna need [t]%s[s0][/] rupees!
+Hey, that suits you! Will you be sticking with that?
+Thank you kindly! Just come back
+for all your dyeing needs!
+Oops! 'Fraid you don't have enough rupees!

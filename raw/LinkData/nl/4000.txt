@@ -1,0 +1,297 @@
+Nou, wie kan ik helpen met welk wapen?
+Eropaf! Geef hem van jetje en geef ze van
+katoen! Mijn steun heb je.
+Dus jij wilt een wapen verbeteren? Geen
+probleem, laat dat maar aan mij over.
+Zo komt het er dan uit te zien. Is dat wat je
+voor ogen had?
+Wat krijgen we nou? Hoe is het mogelijk!
+Het is nog beter gelukt dan ik had verwacht.
+Moet je zien!
+Schitterend! Dit wapen heeft nu zijn maximale
+niveau bereikt! Wat een prachtstuk.
+Kijk eens, hier is je wapen terug. 't Is mooi
+geworden, al zeg ik het zelf. Kom maar langs
+als je weer een opdracht hebt!
+Sorry, ik werk niet op de pof. Kom maar terug
+als je genoeg rupees hebt.
+Komt voor de bakker! Ik heb deze techniek
+geleerd door Octoroks te bestuderen. Ik maak
+roestige wapens weer zo goed als nieuw!
+Is dit het wapen dat ik moet poetsen?
+En? Die Octoroks kunnen ook nog wel wat van
+mij leren, of niet soms! Alsjeblieft.
+Sorry, ik werk niet op de pof. Kom maar terug
+als je genoeg rupees hebt.
+Als je de verborgen krachten van een wapen
+tevoorschijn wilt halen, moet je bij mij zijn!
+Op deze manier moet het wel sterker gemaakt
+kunnen worden. Wil je dat ik dat voor je ga
+regelen?
+Dit wapen is nu op z'n allersterkst. Ik kan niet
+wachten om te zien wat voor grootse dingen jij
+ermee gaat doen!
+Hm... Kom maar terug als je alles hebt wat
+hiervoor nodig is.
+Ik kan ook zegels van je wapens verwijderen.
+Welk zegel moet ik voor je verwijderen?
+Ik kan een verwijderd zegel later niet meer
+herstellen. Weet je het heel zeker?
+Kijk eens aan, het zegel is weg! Als je me nog
+eens nodig hebt, weet je waar je me kunt vinden.
+Dit wapen ziet er weer net zo uit als toen het
+van het aambeeld kwam! Kom maar terug als je
+een zegel wilt laten plaatsen.
+Hm... Kom maar terug als je alles hebt wat
+hiervoor nodig is.
+Dus jij hebt wat te verkopen? Laat maar zien!
+Dit is wat je wilt verkopen? Ok. Wat dacht je
+van [t]%s[s0][/][ec5] rupees?
+Ik wil alles van je overnemen voor [t]%s[s0][/][ec5]
+rupees. Weet je zeker dat je hier allemaal van
+af wilt?
+Deal. Als je nog eens wat interessants te
+verkopen hebt, dan hoor ik het graag van je.
+Welkom! Goed je weer te zien! Hoe kan ik je
+van dienst zijn?
+Neem je tijd om rond te kijken en laat het me
+weten als je iets ziet naar je smaak!
+Heb je spullen waar je van af moet?
+[eb][eg1][t]%s[s0][/][ec5]? Hoeveel?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Dat is dan [t]%s[s2][/][ec5] rupees.
+Wil je me [eg1][t]%s[s0][/][ec5]
+verkopen? Hoeveel?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Dan krijg je [t]%s[s2][/][ec5] rupees van me.
+Bedankt en een fijne dag nog!
+Je hebt helaas niet genoeg rupees.
+Welkom, goro! Laat het me weten als ik je
+ergens mee van dienst kan zijn, goro.
+Ik heb alle producten voor het gemak uitgestald,
+goro. Smijt maar lekker met je rupees hier!
+O? Wil je wat verkopen? Ik koop eigenlijk alles
+wel. Wat heb je te bieden?
+[eb][eg1][t]%s[s0][/][ec5], goro? Aan
+hoeveel dacht je?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+[t]%s[s2][/][ec5] rupees, graag, goro!
+Heb je [eg1][t]%s[s0][/][ec5] te koop,
+goro? Hoeveel?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Hier heb je [t]%s[s2][/][ec5] rupees, goro!
+Bedankt, goro!
+Je hebt niet genoeg rupees, goro.
+Hallo! Welkom in Spullen van Secro. Je mag al onze
+producten pakken en bestuderen.
+Neem je tijd om rond te kijken!
+Als je wat wilt verkopen, aarzel dan niet om
+dat hier te doen.
+[eb][eg1][t]%s[s0][/][ec5]? En hoeveel
+precies?
+Eens zien, [t]%s[s1][/][ec5] keer... Dat gaat je dan
+[t]%s[s2][/][ec5] rupees kosten.
+[eb][eg1][t]%s[s0][/][ec5]? En hoeveel
+precies?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Ik kan je [t]%s[s2][/][ec5] rupees geven, goed?
+Bedankt voor je bezoek!
+O, je hebt niet genoeg rupees.
+H daar! Welkom in de Wortelwinkel.
+Wij hebben alleen producten van de hoogste
+kwaliteit. Bekijk ze gerust grondig!
+Ik koop alles.
+[eb][eg1][t]%s[s0][/][ec5]? En welke
+hoeveelheid had je in gedachten?
+[t]%s[s1][/][ec5] keer [eg1][t]%s[s0][/][ec5] is
+[t]%s[s2][/][ec5] rupees, alsjeblieft.
+[eb][eg1][t]%s[s0][/][ec5]? Hoeveel kan
+ik er van je overnemen?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Daarvoor kan ik je [t]%s[s2][/][ec5] rupees bieden.
+Akkoord?
+Prettig zaken met je gedaan te hebben!
+Ach, je hebt niet genoeg rupees.
+Hoi. Wou je iets hebben?
+Wat moet je hebben?
+Als je me iets gaat verkopen, wil ik het wel
+graag eerst even zien.
+[eb][eg1][t]%s[s0][/][ec5]? Hoeveel?
+[t]%s[s1][/][ec5] keer [eg1][t]%s[s0][/][ec5] is
+[t]%s[s2][/][ec5] rupees. Handje contantje, graag.
+[eb][eg1][t]%s[s0][/][ec5]? Hoeveel?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Daar heb ik [t]%s[s2][/][ec5] rupees voor over. Goed?
+Tot ziens.
+Je hebt niet genoeg rupees.
+Verse producten! Melk en eieren! Verse producten!
+Alle kwaliteitsproducten van onze boerderij
+staan hier uitgestald. Vertel me gerust wat
+je wilt hebben!
+Heb je iets om aan ons te verkopen? Tuurlijk!
+Wij kopen zowat alles.
+[eb][eg1][t]%s[s0][/][ec5]? En hoeveel?
+[t]%s[s1][/][ec5] keer [eg1][t]%s[s0][/][ec5]...
+Dat is dan [t]%s[s2][/][ec5] rupees, alsjeblieft.
+[eb][eg1][t]%s[s0][/][ec5]? Hoeveel?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Hier heb je dan [t]%s[s2][/][ec5] rupees.
+Bedankt, hoor!
+Oei, je hebt niet genoeg rupees. Jammer!
+Hallo daar! Jij rook natuurlijk deze lekkere verse
+vis! We hebben alleen geen insecten meer voor
+aas.
+Ik ben trots op deze vissen, dus kijk maar eens
+goed!
+Wat wil je me verkopen?
+[eb][eg1][t]%s[s0][/][ec5]? Roep maar
+hoeveel.
+[t]%s[s0][/][ec5] keer [eg1][t]%s[s1][/][ec5]...
+Even tellen... Dan krijg ik [t]%s[s2][/][ec5] rupees van je.
+[eb][eg1][t]%s[s0][/][ec5]? En met
+hoeveel ga je me dan verblijden?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer?
+Fantastisch! Daar geef ik je graag [t]%s[s2][/][ec5]
+rupees voor.
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer...
+Laat me even rekenen... Ja! Daar geef ik je
+[t]%s[s2][/][ec5] rupees voor.
+Vriendelijk bedankt!
+Je hebt helemaal niet genoeg rupees!
+Vasaaq. Heb je trek in fruit? Voel je vrij om
+wat uit te kiezen.
+Neem zo veel als je wilt.
+Alles wat je wilt verkopen, kun je naar mij
+brengen.
+[eb][eg1][t]%s[s0][/][ec5]? Hoeveel?
+Toch niet maar eentje?
+[t]%s[s1][/][ec5] keer [eg1][t]%s[s0][/][ec5].
+[t]%s[s2][/][ec5] rupees, alsjeblieft.
+[eb][eg1][t]%s[s0][/][ec5]? Hoeveel dan?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer?
+Uitstekend! Wat een dag. Hier zoek ik al heel
+lang naar. Ik geef je er [t]%s[s2][/][ec5] rupees voor.
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer.
+Ik bied je [t]%s[s2][/][ec5] rupees.
+Sarqsarq. Tot ziens.
+Je hebt niet voldoende rupees. Zo kunnen we
+geen zaken doen.
+Mijn zorgvuldig geselecteerde paddenstoelen zijn
+lekker, hoor! Vooral als je ze goed kruidt!
+Wie kan ik blij maken met paddenstoelen?
+O, heb je kruiden en specerijen voor me?
+Andere dingen zijn ook goed, hoor.
+Dus je hebt interesse in
+[eg1][t]%s[s0][/][ec5]? Hoeveel?
+[t]%s[s1][/][ec5] keer [eg1][t]%s[s0][/][ec5] is
+[t]%s[s2][/][ec5] rupees, alsjeblieft!
+[eb][eg1][t]%s[s0][/][ec5]? En hoeveel ga
+je me er verkopen?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer?
+Super! Ik verlang hier al zo lang naar! Ik geef je
+[t]%s[s2][/][ec5] rupees!
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer.
+Vind je [t]%s[s2][/][ec5] rupees goed?
+Dank je wel!
+Je hebt helemaal niet genoeg rupees!
+Wat vind je van mijn verzameling? Eerlijk gezegd
+zou ik ook wel wat monsteringredinten willen,
+maar ja...
+Kom je mijn collectie bewonderen? Als er iets
+tussen zit wat je wel wilt hebben, zeg het dan
+gerust!
+O, wil je mijn collectie aanvullen? Ik koop alles
+van je!
+O, [eg2][t]%s[s0][/][ec2]! Goede keus!
+Hoeveel?
+[t]%s[s1][/][ec5] keer [eg2][t]%s[s0][/][ec2] is
+[t]%s[s2][/][ec5] rupees. Gaat het zo mee?
+[eb][eg1][t]%s[s0][/][ec5]? Ok! Hoeveel?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer?
+Ik geef je er [t]%s[s2][/][ec5] rupees voor. Man, wat een
+mooie toevoeging aan mijn verzameling.
+Dus [eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5]
+keer? Hier heb je [t]%s[s2][/][ec5] rupees!
+Bedankt en leuk dat je er was!
+O jee, je hebt niet genoeg rupees.
+Hallo, hallo! Waar ben je naar op zoek? Of wil
+je juist iets van de hand doen?
+Heb je interesse in mijn insecten?
+Och, ik mag wat van je kopen?
+[eb][eg2][t]%s[s0][/][ec2]! Een aanrader.
+Hoeveel?
+[t]%s[s1][/][ec5] keer [eg2][t]%s[s0][/][ec2] is
+[t]%s[s2][/][ec5] rupees. Veel plezier ermee!
+[eb][eg1][t]%s[s0][/][ec5]? Prima, prima.
+Hoeveel?
+Allemachtig, [eg1][t]%s[s0][/][ec5],
+[t]%s[s1][/][ec5] keer! Dat is nuttig voor mijn onderzoek.
+Ik geef je er graag [t]%s[s2][/][ec5] rupees voor.
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer.
+Ben je tevreden met [t]%s[s2][/][ec5] rupees?
+Hartelijk bedankt!
+Och, je hebt niet genoeg rupees.
+Met het geld dat ik verdien met het verkopen
+van deze groenten, ga ik mezelf lekker
+volproppen met vlees!
+Heb jij zin in verse groenten? Koop ze lekker, joh!
+Ok! Laat maar zien wat je wilt verkopen!
+Wil je [eg1][t]%s[s0][/][ec5]?
+En hoeveel dan?
+Voor [t]%s[s1][/][ec5] keer
+[eg1][t]%s[s0][/][ec5]
+wil ik graag [t]%s[s2][/][ec5] rupees. Eet smakelijk!
+Dus je wilt me [eg1][t]%s[s0][/][ec5]
+verkopen? Goed dan. Hoeveel?
+Waaaaauw! [eb][eg1][t]%s[s0][/][ec5],
+[t]%s[s1][/][ec5] keer! Ik geef je [t]%s[s2][/][ec5] rupees!
+Akkoord?
+[eb][eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5] keer.
+Ik ben bereid je [t]%s[s2][/][ec5] rupees te geven.
+Het was me een genoegen!
+Ho, wacht eens! Je hebt te weinig rupees!
+Zo, hallo! Mijn waar vliegt over de toonbank, dus
+ik zou maar gauw wat kopen, nu er nog iets is!
+Dit is het aanbod.
+Ik koop eigenlijk alles, goro.
+[eb][eg1][t]%s[s0][/][ec5]? Goro.
+Hoeveel?
+[t]%s[s1][/][ec5] keer [eg1][t]%s[s0][/][ec5]
+wordt dan [t]%s[s2][/][ec5] rupees. Vriendelijk bedankt!
+[eb][eg1][t]%s[s0][/][ec5]? Goro.
+Hoeveel?
+Ooo, [eg1][t]%s[s0][/][ec5] zoek ik al
+heel lang! Als je me er [t]%s[s1][/][ec5] van geeft, heb ik
+er [t]%s[s2][/][ec5] rupees voor over. Deal?
+Zo, [eg1][t]%s[s0][/][ec5], [t]%s[s1][/][ec5]
+keer. Daar kun je [t]%s[s2][/][ec5] rupees voor krijgen.
+Deal?
+Dank je wel, hoor!
+O. Je hebt niet genoeg rupees, goro.
+Ben je hier voor de training? Graag even dit
+invullen, daar een krabbel zetten en natuurlijk
+betalen.
+Kies het gewenste niveau.
+Dus ze moeten [t]%s[s0][/][ec5] niveaus omhoog?
+Dat gaat je dan [t]%s[s1][/][ec5] rupees kosten.
+Ik kan jou niets meer leren.
+Je kunt terugkomen voor meer training als je
+meer ervaring hebt opgedaan in de strijd.
+De training is voorbij. Laten we onze krachten
+gebruiken om Hyrule samen te verdedigen!
+Je bent nu een volleerd krijger. Laten we alles
+doen wat in ons vermogen ligt om Hyrule te
+verdedigen!
+Aarzel niet om langs te komen als je denkt dat
+je wel wat meer training kunt gebruiken!
+Je kunt helaas geen training krijgen als je niet
+voldoende rupees hebt.
+Welkom bij Levant! Al generaties lang geven wij
+kleur aan Hateno en de wereld! Wij kunnen je
+kleren verven of de originele kleur herstellen.
+Die kleur kost [t]%s[s0][/][ec5] rupees.
+Dat staat je goed! Houd je het aan?
+Hartelijk bedankt! Mocht je er weer een andere
+kleur aan willen geven, dan ben je hier altijd van
+harte welkom.
+Ik ben bang dat je niet genoeg rupees hebt...

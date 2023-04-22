@@ -1,0 +1,168 @@
+[es]3_6_10_15_1_32_18_35_capuche Hylienne
+Fabrique dans un tissu robuste et selon des
+techniques Hyruliennes traditionnelles, cette
+capuche est prise des voyageurs qu'elle
+protge de la pluie, du vent et du soleil.
+[es]2_5_9_14_1_31_18_34_masque furtif
+Si ce masque semble tout  fait ordinaire,
+les Sheikahs l'ont en ralit confectionn
+spcialement pour touffer tout bruit de
+tissu froiss. Idal pour passer inaperu.
+[es]2_5_9_14_1_31_18_34_casque de soldat
+Ce casque a t forg dans un mtal solide
+pour protger les soldats au front. Il faudra
+plus que quelques chocs pour le briser.
+[es]2_5_9_14_1_31_18_34_bijou  plumes
+Ce bijou Piaf, surmont d'une plume d'oiseau
+des neiges et d'un rubis qui abrite le pouvoir
+du feu, aide  rsister au froid.
+[es]2_5_9_14_1_31_18_34_voile de damoiselle
+Ce voile port par les Gerudos protge leur
+visage du soleil du dsert, mais ne constitue
+pas une protection trs efficace contre les
+monstres.
+[es]3_6_10_15_1_32_18_35_parure des sablons
+Le bandeau de cette parure pour homme
+vendue au Club Secret Gerudo est orn
+d'un saphir renfermant un pouvoir de glace
+qui aide  supporter la chaleur.
+[es]2_5_9_14_1_31_18_34_masque nox
+Cet article exclusif du Club Secret Gerudo
+a t color  la poudre de gemme nox.
+Il met une trange lumire dans l'obscurit.
+[es]2_5_9_14_1_31_18_34_casque de pierre
+Fabriqu par les artisans Gorons pour les
+touristes qui visitent leur village, ce casque
+en pierre recouvre entirement la tte. Une
+protection radicale contre le feu.
+[es]2_5_9_14_1_31_18_34_casque Zora
+On dit que ce casque transmis de gnration
+en gnration chez les Zoras serait fait en
+cailles de dragon et permettrait de nager
+plus vite.
+[es]2_5_9_14_1_31_18_34_casque archonique
+Fruit des recherches de Faras, ce casque
+compos de diffrentes pices de Gardiens
+tmoigne de l'nergie des temps anciens.
+[es]2_5_9_14_1_31_18_34_bandana d'escalade
+Ce qui semble tre un simple bandana est
+en ralit le fruit de technologies antiques,
+un accessoire d'escalade pris des alpinistes
+car il les aide  garder l'quilibre.
+[es]2_5_9_14_1_31_18_34_casque isolant
+Cette coiffe lastique, fruit de techniques
+antiques, est confectionne en caoutchouc,
+un matriau isolant aujourd'hui disparu.
+[es]2_5_9_14_1_31_18_34_casque barbare
+Ce casque d'un peuple guerrier qui aurait
+autrefois habit Firone arbore des motifs
+antiques qui stimulent l'ardeur de son porteur.
+[es]3_6_10_15_1_32_18_35_coiffe des landes
+On dit que ce bonnet aurait t confectionn
+spcialement pour le Hros qui voyage 
+travers les landes sauvages. Trs agrable
+ porter, elle vous va parfaitement.
+[es]3_6_10_15_1_32_18_35_capuche noire
+Pour crer ce bonnet, le marchand de l'tang
+du Crne aurait imagin un monstre enfant
+par les tnbres. Les yeux du porteur brillent
+d'une trange lueur rouge, mme dans le noir.
+[es]3_6_10_15_1_32_18_35_coiffe de guerrier d'Hyrule
+Ce bonnet aurait appartenu au Hros qui a
+voyag  travers les mondes, et il l'apprciait
+tout particulirement. trangement, il vous
+va comme un gant.
+[es]2_5_9_14_1_31_18_34_masque du tonnerre
+Cette relique sacre transmise chez les
+Gerudos de gnration en gnration a
+le pouvoir de repousser la foudre. Seule
+leur chef est  mme de l'utiliser.
+[es]2_5_9_14_1_31_18_34_masque de Bokoblin
+L'expression de ce masque confectionn par
+le marchand de l'tang du Crne ne manque
+pas de charme. Portez-le pour vous prendre
+pour un Bokoblin.
+[es]2_5_9_14_1_31_18_34_masque de Moblin
+Le marchand de l'tang du Crne a reproduit
+presque  la perfection le long museau et la
+grosse corne des Moblins. Portez-le pour
+vous confondre avec eux.
+[es]2_5_9_14_1_31_18_34_masque de Lzalfos
+La corne et la langue aux formes complexes
+de ce masque fait par le marchand de l'tang
+du Crne sont si ralistes qu' le porter, vous
+vous prendrez pour un vrai Lzalfos.
+[es]2_5_9_14_1_31_18_34_masque de Centalo
+Ce masque de Centalo fabriqu par le
+marchand de l'tang du Crne est aussi
+intimidant que son modle. Portez-le pour
+avoir l'air d'un vrai Centalo.
+[es]4_8_12_17_1_33_18_37_boucles d'ambre
+Ce grand classique des bijouteries Gerudos
+est fait d'ambre brut, une gemme prcieuse
+qui renfermerait le pouvoir de la terre. Il
+brille d'un clat dor au soleil.
+[es]4_8_12_17_1_33_18_37_boucles d'opales
+Le pouvoir de l'eau habiterait les opales
+de ces bijoux Gerudos qui luisent d'un
+doux clat.
+[es]4_8_12_17_1_33_18_37_boucles de topaze
+On dit que le pouvoir de l'lectricit habiterait
+les topazes de ces bijoux Gerudos, les faisant
+scintiller d'un clat lectrique qui attire
+l'attention sur leur porteur.
+[es]2_5_9_14_1_31_18_34_diadme rubis
+Habit par le pouvoir du feu, le rubis qui
+surmonte ce bijou traditionnel fabriqu par
+les joaillires Gerudos lui donne un charme
+brlant.
+[es]2_5_9_14_1_31_18_34_diadme saphir
+Le saphir qui dcore ce bijou cisel avec
+soin par une Gerudo renfermerait un pouvoir
+de glace qui aurole son porteur d'un charme
+rafrachissant.
+[es]2_5_9_14_1_31_18_34_diadme diamant
+Abritant le pouvoir de la lumire, le diamant
+qui dcore ce somptueux bijou de tte
+Gerudo sduit beaucoup de gens par son
+clat resplendissant.
+[es]2_5_9_14_1_31_18_34_bret de garde royal
+Ce couvre-chef du dernier chic complte
+l'uniforme de la garde royale. L'emblme dont
+il est orn lui confre une grande lgance.
+Il est aussi lger que passe-partout.
+[es]6_6_10_15_1_32_18_35_robe de mditation de Zelda
+Cette robe immacule aux ornements brods
+avec soin est porte par la princesse d'Hyrule
+lorsqu'elle se livre  la mditation pour veiller
+le pouvoir du sceau.
+[es]6_6_10_15_1_32_18_35_robe princire de Zelda
+Sur cette tenue officielle porte au chteau
+lors des crmonies, le bleu vif emblmatique
+de la famille royale d'Hyrule est rehauss par
+des accents dors.
+[es]6_6_10_15_1_32_18_35_tenue d'hiver de Zelda
+Si la couleur blanche domine dans cette tenue
+tudie pour se protger du froid, le bleu de
+la famille royale se retrouve au niveau du col
+et sur la doublure.
+[es]7_7_11_16_1_31_19_36_habit de Prodige de Mipha
+Cet habit offert aux cinq Prodiges introniss
+par la famille royale d'Hyrule a t tiss par
+Zelda tout en priant pour leur victoire face
+au Flau Ganon.
+[es]7_7_11_16_1_31_19_36_habit de Prodige de Daruk
+Cet habit offert aux cinq Prodiges introniss
+par la famille royale d'Hyrule a t tiss par
+Zelda tout en priant pour leur victoire face
+au Flau Ganon.
+[es]7_7_11_16_1_31_19_36_habit de Prodige de Revali
+Cet habit offert aux cinq Prodiges introniss
+par la famille royale d'Hyrule a t tiss par
+Zelda tout en priant pour leur victoire face
+au Flau Ganon.
+[es]7_7_11_16_1_31_19_36_habit de Prodige d'Urbosa
+Cet habit offert aux cinq Prodiges introniss
+par la famille royale d'Hyrule a t tiss par
+Zelda tout en priant pour leur victoire face
+au Flau Ganon.

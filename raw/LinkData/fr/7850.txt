@@ -1,0 +1,142 @@
+Puoi cambiare [eg2][v]%s[s0][/] solo nello schermo del titolo.
+Vuoi tornare allo schermo del titolo?
+Ricorda che i progressi non salvati andranno persi.
+Vuoi consegnare i materiali?
+Mipha, Daruk, Urbosa e Revali sono bloccati nei colossi sacri...
+[eb][eg2][v]%s[s0][/] e [eg2][v]%s[s1][/] ritornano!
+Non c' nessun mercante in questo momento...
+Vuoi applicare le impostazioni?
+Vuoi abbandonare la battaglia?
+Il gioco torner nella condizione precedente
+alla battaglia e perderai i tuoi progressi.
+Vuoi tornare allo schermo del titolo?
+I progressi non salvati andranno persi.
+Nuovo obiettivo impostato
+Cambia la difficolt
+Cambia le impostazioni relative agli amiibo
+Questo gioco  compatibile con gli amiibo.
+Vuoi usare gli amiibo nel gioco?
+L'attuale impostazione consente l'uso
+di amiibo nel gioco. Vuoi disattivare
+questa funzione?
+Ora puoi usare gli amiibo con la tavoletta Sheikah.
+Puoi modificare questa impostazione in
+qualunque momento nello schermo delle impostazioni.
+L'uso degli amiibo  disattivato. Puoi modificare
+questa impostazione in qualunque momento
+nello schermo delle impostazioni.
+Inverti lo spostamento della visuale lungo l'asse verticale
+Inverti lo spostamento della visuale lungo l'asse orizzontale
+Cambia la velocit di movimento della visuale
+Attiva o disattiva l'uso del giroscopio per prendere la mira
+Attiva o disattiva la funzione rumble
+Personalizza i comandi
+Cambia la lingua delle voci
+Cambia la lingua del testo
+Mostra o nascondi gli indicatori durante il gioco
+Mostra furigana
+Visualizza sottotitoli
+Cambia il volume della colonna sonora
+Cambia il volume degli effetti sonori
+Cambia il volume delle voci
+Vuoi ripristinare le impostazioni di partenza?
+Vuoi applicare le modifiche alla squadra o all'equipaggiamento?
+Verr impostata la posizione di partenza del giroscopio.
+Sposta il controller o la console nella posizione desiderata e premi [$0001].
+(Puoi resettare la posizione in battaglia premendo [$0104].)
+Hai sbloccato:
+[t]%s[s0][/].
+Vuoi uscire [eg5][t]%s[s0][/]?
+Usa amiibo
+Tocca il sensore NFC con un amiibo.
+Vuoi salvare i progressi?
+Salvataggio...
+Salvataggio effettuato.
+Vuoi caricare questi dati?
+Vuoi caricare questi dati?
+Gli attuali progressi andranno perduti.
+Non hai le risorse necessarie.
+Hai potenziato [eg2][t]%s[s0][/].
+Caricamento in corso...
+Caricamento completato.
+Spazio insufficiente per: [t]%s[s0][/].
+[t]%s[s1][/] [eg4][v]%s[s0][/]: spazio insufficiente.
+Vendi qualcosa.
+[t]%s[s0][/]: hai venduto ci
+che non potevi portare con te.
+Puoi modificare le impostazioni in qualsiasi momento nel menu delle impostazioni.
+Non puoi andare in battaglia con
+l'attuale impostazione [eg4][t]%s[s0][/].
+Tocca il sensore NFC con un amiibo.
+Impossibile leggere i dati.
+Impossibile leggere i dati. Questo potrebbe non essere un amiibo.
+Non puoi ricevere altre ricompense da questo amiibo per oggi.
+Non puoi ricevere altre ricompense dagli amiibo per oggi.
+Hai ricevuto una ricompensa usando un amiibo!
+Hai ricevuto [eg2][t]%s[s0][/].
+[eb][eg2][v]%s[s0][/] non pu uscire dal colosso sacro...
+Hai ricevuto un regalo dal popolo [eg4][t]%s[s0][/]
+in segno di gratitudine!
+I dati dell'amiibo sono danneggiati.
+I dati dell'amiibo sono danneggiati.
+Per recuperarli, accedi alle impostazioni amiibo della console.
+I dati dell'amiibo sono danneggiati.
+Non esistono dati di backup.
+Potresti essere in grado di recuperare i dati dell'amiibo con
+una console usata in precedenza, oppure puoi resettarli
+accedendo alle impostazioni amiibo della console.
+L'inventario  pieno.
+Impossibile ricevere la ricompensa.
+[t]%s[s0][/]: vuoi vendere ci che non puoi portare con te?
+Il numero di ricerche possibili sintonizzando 
+il sensore Sheikah  aumentato.
+Il tempo di ricarica per poter riusare [eg2][t]%s[s0][/] si  ridotto.
+Il numero di mele che puoi portare  aumentato.
+Il numero di volte che puoi usare la bacchetta  aumentato.
+Se inizi una nuova partita, i dati di salvataggio attuali verranno eliminati e perderai
+le ricompense amiibo. Vuoi davvero procedere? Con la creazione di nuovi dati di
+salvataggio, anche il dato relativo alla lettura degli amiibo verr resettato.
+La data  cambiata e le ricompense amiibo che non hai
+raccolto nel gioco verranno rimosse. Vuoi continuare
+a giocare e raccogliere le ricompense?
+Hai ottenuto [eg2][t]%s[s0][/] di Zelda,
+Mipha, Daruk, Revali e Urbosa.
+Vuoi annullare una ricerca attuale ed effettuarne una nuova?
+Hai salvato una missione di Hyrule.
+Hai ricevuto una ricompensa.
+Se inizi una nuova partita, i dati di salvataggio attuali verranno eliminati.
+Vuoi davvero procedere?
+I dati di salvataggio eliminati non possono essere ripristinati.
+Vuoi davvero procedere?
+Vuoi iniziare con queste impostazioni?
+(Potrai sempre cambiarle in seguito.)
+Questo gioco usa il salvataggio automatico.
+Durante il salvataggio non chiudere il gioco e non spegnere la console.
+Hai attivato la modalit 2 giocatori.
+Hai attivato la modalit 1 giocatore.
+Mostra comandi
+Vuoi interrompere la modalit 2 giocatori e abbandonare la battaglia?
+Puoi riprendere una battaglia da diversi punti.
+Se selezioni "Dall'inizio", i progressi della battaglia andranno persi.
+Gli effetti del cibo sono disattivati nella battaglia del colosso.
+Vuoi continuare?
+Puoi riprendere una battaglia da diversi punti.
+Se selezioni "Dall'inizio", i progressi della battaglia andranno persi.
+Gli effetti del cibo sono disattivati nella battaglia del colosso.
+Puoi riprendere una battaglia da diversi punti.
+Gli effetti del cibo sono disattivati nella battaglia del colosso.
+Sono stati rilevati i dati di salvataggio
+di "The Legend of Zelda: Breath of the Wild".
+Hai ottenuto un'arma bonus.
+ stato rilevato un bonus.
+Hai ottenuto un'arma bonus.
+Sono incluse armi bonus.
+Vuoi continuare?
+Vuoi iniziare a giocare in 2?
+Vuoi smettere di giocare in 2 e passare alla modalit 1 giocatore?
+Sono stati rilevati i dati di salvataggio della versione demo.
+Se importi questi dati, potrai continuare il gioco da dove lo avevi interrotto.
+Vuoi importare i dati di salvataggio della versione demo?
+I dati di salvataggio della versione demo sono stati importati.
+Vuoi davvero ricominciare il gioco dall'inizio, senza
+importare i dati di salvataggio della versione demo?

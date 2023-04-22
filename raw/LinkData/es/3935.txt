@@ -1,0 +1,15 @@
+Rupia
+Reluciente rupia que has recibido
+como recompensa en batalla.
+Siempre es agradable que te den una.
+Cetro de fuego
+Cetro mgico que dispara bolas de fuego,
+forjado por un mago de la antigedad.
+Cetro de hielo
+Cetro mgico que genera rfagas
+glidas, forjado con hielo originario
+de la cordillera de Hebra.
+Cetro elctrico
+Cetro mgico que alberga en su gema
+los rayos de las colinas de Hyrule.
+Puede disparar bolas elctricas.

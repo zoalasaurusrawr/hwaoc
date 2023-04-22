@@ -1,0 +1,412 @@
+[es]1_2__7_11____tak
+Een tak die je overal kunt vinden. Perfect om mee
+rond te zwiepen en je kunt hem ook gooien.
+[es]1_2__7_11____houten lepel
+Een hulpmiddel voor het opscheppen van soep of
+bij het bakken. Hij is gemaakt van robuust hout,
+dus je kunt er flinke tikken mee uitdelen.
+[es]1_3__8_12____reizigerszwaard
+Een veelvoorkomend zwaard dat vooral wordt
+gebruikt om wilde dieren op afstand te houden.
+Vrij stevig, maar niet erg geschikt tegen monsters.
+[es]1_3__8_12____soldatenzwaard
+Het zwaard dat de soldaten in Kasteel Hyrule
+bij zich dragen. Het is perfect om tegen monsters
+te gebruiken en het gaat vrij lang mee.
+[es]1_3__8_12____ridderzwaard
+Het zwaard van de ridders van Hyrule. Het is
+eenvoudig te gebruiken en erg krachtig, waardoor
+het zeer geliefd is bij doorgewinterde avonturiers.
+[es]1_3__8_12____koninklijk[ed]_e___ zwaard
+Het zwaard dat door de koninklijke familie van
+Hyrule aan ridders wordt gegeven voor bijzondere
+verdiensten. Dit zeldzame zwaard is heel sterk en
+ziet er prachtig uit.
+[es]1_3__8_12____woudzwaard
+Dit houten zwaard schijnt door de Koroks te zijn
+gemaakt voor gebruik door mensen. Het wordt
+vooral gebruikt voor zelfverdediging en het
+verwijderen van stronken en wortels.
+[es]1_3__8_12____Zora-zwaard
+Een zwaard met een dun blad en de typische
+versieringen van de Zora's. Het is gemaakt van
+een speciaal soort metaal. Het roest zelfs niet
+als het nat wordt.
+[es]1_2__7_11____verenkling
+Een tweesnijdend zwaard dat wordt gebruikt door
+de Rito's. Het is gemaakt van een licht materiaal,
+zodat ze zelfs tijdens het vliegen heel wendbaar
+zijn.
+[es]1_3__8_12____geavanceerd[ed]_e___ zwaard
+Een zwaard met een vlijmscherp blad dat is
+gemaakt met een eeuwenoude technologie.
+Het blauwe, lichtgevende blad verschijnt
+alleen als het zwaard wordt getrokken.
+[es]1_3__8_12____Sheikah-zwaard
+Een wapen dat is gemaakt door de Sheikahs als
+replica van het Meesterzwaard om het Onheil te
+verdrijven.
+[es]1_2__7_11____Boko-knots
+Deze knots wordt door Bokoblins gebruikt
+voor het jagen op prooi. Hij is niet erg stevig.
+[es]1_2__7_11____Boko-bottenknots
+Een speciale knots gemaakt door een Bokoblin.
+De scherpe botten geven net dat beetje extra
+venijn.
+[es]1_2__7_11____Boko-drakenknots
+Een sterk wapen bestaande uit versteende botten
+en een knuppel. Alleen de sterkste Bokoblins
+kunnen dit wapen dragen.
+[es]1_2__7_11____Lizal-boemerang
+Een kromzwaard dat wordt gebruikt door de
+Lizalfos. Het schijnt ook als een boemerang
+gebruikt te kunnen worden.
+[es]1_2__7_11____Lizal-duorang
+Een zwaard dat wordt gebruikt door de Lizalfos.
+Het heeft twee bladen en is sterker dan de
+normale Lizal-boemerang. Als je ermee gooit,
+komt het terug.
+[es]1_2__7_11____Lizal-triorang
+Een zwaard met nog meer bladen en meer kracht.
+Het kan worden gebruikt als boemerang, maar is
+lastig in het gebruik. Het wordt gedragen door
+zwarte Lizalfossen.
+[es]1_3__8_12____nanozwaard
+Een zwaard dat wordt gebruikt door een
+Nano-Wachter. Het heeft een blauw blad
+dat is gemaakt met een eeuwenoude technologie.
+[es]1_3__8_12____nanozwaard+
+Een nanozwaard met verbeterde eigenschappen.
+Het blad is scherper dan dat van het
+standaardmodel.
+[es]1_3__8_12____nanozwaard++
+Een nanozwaard met maximale kracht. Het snijdt
+door iedere bepantsering als een heet mes door
+boter. Het blad is groter om de kracht beter over
+te brengen.
+[es]1_3__8_12____Lynel-zwaard
+Een metalen zwaard dat door de Lynel wordt
+gedragen. Het is vooral gemaakt om te slaan in
+plaats van te snijden. Het is zwaar, maar erg
+krachtig.
+[es]1_3__8_12____machtig[ed]_e___ Lynel-zwaard
+Een Lynel-zwaard met extra snijvlakken. Men
+zegt dat een Lynel dit zwaard tijdens het lopen
+kan trekken en in n beweging een vijand in
+tween kan hakken.
+[es]1_3__8_12____woest[ed]_e___ Lynel-zwaard
+Een wreed zwaard dat wordt gedragen door
+de witte Lynel. Met het enorme, vlijmscherpe
+blad maai je iedere vijand moeiteloos neer.
+[es]1_2__7_11____boemerang
+Een wapen dat schijnt te zijn uitgevonden
+door de Koroks in het woud. Door de unieke
+vorm keert het terug als je ermee gooit, maar
+je kunt er ook mee om je heen slaan.
+[es]1_2__7_11____springveerhamer
+Deze vreemde hamer is uitgevonden door de
+handelaar bij het Doodskopmeer. Door de veren
+kun je er niet veel schade mee aanrichten.
+[es]1_2__7_11____Bokoblin-arm
+Een arm die blijft bewegen, ook als hij niet
+meer aan de rest van het skelet vastzit. Een
+griezelig wapen dat bij hoge nood van pas
+kan komen.
+[es]1_2__7_11____Lizalfos-arm
+De bewegende botten van een Skelet-Lizalfos.
+Ziet er angstaanjagend uit als je hem op je rug
+draagt. Kan worden gebruikt als wapen.
+[es]3_3__8_12____Meesterzwaard
+Het legendarische zwaard dat het Onheil
+verdrijft met behulp van een mysterieuze
+kracht. Het kan alleen worden gebruikt door
+de uitverkoren held.
+[es]1_3__8_12____oefenzwaard
+Een houten trainingszwaard voor de soldaten van
+Kasteel Hyrule. Het is zwaar en daardoor geschikt
+om je vaardigheden mee te verbeteren. Het doet je
+denken aan de spanning van je eerste trainingen.
+[es]1_2__7_11____gelukslepel
+Deze metalen lepel voelt een klein beetje warm
+aan. Er zijn dan ook vele warme maaltijden mee
+opgeschept op koude dagen. Het is bijna alsof je
+de heerlijke geuren ervan nog kunt ruiken...
+[es]1_2__7_11____Korok-waaier
+Een mysterieus blad dat je in de wouden kunt
+vinden. Je kunt een windvlaag creren met
+een enkele zwiep en zo alles dat licht genoeg
+is wegblazen.
+[es]1_2__7_11____schoffel
+Een stuk tuingereedschap dat wordt gebruikt
+om de bodem om te woelen. Het is stevig zodat
+het zware arbeid kan weerstaan, dus het is
+eigenlijk een best aardig wapen.
+[es]1_2__7_11____roeispaan
+Een stuk hout dat wordt gebruikt om een
+roeiboot in beweging te krijgen. Het is geen
+wapen, maar je kunt er aardig mee meppen.
+Het hout is van vrij goede kwaliteit.
+[es]1_2__7_11____ijzeren hamer
+Een grote hamer gemaakt van ijzer.
+Oorspronkelijk werd hij gebruikt voor het
+vermorzelen van erts, maar hij werkt ook
+prima als wapen.
+[es]1_2__7_11____houthakkersbijl
+Het favoriete gereedschap van een
+houthakker. Je kunt er makkelijk en snel
+bomen mee omhakken.
+[es]1_2__7_11____dubbele bijl
+Een bijl met twee bladen speciaal voor
+gevechten. Hij is zwaar en je hebt aardig wat
+techniek nodig om hem goed te gebruiken,
+dus werd het een wapen voor meesters.
+[es]1_2__7_11____grote boemerang
+Een boemerang die zo groot is dat je hem met
+twee handen vast moet houden. Oorspronkelijk
+bedoeld voor de jacht, maar nu ook geschikt
+om ermee te vechten.
+[es]1_3__8_12____reizigersgrootzwaard
+Een tweehandig zwaard dat populair is bij
+avonturiers die door het land reizen. Door
+het enorme gewicht kun je tegenstanders
+makkelijk de lucht in meppen.
+[es]1_3__8_12____Zora-grootzwaard
+Een tweehandig zwaard gemaakt door de
+Zora's van een speciaal metaal. Zora's
+gebruiken zelf liever speren, maar door het
+ontwerp is dit zwaard populair bij Hylianen.
+[es]1_3__8_12____Gerudo-grootzwaard
+Een slagzwaard dat alleen wordt gebruikt
+door de beste zwaardvechtsters van de
+Gerudo's. Het is lichter dan het eruitziet en
+makkelijk te gebruiken.
+[es]1_2__7_11____achtvoudige nodachi
+Dit wapen is al eeuwen in het bezit van de
+Sheikahs. Het is gemaakt met een eeuwenoude
+techniek waarbij het metaal acht keer gesmeed
+werd.
+[es]1_3__8_12____Tweezijdig grootzwaard
+Een vreemd dubbelsnijdend zwaard gemaakt
+door de Sheikahs. Het is gemaakt voor
+Hylianen die niet overweg kunnen met de
+zwaarden die de Sheikahs zelf gebruiken.
+[es]1_3__8_12____geavanceerd[ed]_e___ slagzwaard
+Een tweehandig zwaard gemaakt met
+technologie van de Sheikahs. Het blauwe
+blad draait om het wapen heen en heeft
+daardoor een ongekende snijkracht.
+[es]1_3__8_12____Sheikah-grootzwaard
+De Sheikahs gebruikten de essentie van de
+geavanceerde technologie om dit zwaard te
+smeden. Het was bedoeld om het Onheil mee
+te bestrijden.
+[es]1_2__7_11____Boko-knuppel
+Bokoblins maken deze enorme knuppels
+haast zonder erbij na te denken. Als je een
+tegenstander goed raakt, kun je er aardig
+wat schade mee toebrengen.
+[es]1_2__7_11____Boko-bottenknuppel
+De Bokoblins hebben nagedacht hoe ze hun
+Boko-knuppels effectiever konden maken
+en kwamen uit bij stekels gemaakt van
+dierenbotten. Een voltreffer vertel je niet na.
+[es]1_2__7_11____Boko-drakenknuppel
+Deze Boko-knuppel is verstevigd met een
+fossiel bot. Het is zo krachtig en stevig dat je
+er grote vijanden mee te lijf kunt gaan. Alleen
+de sterkste Bokoblins gebruiken ze.
+[es]1_2__7_11____Moblin-knots
+Een eenvoudige knots waar Moblins dol op
+zijn. Hij is gemaakt van een stevige boom,
+maar is met weinig zorg gemaakt.
+[es]1_2__7_11____Moblin-bottenknots
+Een verstevigde Moblin-knots. Een dierenbot is
+aan het slagvlak toegevoegd voor een heleboel
+extra schade.
+[es]1_2__7_11____Moblin-drakenknots
+Een Moblin-knots verstevigd met een bot van
+een mythisch beest. Het zwaartepunt is
+ongeveer hetzelfde als bij een hamer. Moblins
+met dit wapen zijn geharde strijders.
+[es]1_2__7_11____nanobijl
+Een van de wapens die worden gebruikt door
+Nano-Wachters. Deze bijl is zo krachtig dankzij
+het brede en dunne blad.
+[es]1_2__7_11____nanobijl+
+Een nanobijl met een verbeterde energie-
+verdeling. Dit wapen werd niet alleen gebruikt
+in de strijd, maar ook om overgroeide paden
+vrij te maken.
+[es]1_2__7_11____nanobijl++
+Een nanobijl met hogere output en betere
+energieverdeling dan eerdere modellen. Het
+wapen is zo scherp dat je er een vijand met
+een houw in tween mee kunt hakken.
+[es]1_3__8_12____Lynel-slagzwaard
+Een tweehandig wapen dat wordt gebruikt
+door Lynels. Het is nauwelijks een zwaard te
+noemen, maar in de handen van een Lynel is
+de schade die het aanricht aanzienlijk.
+[es]1_3__8_12____machtig[ed]_e___ Lynel-slagzwaard
+Een tweehandig wapen van de Lynels met een
+verstevigde punt. Het is zo zwaar dat de vijand
+wordt vermorzeld.
+[es]1_3__8_12____woest[ed]_e___ Lynel-slagzwaard
+Een tweehandig wapen dat griezelig zwaar is
+door het speciale erts uit de Berg des Doods
+dat erin is verwerkt. De vernietiging die dit
+wapen aanricht is nauwelijks te evenaren.
+[es]1_2__7_11____windkatana
+Een katana die wordt gebruikt door de elite
+van de Yiga-bende. Het zwaard benvloedt
+luchtstromen, zodat de gebruiker door zich te
+concentreren snijdende winden kan creren.
+[es]1_2__7_11____Moblin-arm
+Moblin-botten die onophoudelijk bewegen,
+zelfs al is het enkel een arm. Je kunt deze
+lange arm als wapen gebruiken.
+[es]1_2__7_11____zwabber
+Deze zwabber is in de eerste plaats bedoeld om
+de vloer mee te reinigen, maar doordat hij
+stevig in elkaar zit, kun je hem tijdelijk als
+wapen gebruiken.
+[es]1_2__7_11____hooivork
+Wordt meestal op boerderijen gebruikt om hooi
+te verzamelen. Hij is licht, dus iedereen kan
+ermee overweg. De vier punten zijn erg scherp.
+[es]1_2__7_11____werpspeer
+Een speciale speer die is gemaakt om naar
+je doelwit te gooien. Door de balans van
+punt en schacht, kun je deze speer veel
+verder gooien dan een normale.
+[es]1_2__7_11____soldatenspeer
+Een lange speer die wordt gebruikt door
+soldaten. Om dit wapen goed te gebruiken
+is enige training vereist. De punt is heel
+stevig en de schacht is vuurbestendig.
+[es]1_2__7_11____ridderhellebaard
+Een hellebaard voor ervaren ridders. Door de
+speerpunt en het bijlblad is dit wapen vooral
+geschikt voor ridders te paard.
+[es]1_2__7_11____koninklijke hellebaard
+Een hellebaard van de ridders die de troonzaal
+en andere delen van het kasteel bewaken. Het
+ontwerp is prachtig, maar het wapen is er niet
+minder gevaarlijk door.
+[es]1_2__7_11____woudspeer
+Een speer die is gemaakt door de Koroks voor
+gebruik door mensen. Hij is gemaakt van licht
+hout en makkelijk te gebruiken. De punt is
+gemaakt van speciaal hardhout.
+[es]1_2__7_11____Goron-staf
+Een wapen gemaakt door de Gorons uit
+alledaagse metalen onderdelen. De punt is
+gemaakt van graafgereedschap en kan zelfs
+hard erts doorboren.
+[es]1_2__7_11____eksterspeer
+Een speer die wordt gebruikt door de krijgers
+van de Rito's. Hij is gemaakt van lichte, stevige
+materialen, zodat hij tijdens het vliegen kan
+worden gebruikt.
+[es]1_2__7_11____Gerudo-speer
+Een speer die vooral wordt gebruikt door
+Gerudo's. Het zwaartepunt ligt in de punt,
+dus de speer is lastig te gebruiken voor
+iedereen die kleiner is dan een Gerudo.
+[es]1_2__7_11____gevechtsspeer
+Een speer met een unieke speerpunt. De
+Sheikahs die deze speren gebruiken, grijpen
+hun vijanden met de speer alvorens ze te
+verwonden.
+[es]1_2__7_11____geavanceerde speer
+Een speer gemaakt met technologie die ook
+in Nano-Wachters zit. De gloeiende, blauwe punt
+doorboort makkelijk de stevigste materialen.
+[es]1_2__7_11____Sheikah-hellebaard
+De Sheikahs hebben deze speer gemaakt met
+geavanceerde technologie om het Onheil te
+bestrijden. De punt is hard en dodelijk.
+[es]1_2__7_11____Boko-speer
+Een tak waar een punt aan is gesneden. Wordt
+meestal gebruikt om vlees en vis op te spiesen
+om het vervolgens te kunnen roosteren.
+[es]1_2__7_11____Boko-bottenspeer
+Een Boko-speer waar puntige dierenbotten
+aan zijn bevestigd. Hij is licht en makkelijk te
+gebruiken. Hij veroorzaakt ook meer schade
+dan de eenvoudige Boko-speer.
+[es]1_2__7_11____Boko-drakenspeer
+Een speer met een hard fossiel bot als
+speerpunt. Zo gemaakt dat de tanden de
+vijand bijten. Pas op voor Bokoblins met
+deze speer.
+[es]1_2__7_11____Moblin-speer
+Een houten speer die wordt gebruikt door
+Moblins. De punt is van een snel omgehakte
+boom gemaakt, dus de kracht laat nogal te
+wensen over. De speer is ook niet erg stevig.
+[es]1_2__7_11____Moblin-bottenspeer
+Een Moblin-speer waar een dierenbot aan
+is bevestigd. Het geheel is nog steeds van
+slechte kwaliteit, maar de speerpunt is
+tenminste scherp.
+[es]1_2__7_11____Moblin-drakenspeer
+Een zeer geliefde speer bij Moblins. De punt
+is gemaakt van een hard fossiel bot. De vele
+scherpe punten vergroten de schade die dit
+wapen aan kan richten.
+[es]1_2__7_11____Lizal-speer
+Een speer die wordt gebruikt door Lizalfossen.
+Heeft een opvallende gegolfde speerpunt.
+[es]1_2__7_11____verstevigde Lizal-speer
+Een Lizal-speer met een punt als van een
+harpoen. Wordt inderdaad ook gebruikt om
+vis mee te vangen. Kijk uit voor de nare
+weerhaken die eraan zitten.
+[es]1_2__7_11____Lizal-tweetand
+Een speer die geliefd is bij ervaren
+Lizalfossen. Je kunt er niet echt iets mee
+doorboren, maar de wonden die de dubbele
+golvende punten maken, zijn afgrijselijk.
+[es]1_2__7_11____nanospeer
+Deze speer wordt gebruikt door Nano-
+Wachters. De punt verschijnt alleen als
+het wapen in gebruik is en doorboort
+makkelijk harde materialen.
+[es]1_2__7_11____nanospeer+
+Deze nanospeer heeft een grotere punt.
+Omdat hij is ontworpen voor gebruik in kleine
+ruimtes, is de speer korter dan de meeste
+andere speren in Hyrule.
+[es]1_2__7_11____nanospeer++
+Een nanospeer met maximale energie-output.
+De punt is ideaal voor steekaanvallen en
+doorboort met gemak de meeste pantsers.
+[es]1_2__7_11____Lynel-speer
+Een Lynel-speer met een enorme, gekromde
+punt. Door de zware punt is de balans vrij
+slecht, maar daar hebben de Lynels die deze
+speren gebruiken helemaal geen last van.
+[es]1_2__7_11____machtige Lynel-speer
+Dit wapen houdt het midden tussen een
+speer en een hellebaard en is zo zwaar dat
+Hylianen het nauwelijks op kunnen tillen.
+Lynels verpulveren met n klap een rots.
+[es]1_2__7_11____woeste Lynel-speer
+Een hellebaard die geliefd is onder witte
+Lynels. Door het abnormale gewicht kunnen
+Lynels met gemak dood en verderf zaaien
+met dit wapen.
+[es]1_3__8_12____geavanceerd[ed]_e___ uitbreidingsdeel
+Een klein apparaat dat ontwikkeld is om mee
+tegen monsters te vechten. Als je het aan de
+Sheikah-steen vastmaakt, vergroot het de
+efficintie ervan en maakt het de krachten sterker.
+[es]1_2__7_11____geavanceerde adapter
+Een apparaat dat vastgemaakt kan worden
+aan de Sheikah-steen. Het levert extra energie
+en kan de krachten van de steen verhogen.
+[es]1_2__7_11____geavanceerde Sheikah-zuilmodule
+Een apparaat dat een miniatuurversie van een
+Sheikah-zuil in zich draagt. Het vergroot de
+kracht van de Sheikah-steen zeer. Zonder Z

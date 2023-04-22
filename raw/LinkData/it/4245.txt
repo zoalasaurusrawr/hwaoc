@@ -1,0 +1,327 @@
+[eb][eg2][v]%s[s0][/] fugge.
+[eb][eg2][v]%s[s0][/] fugge.
+[eb][cp][eg2][v]%s[s0][/] fuggono.
+[eb][eg2][v]%s[s0][/] o [eg2][v]%s[s1][/] fugge,
+o il nemico conquista [eg2][t]%s[s2][/].
+[eb][eg2][v]%s[s0][/] o [eg2][v]%s[s1][/] fugge,
+o il nemico conquista [eg2][t]%s[s2][/].
+[eb][cp][eg2][v]%s[s0][/] o [eg2][cp][v]%s[s1][/] fuggono,
+o il nemico conquista [eg2][t]%s[s2][/].
+[eb][eg2][v]%s[s0][/] fugge,
+o [eg1][t]%s[s1][/] non si salva.
+[eb][eg2][v]%s[s0][/] fugge,
+o [eg1][t]%s[s1][/] non si salva.
+[eb][eg2][v]%s[s0][/] fugge, o [eg1][t]%s[s1][/] non si salva.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/]
+o [eg2][v]%s[s3][/] fugge.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/]
+o [eg2][v]%s[s3][/] fugge.
+[eb][cp][eg2][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/]
+o [eg2][cp][v]%s[s3][/] fuggono.
+[eb][eg1][v]%s[s0][/] raggiunge
+la linea difensiva.
+La truppa [eg4][v]%s[s0][/]
+raggiunge la linea difensiva.
+[eb][eg2][cp][v]%s[s0][/] raggiungono la linea difensiva.
+[eb][eg1][t]%s[s0][/] fugge.
+[eb][eg1][t]%s[s0][/] fugge.
+[eb][eg1][t]%s[s0][/] fugge.
+[eb][eg2][v]%s[s0][/] o [eg2][v]%s[s1][/]
+fugge.
+[eb][eg2][v]%s[s0][/] o [eg2][v]%s[s1][/] fugge.
+[eb][eg2][cp][v]%s[s0][/] o [eg2][cp][v]%s[s1][/] 
+fuggono.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/]
+o [eg2][v]%s[s2][/] fugge.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/]
+o [eg2][v]%s[s2][/] fugge.
+[eb][cp][eg2][v]%s[s0][/], [eg2][cp][v]%s[s1][/]
+o [eg2][cp][v]%s[s2][/] fuggono.
+Il nemico conquista [eg2][t]%s[s0][/].
+Il nemico conquista [eg2][cp][t]%s[s0][/].
+Il nemico conquista [eg1][t]%s[s0][/].
+Il nemico conquista [eg1][t]%s[s0][/].
+Scade il tempo.
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/] o [eg2][v]%s[s3][/] fugge,
+oppure il nemico conquista [eg2][t]%s[s4][/].
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/] o [eg2][v]%s[s3][/] fugge,
+oppure il nemico conquista [eg2][t]%s[s4][/].
+[eb][cp][eg2][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/] o [eg2][cp][v]%s[s3][/]
+fuggono, oppure il nemico conquista [eg2][t]%s[s4][/].
+[eb][eg2][v]%s[s0][/] o [eg2][v]%s[s1][/] fugge,
+o il nemico conquista [eg2][t]%s[s2][/].
+[eb][eg1][t]%s[s0][/] fugge o il nemico
+conquista [eg2][t]%s[s1][/].
+[eb][eg1][t]%s[s0][/] fugge
+o il nemico conquista [eg2][t]%s[s1][/].
+[eb][eg2][cp][t]%s[s0][/] fuggono o il nemico conquista [eg2][t]%s[s1][/].
+[eb][eg2][t]%s[s0][/] o [eg2][v]%s[s1][/] fugge,
+oppure la base alleata cade.
+La truppa [eg4][t]%s[s0][/] o [eg4][v]%s[s1][/] fugge,
+oppure la base alleata cade.
+[eb][eg2][cp][t]%s[s0][/] o [eg2][cp][v]%s[s1][/] fuggono, oppure la base alleata cade.
+(reserved)
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/], [eg2][v]%s[s2][/],
+[eg2][v]%s[s3][/] o [eg2][v]%s[s4][/] fugge.
+La truppa [eg4][v]%s[s0][/], [eg4][v]%s[s1][/], [eg4][v]%s[s2][/],
+[eg4][v]%s[s3][/] o [eg4][v]%s[s4][/] fugge.
+[eb][eg2][cp][v]%s[s0][/], [eg2][cp][v]%s[s1][/], [eg2][cp][v]%s[s2][/], [eg2][cp][v]%s[s3][/] o [eg2][cp][v]%s[s4][/] fuggono.
+Nessuna condizione di sconfitta.
+Il nemico conquista [eg2][t]%s[s0][/].
+[eb][eg2][t]%s[s0][/] trova un tesoro.
+[eb][eg2][t]%s[s0][/] trova un tesoro.
+[eb][eg2][cp][t]%s[s0][/] trovano un tesoro.
+Le fiamme avvolgono [eg2][t]%s[s0][/].
+Le fiamme avvolgono [eg2][t]%s[s0][/].
+Le fiamme avvolgono [eg2][cp][t]%s[s0][/].
+La porta [eg4][t]%s[s0][/] viene distrutta.
+La porta [eg4][t]%s[s0][/] viene distrutta.
+Le porte [eg4][cp][t]%s[s0][/] vengono distrutte.
+[eb][eg2][v]%s[s0][/] raggiunge
+il punto di fuga.
+La truppa [eg4][v]%s[s0][/]
+raggiunge il punto di fuga.
+[eb][eg2][cp][v]%s[s0][/] raggiungono il punto di fuga.
+[eb][eg2][b]%s[s0][/]  fuori combattimento.
+La truppa [eg4][b]%s[s0][/]
+ fuori combattimento.
+[eb][eg2][cp][b]%s[s0][/] sono fuori combattimento.
+Scade il tempo
+o [eg2][b]%s[s0][/]  fuori combattimento.
+(reserved)
+(reserved)
+Subisci un danno.
+(reserved)
+(reserved)
+[eb][eg1][v]%s[s0][/] sfonda le difese
+[eg4][t]%s[s1][/] o scade il tempo.
+[eb][eg1][v]%s[s0][/] sfonda le difese
+[eg4][t]%s[s1][/] o scade il tempo.
+[eb][eg2][cp][v]%s[s0][/] sfondano le difese [eg4][t]%s[s1][/] o scade il tempo.
+Subisci un attacco.
+(reserved)
+(reserved)
+[eb][eg2][v]%s[s0][/], [eg2][v]%s[s1][/] o [eg2][v]%s[s2][/] fugge,
+oppure il nemico conquista [eg2][t]%s[s3][/].
+(reserved)
+(reserved)
+[eb][eg1][t]%s[s0][/] fugge
+o il nemico conquista [eg2][t]%s[s1][/].
+(reserved)
+(reserved)
+[eb][eg2][r]%s[s0][/] raggiunge [eg2][t]%s[s1][/].
+[eb][eg2][r]%s[s0][/] raggiunge
+[eg2][t]%s[s1][/].
+[eb][cp][eg2][r]%s[s0][/] raggiungono 
+[eg2][t]%s[s1][/].
+Il nemico conquista [eg2][t]%s[s0][/]
+o scade il tempo.
+(reserved)
+(reserved)
+[eb][eg2][v]%s[s0][/] raggiunge [eg2][t]%s[s1][/].
+La truppa [eg4][v]%s[s0][/]
+raggiunge [eg2][t]%s[s1][/].
+[eb][eg2][cp][v]%s[s0][/] raggiungono [eg2][t]%s[s1][/].
+[eb][eg1][v]%s[s0][/] sfonda
+le difese [eg4][t]%s[s1][/].
+La truppa [eg4][v]%s[s0][/] sfonda
+le difese [eg4][t]%s[s1][/].
+[eb][eg2][cp][v]%s[s0][/] sfondano le difese [eg4][t]%s[s1][/].
+[eb][eg2][v]%s[s0][/] fugge o scade il tempo.
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)
+(reserved)

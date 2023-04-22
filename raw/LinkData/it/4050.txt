@@ -1,0 +1,198 @@
+[es]6_14_22_30_38_46_62_67_funghi al cartoccio
+Una pietanza salutare che si prepara
+cuocendo al vapore dei funghi all'interno
+di grandi foglie aromatiche.
+[es]6_14_22_30_38_46_62_67_funghi glassati
+Un piatto a base di funghi e miele dall'aroma
+ricco e complesso, accentuato dal contrasto
+di dolce e salato.
+[es]2_10_18_26_34_42_58_65_tortino di Colbacco
+Un piatto della regione di Colbacco,
+a base di pane ripieno di funghi.  in grado
+di scaldare anche il corpo pi infreddolito.
+[es]2_10_18_26_34_42_58_65_doppio spiedino di funghi
+Gli amanti dei funghi non riusciranno a
+resistere a questo semplice piatto di
+miceti abbrustoliti. Sazia a puntino!
+[es]8_16_24_32_40_48_56_68_erbe saltate
+Soffriggendo erbe dal forte aroma con delle
+spezie, si pu preparare un saporito piatto
+di verdure saltate.
+[es]6_14_22_30_38_46_62_67_panini di Estakkala
+Fuori croccanti, dentro morbidissimi.
+Questa specialit dello stallaggio
+di Estakkala vanta ingredienti freschissimi.
+[es]8_16_24_32_40_48_56_68_verdure rosolate XL
+Una pietanza molto salutare, ottenuta
+saltando in padella una montagna di verdure
+a fiamma viva.
+[es]3_11_19_27_35_43_59_65_stufato di zucca
+Un piatto ottenuto lasciando sobbollire a
+lungo la corazzucca.  il piatto tipico
+presentato a cena nel villaggio Calbarico.
+[es]3_11_19_27_35_43_59_65_stufato di carote
+Una zuppa cucinata con una gran quantit
+di carote. Per ottenere il massimo del sapore
+richiede una lunga cottura a fuoco lento.
+[es]5_13_21_29_37_45_61_66_vellutata di carne
+Una zuppa molto nutriente, preparata con
+corposi pezzi di brasato di carne e un sacco
+di verdura.
+[es]5_13_21_29_37_45_61_66_vellutata di pesce
+Una zuppa condita con pezzettoni di pesce.
+Il brodo  particolarmente saporito.
+[es]3_11_19_27_35_43_59_65_stufato di Adeya
+Uno stufato a base di pesce fresco e acqua
+del luogo. In molti visitano il villaggio di Adeya
+per il solo gusto di provarlo.
+[es]5_13_21_29_37_45_61_66_zuppa dell'amore
+Una dolcissima zuppa di frutta. Si dice
+che gustandola con un'altra persona
+scocchi all'istante la scintilla dell'amore.
+[es]1_13_21_29_37_45_61_66_carne al cartoccio
+ possibile preservare tutto l'aroma della
+carne cuocendola dopo averla avvolta in
+una fragrante foglia aromatica.
+[es]1_13_21_29_37_45_61_66_carne in zucca
+Una specialit nostrana del villaggio
+Calbarico, che consiste nello svuotare
+una corazzucca e riempirla di carne.
+[es]2_10_18_26_34_42_58_65_vay meets voy
+Famosa bevanda del bar delle Gerudo...
+o una sua imitazione a base di succhi tropicali.
+Servita in un contenitore di ghiaccio.
+[es]3_11_19_27_35_43_59_65_sformato di carne
+Un croccante impasto farcito di carne tritata
+finemente e insaporito con sugo di carne.
+[es]1_13_21_29_37_45_61_66_carne al sale XXL
+Un delizioso piatto a base di carne di
+primissima qualit cosparsa di salgemma
+e grigliata al punto giusto.
+[es]2_10_18_26_34_42_58_65_pesce al cartoccio
+Questa raffinata pietanza si prepara
+cuocendo il pesce dopo averlo avvolto
+in una grande foglia profumata.
+[es]2_10_18_26_34_42_58_65_granchio al sale
+I pescatori pi esperti sanno che il modo
+migliore per gustare la polpa di granchio 
+cospargerlo di salgemma e grigliarlo.
+[es]3_11_19_27_35_43_59_65_sformato di pesce
+Un manicaretto immancabile sulle tavole dei
+pescatori. L'impasto croccante e il sapore
+del pesce si sposano perfettamente.
+[es]4_12_20_28_36_44_60_65_orata alla mugnaia
+Un piatto di frutti di mare tipico della
+regione costiera. La polpa succosa
+dell'orata ha un sapore delizioso.
+[es]2_12_20_28_36_44_60_65_uovo bollito
+Un uovo bollito in acqua a riscaldamento geotermico
+che sgorga naturalmente dal terreno. I bambini
+adorano questo piatto, molto semplice da preparare.
+[es]4_12_20_28_36_44_60_65_omelette
+Un piatto a base di uova molto semplice,
+ma non si tratta della solita frittata.
+[es]2_10_18_26_34_42_58_65_souffl di Mabe
+Un souffl del villaggio Mabe a base di latte fresco,
+uova e burro. A completare il tutto, una spolverata
+di erba di Hyrule.
+[es]4_12_20_28_36_44_60_65_omelette di verdure
+Un piatto casalingo che sposa uova fresche
+e verdure tagliate finemente.  una pietanza
+dall'alto valore nutritivo.
+[es]2_12_20_28_36_44_60_65_onigiri ai funghi
+Delle polpette di riso con funghi. Aprendo
+la foglia in cui sono avvolti, si sprigiona un
+inebriante aroma di funghi.
+[es]2_12_20_28_36_44_60_65_onigiri alle erbe
+Polpette di riso arricchite dalle verdure
+di montagna rosolate.  uno dei piatti
+casalinghi tipici del villaggio Calbarico.
+[es]2_12_20_28_36_44_60_65_onigiri ai frutti di mare
+Polpette di riso ripiene di pesce. I diversi tipi
+di farcitura garantiscono un sapore sempre
+nuovo in base al pesce utilizzato.
+[es]2_10_18_26_34_42_58_65_risotto alle verdure
+Un risotto ricco di verdure.
+Il suo sapore delicato lo rende un piatto
+molto amato anche dai bambini.
+[es]2_10_18_26_34_42_58_65_riso con curry
+Un piatto amato da grandi e piccini.
+Sar per quel sapore semplice che
+non stanca mai!
+[es]5_13_21_29_37_45_61_66_paella ai frutti di mare
+Un piatto particolare con un miscuglio di
+pesci stravaganti. La pietanza perfetta per
+festeggiare una ricca battuta di pesca.
+[es]2_10_18_26_34_42_58_65_riso con pollo XXL
+Del pilaf guarnito con una corposa porzione
+di pregiata carne di volatile. Un'estasi di
+sapore pervade il palato a ogni boccone.
+[es]2_10_18_26_34_42_58_65_piatto da cerimonia
+Un piatto creato per la cerimonia di investitura
+dei campioni. Pieno zeppo degli ingredienti pi vari,
+si adatta a ogni palato.
+[es]5_13_21_29_37_45_61_66_pagnotta
+Del pane prodotto dal grano della regione
+di Colbacco. Mantiene la fragranza del
+grano, ma ha una morbidezza unica.
+[es]5_13_21_29_37_45_61_66_caramella al miele
+Una caramella naturale ricca di sostanze
+nutritive. Si prepara cuocendo il miele fresco
+raccolto dagli alveari.  un po' dolce.
+[es]5_13_21_29_37_45_61_66_crespella al miele
+Un dolce con del miele spalmato su
+un impasto sottile. Naturalmente dolce,
+ha un aroma molto ricco.
+[es]5_13_21_29_37_45_61_66_frutta al miele
+Un piatto che unisce la cremosa dolcezza
+del miele con la punta acidula della frutta.
+[es]2_10_18_26_34_42_58_65_budino
+Un dolce di uova e latte cotti insieme e poi
+versati in uno stampino. Ha una morbidezza
+tale da sciogliersi in bocca.
+[es]5_13_21_29_37_45_61_66_crostata alle uova
+Un dolce che consiste in un impasto
+croccante ripieno di crema all'uovo.
+Ha un profumino delizioso.
+[es]5_13_21_29_37_45_61_66_crespella alla fragola
+Un dolce con un impasto morbido e fragrante
+a cui si aggiungono fragole a fettine.
+[es]5_13_21_29_37_45_61_66_torta alla frutta
+Una torta preparata con la frutta fresca
+di Hyrule, che non pu mancare nelle
+occasioni di festa.
+[es]5_13_21_29_37_45_61_66_torta di mostro
+Una torta di essenza di mostro piuttosto
+bizzarra. Stando ad alcune testimonianze,
+ha una dolcezza difficile da dimenticare.
+[es]2_10_18_26_34_42_58_65_curry di mostro
+Un piatto atipico, caratterizzato da una
+gran quantit di essenza di mostro. Ha un
+aroma che va oltre lo speziato.
+[es]2_10_18_26_34_42_58_65_mostro sobbollito
+Un piatto ottenuto lasciando bollire carne
+e crostacei nell'essenza di mostro. Grazie a
+questo ingrediente, ha un sapore unico.
+[es]2_10_18_26_34_42_58_65_tonico fatato
+Questa pozione rinvigorente  satura
+del potere delle fate. Ha un sapore
+lievemente dolciastro.
+[es]3_11_19_27_35_43_59_65_spiedino di carne piccapicca
+Un succulento spiedino di selvaggina
+sagacemente abbrustolita su fiamma viva.
+[es]3_11_19_27_35_43_59_65_spiedino di pesce semifreddo
+Una ricetta semplice che sfrutta al meglio
+tutto il naturale sapore del pesce
+abbrustolito allo spiedo.
+[es]3_11_19_27_35_43_59_65_spiedino di funghi isolante
+Un semplice spiedino di deliziosi funghi
+abbrustoliti. La presentazione colorata
+stimola l'appetito!
+[es]5_13_21_29_37_45_61_66_poltiglia
+Questa pietanza indefinita sprigiona un
+odore a dir poco bizzarro.  perfettamente
+commestibile, ma ha un aspetto disgustoso.
+[es]5_13_21_29_37_45_61_66_bistecca al caldoperone
+Il caldoperone macinato sopprime l'aroma
+selvatico della carne, accentuandone al
+contempo i profumi pi appetitosi.
