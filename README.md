@@ -34,7 +34,7 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 
 **German**
 
-- 3075: Attack text
+- 3075: Attack descriptions
 - 3845: Attire
 - 4110: Material type text
 - 4365: Mission names
