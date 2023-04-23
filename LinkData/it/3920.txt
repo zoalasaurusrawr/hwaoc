@@ -1,0 +1,63 @@
+In acqua, gli attacchi con i proiettili glaciali sono pi potenti.
+Quando rilasci una scarica elettrica, la barra dei fulmini si consuma un po'.
+Il tempo di attesa per lanciare le punte glaciali  ridotto.
+Il tempo di attesa per usare la pioggia di magma  ridotto.
+Il tempo di attesa per usare le lame di luce e il bombardamento  ridotto.
+Il ripristino naturale della barra dei fulmini  pi veloce.
+Proiettile glaciale
+Punte glaciali
+Sollevamento
+Mossa speciale
+Intercettazione
+Bomba magma
+Pioggia di magma
+Pestone
+Mossa speciale
+Controffensiva
+Mitraglia
+Lame di luce
+Bombardamento
+Cambia punto di vista
+Mossa speciale
+Barriera
+Attacco di fulmini
+Tempesta di lampi
+Carica
+Mossa speciale
+Intercettazione
+Spara proiettili di ghiaccio nella direzione in cui stai puntando.
+Lancia missili di ghiaccio su un'area agganciata.
+Tieni premuto [$0103] per agganciare e rilascia per fare partire il colpo.
+Se agiti l'enorme proboscide, puoi anche distruggere gli ostacoli.
+Effettua una potente mossa speciale.
+Inclina [$0017] per direzionare l'attacco.
+Protegge da attacchi intercettabili entro un certo raggio.
+Tieni premuto [$0008] per intercettare gli attacchi.
+Spara bombe magma nella direzione in cui stai puntando.
+Rilascia bombe magma su un'area agganciata.
+Tieni premuto [$0103] per agganciare e rilascia per fare partire il colpo.
+Attacca con potenti pestate sul terreno.
+Effettua una potente mossa speciale.
+Inclina [$0017] per direzionare l'attacco.
+Contrattacca agguantando dei nemici o i loro proiettili.
+Tieni premuto [$0008] per prepararti al contrattacco.
+Spara una raffica di colpi nella direzione in cui stai mirando.
+Se punti in aria, davanti a te ricade una pioggia di lame di luce.
+Se punti a terra, effettui un bombardamento ad ampio raggio.
+Alterna il punto di vista tra aria e terreno.
+L'attacco che esegui con [$0103] cambia a seconda del punto di vista.
+Effettua una potente mossa speciale.
+Inclina [$0017] per direzionare l'attacco.
+Crea una barriera difensiva che pu anche infliggere danni.
+Tieni premuto [$0008] per creare una barriera.
+Scaglia fulmini nella direzione in cui stai puntando.
+Se la barra dei fulmini supera un certo livello, l'attacco sar pi potente.
+Crea scariche elettriche attorno a te.
+Tieni premuto [$0103] per scegliere quando lanciare l'attacco.
+Travolgi i nemici mentre scatti.
+La barra dei fulmini si riempie man mano che travolgi i nemici.
+Effettua una potente mossa speciale.
+Inclina [$0017] per direzionare l'attacco.
+Protegge da attacchi intercettabili entro un certo raggio.
+Tieni premuto [$0008] per intercettare gli attacchi.
+Contrattacca agguantando i proiettili di alcuni nemici.

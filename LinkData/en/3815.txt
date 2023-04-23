@@ -1,0 +1,27 @@
+[v]%s[s0][/] is in a tough battle.
+Struggling in battle!
+[v]%s[s0][/] is on the verge of defeat!
+On the verge of defeat!
+[v]%s[s0][/] has been defeated.
+Fleeing!
+[v]%s[s0][/] has defeated [v]%s[s1][/].
+Defeated!
+The outpost has been captured.
+Captured!
+The outpost leader has appeared.
+The leader has appeared!
+The outpost has fallen.
+Fallen!
+Fierce fighting threatens the outpost!
+At risk!
+The outpost is on the verge of falling!
+In peril!
+Fierce fighting threatens the Allied Stronghold!
+At risk!
+The Allied Stronghold is on the verge of falling!
+In peril!
+Time has run out. You have lost!
+There are only [t]%s[s0][/] minutes left! Quickrally for victory!
+Target changed!
+Advance halted!
+Route changed!

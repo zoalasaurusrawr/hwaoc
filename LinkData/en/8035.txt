@@ -1,0 +1,17 @@
+K.O.
+[t]%s[s0][/]
+[t]%s[s0][/]
+[t]%s[s0][/]
+[t]%s[s0][/]
+amiibo
+amiibo
+amiibo
+COMPLETE
+DEFEAT
+VICTORY
+[t]%s[s0][/]/[t]%s[s1][/]/[t]%s[s2][/]
+[t]%s[s0][/]
+SUCCESS
+[t]%s[s0][/]
+LEVEL UP
+[v]%s[s0][/]

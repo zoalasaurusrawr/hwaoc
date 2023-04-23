@@ -1,0 +1,489 @@
+Director
+Ryota Matsushita
+Project Manager
+Tomohiko Aoki
+Game Design Lead
+Kenta Shiraishi
+Engineering Lead
+Masayoshi Yamada
+Art Director
+Yu Oboshi
+Sound Director
+Yugen Umemura
+Game Design
+Kyohei Oka
+Joe Tanaka
+Shigenari Matsuno
+Kyohei Shibasaki
+Sotaro Eita
+Manami Senda
+Ryuji Suzuki
+Saori Hara
+Shinya Ogino
+Tomomi Sakai
+Yifan Chen
+Shun Muto
+Kosuke Uyama
+Ryota Okazaki
+Takeshi Kuga
+Yozaburo Nogami
+Koki Aoyanagi
+Ryohei Shimizu
+Satomi Fujinuma
+Kana Miyashita
+Yuto Ando
+Yu Shirahase
+Hisao Okamoto
+Xuefei Zhang
+Tomoya Tomatsuri
+Yunosuke Nagafusa
+Engineering
+Ryota Kaihara
+Takahiro Toyama
+Takemi Nakadate
+Mami Mori
+Hirofumi Machii
+Masahiro Fukushima
+Hirofumi Tsuru
+Saki Masuzawa
+Yuya Ishitani
+Sho Shinozaki
+Hisamitsu Akaike
+Kotaro Yamaguchi
+Hideaki Kagami
+Shuya Omuki
+Kota Yamashita
+Hideomi Chino
+Kosuke Kono
+Yoichi Ogawa
+Tatsuto Tsuchishita
+Akihiro Imada
+Shota Ikeda
+Minami Nakagawa
+Yuta Itakura
+Daiki Ito
+Shinji Oyama
+Kazutoshi Kuramoto
+Yusei Hiranuki
+Tools & Library Engineering
+Shinji Nakao
+Isao Shinotsuka
+Hiroshi Takada
+Atsushi Otobe
+Yuki Okamoto
+Masanari Watanabe
+Yukihoro Nakamura
+Yosuke Aizawa
+Masaki Tsukada
+Yutaka Fujishima
+Takahiro Tanaka
+Ken Isawa
+Ryohei Tanaka
+Yuji Kageyama
+Ryo Taguchi
+Yusuke Tatsui
+Nobuto Ito
+Mikihiro Shiozuru
+Yuki Oshima
+Tomoyuki Hata
+Akito Shibue
+Development Support
+Isamu Saito
+Junya Komatsu
+Masahiro Takeda
+Daichi Ito
+Daisuke Katayama
+Kyo Hyodo
+Takeshi Inui
+Jun Takizawa
+Kazuki Tsuchiya
+Scenario Writers
+Yuki Ikeno
+Mari Okamoto
+Ryohei Hayashi
+Planning Support
+Hiroya Usuda
+Ryuta Kitaura
+Character Design
+Asami Yamamoto
+Daiji Shinohara
+Sumiko Hatakeyama
+Shoko Ochi
+Yume Suzue
+Toshiharu Suzuki
+Character Art
+Naoko Matsumoto
+Mai Kagami
+Wakana Mori
+Ayaka Naito
+Tatsuya Uchida
+Liu Wei
+Zhang Yanyan
+Geng Mengran
+Yuan Xiaozhao
+Wendell Wong Wan Qing
+Nguyen Thi Anh
+Nguyen Thi Thanh Huong
+Ngo Kim Phang
+Tran Hong Nhung
+Pham Van Hung
+Environment Art
+Reika Tsuchiya
+Yumi Namba
+Akari Takinami
+Ryohei Nakano 
+Yuta Nagai
+Zhu Yihan
+Du Yimeng
+Hou Mingxuan
+Yan Ying
+Tran Thi Lan
+Junko Tsuji
+Miyuki Momose
+Takeshi Nakashima
+Ryuhei Yamamoto
+Takehiro Matsuya
+Shota Okamoto
+Hokuto Kurihara
+Ryotaro Kuwada
+Chiashien Lin
+Keisuke Sugiyama
+Zhai Dongjun
+Ji Zhihu
+Zhang Tong
+Liu Wei
+Yin Xiangyan
+Wei Bo
+Liu Can 
+Cheng Rui
+Zou Xuan
+Zhao Yu
+Liu Xu
+Cheng Yushan
+Zhou Hui
+Wei Jiazuo
+Ma Shuo
+Liu Yu
+Yang Xin
+Li Yu
+Li Zihan
+Wan Xiaolin
+Wang Ying
+Peng Lei
+Si Luyun
+Liu Mengyi
+Zhang Cong
+Liu Bichen
+Liu Yifei
+Ma Shaoyan
+Liu Peng
+Ma Jinyi 
+Cui Shuyang
+Xie Chuang
+Sun Yifei
+Shao Ziqiang
+Le Duy Anh
+Tong Tran Duong
+Tran Ngoc Lien
+Dam Anh Tuan 
+Nguyen Tran Dieu My
+Nguyen Khanh Huyen
+Nguyen Phuong Quynh Trang
+Phi Thi Huong Giang
+Nguyen Hai Linh
+Animation Art
+Toshiaki Kondo
+Ryota Ikeda
+Truong Lan Phuong
+Pham Tuan Anh
+Hoa Quang Hiep
+Younggi Kwak
+Yasuhiro Nakayama
+Ikuo Harigai
+Ng Jun Wei
+Bernard Su Guo Hao
+Yee Kar Kin
+Geraldine Khor Pei Xin
+Bryan Goo Wai Kiat
+Tay Zhi Xin
+Ho Kang Yung
+Helen See Yat Sum
+Liao Zhibin
+Karen Mei Jia Qi
+Nguyen Ho Tuong Vi
+Pham Ngoc Anh
+Mai Le Tra My
+Le Tuyet Trinh
+Nguyen Thi Thu Hang
+Nguyen Trung Hoan
+Hoang Anh Thao
+Dang Hung Son
+Le Hoang Hai
+Nguyen Xuan Huy
+Ta Vu Tam
+Dang Phuong Chi
+Do Xuan Huan
+Phung Quang Anh
+Nguyen Hoang Lam
+Cam Duc Manh
+Technical Art
+Naoya Okamoto
+Tsuyoshi Fukuyama
+Yukihiro Nakamura
+Masaru Ueda
+Yasutake Koga
+Masato Katano
+Hiroyuki Koyama
+Ryota Itayama
+Cinematics Supervisor
+Toshimasa Ishii
+Cinematics
+Shunya Yoshida
+Wakae Tatsuya
+Yoshie Nakajima
+Misaki Tanaka
+Marika Matsunaga
+Rina Miyoshi
+Tian Lin
+Nguyen Chi Cuong
+Masaki Aikawa
+Ryo Sagai
+Yoshiki Fukui
+Takahito Otome
+Shinichi Nakamura
+Tomoki Kitamine
+Yuhei Iida
+ManYee Lam
+Takahiro Yadori
+Rie Usui
+Dinh Thi Thu
+Zhao Hong
+Wang Ning
+Liu Zhongzhi
+Guo Zhicheng
+Li Haoyuan
+Zhang Xiaomeng
+Gan Yonglu
+Li Qingyuan
+Cao Shengze
+Yu Junli
+Ge Ming
+Liu Xingkai
+Gao Mingwei
+Zhang Hangying
+Liu Xiaoqian
+Wang Luyan
+Wang Rui Yan
+Li Yang
+Li Bowen
+Zhang Rui
+Feng Yao
+Bai Yuedi
+Wang Chunxuan
+Yang Minghan
+Nguyen Huu Huy Anh
+Bui Xuan Phong
+Doan Thi Lien
+Pham Hoang Anh
+Nguyen Thi Hai Yen
+Dong Quang Huy
+Nguyen Ha Trang
+Pham Viet Anh
+Nguyen Hoang Phong
+Nguyen Trong Phuc
+Nguyen Thuy Hang
+Nguyen Hong Giang
+Vu Ha Nguyet Anh
+Nguyen Thi Ngoc Anh
+Truong Phuong Anh
+Nguyen Hoang Long
+Nguyen Hoai Son
+Le Thanh Thao
+Tran Anh Cuong
+Digital Composition
+Koji Yamada
+Megumi Nagashima
+User Interface Design
+Akiho Nishiwaki
+Yunika Ota
+Wataru Kaneko
+Kumiko Yoshikawa
+Yuko Takahashi
+Mizuki Ozawa
+Masaumi Hachiya
+Mana Sato
+Saori Yamanouchi
+Osamu Yazu
+Sayaka Kikuchi
+Mai Miura
+Miroku Egashira
+Tran Thi Lan Anh
+Nguyen Van Nhan
+Visual Quality Control
+Kentaro Yamamoto
+Motion Capture Actors
+Junya Iwamoto
+Yuka Hino
+Masaki Ishigaki
+Kana Sakai
+Kajirou Tanaka (imagination)
+Kyota Tsuji (infini.Inc )
+Natsumi Miyamoto (imagination)
+Noriyuki Osada
+Toshihiko Kamei
+Sound Supervisor
+Hidehisa Nakazono
+Sound Technical Advisor
+Masato Koike
+Music 
+Kumi Tanioka
+Reo Uratani
+Ryotaro Yagi
+Haruki Yamada
+Music & Sound Designers
+Ayana Hira
+Asami Mitake
+Hikaru Yamada
+Shigekiyo Okuda
+Gota Masuoka
+Junya Ishiguro
+Masako Otsuka
+Takashi Yoshida
+Hiromu Akaba
+Players
+Solo/1st Violin
+Yuma Ito
+1st Violin
+Matsuri Mikuni
+Naoko Noritsune
+Nagisa Sakaki
+Gen Nasuda
+Mai Tanizaki
+2nd Violin
+Risa Yamamoto
+Mamiko Amemiya
+Tomoe Nakajima
+Natsue Kameda
+Viola
+Takashi Yanagisawa
+Mikiyo Kikuchi
+Reiichi Tateizumi
+Cello
+Takahiro Yuki
+Ryota Takusagawa
+Contrabass
+Kento Takasugi
+Satoshi Suzuki
+Trumpet
+Ryusuke Kanke
+Hitomi Niida
+Miyuki Matsuda
+Trombone
+Kanade Shishiuchi
+Shinsuke Torizuka
+Bass Trombone
+Ryota Fujii
+Horn
+Kaname Hamaji
+Mina Muranaka
+Yuka Bando
+Shu Ohigashi
+Flute / Piccolo
+Erika Otsuka
+Clarinet
+Kazuki Watanabe
+Oboe
+Akiko Kudo
+Bassoon
+Hiroaki Kimizuka
+Tin Whistle
+Akio Noguchi
+Accordion
+Yuka Fujino
+Guitar
+Yugen Umemura
+Recording  Mixing Engineer
+Masahito Tobisawa
+Keisuke Narita (SOUND INN STUDIOS)
+Kaori Yamamoto (SOUND INN STUDIOS)
+Shuji Minamimae (SplashSoundStudio)
+Recording Studio
+SOUND INN STUDIOS
+SplashSoundStudio
+Mixing Studio
+PENTANGLE STUDIO
+Copyist
+Ryotaro Yagi
+Yuki Matsumura
+Music Coordinator
+Kenji Nakajo (ATTIC INC.)
+Cinematics Audio Design
+Katsuhiro Nakajima (Swara Pro)
+Maki Takuma (Swara Pro)
+Kyouhei Akezuma (Swara Pro)
+Audio Post Production Engineer
+Yuichi Morita (Swara Pro)
+Rio Mitsuyama (Swara Pro)
+Japanese Voice Recording Director
+Akane Maeda (TOHOKUSHINSHA FILM CORPORATION)
+Japanese Voice Recording Engineer
+Toshihiro Yoshida (DOUBLE R Entertainment, Inc.)
+Yoshiki Hibino
+Japanese Voice Recording Coordinator
+Hiroshi Kubo (TOHOKUSHINSHA FILM CORPORATION)
+Japanese Voice Editing Supervisor
+Hisashi Muramatsu
+Japanese Voice Editing Studio
+Sound Team Junkers
+Japanese Voice Cast
+Kengo Takanashi
+Yu Shimamura
+Hiroshi Naka
+Mayu Isshiki
+Kouji Takeda
+Noboru Yamaguchi
+Rei Shimoda
+Akane Fujita
+Kousuke Oonishi
+Miyuki Kobori
+Takuya Masumoto
+Arisa Sakuraba
+Miho Hino
+Natsuki Aikawa
+Ayumi Yonemaru
+Yuka Maruyama
+Yukiko Mizuochi
+Atsuyoshi Miyazaki
+Tsuguo Mogami
+Kousuke Takaguchi
+Hideaki Nonaka
+Ayano Shibuya
+Kenichirou Matsuda
+Yuichi Karasuma
+Ryota Takeuchi
+Ryo Iwasaki
+Youhei Hamada
+Ai Kaneta
+Kenji Takahashi
+Takahiro Fujiwara
+English Voice Recording Studio
+48 Windows
+English Voice Recording Coordination
+The Halp Network
+English Voice Directors
+Chris Faiella
+Jeremy Hall
+English Voice Cast
+Melique Berger
+Erik Braa
+Sean Chiplock
+Jacob Craner
+Andi Gibson
+Amelia Gotham
+Joe Hernandez
+Kate Higgins
+Jon Lipow
+Elizabeth Maxwell
+Erica Mendez
+James D. Mortellaro
+Phillip Re

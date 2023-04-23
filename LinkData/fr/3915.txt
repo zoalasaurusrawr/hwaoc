@@ -1,0 +1,63 @@
+Lorsque vous tes dans l'eau, les projectiles de glace sont plus puissants.
+Lorsque vous lancez une dcharge lectrique, la jauge de foudre diminue.
+Rduit le temps d'attente avant de pouvoir rutiliser les mille lances de glace.
+Rduit le temps d'attente avant de pouvoir rutiliser la pluie de lave.
+Rduit le temps d'attente avant de pouvoir rutiliser les lames de lumire ou le bombardement arien.
+Augmente la restauration automatique de la jauge de foudre.
+Projectile de glace
+Mille lances de glace
+Coup de trompe
+Coup fatal
+Intercepter
+Projectile de lave
+Pluie de lave
+Pitinement
+Coup fatal
+Contre-attaque
+Canon mitrailleur
+Lames de lumire
+Bombardement arien
+Changer de point de vue
+Coup fatal
+Barrage
+Coup de tonnerre
+Tempte lectrique
+Pas de charge
+Coup fatal
+Intercepter
+Tire un projectile de glace dans la direction o vous visez.
+Tire des missiles de glace sur la cible verrouille.
+Maintenez [$0103] pour verrouiller votre cible, puis relchez pour tirer.
+Frappez avec votre trompe gante. Peut aussi dtruire les obstacles.
+Dclenche un puissant coup fatal.
+Changez l'orientation de l'attaque avec [$0017].
+Protge dans un certain rayon des attaques pouvant s'intercepter.
+Maintenez [$0008] pour intercepter les attaques.
+Tire un projectile de lave dans la direction o vous visez.
+Largue de nombreuses bombes volcaniques sur la cible verrouille.
+Maintenez [$0103] pour verrouiller votre cible, puis relchez pour tirer.
+Attaque en frappant violemment le sol avec la patte.
+Dclenche un puissant coup fatal.
+Changez l'orientation de l'attaque avec [$0017].
+Contre-attaque en saisissant certains ennemis ou leurs projectiles.
+Maintenez [$0008] pour vous mettre en position de contre-attaque.
+Mitraille dans la direction o vous visez.
+Si vous regardez vers le ciel, dchane des lames de lumire qui lacrent vos ennemis.
+Si vous regardez vers le sol, fait pleuvoir des tirs sur une grande tendue de terrain.
+Permutez entre l'observation du ciel et celle du sol ou vice-versa.
+L'attaque que vous dclenchez avec [$0103] change en fonction de votre point de vue.
+Dclenche un puissant coup fatal.
+Changez l'orientation de l'attaque avec [$0017].
+Dresse autour de vous un mur protecteur qui possde une puissance d'attaque propre.
+Maintenez [$0008] pour faire apparatre le barrage.
+Fait tomber la foudre dans la direction o vous visez.
+La puissance de l'attaque est renforce si la jauge de foudre est remplie jusqu' un certain niveau.
+Attaque en dployant une dcharge lectrique tout autour de vous.
+Maintenez [$0103] pour ajuster le timing de la dcharge.
+Pitine les ennemis en faisant foncer la crature divine.
+La jauge de foudre se remplit lorsque vous pitinez des ennemis.
+Dclenche un puissant coup fatal.
+Changez l'orientation de l'attaque avec [$0017].
+Protge dans un certain rayon des attaques pouvant s'intercepter.
+Maintenez [$0008] pour intercepter les attaques.
+Contre-attaque en saisissant les projectiles de certains ennemis.

@@ -1,0 +1,1689 @@
+nce [eg3][t]%s[s0][/] y a otras unidades que atacan el Bosque Kolog!
+Vence a [eg1][cp][t]%s[s0][/] que atacan el Bosque Kolog!
+Destruye [eg1][t]%s[s0][/] alrededor del Bosque Kolog!
+Destruye [eg1][cp][t]%s[s0][/] alrededor del Bosque Kolog!
+Destruye [eg1][t]%s[s0][/] alrededor del Bosque Kolog!
+Persigue [eg3][v]%s[s0][/]!
+Persigue [eg3][v]%s[s0][/] y a sus unidades!
+Persigue a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] se ha abierto!
+[eb][eg1][cp][t]%s[s0][/] se han abierto!
+[eb][eg1][t]%s[s0][/] se ha abierto!
+[eb][eg1][t]%s[s0][/] ha desaparecido por completo!
+[eb][eg1][t]%s[s0][/] ha desaparecido parcialmente!
+Vence [eg3][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][t]%s[s0][/]!
+Encuentra la forma de eliminar [eg1][t]%s[s0][/]!
+Encuentra la forma de eliminar a [eg1][cp][t]%s[s0][/]!
+Encuentra la forma de eliminar a [eg1][cp][t]%s[s0][/]!
+Parece que [eg1][v]%s[s0][/] ha huido!
+Parece que [eg1][v]%s[s0][/] y sus unidades han huido...
+Parece que [eg1][cp][v]%s[s0][/] han huido...
+Has descubierto [eg2][t]%s[s0][/]!
+Has descubierto [eg2][cp][t]%s[s0][/]!
+Has descubierto [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha alcanzado su destino!
+[eb][eg1][v]%s[s0][/] y sus unidades han efectuado un encuentro!
+[eb][eg1][cp][v]%s[s0][/] han celebrado un encuentro!
+[eb][eg1][v]%s[s0][/] est en peligro!
+[eb][eg1][v]%s[s0][/] y otras unidades estn en peligro!
+[eb][eg1][cp][v]%s[s0][/] estn en peligro!
+Parece que [eg1][t]%s[s0][/] se esconde en las montaas!
+Parece que [eg1][cp][t]%s[s0][/] se esconden en las montaas!
+Parece que [eg1][cp][t]%s[s0][/] se esconden en las montaas!
+Penetra la lnea enemiga y toma [eg1][t]%s[s0][/]!
+Penetra la lnea enemiga y toma [eg1][cp][t]%s[s0][/]!
+Penetra la lnea enemiga y toma [eg1][t]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para activar [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s1][/] para activar [eg1][cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para activar [eg1][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] para activar [eg1][t]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] para activar [eg1][cp][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] para activar [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] se ha puesto en marcha!
+[eb][eg1][cp][t]%s[s0][/] se han puesto en marcha!
+[eb][eg1][cp][t]%s[s0][/] se han puesto en marcha!
+[eb][eg1][t]%s[s0][/] ha atacado [eg1][t]%s[s2][/] donde se encuentra [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han atacado [eg1][cp][t]%s[s2][/] donde se encuentran [eg1][cp][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han atacado [eg1][t]%s[s2][/] donde se encuentran [eg1][cp][t]%s[s1][/]!
+Recupera [eg1][t]%s[s1][/] de las manos [eg4][t]%s[s0][/]!
+Recupera [eg1][cp][t]%s[s1][/] de las manos de [eg1][cp][t]%s[s0][/]!
+Recupera [eg1][t]%s[s1][/] de las manos [eg4][cp][t]%s[s0][/]!
+Recupera el resto [eg4][cp][t]%s[s0][/] lo antes posible!
+Recupera el resto de [eg1][cp][t]%s[s0][/] lo antes posible!
+Recupera el resto [eg4][t]%s[s0][/] lo antes posible!
+Has activado [eg1][t]%s[s0][/]!
+Has activado [eg1][cp][t]%s[s0][/]!
+Has activado [eg1][t]%s[s0][/]!
+Han destruido [eg1][t]%s[s0][/]!
+Han destruido [eg1][cp][t]%s[s0][/]!
+Han destruido [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] est atacando [eg3][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] estn atacando [eg3][cp][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] estn atacando [eg3][t]%s[s1][/]!
+Protege [eg3][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Protege [eg1][cp][t]%s[s1][/] de [eg1][cp][t]%s[s0][/]!
+Protege [eg3][t]%s[s1][/] [eg4][t]%s[s0][/]!
+[eb][eg5][t]%s[s0][/] ha abierto las puertas y ha huido!
+[eb][eg5][cp][t]%s[s0][/] han abierto las puertas y han huido!
+[eb][eg5][t]%s[s0][/] ha abierto las puertas y ha huido!
+Vence [eg3][v]%s[s0][/] y reconquista [eg1][t]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y a sus unidades y reconquista [eg1][t]%s[s1][/]!
+Vence a [eg1][cp][v]%s[s0][/] y reconquista [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se ha introducido en [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades se han introducido en [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se han introducido en [eg1][t]%s[s1][/]!
+Encuentra y vence [eg3][v]%s[s0][/]!
+Encuentra y vence [eg3][v]%s[s0][/] y a sus unidades!
+Encuentra y vence a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha aparecido de nuevo!
+[eb][eg1][v]%s[s0][/] y sus unidades han aparecido de nuevo!
+[eb][eg1][cp][v]%s[s0][/] han aparecido de nuevo!
+[eb][eg1][v]%s[s0][/] ha aparecido con [eg1][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha aparecido con [eg1][v]%s[s1][/] y otras unidades!
+[eb][eg1][v]%s[s0][/] ha aparecido con [eg1][cp][v]%s[s1][/]!
+[eb][eg1][r]%s[s1][/] [eg4][t]%s[s0][/] se ha activado!
+[eb][eg1][cp][v]%s[s1][/] [eg4][t]%s[s0][/] se han activado!
+(reserved)
+Dirgete hacia [eg1][t]%s[s1][/] mientras acabas con [eg1][cp][t]%s[s0][/]!
+Destruye [eg3][t]%s[s1][/] para entrar en [eg1][t]%s[s0][/]!
+Destruye [eg1][cp][t]%s[s0][/] para entrar en la guarida del clan Yiga!
+Destruye [eg2][t]%s[s0][/] para entrar en la guarida del clan Yiga!
+[eb][eg1][v]%s[s0][/] avanza hacia [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] avanzan hacia [eg1][t]%s[s1][/]!
+Las tropas [eg4][v]%s[s1][/] han rodeado [eg3][v]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han rodeado [eg3][v]%s[s0][/] y sus unidades!
+[eb][eg1][cp][v]%s[s1][/] han rodeado a [eg1][cp][v]%s[s0][/]!
+Vence a las tropas [eg4][v]%s[s1][/] que rodean [eg3][v]%s[s0][/]!
+Vence [eg1][v]%s[s1][/] y a otras unidades que rodean a las [eg4][v]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] que rodean a [eg1][cp][v]%s[s0][/]!
+Busca [eg1][t]%s[s0][/] que han robado!
+Busca [eg1][cp][t]%s[s0][/] que han robado!
+Busca [eg1][cp][t]%s[s0][/] que han robado!
+Has recuperado [eg1][t]%s[s1][/] de las manos [eg4][v]%s[s0][/]!
+Has recuperado [eg1][t]%s[s1][/] de las manos [eg4][v]%s[s0][/] y de sus unidades!
+Has recuperado [eg1][cp][t]%s[s1][/] de [eg1][cp][v]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] se ha abierto!
+[eb][eg1][cp][t]%s[s0][/] se han abierto!
+[eb][eg1][cp][t]%s[s0][/] se han abierto!
+[eb][eg1][v]%s[s0][/] est luchando al mximo!
+[eb][eg1][v]%s[s0][/] y otras unidades estn luchando al mximo!
+[eb][eg1][cp][v]%s[s0][/] estn luchando al mximo!
+[eb][eg1][v]%s[s0][/] no tena [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades no tenan [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] no tenan [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] est lleno de [cp][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] est lleno de [cp][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] est lleno de [cp][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha reforzado las defensas [eg4][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han reforzado las defensas [eg4][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han reforzado las defensas [eg4][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha reforzado an ms las defensas [eg4][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han reforzado an ms las defensas [eg4][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han reforzado an ms las defensas [eg4][t]%s[s1][/]!
+Renete con [eg1][t]%s[s0][/]!
+Renete con [eg1][t]%s[s0][/] y sus unidades!
+Renete con [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha pedido refuerzos!
+[eb][eg1][v]%s[s0][/] y sus unidades han pedido refuerzos!
+[eb][eg1][cp][v]%s[s0][/] han pedido refuerzos!
+Han bombardeado las puertas [eg4][t]%s[s0][/]!
+Han bombardeado las puertas [eg4][t]%s[s0][/]!
+Han bombardeado las puertas [eg4][t]%s[s0][/]!
+Vence a las tropas [eg4][v]%s[s1][/] que rodean [eg3][v]%s[s0][/]!
+Vence [eg1][v]%s[s1][/] y a otras unidades que rodean a las [eg4][v]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] que rodean a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han rodeado [eg3][v]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han rodeado [eg3][v]%s[s0][/]!
+Vence [eg1][v]%s[s1][/] y a otras unidades que rodean [eg3][v]%s[s0][/]!
+Vence [eg3][cp][v]%s[s1][/] que rodean [eg3][v]%s[s0][/]!
+Repele [eg3][t]%s[s0][/]!
+Repele a [eg1][cp][t]%s[s0][/]!
+Repele [eg3][cp][t]%s[s0][/]!
+El entrenamiento ha agotado [eg3][v]%s[s0][/].
+El entrenamiento ha agotado a [eg1][cp][v]%s[s0][/].
+El entrenamiento ha agotado a [eg1][cp][v]%s[s0][/].
+[eb][eg1][v]%s[s0][/] est contratacando [eg3][t]%s[s1][/].
+[eb][eg1][v]%s[s0][/] y otras unidades estn contratacando [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] estn contratacando [eg3][t]%s[s1][/].
+[eb][eg1][v]%s[s0][/] est escoltando [eg3][v]%s[s1][/].
+[eb][eg1][v]%s[s0][/] est escoltando [eg3][v]%s[s1][/] y a sus unidades.
+[eb][eg1][v]%s[s0][/] est escoltando a [eg1][cp][v]%s[s1][/].
+[eb][eg1][t]%s[s0][/] ha aparecido!
+[eb][eg1][cp][t]%s[s0][/] han aparecido!
+[eb][eg1][cp][t]%s[s0][/] han aparecido!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma tambin [eg1][cp][t]%s[s0][/] que quedan!
+Toma tambin [eg1][t]%s[s0][/] que quedan!
+[eb][eg1][v]%s[s1][/] ha aparecido cerca [eg4][v]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido cerca [eg4][v]%s[s0][/] y sus unidades!
+[eb][eg1][cp][t]%s[s1][/] han aparecido cerca [eg4][v]%s[s0][/] y otras unidades!
+Rpido! Vence [eg3][t]%s[s1][/] que ataca [eg3][v]%s[s0][/]!
+Rpido! Vence a [eg1][cp][t]%s[s1][/] que atacan [eg3][v]%s[s0][/] y a sus unidades!
+Rpido! Vence [eg3][cp][t]%s[s1][/] que atacan a [eg1][cp][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+Abandona [eg1][t]%s[s0][/] y ve [eg3][t]%s[s1][/]!
+Abandona [eg1][t]%s[s0][/] y ve [eg3][t]%s[s1][/]!
+Abandona [eg1][t]%s[s0][/] y ve [eg3][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha bloqueado el camino [eg4][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han bloqueado el camino [eg4][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han bloqueado el camino [eg4][t]%s[s1][/]!
+Haz caer el rbol con bombas remotas para bloquear el camino!
+Haz caer el rbol con bombas remotas para bloquear el camino!
+Haz caer el rbol con bombas remotas para bloquear el camino!
+La marcha se ha detenido para esperar a que [eg1][v]%s[s0][/] se recupere.
+La marcha se ha detenido para esperar a que [eg1][v]%s[s0][/] y otras unidades se recuperen.
+La marcha se ha detenido para esperar a que [eg1][cp][v]%s[s0][/] se recuperen.
+[eb][eg2][t]%s[s0][/] ha aparecido y est atacando [eg3][v]%s[s1][/]!
+[eb][eg2][t]%s[s0][/] han aparecido y estn atacando [eg3][v]%s[s1][/] y a sus unidades!
+[eb][eg2][cp][t]%s[s0][/] han aparecido y estn atacando a [eg1][cp][v]%s[s1][/]!
+Protege [eg3][v]%s[s0][/] hasta que se recupere!
+Protege [eg3][v]%s[s1][/] y a sus unidades hasta que [eg1][v]%s[s0][/] y sus unidades se recuperen!
+Protege a [eg1][cp][v]%s[s1][/] hasta que [eg1][cp][v]%s[s0][/] se recuperen!
+[eb][eg1][v]%s[s0][/] ha protegido [eg3][v]%s[s1][/].
+[eb][eg1][v]%s[s0][/] y sus unidades han protegido [eg3][v]%s[s1][/].
+[eb][eg1][cp][v]%s[s0][/] han protegido a [eg1][cp][v]%s[s1][/].
+Gracias al descanso, [eg1][v]%s[s0][/] ha recuperado energa.
+Gracias al descanso, [eg1][v]%s[s0][/] y otras unidades han recuperado energa.
+Gracias al descanso, [eg1][cp][v]%s[s0][/] han recuperado energa.
+Contina tu camino hacia [eg1][t]%s[s0][/].
+Contina tu camino hacia [eg1][cp][t]%s[s0][/].
+Contina tu camino hacia [eg1][t]%s[s0][/].
+[eb][eg1][t]%s[s0][/] se ha cerrado y ha aparecido [eg2][v]%s[s1][/].
+[eb][eg1][cp][t]%s[s0][/] se han cerrado y han aparecido[eg1][v]%s[s1][/] y otras unidades.
+[eb][eg1][t]%s[s0][/] se ha cerrado y han aparecido [eg1][cp][v]%s[s1][/].
+[eb][eg1][t]%s[s0][/] se ha abierto!
+[eb][eg1][cp][t]%s[s0][/] se han abierto!
+[eb][eg1][t]%s[s0][/] se ha abierto!
+Investiga [eg1][t]%s[s0][/]!
+Investiga [eg1][cp][t]%s[s0][/]!
+Investiga [eg1][t]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/] y a sus unidades!
+Has vencido a [eg1][cp][v]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s0][/]!
+Rpido! Dirgete adonde est [eg1][v]%s[s0][/]!
+Rpido! Dirgete adonde estn [eg1][cp][v]%s[s0][/]!
+Rpido! Dirgete adonde est [eg1][v]%s[s0][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+[eb][eg1][b]%s[s0][/] ha llegado con refuerzos!
+[eb][eg1][b]%s[s0][/] y sus unidades han llegado con refuerzos!
+[eb][eg1][cp][b]%s[s0][/] han llegado con refuerzos!
+Dirgete [eg3][t]%s[s1][/] para rescatar [eg3][b]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s1][/] para rescatar a [eg1][cp][b]%s[s0][/]!
+Dirgete [eg3][t]%s[s1][/] para rescatar a [eg1][cp][b]%s[s0][/]!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+[eb][eg2][v]%s[s0][/] ha aparecido!
+[eb][eg1][v]%s[s0][/] y otras unidades han aparecido!
+[eb][eg2][cp][v]%s[s0][/] han aparecido!
+Ha aparecido [eg2][r]%s[s0][/] ms!
+[eb][eg2][r]%s[s0][/] y otras unidades han aparecido!
+Han aparecido ms [cp][r]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/] y a sus unidades!
+Has vencido a [eg1][cp][v]%s[s0][/]!
+Escapa a travs [eg4][t]%s[s0][/]!
+Escapa a travs [eg4][t]%s[s0][/]!
+Escapa a travs [eg4][t]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/] y a sus unidades!
+Has vencido a [eg1][cp][v]%s[s0][/]!
+Escapa a travs [eg4][t]%s[s0][/]!
+Escapa a travs [eg4][t]%s[s0][/]!
+Escapa a travs [eg4][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+[eb][eg2][v]%s[s0][/] ha aparecido!
+[eb][eg1][v]%s[s0][/] y otras unidades han aparecido!
+[eb][eg2][cp][v]%s[s0][/] han aparecido!
+[eb][eg1][r]%s[s0][/] ha bloqueado [eg1][t]%s[s1][/]!
+[eb][eg1][r]%s[s0][/] y otras unidades han bloqueado [eg1][t]%s[s1][/]!
+[eb][eg1][cp][r]%s[s0][/] han bloqueado [eg1][t]%s[s1][/]!
+Acrcate a [eg2][v]%s[s0][/] diferente!
+Acrcate a [eg1][cp][v]%s[s0][/] diferentes!
+Acrcate a [eg2][v]%s[s0][/] diferente!
+[eb][eg1][r]%s[s1][/] [eg4][t]%s[s0][/] se ha activado!
+[eb][eg1][cp][r]%s[s1][/] [eg4][t]%s[s0][/] se han activado!
+[eb][eg1][cp][r]%s[s1][/] [eg4][t]%s[s0][/] se han activado!
+Se ha activado [eg2][r]%s[s1][/] ms en [eg1][t]%s[s0][/]!
+Se han activado ms [cp][r]%s[s1][/] en [eg1][cp][t]%s[s0][/]!
+Se han activado ms [cp][r]%s[s1][/] en [eg1][t]%s[s0][/]!
+Vence [eg3][r]%s[s1][/] [eg4][t]%s[s0][/]!
+Vence [eg3][r]%s[s1][/] y a las otras unidades [eg4][t]%s[s0][/]!
+Vence a [eg1][cp][r]%s[s1][/] [eg4][t]%s[s0][/]!
+Han bloqueado [eg1][t]%s[s0][/]!
+Han bloqueado [eg1][cp][t]%s[s0][/]!
+Han bloqueado [eg1][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Tras vencer [eg3][r]%s[s1][/] [eg4][t]%s[s0][/], se ha abierto [eg1][t]%s[s2][/]!
+Tras vencer [eg3][r]%s[s1][/] y a otras unidades que se encontraban en [eg1][cp][t]%s[s0][/], se ha abierto [eg1][t]%s[s2][/]!
+Tras vencer a [eg1][cp][r]%s[s1][/] que se encontraban en [eg1][t]%s[s0][/], se ha abierto [eg1][t]%s[s2][/]!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Ha aparecido un gran nmero [eg4][r]%s[s1][/] dentro [eg4][t]%s[s0][/]!
+Ha aparecido [eg2][r]%s[s1][/] acompaado de ms unidades, dentro [eg4][t]%s[s0][/]!
+Un gran nmero de [cp][r]%s[s1][/] ha aparecido dentro [eg4][t]%s[s0][/]!
+No te preocupes por [eg1][r]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+No te preocupes por [eg1][r]%s[s0][/] y sus unidades y dirgete [eg3][t]%s[s1][/]!
+No te preocupes por [eg1][cp][r]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Has llegado [eg3][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+Ha aparecido [eg2][r]%s[s1][/] en [eg1][t]%s[s0][/]!
+[eb][eg1][r]%s[s1][/] y otras unidades han aparecido en [eg1][t]%s[s0][/]!
+[eb][eg1][cp][r]%s[s1][/] han aparecido en [eg1][t]%s[s0][/]!
+Sube [eg3][t]%s[s0][/]!
+Sube a [eg1][cp][t]%s[s0][/]!
+Sube [eg3][t]%s[s0][/]!
+Sube [eg3][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Sube a [eg1][cp][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Sube [eg3][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Baja [eg4][t]%s[s0][/]!
+Baja de [eg1][cp][t]%s[s0][/]!
+Baja [eg4][t]%s[s0][/]!
+Baja [eg4][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Baja de [eg1][cp][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Baja [eg4][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Baja [eg4][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Baja de [eg1][cp][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Baja [eg4][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Sube [eg3][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Sube a [eg1][cp][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Sube [eg3][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Sigue [eg1][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Sigue [eg1][cp][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Sigue [eg1][t]%s[s1][/] [eg4][t]%s[s0][/]!
+(reserved)
+Sigue [eg1][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Sigue [eg1][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Sigue [eg1][t]%s[s0][/] y dirgete [eg3][t]%s[s1][/]!
+Dirgete hacia [eg1][t]%s[s2][/], que est en [eg4][t]%s[s1][/] que hay delante [eg4][t]%s[s0][/].
+Dirgete hacia [eg1][t]%s[s2][/], que est en [eg4][t]%s[s1][/] que hay delante [eg4][t]%s[s0][/].
+Dirgete hacia [eg1][t]%s[s2][/], que est en [eg4][t]%s[s1][/] que hay delante [eg4][t]%s[s0][/].
+Dirgete hacia [eg1][t]%s[s2][/], que est en [eg4][t]%s[s1][/], en el interior[eg4][t]%s[s0][/].
+Dirgete hacia [eg1][t]%s[s2][/], que est en [eg4][t]%s[s1][/], en el interior[eg4][t]%s[s0][/].
+Dirgete hacia [eg1][t]%s[s2][/], que est en [eg4][t]%s[s1][/], en el interior[eg4][t]%s[s0][/].
+[eb][eg1][r]%s[s0][/] ha destruido parte [eg4][t]%s[s1][/]!
+[eb][eg1][r]%s[s0][/] y otras unidades han destruido parte [eg4][t]%s[s1][/]!
+[eb][eg1][cp][r]%s[s0][/] han destruido parte [eg4][t]%s[s1][/]!
+Ya no puedes salir [eg4][t]%s[s0][/]...
+Ya no puedes salir [eg4][cp][t]%s[s0][/]...
+Ya no puedes salir [eg4][t]%s[s0][/]...
+Dirgete hacia [eg1][v]%s[s0][/]!
+Dirgete hacia donde estn [eg1][cp][v]%s[s0][/]!
+Dirgete hacia donde est [eg1][v]%s[s0][/]!
+Encuentra la forma de eliminar [eg1][t]%s[s0][/]!
+Encuentra la forma de eliminar a [eg1][cp][t]%s[s0][/]!
+Encuentra la forma de eliminar a [eg1][cp][t]%s[s0][/]!
+Parte [eg4][t]%s[s1][/] ha desaparecido tras la derrota [eg4][v]%s[s0][/]!
+[eb][eg1][cp][t]%s[s1][/] han desaparecido tras la derrota [eg4][v]%s[s0][/] y otras unidades!
+[eb][eg5][cp][t]%s[s1][/] han desaparecido tras la derrota de [eg1][cp][v]%s[s0][/]!
+Encuentra y vence [eg3][v]%s[s0][/]!
+Encuentra y vence [eg3][v]%s[s0][/] y a sus unidades!
+Encuentra y vence a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] ha desaparecido por completo!
+Dirgete hacia [eg1][v]%s[s0][/]!
+Dirgete hacia donde estn [eg1][cp][v]%s[s0][/]!
+Dirgete hacia donde est [eg1][v]%s[s0][/]!
+[eb][eg1][t]%s[s1][/] ha enfriado [eg1][t]%s[s0][/]!
+[eb][eg1][cp][t]%s[s1][/] han enfriado [eg1][cp][t]%s[s0][/]!
+[eb][eg1][t]%s[s1][/] ha enfriado [eg1][t]%s[s0][/]!
+Ahora que [eg1][t]%s[s0][/] se ha enfriado, ya se puede entrar en [eg1][v]%s[s1][/]!
+Ahora que [eg1][cp][t]%s[s0][/] se ha enfriado, ya se puede entrar en [eg1][cp][v]%s[s1][/]!
+Ahora que [eg1][t]%s[s0][/] se ha enfriado, ya se puede entrar en [eg1][v]%s[s1][/]!
+Ya se puede entrar en [eg1][v]%s[s0][/]!
+Ya se puede entrar en [eg1][cp][v]%s[s0][/]!
+Ya se puede entrar en [eg1][v]%s[s0][/]!
+brete paso desde [eg1][t]%s[s0][/] hasta [eg1][v]%s[s1][/]!
+brete paso desde [eg1][cp][t]%s[s0][/] hasta [eg1][cp][v]%s[s1][/]!
+brete paso desde [eg1][t]%s[s0][/] hasta [eg1][v]%s[s1][/]!
+brete paso desde [eg1][t]%s[s0][/] hasta [eg1][v]%s[s1][/]!
+brete paso desde [eg1][cp][t]%s[s0][/] hasta [eg1][cp][v]%s[s1][/]!
+brete paso desde [eg1][t]%s[s0][/] hasta [eg1][v]%s[s1][/]!
+Vence [eg3][v]%s[s1][/] que defiende [eg1][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] y a las otras unidades que defienden [eg1][t]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] que defienden [eg1][t]%s[s0][/]!
+Con la derrota [eg4][v]%s[s0][/], ha desaparecido ms [t]%s[s1][/]!
+Con la derrota [eg4][v]%s[s0][/], han desaparecido ms [cp][t]%s[s1][/]!
+Con la derrota de [v]%s[s0][/], han desaparecido ms [cp][t]%s[s1][/]!
+Dirgete hacia donde est [eg1][b]%s[s0][/]!
+Dirgete hacia donde estn [eg1][cp][b]%s[s0][/]!
+Dirgete hacia donde est [eg1][b]%s[s0][/]!
+brete paso desde [eg1][t]%s[s0][/] hasta [eg1][b]%s[s1][/]!
+brete paso desde [eg1][cp][t]%s[s0][/] hasta [eg1][cp][b]%s[s1][/]!
+brete paso desde [eg1][t]%s[s0][/] hasta [eg1][b]%s[s1][/]!
+Impide que [eg1][v]%s[s0][/] entre en [eg1][t]%s[s1][/]!
+Impide que [eg1][v]%s[s0][/] y otras unidades entren en [eg1][t]%s[s1][/]!
+Impide que [eg1][cp][v]%s[s0][/] entren en [eg1][t]%s[s1][/]!
+Destruye [eg1][t]%s[s0][/] para bloquear el avance [eg4][v]%s[s1][/]!
+Destruye [eg1][t]%s[s0][/] para bloquear el avance [eg4][v]%s[s1][/] y de otras unidades!
+Destruye [eg1][t]%s[s0][/] para bloquear el avance de [eg1][cp][v]%s[s1][/]!
+Destruye [eg1][t]%s[s0][/]!
+Destruye [eg7][cp][t]%s[s0][/]!
+Destruye a [eg7][cp][t]%s[s0][/]!
+Destruye [eg1][t]%s[s0][/]!
+Destruye [eg1][cp][t]%s[s0][/]!
+Destruye [eg1][t]%s[s0][/]!
+Se ha terminado el tiempo! Has perdido!
+Se ha terminado el tiempo! Has perdido!
+Se ha terminado el tiempo! Has perdido!
+Defiende [eg1][t]%s[s1][/] del ataque [eg4][v]%s[s0][/] hasta el final!
+Defiende [eg1][t]%s[s1][/] del ataque de [eg1][cp][v]%s[s0][/] hasta el final!
+Defiende [eg1][t]%s[s1][/] del ataque de [eg1][cp][v]%s[s0][/] hasta el final!
+No dejes que llegue [eg3][t]%s[s1][/] ni [eg2][v]%s[s0][/]!
+Impide que [eg1][cp][v]%s[s0][/] lleguen [eg3][t]%s[s1][/]!
+Impide que [eg1][cp][v]%s[s0][/] lleguen [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se aproxima [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] est a punto de llegar [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades estn a punto de llegar [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] estn a punto de llegar [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se dirige hacia [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades se dirigen hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se dirigen hacia [eg1][t]%s[s1][/]!
+Has destruido [eg1][t]%s[s0][/]!
+Has destruido [eg1][cp][t]%s[s0][/]!
+Has destruido [eg1][t]%s[s0][/]!
+Han entrado en [eg1][t]%s[s0][/]!
+Han entrado en [eg1][cp][t]%s[s0][/]!
+Han entrado en [eg1][t]%s[s0][/]!
+Estn atacando [eg1][t]%s[s0][/]!
+Estn atacando [eg1][cp][t]%s[s0][/]!
+Estn atacando [eg1][t]%s[s0][/]!
+Dirgete hacia [eg1][v]%s[s0][/]!
+Dirgete hacia donde estn [eg1][cp][v]%s[s0][/]!
+Dirgete hacia donde est [eg1][v]%s[s0][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Carga contra [eg1][v]%s[s0][/]!
+Carga contra [eg1][cp][v]%s[s0][/]!
+Carga contra [eg1][v]%s[s0][/]!
+Ya puedes controlar [eg3][v]%s[s0][/]!
+Ya puedes controlar [eg3][v]%s[s0][/] y a sus unidades!
+Ya puedes controlar a [eg1][cp][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+[eb][eg2][t]%s[s0][/] ha provocado [eg2][t]%s[s2][/] en [eg1][t]%s[s1][/]!
+[eb][eg2][cp][t]%s[s0][/] han provocado [eg2][cp][t]%s[s2][/] en [eg1][cp][t]%s[s1][/]!
+[eb][eg2][t]%s[s0][/] ha provocado [eg2][t]%s[s2][/] en [eg1][t]%s[s1][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s1][/] [eg4][v]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s1][/] [eg4][v]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s1][/] [eg4][v]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha entrado en [eg1][t]%s[s1][/] y ha abierto [eg1][t]%s[s2][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades han entrado en [eg1][t]%s[s1][/] y han abierto [eg1][t]%s[s2][/]!
+[eb][eg1][cp][v]%s[s0][/] han entrado en [eg1][t]%s[s1][/] y han abierto [eg1][t]%s[s2][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+Corre hacia [eg1][v]%s[s1][/] desde [eg1][t]%s[s0][/]!
+Corre hacia [eg1][cp][v]%s[s1][/] desde [eg1][cp][t]%s[s0][/]!
+Corre hacia [eg1][v]%s[s1][/] desde [eg1][t]%s[s0][/]!
+Dirgete hacia donde est [eg1][b]%s[s0][/]!
+Dirgete hacia donde estn [eg1][cp][b]%s[s0][/]!
+Dirgete hacia donde est [eg1][b]%s[s0][/]!
+Corre hacia [eg1][b]%s[s0][/]!
+Corre hacia [eg1][cp][b]%s[s0][/]!
+Corre hacia [eg1][b]%s[s0][/]!
+Corre hacia [eg1][b]%s[s1][/] desde [eg1][t]%s[s0][/]!
+Corre hacia [eg1][cp][b]%s[s1][/] desde [eg1][cp][t]%s[s0][/]!
+Corre hacia [eg1][b]%s[s1][/] desde [eg1][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Invade [eg1][t]%s[s0][/]!
+Invade [eg1][cp][t]%s[s0][/]!
+Invade [eg1][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] que defiende [eg1][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] y a las otras unidades que defienden [eg1][t]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] que defienden [eg1][t]%s[s0][/]!
+Vence tambin [eg3][v]%s[s0][/] que queda!
+Vence [eg3][v]%s[s0][/] y a otras unidades que queden!
+Vence a [eg1][cp][v]%s[s0][/] que queden!
+Busca otro camino [eg3][t]%s[s0][/]!
+Busca otro camino a [eg1][cp][t]%s[s0][/]!
+Busca otro camino [eg3][t]%s[s0][/]!
+Destruye [eg1][t]%s[s0][/]!
+Destruye [eg7][cp][t]%s[s0][/]!
+Destruye [eg7][t]%s[s0][/]!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha aparecido de nuevo!
+[eb][eg1][v]%s[s0][/] y sus unidades han aparecido de nuevo!
+[eb][eg1][cp][v]%s[s0][/] han aparecido de nuevo!
+Dirgete [eg3][t]%s[s0][/] para ayudar!
+Dirgete a [eg1][cp][t]%s[s0][/] para ayudar!
+Dirgete [eg3][t]%s[s0][/] para ayudar!
+Escoge un camino para llegar al bastin de Akkala.
+Escoge un camino para llegar [eg3][t]%s[s0][/].
+Escoge un camino para llegar [eg3][t]%s[s0][/].
+No queda mucho tiempo! Dirgete rpidamente al bastin de Akkala!
+No queda mucho tiempo! Dirgete rpidamente hacia [eg1][cp][t]%s[s0][/]!
+No queda mucho tiempo! Dirgete rpidamente [eg3][t]%s[s0][/]!
+Ayuda [eg3][t]%s[s1][/] en [eg1][t]%s[s0][/]!
+Ayuda a [eg1][cp][t]%s[s1][/] en [eg1][cp][t]%s[s0][/]!
+Ayuda [eg3][t]%s[s1][/] en [eg1][t]%s[s0][/]!
+Vigila la energa [eg4][t]%s[s0][/] que protegen el bastin!
+Vigila la energa de [eg1][cp][t]%s[s0][/] que protegen el bastin!
+Vigila la energa [eg4][cp][t]%s[s0][/] que protegen el bastin!
+Rpido! Dirgete [eg3][t]%s[s0][/]!
+Rpido! Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Rpido! Dirgete [eg3][t]%s[s0][/]!
+Ayuda [eg3][t]%s[s1][/] que protege el bastin [eg4][v]%s[s0][/]!
+Ayuda [eg3][v]%s[s0][/] en su apoyo [eg3][cp][t]%s[s1][/] que protegen el bastin!
+Ayuda a [eg1][cp][t]%s[s1][/] que protegen la base [eg4][v]%s[s0][/]!
+Ayuda [eg3][v]%s[s0][/] a rescatar [eg3][v]%s[s1][/]!
+Ayuda [eg3][v]%s[s0][/] a rescatar [eg3][v]%s[s1][/] y a sus unidades!
+Ayuda a [eg1][cp][v]%s[s0][/] a rescatar [eg1][cp][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha recuperado la energa!
+[eb][eg1][v]%s[s0][/] y sus unidades han recuperado la energa!
+[eb][eg1][cp][v]%s[s0][/] han recuperado la energa!
+Has rescatado [eg3][v]%s[s0][/]!
+Has rescatado [eg3][v]%s[s0][/] y a sus unidades!
+Has rescatado a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha aparecido en [eg1][t]%s[s1][/]!
+[eb][eg2][v]%s[s0][/] y ms unidades han aparecido en [eg1][t]%s[s1][/]!
+Ms [cp][v]%s[s0][/] han aparecido en [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha cambiado de objetivo y [eg1][v]%s[s1][/] ataca [eg1][t]%s[s2][/] desde el norte!
+[eb][eg1][v]%s[s0][/] ha cambiado de objetivo, y [eg1][v]%s[s1][/] y otras unidades atacan [eg1][t]%s[s2][/] desde el norte!
+[eb][eg1][v]%s[s0][/] ha cambiado de objetivo y [eg1][cp][v]%s[s1][/] atacan [eg1][t]%s[s2][/] desde el norte!
+[eb][eg1][v]%s[s0][/] ataca [eg1][t]%s[s1][/] desde el norte!
+[eb][eg1][v]%s[s0][/] y otras unidades atacan [eg1][t]%s[s1][/] desde el norte!
+[eb][eg1][cp][v]%s[s0][/] atacan [eg1][t]%s[s1][/] desde el norte!
+Ayuda [eg3][t]%s[s0][/] en el bastin!
+Ayuda a [eg1][cp][t]%s[s0][/] en el bastin!
+Ayuda [eg3][t]%s[s0][/] en el bastin!
+[eb][eg1][v]%s[s0][/] se dirige hacia el interior del bastin!
+[eb][eg1][v]%s[s0][/] y otras unidades se dirigen hacia el interior del bastin!
+[eb][eg1][cp][v]%s[s0][/] se dirigen hacia el interior del bastin!
+[eb][eg1][v]%s[s0][/] debe ayudar [eg3][t]%s[s1][/] en el bastin!
+[eb][eg1][v]%s[s0][/] y sus unidades deben ayudar a [eg1][cp][t]%s[s1][/] en el bastin!
+[eb][eg1][v]%s[s0][/] debe ayudar [eg3][t]%s[s1][/] en el bastin!
+No dejes que [eg1][v]%s[s0][/] que vigila la plaza se quede sin energa!
+No dejes que [eg1][cp][v]%s[s0][/] que vigilan la plaza se quede sin energa!
+No dejes que [eg1][cp][v]%s[s0][/] que vigilan la plaza se queden sin energa!
+Has ayudado [eg3][t]%s[s0][/] en el bastin!
+Has ayudado a [eg1][cp][t]%s[s0][/] en el bastin!
+Has ayudado a [eg1][cp][t]%s[s0][/] en el bastin!
+Ayuda [eg3][v]%s[s0][/]!
+Ayuda [eg3][v]%s[s0][/] y a sus unidades!
+Ayuda a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] se dirige hacia el nivel superior del bastin!
+[eb][eg1][v]%s[s0][/] y otras unidades se dirigen hacia el nivel superior del bastin!
+[eb][eg1][cp][v]%s[s0][/] se dirigen hacia el nivel superior del bastin!
+[eb][eg1][v]%s[s0][/] debe ayudar [eg3][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] debe ayudar [eg3][v]%s[s1][/] y a sus unidades!
+[eb][eg1][v]%s[s0][/] debe ayudar a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha aparecido y est atacando [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han aparecido y estn atacando [eg1][cp][t]%s[s1][/]!
+Un gran nmero de [cp][t]%s[s0][/] ha aparecido y estn atacando [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha llegado y se dirige [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades han llegado y se dirigen hacia [eg1][cp][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han llegado y se dirigen [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha atravesado las lneas enemigas!
+[eb][eg1][v]%s[s0][/] y otras unidades han atravesado las lneas enemigas!
+[eb][eg1][cp][v]%s[s0][/] han atravesado las lneas enemigas!
+[eb][eg1][v]%s[s0][/] ha llegado [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades han llegado a [eg1][cp][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han llegado [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] est defendiendo [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades estn defendiendo [eg1][cp][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] estn defendiendo [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] est luchando contra [eg1][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades estn luchando contra [eg1][v]%s[s1][/] y otras unidades!
+[eb][eg1][cp][v]%s[s0][/] estn luchando contra [eg1][v]%s[s1][/]!
+Detn [eg3][t]%s[s1][/] en [eg1][t]%s[s0][/]!
+Detn a [eg1][cp][t]%s[s1][/] en [eg1][cp][t]%s[s0][/]!
+Detn [eg3][t]%s[s1][/] en [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] se dirige hacia [eg1][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades se dirigen hacia [eg1][v]%s[s1][/] y otras unidades!
+[eb][eg1][cp][v]%s[s0][/] se dirigen hacia [eg1][cp][v]%s[s1][/]!
+Vence enseguida [eg3][t]%s[s1][/] que ha superado [eg1][t]%s[s0][/]!
+Vence enseguida a [eg1][cp][t]%s[s1][/] que han superado [eg1][cp][t]%s[s0][/]!
+Vence enseguida [eg3][cp][t]%s[s1][/] que han superado [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] est listo para disparar!
+[eb][eg1][cp][t]%s[s0][/] tienen todo listo para disparar!
+[eb][eg1][cp][t]%s[s0][/] tienen todo listo para disparar!
+Has vencido [eg3][v]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/] y a sus unidades!
+Has vencido a [eg1][cp][v]%s[s0][/]!
+Rpido! Ve al este [eg4][t]%s[s0][/]!
+Rpido! Ve al este [eg4][t]%s[s0][/]!
+Rpido! Ve al este [eg4][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s0][/]!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/]!
+Has vencido [eg3][v]%s[s0][/] y a sus unidades!
+Has vencido a [eg1][cp][v]%s[s0][/]!
+Han herido [eg3][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades han sufrido daos!
+Han herido a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] debe acercarse [eg3][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] debe acercarse [eg1][v]%s[s1][/] y a sus unidades!
+[eb][eg1][v]%s[s0][/] debe acercarse a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] est atacando [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades estn atacando [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] estn atacando [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] est atacando [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades estn atacando [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] estn atacando [eg1][t]%s[s1][/]!
+Ya puedes controlar [eg3][v]%s[s0][/]!
+Ya puedes controlar [eg3][v]%s[s0][/] y a sus unidades!
+Ya puedes controlar a [eg1][cp][v]%s[s0][/]!
+Ha aparecido [eg2][t]%s[s0][/]!
+Han aparecido ms [cp][t]%s[s0][/]!
+Han aparecido ms [cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha repelido [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades han repelido [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han repelido [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha vencido [eg3][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades han vencido [eg3][v]%s[s1][/] y a otras unidades!
+[eb][eg1][cp][v]%s[s0][/] han repelido a [eg1][cp][v]%s[s1][/]!
+Has encontrado [eg3][v]%s[s0][/]!
+Has descubierto [eg3][v]%s[s0][/] y a otras unidades!
+Has descubierto a [eg1][cp][v]%s[s0][/]!
+[eb][eg2][t]%s[s0][/] se ha introducido en [eg1][t]%s[s1][/]!
+[eb][eg2][cp][t]%s[s0][/] han invadido [eg1][cp][t]%s[s1][/]!
+[eb][eg2][t]%s[s0][/] han invadido [eg1][t]%s[s1][/]!
+Dirgete hacia el este [eg4][t]%s[s0][/]!
+Dirgete hacia el este [eg4][t]%s[s0][/]!
+Dirgete hacia el este [eg4][t]%s[s0][/]!
+Vence [eg3][cp][t]%s[s0][/] que se acercan y ayuda [eg3][v]%s[s1][/]!
+Vence [eg3][t]%s[s0][/] que se acerca y ayuda [eg3][v]%s[s1][/] y a sus unidades!
+Vence [eg3][t]%s[s0][/] que se acerca y ayuda a [eg1][cp][v]%s[s1][/]!
+Has vencido [eg3][t]%s[s0][/] que se acercaba!
+Has vencido a [eg1][cp][t]%s[s0][/] que se acercaban!
+Has vencido [eg3][t]%s[s0][/] que se acercaba!
+El objetivo del ataque [eg4][v]%s[s0][/] ha cambiado!
+El objetivo del ataque [eg4][v]%s[s0][/] y sus unidades ha cambiado!
+El objetivo del ataque de [eg1][cp][v]%s[s0][/] ha cambiado!
+Ayuda [eg3][v]%s[s0][/] a acercarse [eg3][v]%s[s1][/]!
+Ayuda [eg3][v]%s[s0][/] a acercarse [eg3][v]%s[s1][/] y a sus unidades!
+Ayuda [eg3][v]%s[s0][/] a acercarse a [eg1][cp][v]%s[s1][/]!
+Impide que [eg1][r]%s[s0][/] entre en [eg1][t]%s[s1][/]!
+Impide que [eg1][cp][r]%s[s0][/] entren en la fortaleza de Hatelia!
+Impide que [eg1][cp][r]%s[s0][/] entren en la fortaleza de Hatelia!
+Evita la invasin [eg4][r]%s[s0][/]!
+Evita el ataque de [eg1][cp][r]%s[s0][/]!
+Evita el ataque [eg4][r]%s[s0][/]!
+Detn la invasin!
+(reserved)
+(reserved)
+Vence a [eg2][r]%s[s0][/] ms!
+Vence a ms tropas de [cp][r]%s[s0][/]!
+Vence a ms [cp][r]%s[s0][/]!
+Han aparecido ms [cp][r]%s[s0][/]!
+Ha aparecido un gran nmero de [cp][r]%s[s0][/]!
+No olvides el lmite de tiempo!
+No olvides el lmite de tiempo!
+No olvides el lmite de tiempo!
+Queda poco tiempo!
+Queda poco tiempo!
+Queda poco tiempo!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/] y a sus unidades!
+Toma [eg1][t]%s[s1][/] para ayudar a [eg1][cp][v]%s[s0][/]!
+Toma [eg2][t]%s[s1][/] para instalar [eg2][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s1][/] para instalar [eg1][cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para instalar [eg1][t]%s[s0][/]!
+Vence [eg3][t]%s[s1][/] para instalar [eg1][t]%s[s0][/]!
+Vence [eg3][t]%s[s1][/] y a otras unidades para instalar [eg1][t]%s[s0][/]!
+Vence a [eg1][t]%s[s1][/] para instalar [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] avanza hacia [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] avanzan hacia [eg1][t]%s[s1][/]!
+Quedan 3 sitios en los que instalar [eg1][cp][t]%s[s0][/]!
+Quedan 2 sitios en los que instalar [eg1][cp][t]%s[s0][/]!
+Queda 1 sitio en el que instalar [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] se dirige hacia [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades se dirigen [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se dirigen [eg3][t]%s[s1][/]!
+Escolta [eg3][v]%s[s0][/] hasta [eg1][t]%s[s1][/]!
+Escolta [eg3][v]%s[s0][/] y a sus unidades hasta [eg1][t]%s[s1][/]!
+Escolta a [eg1][cp][v]%s[s0][/] hasta [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha interrumpido su avance hacia [eg1][t]%s[s1][/].
+[eb][eg1][v]%s[s0][/] y sus unidades han interrumpido su avance hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han interrumpido su avance hacia [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha sufrido muchos daos!
+[eb][eg1][t]%s[s0][/] est a punto de caer!
+Vence [eg3][v]%s[s0][/] y rescata [eg3][v]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y a sus unidades para salvar [eg3][v]%s[s1][/] y a otras unidades!
+Vence [eg3][cp][v]%s[s0][/] para salvar a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha iniciado la exploracin!
+[eb][eg1][v]%s[s0][/] y sus unidades han iniciado la exploracin!
+[eb][eg1][cp][v]%s[s0][/] han iniciado la exploracin!
+[eb][eg1][t]%s[s0][/] est ardiendo!
+[eg1][cp][eg1][t]%s[s0][/] estn ardiendo!
+[eb][eg1][cp][t]%s[s0][/] estn ardiendo!
+[eb][eg1][v]%s[s0][/] y [eg1][v]%s[s1][/] se dirigen [eg3][t]%s[s2][/]!
+[eb][eg1][v]%s[s0][/], [eg1][v]%s[s1][/] y otras unidades se dirigen hacia [eg1][t]%s[s2][/]!
+[eb][eg1][cp][v]%s[s0][/] y [eg1][cp][v]%s[s1][/] se dirigen [eg3][t]%s[s2][/]!
+[eb][eg1][r]%s[s1][/] ha rodeado y destruido parcialmente [eg3][v]%s[s0][/]!
+[eb][eg1][r]%s[s1][/] y otras unidades han rodeado y destruido parcialmente [eg3][v]%s[s0][/]!
+[eb][eg1][cp][r]%s[s1][/] han rodeado y destruido parcialmente [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] y [eg1][v]%s[s1][/] se han puesto en marcha de nuevo!
+[eb][eg1][v]%s[s0][/], [eg1][v]%s[s1][/] y otras unidades se han puesto en marcha de nuevo!
+[eb][eg1][cp][v]%s[s0][/] y [eg1][cp][v]%s[s1][/] se han puesto en marcha de nuevo!
+[eb][eg1][t]%s[s0][/] se ha activado!
+[eb][eg1][cp][t]%s[s0][/] se han activado!
+[eb][eg1][t]%s[s0][/] se ha activado!
+[eb][eg1][v]%s[s1][/] ha aparecido cerca [eg4][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han aparecido cerca [eg4][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido cerca [eg4][t]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+Defiende [eg1][cp][t]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+Defiende [eg1][cp][t]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/] y a otras unidades!
+Toma [eg1][t]%s[s1][/] para ayudar a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] est reconociendo las tropas enemigas!
+[eb][eg1][v]%s[s0][/] y otras unidades estn reconociendo las tropas enemigas!
+[eb][eg1][cp][v]%s[s0][/] estn reconociendo las tropas enemigas!
+[eb][eg1][t]%s[s0][/] y [eg1][v]%s[s1][/] se preparan para activar [eg1][t]%s[s2][/]!
+[eb][eg1][t]%s[s0][/], [eg1][v]%s[s1][/] y otras unidades se preparan para activar [eg1][cp][t]%s[s2][/]!
+[eb][eg1][cp][t]%s[s0][/] y [eg1][cp][v]%s[s1][/] se preparan para activar [eg1][t]%s[s2][/]!
+[eb][eg1][t]%s[s0][/] est luchando contra [eg1][v]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades estn luchando contra [eg1][v]%s[s1][/] y sus unidades!
+[eb][eg1][cp][t]%s[s0][/] estn luchando contra [eg1][cp][v]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y rescata [eg3][v]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y a sus unidades para salvar [eg3][v]%s[s1][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/] para salvar a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha vuelto a ponerse en accin!
+[eb][eg1][cp][t]%s[s0][/] han vuelto a ponerse en accin!
+[eb][eg1][cp][t]%s[s0][/] han vuelto a ponerse en accin!
+[eb][eg1][v]%s[s0][/] pasa a la accin dentro [eg4][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades pasan a la accin dentro [eg4][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] pasan a la accin dentro [eg4][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se dirige hacia [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades se dirigen hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se dirigen hacia [eg1][t]%s[s1][/]!
+Teletransprtate [eg4][t]%s[s0][/] [eg3][t]%s[s1][/]!
+Teletransprtate [eg4][t]%s[s0][/] [eg3][t]%s[s1][/]!
+Teletransprtate [eg4][t]%s[s0][/] [eg3][t]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y rescata [eg3][v]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y a sus unidades para salvar [eg3][v]%s[s1][/] y a otras unidades!
+Vence [eg3][v]%s[s0][/] y a sus unidades para salvar a [eg1][cp][v]%s[s1][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+[eg2][t]%s[s0][/] est preparando un ataque con [eg1][t]%s[s1][/]!
+[eg2][cp][t]%s[s0][/] estn preparando un ataque con [eg1][cp][t]%s[s1][/]!
+[eg2][cp][t]%s[s0][/] estn preparando un ataque con [eg1][t]%s[s1][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma tambin [eg1][cp][t]%s[s0][/] que quedan!
+Toma tambin [eg1][t]%s[s0][/] que quedan!
+Toma [eg1][t]%s[s0][/]!
+Toma tambin [eg1][cp][t]%s[s0][/] que quedan!
+Toma tambin [eg1][t]%s[s0][/] que quedan!
+[eb][eg1][v]%s[s0][/] est atacando!
+[eb][eg1][v]%s[s0][/] y sus unidades estn atacando!
+[eb][eg1][cp][v]%s[s0][/] estn atacando!
+Vence [eg3][v]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/]!
+Hay [cp][t]%s[s0][/] en todas las regiones!
+Hay [cp][t]%s[s0][/] en todas las regiones!
+[eb][eg1][v]%s[s0][/] est atacando [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades estn atacando [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] estn atacando [eg1][t]%s[s1][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] avanza hacia [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] debe dirigirse [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades deben dirigirse [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] deben dirigirse [eg3][t]%s[s1][/]!
+Vence [eg3][t]%s[s0][/] que queda!
+Vence a [eg1][cp][t]%s[s0][/] que quedan!
+Vence a [eg1][cp][t]%s[s0][/] que quedan!
+Vence [eg3][t]%s[s0][/] que queda!
+Vence a [eg1][cp][t]%s[s0][/] que quedan!
+Vence a [eg1][cp][t]%s[s0][/] que quedan!
+Ayuda [eg3][v]%s[s0][/] a llegar [eg3][t]%s[s1][/]!
+Ayuda [eg3][v]%s[s0][/] y a sus unidades a llegar [eg3][t]%s[s1][/]!
+Ayuda a [eg1][cp][v]%s[s0][/] a llegar [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] debe ir [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades deben ir [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] deben ir [eg3][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha reactivado [eg1][cp][t]%s[s1][/] en todas las regiones!
+[eb][eg1][t]%s[s0][/] ha reactivado [eg1][t]%s[s1][/] en todas las regiones!
+[eb][eg1][t]%s[s0][/] est atacando [eg3][v]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] est atacando [eg3][v]%s[s1][/] y a sus unidades!
+[eb][eg1][cp][t]%s[s0][/] estn atacando a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha provocado [eg3][t]%s[s1][/] de la llanura!
+[eb][eg1][v]%s[s0][/] y sus unidades han provocado [eg3][t]%s[s1][/] de la llanura!
+[eb][eg1][cp][v]%s[s0][/] han provocado [eg3][t]%s[s1][/] de la llanura!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] debe quedarse cerca [eg4][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades deben quedarse cerca [eg4][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] deben quedarse cerca [eg4][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] ha reactivado [eg1][cp][t]%s[s1][/] en todas las regiones!
+[eb][eg1][t]%s[s0][/] ha reactivado [eg1][cp][t]%s[s1][/] en todas las regiones!
+[eb][eg1][t]%s[s0][/] ha llegado [eg3][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han llegado [eg3][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han llegado [eg3][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] se ha puesto en marcha para ayudar [eg3][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] se han puesto en marcha para ayudar [eg3][t]%s[s1][/] y a sus unidades!
+[eb][eg1][cp][t]%s[s0][/] se han puesto en marcha para ayudar a [eg1][cp][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se ha puesto en marcha para ayudar [eg3][v]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se han puesto en marcha para ayudar [eg3][v]%s[s1][/] y a sus unidades!
+[eb][eg1][v]%s[s0][/] se ha puesto en marcha para ayudar a [eg1][cp][v]%s[s1][/]!
+Protege [eg3][t]%s[s0][/] hasta que lleguen refuerzos!
+Protege a [eg1][cp][t]%s[s0][/] hasta que lleguen refuerzos!
+Protege [eg3][t]%s[s0][/] hasta que lleguen refuerzos!
+[eb][eg1][v]%s[s0][/] se ha reunido con [eg1][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se ha reunido con [eg1][v]%s[s1][/] y sus unidades!
+[eb][eg1][cp][v]%s[s0][/] se han reunido con [eg1][cp][v]%s[s1][/]!
+La puerta [eg4][t]%s[s0][/] se ha abierto!
+La puerta [eg4][t]%s[s0][/] se ha abierto!
+La puerta [eg4][t]%s[s0][/] se ha abierto!
+[eb][eg1][v]%s[s0][/] ha huido! Has perdido!
+[eb][eg1][v]%s[s0][/] y sus unidades han huido! Has perdido la batalla!
+[eb][eg1][cp][v]%s[s0][/] han huido! Has perdido la batalla!
+Ayuda [eg3][v]%s[s1][/] a encontrarse con [eg1][v]%s[s0][/]!
+Ayuda [eg3][v]%s[s0][/] y [eg3][v]%s[s1][/] y a sus respectivas unidades a que se renan!
+Ayuda [eg3][v]%s[s0][/] a encontrarse con [eg1][cp][v]%s[s1][/]!
+Vence [eg3][t]%s[s0][/] que se ha reactivado!
+Vence [eg3][cp][t]%s[s0][/] que han revivido!
+Vence a [eg1][cp][t]%s[s0][/] que han revivido!
+Confina [eg3][v]%s[s0][/]!
+Confina [eg3][v]%s[s0][/] y a sus unidades!
+Confina a [eg1][cp][v]%s[s0][/]!
+Dividos en dos grupos para ir [eg3][t]%s[s0][/] y [eg3][t]%s[s1][/]!
+Dividos en dos grupos para ir [eg3][t]%s[s0][/] y [eg3][t]%s[s1][/]!
+Dividos en dos grupos para ir [eg3][t]%s[s0][/] y [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha invocado [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha invocado a [eg1][cp][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha invocado a [eg2][t]%s[s1][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha generado [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han generado [eg2][cp][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha generado [eg2][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha generado [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han generado [eg2][cp][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha generado [eg2][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha aparecido en [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades han aparecido en [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han aparecido en [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] est atacando [eg3][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades estn atacando [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] estn atacando [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha desaparecido!
+[eb][eg1][cp][t]%s[s0][/] han desaparecido!
+[eb][eg1][cp][t]%s[s0][/] han desaparecido!
+[eb][eg1][t]%s[s0][/] se ha apagado!
+[eb][eg1][cp][t]%s[s0][/] se han apagado!
+[eb][eg1][cp][t]%s[s0][/] se han apagado!
+Parte [eg4][t]%s[s0][/] ha desaparecido!
+Han desaparecido parte de [eg1][cp][t]%s[s0][/]!
+Ha desaparecido parte [eg4][t]%s[s0][/]!
+Sigue avanzando hacia [eg1][t]%s[s0][/] y [eg1][t]%s[s1][/]!
+Sigue avanzando hacia [eg1][cp][t]%s[s0][/] y [eg1][cp][t]%s[s1][/]!
+Sigue avanzando hacia [eg1][t]%s[s0][/] y [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] se ha puesto en marcha para tomar el interior del castillo!
+[eb][eg1][t]%s[s0][/] y otras unidades se han puesto en marcha para tomar el interior del castillo!
+[eb][eg1][cp][t]%s[s0][/] se han puesto en marcha para tomar el interior del castillo!
+[eb][eg1][v]%s[s0][/] se ha convertido en [eg1][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se ha convertido en [eg1][v]%s[s1][/] y otras unidades!
+[eb][eg1][cp][v]%s[s0][/] se han convertido en [eg1][cp][v]%s[s1][/]!
+[eg1][v]%s[s0][/] ha activado [eg1][v]%s[s1][/]!
+[eg1][v]%s[s0][/] ha activado [eg3][v]%s[s1][/] y a sus unidades!
+[eg1][v]%s[s0][/] ha activado a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha aparecido en [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades han aparecido en [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han aparecido en [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se ha puesto en marcha para ayudar [eg3][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades se han puesto en marcha para ayudar [eg3][v]%s[s1][/] y a sus unidades!
+[eb][eg1][cp][v]%s[s0][/] se han puesto en marcha para ayudar a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] se ha puesto en marcha para ocupar el permetro del castillo!
+[eb][eg1][v]%s[s0][/] y otras unidades se han puesto en marcha para ocupar el permetro del castillo!
+[eb][eg1][cp][v]%s[s0][/] se han puesto en marcha para ocupar el permetro del castillo!
+[eb][eg1][t]%s[s0][/] ha desaparecido!
+[eb][eg1][cp][t]%s[s0][/] han desaparecido!
+[eb][eg1][cp][t]%s[s0][/] han desaparecido!
+Vence tambin [eg3][v]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s0][/] que quedan!
+Vence a [eg1][cp][v]%s[s0][/] que quedan!
+[eb][eg1][v]%s[s1][/] se ha puesto en marcha para detener [eg3][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades se han puesto en marcha para detener [eg3][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] se han puesto en marcha para detener [eg3][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] est perdiendo la cordura!
+[eb][eg1][v]%s[s0][/] y otras unidades estn perdiendo la cordura!
+[eb][eg1][cp][v]%s[s0][/] estn perdiendo la cordura!
+Ve [eg3][t]%s[s1][/] para confinar [eg3][v]%s[s0][/]!
+Ve [eg3][t]%s[s1][/] para confinar [eg3][v]%s[s0][/] y a sus unidades!
+Ve [eg3][t]%s[s1][/] para confinar a [eg1][cp][v]%s[s0][/]!
+Acaba con [eg1][v]%s[s0][/]!
+Acaba con [eg1][v]%s[s0][/] y sus unidades!
+Acaba con [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha potenciado [eg3][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha potenciado a las unidades [eg4][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha potenciado a [eg1][cp][v]%s[s1][/]!
+[eb][eg3][v]%s[s1][/] se ha transformado a causa [eg4][v]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y sus unidades se han transformado a causa [eg4][v]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] se han transformado a causa [eg4][v]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/] o [eg3][t]%s[s1][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/] o hacia [eg1][cp][t]%s[s1][/]!
+Dirgete [eg3][t]%s[s0][/] o [eg3][t]%s[s1][/]!
+Huye [eg4][v]%s[s0][/]!
+Huye [eg4][v]%s[s0][/] y de sus unidades!
+Huye de [eg1][cp][v]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+Defiende [eg1][cp][t]%s[s0][/]!
+Defiende a [eg1][cp][t]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+Defiende [eg1][cp][t]%s[s0][/]!
+Defiende a [eg1][cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] se ha retirado!
+[eb][eg1][v]%s[s0][/] y sus unidades se han retirado!
+[eb][eg1][cp][v]%s[s0][/] se han retirado!
+[eb][eg1][v]%s[s0][/] se ha retirado!
+[eb][eg1][v]%s[s0][/] y sus unidades se han retirado!
+[eb][eg1][cp][v]%s[s0][/] se han retirado!
+[eb][eg1][v]%s[s0][/] se ha retirado temporalmente!
+[eb][eg1][v]%s[s0][/] y otras unidades se han retirado temporalmente!
+[eb][eg1][cp][v]%s[s0][/] se han retirado temporalmente!
+[eb][eg1][v]%s[s0][/] se ha retirado temporalmente!
+[eb][eg1][v]%s[s0][/] y otras unidades se han retirado temporalmente!
+[eb][eg1][cp][v]%s[s0][/] se han retirado temporalmente!
+Persigue [eg3][v]%s[s0][/]!
+Persigue [eg3][v]%s[s0][/] y a sus unidades!
+Persigue a [eg1][cp][v]%s[s0][/]!
+Persigue [eg3][v]%s[s0][/]!
+Persigue [eg3][v]%s[s0][/] y a sus unidades!
+Persigue a [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] se ha puesto en marcha de nuevo!
+[eb][eg1][v]%s[s0][/] y sus unidades se han puesto en marcha de nuevo!
+[eb][eg1][cp][v]%s[s0][/] se han puesto en marcha de nuevo!
+[eb][eg1][v]%s[s0][/] y [eg1][v]%s[s1][/] se han puesto en marcha de nuevo!
+[eb][eg1][v]%s[s0][/], [eg1][v]%s[s1][/] y sus respectivas unidades se han puesto en marcha de nuevo!
+[eb][eg1][cp][v]%s[s0][/] y [eg1][cp][v]%s[s1][/] se han puesto en marcha de nuevo!
+[eb][eg1][v]%s[s0][/] se ha puesto en marcha de nuevo!
+[eb][eg1][v]%s[s0][/] y sus unidades se han puesto en marcha de nuevo!
+[eb][eg1][cp][v]%s[s0][/] se han puesto en marcha de nuevo!
+[eb][eg1][v]%s[s0][/] se ha detenido...
+[eb][eg1][v]%s[s0][/] y sus unidades se han detenido...
+[eb][eg1][cp][v]%s[s0][/] se han detenido...
+[eb][eg1][v]%s[s0][/] y [eg1][v]%s[s1][/] se han detenido...
+[eb][eg1][v]%s[s0][/], [eg1][v]%s[s1][/] y sus respectivas unidades se han detenido...
+[eb][eg1][cp][v]%s[s0][/] y [eg1][cp][v]%s[s1][/] se han detenido...
+[eb][eg1][v]%s[s0][/] se ha detenido...
+[eb][eg1][v]%s[s0][/] y sus unidades se han detenido...
+[eb][eg1][cp][v]%s[s0][/] se han detenido...
+Se ha abierto una puerta!
+Las puertas se han abierto!
+Las puertas se han abierto!
+Se ha cerrado una puerta!
+Las puertas se han cerrado!
+Las puertas se han cerrado!
+Vence [eg3][t]%s[s0][/] antes de que se acabe el tiempo!
+Vence a [eg1][cp][t]%s[s0][/] antes de que se acabe el tiempo!
+Vence a [eg1][cp][t]%s[s0][/] antes de que se acabe el tiempo!
+Vence [eg3][t]%s[s0][/] antes de que se acabe el tiempo!
+Vence a [eg1][cp][t]%s[s0][/] antes de que se acabe el tiempo!
+Vence a [eg1][cp][t]%s[s0][/] antes de que se acabe el tiempo!
+Toma [eg1][t]%s[s0][/] antes de que se acabe el tiempo!
+Toma [eg1][cp][t]%s[s0][/] antes de que se acabe el tiempo!
+Toma [eg1][t]%s[s0][/] antes de que se acabe el tiempo!
+Toma [eg1][t]%s[s0][/] antes de que se acabe el tiempo!
+Toma [eg1][cp][t]%s[s0][/] antes de que se acabe el tiempo!
+Toma [eg1][t]%s[s0][/] antes de que se acabe el tiempo!
+Sobrevive hasta que se acabe el tiempo!
+Sobrevive hasta que se acabe el tiempo!
+Sobrevive hasta que se acabe el tiempo!
+Dirgete hacia [eg1][t]%s[s1][/] con [eg1][v]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s1][/] con [eg1][v]%s[s0][/] y sus unidades!
+Dirgete hacia [eg1][t]%s[s1][/] con [eg1][cp][v]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s2][/] con [eg1][v]%s[s0][/] y [eg1][v]%s[s1][/]!
+Dirgete hacia [eg1][t]%s[s2][/] con [eg1][v]%s[s0][/], [eg1][v]%s[s1][/] y sus respectivas unidades!
+Dirgete hacia [eg1][t]%s[s2][/] con [eg1][cp][v]%s[s0][/] y [eg1][cp][v]%s[s1][/]!
+Dirgete hacia [eg1][t]%s[s1][/] con [eg1][v]%s[s0][/]!
+Dirgete hacia [eg1][t]%s[s1][/] con [eg1][v]%s[s0][/] y sus unidades!
+Dirgete hacia [eg1][t]%s[s1][/] con [eg1][cp][v]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s0][/]!
+Hazte con [eg1][t]%s[s0][/]!
+Hazte con [eg1][cp][t]%s[s0][/]!
+Hazte con [eg2][cp][t]%s[s0][/]!
+Ha aparecido [eg2][v]%s[s1][/] con [t]%s[s0][/]!
+Han aparecido tropas [eg4][v]%s[s1][/] con [eg2][t]%s[s0][/]!
+Han aparecido [cp][v]%s[s1][/] con [eg2][t]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] y hazte con [eg1][t]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y a sus unidades, y hazte con [eg2][t]%s[s1][/]!
+Vence a [eg1][cp][v]%s[s0][/] y hazte con [eg2][cp][t]%s[s1][/]!
+Te has hecho con [eg2][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+El olor [eg4][t]%s[s0][/] ha hecho aparecer [eg3][v]%s[s1][/]!
+El olor [eg4][t]%s[s0][/] ha hecho aparecer [eg3][v]%s[s1][/] y a otras unidades!
+El olor [eg4][t]%s[s0][/] ha hecho aparecer a [eg1][cp][v]%s[s1][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha tendido una emboscada!
+[eb][eg1][v]%s[s0][/] y sus unidades te han tendido una emboscada!
+[eb][eg1][cp][v]%s[s0][/] han tendido una emboscada!
+Has obtenido [eg1][t]%s[s0][/]!
+Has obtenido [eg1][cp][t]%s[s0][/]!
+Has obtenido [eg1][cp][t]%s[s0][/]!
+Te has hecho con [eg2][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Te has hecho con [eg2][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Has defendido [eg1][t]%s[s0][/]!
+Has defendido [eg1][cp][t]%s[s0][/]!
+Has defendido [eg1][t]%s[s0][/]!
+Has defendido [eg1][t]%s[s0][/]!
+Has defendido [eg1][cp][t]%s[s0][/]!
+Has defendido [eg1][t]%s[s0][/]!
+[eb][eg2][t]%s[s0][/] se ha introducido en [eg1][t]%s[s1][/]!
+[eb][eg2][cp][t]%s[s0][/] han invadido [eg1][cp][t]%s[s1][/]!
+[eb][eg2][t]%s[s0][/] han invadido [eg1][t]%s[s1][/]!
+Encuentra [eg3][t]%s[s0][/]!
+Encuentra a [eg1][cp][t]%s[s0][/]!
+Encuentra a [eg1][cp][t]%s[s0][/]!
+Ha comenzado la bsqueda [eg4][t]%s[s0][/]!
+Ha comenzado la bsqueda de [eg1][cp][t]%s[s0][/]!
+Ha comenzado la bsqueda de [eg1][cp][t]%s[s0][/]!
+Ayuda [eg3][v]%s[s0][/] y a sus unidades!
+Ayuda [eg3][v]%s[s0][/] y a sus unidades!
+Ayuda a [eg1][cp][v]%s[s0][/]!
+[eb][eg2][t]%s[s0][/] se ha introducido en [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades se han introducido en [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] se han introducido en [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha aparecido cerca de la ciudad!
+[eb][eg1][v]%s[s0][/] y otras unidades han aparecido cerca de la ciudad!
+[eb][eg1][cp][v]%s[s0][/] han aparecido cerca de la ciudad!
+No dejes que caiga [eg1][t]%s[s0][/]!
+No dejes que caigan [eg1][cp][t]%s[s0][/]!
+No dejes que caiga [eg1][t]%s[s0][/]!
+Has defendido [eg1][t]%s[s0][/]!
+Has defendido [eg1][cp][t]%s[s0][/]!
+Has defendido [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] ha cado!
+[eb][eg1][cp][t]%s[s0][/] han cado!
+[eb][eg1][t]%s[s0][/] ha cado!
+[eb][eg1][t]%s[s0][/] se ha infiltrado en el puesto de avanzada!
+[eb][eg1][t]%s[s0][/] y otras unidades se han infiltrado en el puesto de avanzada!
+[eb][eg1][cp][t]%s[s0][/] se han infiltrado en el puesto de avanzada!
+Defiende [eg1][t]%s[s0][/]!
+Defiende [eg1][cp][t]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+Parece que han encontrado [eg2][t]%s[s1][/] en [eg1][t]%s[s0][/]...
+Parece que han encontrado [eg2][cp][t]%s[s1][/] en [eg1][cp][t]%s[s0][/]...
+Parece que han encontrado [cp][t]%s[s1][/] en [eg1][t]%s[s0][/]...
+Dirgete [eg3][t]%s[s1][/] para obtener [eg1][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s1][/] para obtener [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s1][/] para obtener [eg1][t]%s[s0][/]!
+Has encontrado [eg2][t]%s[s0][/]!
+Han encontrado [eg2][cp][t]%s[s0][/]!
+Han encontrado [cp][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] era [eg2][v]%s[s1][/]...
+[eb][eg1][cp][t]%s[s0][/] eran [eg1][v]%s[s1][/] y sus unidades...
+[eb][eg1][cp][t]%s[s0][/] eran [eg1][cp][v]%s[s1][/]...
+Era [eg1][t]%s[s0][/] real!
+Eran [eg1][cp][t]%s[s0][/] reales!
+Era [eg1][t]%s[s0][/] real!
+Ya has comprobado [eg1][t]%s[s0][/]...
+Ya has comprobado [eg1][cp][t]%s[s0][/]...
+Ya has comprobado [eg1][t]%s[s0][/]...
+Has tomado [eg1][t]%s[s0][/]!
+Has tomado [eg1][cp][t]%s[s0][/]!
+Has tomado [eg1][cp][t]%s[s0][/]!
+Has tomado [eg1][t]%s[s0][/]!
+Has tomado [eg1][cp][t]%s[s0][/]!
+Has tomado [eg1][cp][t]%s[s0][/]!
+Rescata a [eg7][cp][t]%s[s0][/] antes de que se congelen!
+Rescata a [eg7][cp][t]%s[s0][/] antes de que se congelen!
+Rescata a [eg1][cp][t]%s[s0][/] antes de que se congelen!
+Has rescatado a [eg7][cp][t]%s[s0][/]!
+Has rescatado a [eg7][cp][t]%s[s0][/]!
+Has rescatado a [eg1][cp][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] se ha congelado...
+[eb][eg1][t]%s[s0][/] y sus unidades se han congelado...
+[eb][eg1][cp][t]%s[s0][/] se han congelado...
+[eb][eg1][v]%s[s0][/] ha aparecido de nuevo!
+[eb][eg1][v]%s[s0][/] y sus unidades han aparecido de nuevo!
+[eb][eg1][cp][v]%s[s0][/] han aparecido de nuevo!
+[eb][eg1][v]%s[s0][/] y [eg1][v]%s[s1][/] han aparecido de nuevo!
+[eb][eg1][v]%s[s0][/], [eg1][v]%s[s1][/] y sus respectivas unidades han aparecido de nuevo!
+[eb][eg1][cp][v]%s[s0][/] y [eg1][cp][v]%s[s1][/] han aparecido de nuevo!
+[eb][eg1][v]%s[s0][/] ha aparecido de nuevo!
+[eb][eg1][v]%s[s0][/] y sus unidades han aparecido de nuevo!
+[eb][eg1][cp][v]%s[s0][/] han aparecido de nuevo!
+[eb][eg1][r]%s[s1][/] ha aparecido cerca [eg4][t]%s[s0][/]!
+[eb][eg1][r]%s[s1][/] y otras unidades han aparecido cerca [eg4][t]%s[s0][/]!
+[eb][eg1][cp][r]%s[s1][/] han aparecido cerca [eg4][t]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para restablecer la paz en [eg1][t]%s[s0][/]!
+Toma [eg1][cp][t]%s[s1][/] para restablecer la paz en [eg1][cp][t]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para restablecer la paz en [eg1][t]%s[s0][/]!
+Has restablecido la paz en [eg1][t]%s[s0][/]!
+Has restablecido la paz en [eg1][cp][t]%s[s0][/]!
+Has restablecido la paz en [eg1][t]%s[s0][/]!
+Has llegado tarde...
+Date prisa porque te ests congelando...
+Si te enfras ms, no podrs rescatar [eg3][t]%s[s0][/]!
+Si te enfras ms, no podrs rescatar [eg3][t]%s[s0][/] y sus unidades!
+Si te enfras ms, no podrs rescatar a [eg1][cp][t]%s[s0][/]!
+Atraviesa la lnea enemiga y vence [eg3][v]%s[s0][/]!
+Atraviesa la lnea enemiga y vence [eg3][v]%s[s0][/] y a otras unidades!
+Atraviesa la lnea enemiga y vence a [eg1][cp][v]%s[s0][/]!
+Vence al siguiente enemigo!
+Has tardado ms de la cuenta! Has perdido la batalla...
+Vence [eg3][v]%s[s0][/] antes de que se acabe el tiempo!
+Vence [eg3][v]%s[s0][/] y a otras unidades antes de que se acabe el tiempo!
+Vence a [eg1][cp][v]%s[s0][/] antes de que se acabe el tiempo!
+Vence [eg3][v]%s[s0][/] antes de que se acabe el tiempo!
+Vence [eg3][v]%s[s0][/] y a otras unidades antes de que se acabe el tiempo!
+Vence a [eg1][cp][v]%s[s0][/] antes de que se acabe el tiempo!
+[eb][eg1][cp][v]%s[s0][/] se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se aproximan [eg3][t]%s[s1][/]!
+Vence [eg3][v]%s[s1][/] que amenaza [eg1][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] y a otras unidades que amenazan [eg1][t]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] que amenazan [eg1][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s0][/] a tiempo!
+Has vencido [eg3][t]%s[s0][/] a tiempo!
+Vence [eg3][t]%s[s0][/] antes de que se acabe el tiempo!
+Has vencido [eg3][t]%s[s0][/] a tiempo!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a sus unidades!
+Usa [eg3][v]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Ya ha pasado la mitad del tiempo!
+Queda poco tiempo!
+Vence [eg3][t]%s[s0][/] para poder celebrar la barbacoa!
+Vence [eg3][t]%s[s0][/] y a sus unidades para poder celebrar la barbacoa!
+Vence a [eg1][cp][t]%s[s0][/] para poder celebrar la barbacoa!
+Todo est preparado para hacer la barbacoa!
+Todo est preparado para hacer la barbacoa!
+Todo est preparado para hacer la barbacoa!
+Usa el poder del fuego para vencer [eg3][r]%s[s0][/]!
+Usa el poder del fuego para vencer [eg3][r]%s[s0][/] y a sus unidades!
+Usa el poder del fuego para vencer a [eg1][cp][r]%s[s0][/]!
+Usa el poder del hielo para vencer [eg3][r]%s[s0][/]!
+Usa el poder del hielo para vencer [eg3][r]%s[s0][/] y a sus unidades!
+Usa el poder del hielo para vencer a [eg1][cp][r]%s[s0][/]!
+Usa el poder del rayo para vencer [eg3][r]%s[s0][/]!
+Usa el poder del rayo para vencer [eg3][r]%s[s0][/] y a sus unidades!
+Usa el poder del rayo para vencer a [eg1][cp][r]%s[s0][/]!
+Vence al enemigo cerca [eg4][v]%s[s0][/]!
+Vence al enemigo cerca [eg4][v]%s[s0][/] y sus unidades!
+Vence al enemigo cerca de [eg1][cp][v]%s[s0][/]!
+Llega [eg3][t]%s[s0][/] a tiempo!
+Vence [eg3][v]%s[s1][/] para recuperar [eg1][t]%s[s0][/] que han robado!
+Vence [eg3][v]%s[s1][/] y a otras unidades para recuperar [eg1][t]%s[s0][/] que han robado!
+Vence a [eg1][cp][v]%s[s1][/] para recuperar [eg1][t]%s[s0][/] que han robado!
+Has vencido [eg3][v]%s[s1][/] [eg4][t]%s[s0][/]!
+Has vencido [eg3][v]%s[s1][/] y a sus unidades [eg4][t]%s[s0][/]!
+Has vencido a [eg1][cp][v]%s[s1][/] [eg4][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] ha aparecido!
+[eb][eg1][cp][t]%s[s0][/] han aparecido!
+Han aparecido [cp][t]%s[s0][/]!
+Has recuperado [eg1][t]%s[s0][/]!
+Vence [eg3][r]%s[s0][/] y [eg3][r]%s[s1][/] antes de que se acabe el tiempo!
+Vence [eg3][r]%s[s0][/], [eg3][r]%s[s1][/] y a sus respectivas unidades antes de que se acabe el tiempo!
+Vence a [eg1][cp][r]%s[s0][/] y a [eg1][cp][r]%s[s1][/] antes de que se acabe el tiempo!
+El entrenamiento con [eg1][t]%s[s0][/] ha comenzado!
+El entrenamiento con [eg1][t]%s[s0][/] y sus unidades ha comenzado!
+El entrenamiento con [eg1][cp][t]%s[s0][/] ha comenzado!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/] y a sus unidades!
+Toma [eg1][t]%s[s1][/] para ayudar a [eg1][cp][v]%s[s0][/]!
+Repele el ataque [eg4][v]%s[s0][/]!
+Repele el ataque [eg4][v]%s[s0][/] y de otras unidades!
+Repele el ataque de [eg1][cp][v]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido en un puesto de avanzada en [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han aparecido en un puesto de avanzada [eg4][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido en un puesto de avanzada [eg4][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] para ayudar [eg3][v]%s[s0][/] y a sus unidades!
+Vence [eg3][v]%s[s1][/] y a otras unidades para ayudar [eg3][v]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][v]%s[s1][/] para ayudar a [eg1][cp][v]%s[s0][/]!
+[eb][eg7][cp][t]%s[s0][/] han recibido ayuda!
+[eb][eg7][cp][t]%s[s0][/] han recibido ayuda!
+[eb][eg7][cp][t]%s[s0][/] han recibido ayuda!
+[eb][eg1][v]%s[s0][/] avanza hacia [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] avanzan hacia [eg1][t]%s[s1][/]!
+Has vencido [eg3][r]%s[s0][/] y sus unidades!
+Has vencido [eg3][r]%s[s0][/] y sus unidades!
+Has vencido a [eg7][cp][r]%s[s0][/]!
+Vence tambin [eg3][r]%s[s0][/] que ha aparecido de repente!
+Vence tambin [eg3][r]%s[s0][/] y a otras unidades que han aparecido de repente!
+Vence tambin a [eg1][cp][r]%s[s0][/] que han aparecido de repente!
+Vence [eg3][r]%s[s1][/] que ha aparecido en [eg1][t]%s[s0][/]!
+Vence [eg3][r]%s[s1][/] y a otras unidades que han aparecido en [eg1][t]%s[s0][/]!
+Vence a [eg1][cp][r]%s[s1][/] que han aparecido en [eg1][t]%s[s0][/]!
+Entretn [eg3][v]%s[s1][/] hasta la llegada [eg4][t]%s[s0][/]!
+Entretn [eg3][v]%s[s1][/] y a sus unidades hasta la llegada [eg4][t]%s[s0][/]!
+Entretn a [eg1][cp][v]%s[s1][/] hasta la llegada [eg4][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] ha llegado a su destino!
+[eb][eg1][t]%s[s0][/] y sus unidades han llegado a su destino!
+[eb][eg1][cp][t]%s[s0][/] han llegado a su destino!
+Defiende [eg1][t]%s[s0][/]!
+Defiende [eg1][cp][t]%s[s0][/]!
+Defiende [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] se acerca!
+[eb][eg1][t]%s[s0][/] y sus unidades se acercan!
+[eb][eg1][cp][t]%s[s0][/] se acercan!
+Has repelido [eg3][v]%s[s1][/] que se diriga [eg3][t]%s[s0][/]!
+Has repelido [eg3][v]%s[s1][/] y a otras unidades que se dirigan [eg3][t]%s[s0][/]!
+Has repelido a [cp][v]%s[s1][/] que se dirigan [eg3][t]%s[s0][/]!
+Tras la cada [eg4][t]%s[s0][/], [eg1][t]%s[s2][/] ha conseguido infiltrarse en [eg1][t]%s[s1][/]!
+Tras la cada [eg4][t]%s[s0][/], [eg1][t]%s[s2][/] y otras unidades han conseguido infiltrarse en [eg1][t]%s[s1][/]!
+Tras la cada [eg4][t]%s[s0][/], [eg1][cp][t]%s[s2][/] han conseguido infiltrarse en [eg1][t]%s[s1][/]!
+Un gran nmero [eg4][v]%s[s1][/] ha aparecido en [eg1][t]%s[s0][/]!
+Un gran nmero de tropas [eg4][v]%s[s1][/] han aparecido en [eg1][t]%s[s0][/]!
+Un gran nmero de [cp][v]%s[s1][/] ha aparecido en [eg1][t]%s[s0][/]!
+brete camino hasta [eg1][t]%s[s0][/]!
+Toma [eg1][t]%s[s0][/] para abrirte camino!
+Has conseguido escapar del bosque!
+[eb][eg1][v]%s[s0][/] est persiguiendo [eg3][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y otras unidades estn persiguiendo [eg3][v]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] estn persiguiendo [eg3][v]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] avanza hacia [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] avanzan hacia [eg1][t]%s[s1][/]!
+Hazte con [eg1][t]%s[s1][/] que yace en [eg1][t]%s[s0][/]!
+Hazte con [eg1][cp][t]%s[s1][/] que yacen en [eg1][cp][t]%s[s0][/]!
+Hazte con [eg1][t]%s[s1][/] que yace en [eg1][t]%s[s0][/]!
+[eb][eg2][t]%s[s1][/] ha aparecido, y su objetivo es [eg1][t]%s[s0][/]!
+[eb][eg2][cp][t]%s[s1][/] han aparecido, y su objetivo son [eg1][cp][t]%s[s0][/]!
+[eb][eg1][cp][t]%s[s1][/] han aparecido, y su objetivo es [eg1][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] te ha robado [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] te han robado [eg1][cp][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] te han robado [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] est buscando [eg2][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] estn buscando [eg2][cp][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] estn buscando [eg2][t]%s[s1][/]!
+Llega donde est [eg1][t]%s[s1][/] antes que [eg1][t]%s[s0][/]!
+El entrenamiento con [eg1][t]%s[s0][/] ha comenzado!
+El entrenamiento con [eg1][t]%s[s0][/] y sus unidades ha comenzado!
+El entrenamiento con [eg1][cp][t]%s[s0][/] ha comenzado!
+Has vencido [eg3][v]%s[s1][/] [eg4][t]%s[s0][/]!
+Has vencido [eg3][v]%s[s1][/] y a sus unidades [eg4][t]%s[s0][/]!
+Has vencido a [eg1][cp][v]%s[s1][/] [eg4][t]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/]!
+Toma [eg1][t]%s[s1][/] para ayudar [eg3][v]%s[s0][/] y a sus unidades!
+Toma [eg1][t]%s[s1][/] para ayudar a [eg1][cp][v]%s[s0][/]!
+Han aparecido proyectiles de lava!
+Han aparecido ms proyectiles de lava!
+Expulsa [eg3][v]%s[s1][/] [eg4][t]%s[s0][/]!
+Expulsa [eg3][t]%s[s0][/] y a las unidades [eg4][v]%s[s1][/]!
+Expulsa [eg4][t]%s[s0][/] a [eg1][cp][v]%s[s1][/]!
+Hazte con [eg1][t]%s[s0][/]!
+Hazte con [eg1][cp][t]%s[s0][/]!
+Hazte con [eg1][cp][t]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg2][cp][v]%s[s1][/] ha aparecido para llevarse [eg1][cp][t]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido para recuperar [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y sus unidades han aparecido para recuperar [eg1][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido para recuperar [eg1][t]%s[s0][/]!
+Te has hecho con [eg2][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Te has hecho con [eg2][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+Te has hecho con [eg2][cp][t]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg2][t]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s1][/] y otras unidades han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg1][cp][t]%s[s1][/] han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg2][v]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg2][t]%s[s1][/] ha aparecido para llevarse [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s1][/] y otras unidades han aparecido para atacar [eg3][t]%s[s0][/]!
+[eb][eg1][cp][t]%s[s1][/] han aparecido para atacar [eg3][t]%s[s0][/]!
+Has recuperado [eg1][t]%s[s0][/]!
+Has recuperado [eg1][cp][t]%s[s0][/]!
+Has recuperado [eg1][t]%s[s0][/]!
+Has recuperado [eg1][t]%s[s0][/]!
+Has recuperado [eg1][cp][t]%s[s0][/]!
+Has recuperado [eg1][t]%s[s0][/]!
+Te has perdido en [eg1][t]%s[s0][/]!
+Te has perdido en [eg1][t]%s[s0][/]!
+Te has perdido en [eg1][t]%s[s0][/]!
+Escapa del interior [eg4][t]%s[s0][/]!
+(reserved)
+Te han indicado la ubicacin [eg4][t]%s[s0][/].
+Te han indicado la ubicacin [eg4][t]%s[s0][/].
+Te han indicado la ubicacin [eg4][t]%s[s0][/].
+Te han indicado la ubicacin de un nuevo [t]%s[s0][/].
+Te han indicado la ubicacin de [eg2][cp][t]%s[s0][/] diferentes.
+Te han indicado la ubicacin de un nuevo [t]%s[s0][/].
+Has escapado [eg4][t]%s[s0][/]!
+Has escapado [eg4][t]%s[s0][/]!
+Has escapado [eg4][t]%s[s0][/]!
+Has superado [eg1][t]%s[s0][/]!
+Has superado [eg1][t]%s[s0][/]!
+Has superado [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] ha provocado un incendio en [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades han provocado un incendio en [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] han provocado un incendio en [eg1][t]%s[s1][/]!
+Vence [eg3][t]%s[s0][/] antes de que el fuego se extienda!
+Vence [eg3][v]%s[s0][/] y a sus unidades antes de que el fuego se extienda!
+Vence a [eg1][cp][v]%s[s0][/] antes de que el fuego se extienda!
+Vence [eg3][t]%s[s0][/] antes de que el fuego se extienda!
+Vence [eg3][v]%s[s0][/] y a sus unidades antes de que el fuego se extienda!
+Vence a [eg1][cp][v]%s[s0][/] antes de que el fuego se extienda!
+Reducir el nmero [eg4][t]%s[s0][/] ha contenido el fuego!
+Reducir el nmero de [eg1][cp][t]%s[s0][/] ha contenido el fuego!
+Reducir el nmero de [cp][t]%s[s0][/] ha contenido el fuego!
+Vencer [eg3][v]%s[s0][/] ha contenido el fuego!
+Vencer [eg3][v]%s[s0][/] y a sus unidades ha contenido el fuego!
+Vencer a [eg1][cp][v]%s[s0][/] ha contenido el fuego!
+El incendio se ha propagado a ms de la mitad [eg4][t]%s[s0][/]!
+El incendio se ha propagado a ms de la mitad de [eg1][cp][t]%s[s0][/]!
+El incendio se ha propagado a ms de la mitad [eg4][t]%s[s0][/]!
+El incendio se ha propagado a casi [eg7][cp][t]%s[s0][/]!
+El incendio se ha propagado a casi [eg7][cp][t]%s[s0][/]!
+El incendio se ha propagado a casi [eg7][t]%s[s0][/]!
+Ha empezado la lucha contra el incendio [eg4][t]%s[s0][/]!
+Ha empezado la lucha contra el incendio [eg4][t]%s[s0][/]!
+Ha empezado la lucha contra el incendio [eg4][t]%s[s0][/]!
+No se ha podido apagar el incendio [eg4][t]%s[s0][/]...
+No se ha podido apagar el incendio de [eg1][cp][t]%s[s0][/]...
+No se ha podido apagar el incendio [eg4][t]%s[s0][/]...
+El incendio se ha propagado por [eg1][t]%s[s0][/]!
+El incendio se ha propagado por [eg7][cp][t]%s[s0][/]!
+El incendio se ha propagado por [eg7][t]%s[s0][/]!
+Vence [eg3][r]%s[s1][/] en [eg1][t]%s[s0][/]!
+Vence [eg3][r]%s[s1][/] y a otras unidades en [eg1][cp][t]%s[s0][/]!
+Vence a [eg1][cp][r]%s[s1][/] en [eg1][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s1][/] en [eg1][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s1][/] y a sus unidades en [eg1][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s1][/] en [eg1][t]%s[s0][/]!
+Entretn [eg3][t]%s[s1][/] hasta que llegue [eg1][t]%s[s0][/]!
+Entretn [eg1][t]%s[s1][/] y a sus unidades hasta que llegue [eg1][t]%s[s0][/]!
+Entretn a [eg1][cp][t]%s[s1][/] hasta que llegue [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] avanza hacia [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] avanzan hacia [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] est atacando [eg1][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] y otras unidades estn atacando [eg1][cp][t]%s[s1][/]!
+[eb][eg1][cp][t]%s[s0][/] estn atacando [eg1][t]%s[s1][/]!
+Cuidado! [eb][eg1][t]%s[s0][/] puede derrumbarse!
+Cuidado! [eb][eg1][cp][t]%s[s0][/] pueden derrumbarse!
+Cuidado! [eb][eg1][t]%s[s0][/] puede derrumbarse!
+La mitad [eg4][t]%s[s0][/] se ha derrumbado!
+La mitad de [eg1][cp][t]%s[s0][/] se han derrumbado!
+La mitad [eg4][t]%s[s0][/] se ha derrumbado!
+[eb][eg1][t]%s[s0][/] est a punto de derrumbarse!
+[eb][eg1][cp][t]%s[s0][/] estn a punto de derrumbarse!
+[eb][eg1][t]%s[s0][/] est a punto de derrumbarse!
+[eb][eg1][t]%s[s0][/] se ha derrumbado...
+[eb][eg1][cp][t]%s[s0][/] se han derrumbado...
+[eb][eg1][t]%s[s0][/] se ha derrumbado...
+Usa [eg1][t]%s[s0][/] para vencer [eg3][t]%s[s1][/]!
+Usa [eg1][cp][t]%s[s0][/] para vencer [eg3][cp][t]%s[s1][/]!
+Usa [eg1][cp][t]%s[s0][/] para vencer a [eg1][cp][t]%s[s1][/]!
+Has vencido [eg3][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s1][/] de [eg1][cp][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s1][/] [eg4][t]%s[s0][/]!
+La [t]%s[s0][/] entra en escena!
+[eb][eg1][t]%s[s0][/] y sus unidades entran en escena!
+[eb][eg1][cp][t]%s[s0][/] entran en escena!
+Baila con energa!
+Baila con energa!
+Baila con energa!
+Vence [eg3][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][t]%s[s0][/]!
+Gana [eg3][v]%s[s0][/] bailando!
+Gana [eg3][v]%s[s0][/] y a otras unidades bailando!
+Gana a [eg1][cp][v]%s[s0][/] bailando!
+[eb][eg1][v]%s[s0][/] ha ganado el festival de danza!
+[eb][eg1][v]%s[s0][/] y sus unidades han ganado el festival de danza!
+[eb][eg1][cp][v]%s[s0][/] han ganado el festival de danza!
+Usa [eg1][t]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg1][cp][t]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a otras unidades!
+Usa [eg1][t]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg1][t]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg1][cp][t]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a otras unidades!
+Usa [eg1][t]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y [eg3][v]%s[s1][/]!
+Vence [eg3][v]%s[s0][/] y [eg3][v]%s[s1][/], y a otras unidades!
+Vence a [eg1][cp][v]%s[s0][/] y a [eg1][cp][v]%s[s1][/]!
+Escolta [eg3][b]%s[s0][/] hasta la aldea!
+Escolta [eg3][b]%s[s0][/] y a sus unidades hasta la aldea!
+Escolta a [eg1][cp][b]%s[s0][/] hasta la aldea!
+Vence [eg3][v]%s[s0][/] para abrir las puertas!
+Vence [eg3][v]%s[s0][/] y a otras unidades para abrir las puertas!
+Vence a [eg1][cp][v]%s[s0][/] para abrir las puertas!
+Vence [eg3][v]%s[s0][/] y abre las puertas!
+Vence [eg3][v]%s[s0][/] y a otras unidades, y abre las puertas!
+Vence a [eg1][cp][v]%s[s0][/] y abre las puertas!
+Vence [eg3][t]%s[s0][/] y a gran parte de sus unidades antes de que se acabe el tiempo!
+Vence a gran parte de [eg1][cp][t]%s[s0][/] antes de que se acabe el tiempo!
+Has vencido [eg3][t]%s[s0][/] y a gran parte de sus unidades en el desierto!
+Has vencido a gran parte de [eg1][cp][t]%s[s0][/] en el desierto!
+Vence [eg3][v]%s[s0][/] antes de que llegue al punto de huida!
+Vence [eg3][v]%s[s0][/] y a otras unidades antes de que lleguen al punto de huida!
+Vence a [eg1][cp][v]%s[s0][/] antes de que lleguen al punto de huida!
+Impide que [eg1][v]%s[s0][/] llegue al punto de huida!
+Impide que [eg1][v]%s[s0][/] y sus unidades lleguen al punto de huida!
+Impide que [eg1][cp][v]%s[s0][/] lleguen al punto de huida!
+Has recuperado lo robado!
+[eb][eg1][v]%s[s0][/] se acerca al punto de huida!
+[eb][eg1][v]%s[s0][/] y sus unidades se acercan al punto de huida!
+[eb][eg1][cp][v]%s[s0][/] se acercan al punto de huida!
+[eb][eg1][v]%s[s0][/] casi ha llegado al punto de huida!
+[eb][eg1][v]%s[s0][/] y sus unidades casi han llegado al punto de huida!
+[eb][eg1][cp][v]%s[s0][/] casi han llegado al punto de huida!
+Vence [eg3][t]%s[s1][/] delante [eg4][t]%s[s0][/]!
+Vence [eg3][t]%s[s1][/] y a sus unidades delante [eg4][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s1][/] delante [eg4][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] ha llegado a su destino!
+[eb][eg1][cp][t]%s[s0][/] han llegado a su destino!
+[eb][eg1][cp][t]%s[s0][/] han llegado a su destino!
+Vence [eg3][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/]!
+Vence [eg3][t]%s[s0][/] y a sus unidades!
+Vence a [eg1][cp][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Has vencido a [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Dirgete hacia [eg1][cp][t]%s[s0][/]!
+Dirgete [eg3][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+Has llegado [eg3][t]%s[s0][/]!
+[eb][eg1][t]%s[s0][/] se ha abierto!
+[eb][eg1][cp][t]%s[s0][/] se han abierto!
+[eb][eg1][t]%s[s0][/] se ha abierto!
+[eb][eg1][t]%s[s0][/] se ha cerrado!
+[eb][eg1][cp][t]%s[s0][/] se han cerrado!
+[eb][eg1][t]%s[s0][/] se ha cerrado!
+Vence [eg3][r]%s[s0][/] sin que ningn ataque te alcance!
+Vence [eg3][r]%s[s0][/] y a otras unidades sin que ningn ataque te alcance!
+Vence a [eg1][cp][r]%s[s0][/] sin que ningn ataque te alcance!
+Vence [eg3][v]%s[s0][/] mientras evitas los ataques!
+Vence [eg3][v]%s[s0][/] y a otras unidades mientras evitas los ataques!
+Vence a [eg1][cp][v]%s[s0][/] mientras evitas los ataques!
+[eb][eg1][v]%s[s0][/] est atacando!
+[eb][eg1][v]%s[s0][/] y otras unidades estn atacando!
+[eb][eg1][cp][v]%s[s0][/] estn atacando!
+Que los ataques no te alcancen!
+Que no te hieran!
+Has vencido [eg3][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Has vencido [eg3][t]%s[s1][/] y a las otras unidades [eg4][t]%s[s0][/]!
+Has vencido [eg1][cp][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Toma [eg1][t]%s[s0][/] y ayuda [eg3][v]%s[s1][/]!
+Toma [eg1][cp][t]%s[s0][/] y ayuda a [eg3][v]%s[s1][/] y a sus unidades!
+Toma [eg1][t]%s[s0][/] y ayuda a [eg1][cp][v]%s[s1][/]!
+Vence [eg3][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s1][/] [eg4][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s1][/] [eg4][t]%s[s0][/]!
+El incendio se est propagando [eg3][t]%s[s1][/] a causa [eg4][t]%s[s0][/]!
+El incendio se est propagando por [eg1][cp][t]%s[s1][/] a causa de [eg1][cp][t]%s[s0][/]!
+El incendio se est propagando [eg3][t]%s[s1][/] a causa de [eg1][cp][t]%s[s0][/]!
+Usa [eg3][v]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg1][cp][t]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a otras unidades!
+Usa [eg1][t]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] no debe quemarse!
+Has vencido [eg3][v]%s[s0][/] que estaba extendiendo el fuego!
+Has vencido [eg3][v]%s[s0][/] y a las otras unidades que estaban extendiendo el fuego!
+Has vencido a [eg1][cp][v]%s[s0][/] que estaban extendiendo el fuego!
+Vence [eg3][v]%s[s0][/] para proteger la aldea!
+Vence [eg3][v]%s[s0][/] y a otras unidades para proteger la aldea!
+Vence a [eg1][cp][v]%s[s0][/] para proteger la aldea!
+Usa [eg1][t]%s[s0][/] para vencer [eg3][v]%s[s1][/]!
+Usa [eg1][t]%s[s0][/] para vencer [eg3][v]%s[s1][/] y a otras unidades!
+Usa [eg1][t]%s[s0][/] para vencer a [eg1][cp][v]%s[s1][/]!
+Usa [eg1][t]%s[s0][/]!
+Usa [eg3][t]%s[s0][/] y a sus unidades!
+Usa a [eg1][cp][t]%s[s0][/]!
+Has conseguido usar [eg1][t]%s[s0][/]!
+Vence [eg3][t]%s[s1][/] para proteger [eg1][t]%s[s0][/]!
+Vence [eg3][t]%s[s1][/] y a sus unidades para proteger [eg1][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s1][/] para proteger [eg1][t]%s[s0][/]!
+Has ahuyentado [eg3][t]%s[s1][/] que se diriga hacia [eg1][t]%s[s0][/]!
+Has ahuyentado [eg3][t]%s[s1][/] y a sus unidades que se dirigan hacia [eg1][t]%s[s0][/]!
+Has ahuyentado a [eg1][cp][t]%s[s1][/] que se dirigan hacia [eg1][t]%s[s0][/]!
+Parece que [eg1][t]%s[s0][/] ha llegado [eg3][t]%s[s1][/]...
+Parece [eg1][t]%s[s0][/] y sus unidades han llegado [eg3][t]%s[s1][/]...
+Parece que [eg1][cp][t]%s[s0][/] han llegado [eg3][t]%s[s1][/]...
+[eb][eg1][t]%s[s0][/] est a punto de llegar [eg3][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] se aproxima [eg3][t]%s[s1][/]!
+Parece que [eg1][v]%s[s0][/] est en algn lugar [eg4][t]%s[s1][/]...
+Parece que [eg1][v]%s[s0][/] y sus unidades estn en algn lugar [eg4][t]%s[s1][/]...
+Parece que [eg1][cp][v]%s[s0][/] estn en algn lugar [eg4][t]%s[s1][/]...
+Vence [eg3][t]%s[s0][/] y saca [eg3][v]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] se ha puesto en marcha!
+[eb][eg1][cp][t]%s[s0][/] se han puesto en marcha!
+[eb][eg1][cp][t]%s[s0][/] se han puesto en marcha!
+[eb][eg1][v]%s[s0][/] se ha ido...
+[eb][eg1][v]%s[s0][/] y sus unidades se han ido...
+[eb][eg1][cp][v]%s[s0][/] se han ido...
+Ve [eg3][t]%s[s0][/] antes de que te congeles!
+No has conseguido llegar [eg3][t]%s[s0][/]...
+Si te enfras ms, no conseguirs llegar [eg3][t]%s[s0][/]...
+[eb][eg1][t]%s[s1][/] ha aparecido en [eg1][t]%s[s0][/]!
+[eb][eg1][t]%s[s1][/] y otras unidades han aparecido en [eg1][t]%s[s0][/]!
+[eb][eg1][cp][t]%s[s1][/] han aparecido en [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] ha aparecido en [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s1][/] y otras unidades han aparecido en [eg1][t]%s[s0][/]!
+[eb][eg1][cp][v]%s[s1][/] han aparecido en [eg1][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha revelado su verdadera apariencia!
+[eb][eg1][v]%s[s0][/] y sus unidades han revelado su verdadera apariencia!
+[eb][eg1][cp][v]%s[s0][/] han revelado su verdadera apariencia!
+[eb][eg1][t]%s[s0][/] ha revelado su verdadera apariencia!
+[eb][eg1][t]%s[s0][/] y sus unidades han revelado su verdadera apariencia!
+[eb][eg1][cp][t]%s[s0][/] han revelado su verdadera apariencia!
+[eb][eg1][v]%s[s0][/] est atacando [eg1][v]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] est atacando [eg3][v]%s[s1][/] y a su aliados!
+[eb][eg1][v]%s[s0][/] est atacando a [eg1][cp][v]%s[s1][/]!
+Ahuyenta [eg3][t]%s[s1][/] que ha invadido [eg1][t]%s[s0][/]!
+Ahuyenta [eg1][t]%s[s1][/] y a sus unidades que han invadido [eg1][t]%s[s0][/]!
+Ahuyenta a [eg1][cp][t]%s[s1][/] que han invadido [eg1][t]%s[s0][/]!
+Vence al enemigo que ha invadido [eg1][t]%s[s0][/]!
+Gana la batalla decisiva [eg4][t]%s[s0][/]!
+Has ganado la batalla [eg4][t]%s[s0][/]!
+[eb][eg2][v]%s[s0][/] ms ha aparecido!
+Ms tropas [eg4][v]%s[s0][/] han aparecido!
+Ms [cp][v]%s[s0][/] han aparecido!
+Has recuperado [eg1][t]%s[s0][/]!
+Vence [eg3][v]%s[s1][/] para encontrar [eg3][v]%s[s0][/]!
+Vence [eg1][v]%s[s1][/] y a otras unidades para encontrar [eg3][v]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] para encontrar [eg3][v]%s[s0][/]!
+Has descubierto [eg3][v]%s[s0][/] de una variedad inusual!
+Has descubierto tropas [eg4][v]%s[s0][/] de una variedad inusual!
+Has descubierto [cp][v]%s[s0][/] de una variedad inusual!
+Vence [eg3][v]%s[s0][/] de una variedad inusual!
+Vence [eg1][v]%s[s0][/] y a otras unidades de una variedad inusual!
+Vence a [eg1][cp][v]%s[s0][/] de una variedad inusual!
+Has vencido [eg3][v]%s[s0][/] de una variedad inusual!
+Has vencido [eg1][v]%s[s0][/] y a otras unidades de una variedad inusual!
+Has vencido a [eg1][cp][v]%s[s0][/] de una variedad inusual!
+Intenta situarte entre los ms fuertes guerreros de Hyrule!
+Vence [eg3][t]%s[s1][/] para hacerte con [eg1][t]%s[s0][/]!
+Vence [eg1][t]%s[s1][/] y a sus unidades para hacerte con [eg1][t]%s[s0][/]!
+Vence a [eg1][cp][t]%s[s1][/] para hacerte con [eg1][cp][t]%s[s0][/]!
+Vence [eg3][v]%s[s0][/] para demostrar tu poder!
+Vence [eg1][v]%s[s0][/] y a otras unidades para demostrar tu poder!
+Vence a [eg1][cp][v]%s[s0][/] para demostrar tu poder!
+[eb][eg1][cp][t]%s[s0][/] han parado...
+[eb][eg1][t]%s[s0][/] se ha activado!
+Cuidado! [eb][eg1][v]%s[s0][/] est tomando [eg1][t]%s[s1][/]!
+Cuidado! [eb][eg1][v]%s[s0][/] y sus unidades estn invadiendo [eg1][t]%s[s1][/]!
+Cuidado! [eb][eg1][cp][v]%s[s0][/] estn invadiendo [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] ha invadido [eg1][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades han invadido [eg1][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] han invadido [eg1][t]%s[s1][/]!
+Vence [eg1][v]%s[s1][/] antes de que penetre la defensa [eg4][t]%s[s0][/]!
+Vence [eg1][v]%s[s1][/] y a otras unidades antes de que penetren la defensa [eg4][t]%s[s0][/]!
+Vence a [eg1][cp][v]%s[s1][/] antes de que penetren la defensa [eg4][t]%s[s0][/]!
+Han penetrado la defensa [eg4][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] se ha ido a [eg2][t]%s[s1][/] diferente!
+[eb][eg1][v]%s[s0][/] y sus unidades se han ido a [eg2][t]%s[s1][/] diferente!
+[eb][eg1][cp][v]%s[s0][/] se han ido a [eg2][t]%s[s1][/] diferente!
+[eb][eg1][v]%s[s0][/] y [eg1][v]%s[s1][/] se han ido a [eg2][t]%s[s2][/] diferente!
+[eb][eg1][v]%s[s0][/], [eg1][v]%s[s1][/] y sus respectivas unidades se han ido [eg3][t]%s[s2][/] diferente!
+[eb][eg1][cp][v]%s[s0][/] y [eg1][cp][v]%s[s1][/] se han ido [eg3][t]%s[s2][/] diferente!
+Da rdenes [eg3][t]%s[s0][/] y refuerza las defensas [eg4][t]%s[s1][/]!
+Rpido! Dirgete [eg3][t]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] ha dejado de avanzar porque est combatiendo!
+[eb][eg1][v]%s[s0][/] y sus unidades han dejado de avanzar porque estn combatiendo!
+[eb][eg1][cp][v]%s[s0][/] han dejado de avanzar porque estn combatiendo!
+La prueba ha acabado.
+[eb][eg1][t]%s[s0][/] se aproxima [eg3][t]%s[s1][/]!
+La horda [eg4][t]%s[s0][/] se aproxima [eg3][t]%s[s1][/]!
+Consigue tu objetivo antes de que [eg1][t]%s[s0][/] te alcance!
+Consigue tu objetivo antes de que [eg1][t]%s[s0][/] te alcance!
+El entrenamiento [eg4][t]%s[s0][/] te ha ayudado a mejorar!
+El entrenamiento [eg4][t]%s[s0][/] ha terminado.
+Has aguantado hasta el final!
+Has resistido el ataque [eg4][v]%s[s0][/]!
+Has resistido el ataque [eg4][v]%s[s0][/] y sus unidades!
+Has resistido el ataque de [eg1][cp][v]%s[s0][/]!
+Has resistido el ataque [eg4][t]%s[s0][/]!
+El entrenamiento ha terminado.
+El calor te est quitando energa!
+El calor casi te ha quitado toda la energa!
+El calor te ha quitado toda la energa...
+Llega [eg3][t]%s[s1][/] antes que [eg1][v]%s[s0][/]!
+Llega [eg3][t]%s[s1][/] antes que [eg1][v]%s[s0][/] y sus unidades!
+Llega [eg3][t]%s[s1][/] antes que [eg1][cp][v]%s[s0][/]!
+Has llegado [eg3][t]%s[s1][/] antes que [eg1][v]%s[s0][/]!
+Has llegado [eg3][t]%s[s1][/] antes que [eg1][v]%s[s0][/] y sus unidades!
+Has llegado [eg3][t]%s[s1][/] antes que [eg1][cp][v]%s[s0][/]!
+[eb][eg1][v]%s[s0][/] se aproxima [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] te ha adelantado!
+[eb][eg1][v]%s[s0][/] y sus unidades te han adelantado!
+[eb][eg1][cp][v]%s[s0][/] te han adelantado!
+[eb][eg1][v]%s[s0][/] ha llegado [eg3][t]%s[s1][/] antes que t...
+[eb][eg1][v]%s[s0][/] y sus unidades han llegado [eg3][t]%s[s1][/] antes que t!
+[eb][eg1][cp][v]%s[s0][/] han llegado [eg3][t]%s[s1][/] antes que t!
+[eb][eg1][t]%s[s0][/] ha llegado [eg3][t]%s[s1][/] antes que t...
+[eb][eg1][v]%s[s0][/] se aproxima [eg3][t]%s[s1][/]!
+[eb][eg1][v]%s[s0][/] y sus unidades se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][cp][v]%s[s0][/] se aproximan [eg3][t]%s[s1][/]!
+[eb][eg1][t]%s[s0][/] ha aparecido!
+[eb][eg1][cp][t]%s[s0][/] han aparecido!
+Han aparecido [cp][t]%s[s0][/]!
+No puedes usar objetos en esta batalla.

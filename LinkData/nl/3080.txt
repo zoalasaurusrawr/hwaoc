@@ -1,0 +1,116 @@
+Standaardaanval
+Sterke aanval
+Houd de sterkeaanvalsknop ([$0003]) ingedrukt om de aanval krachtiger te maken.
+Houd [$0117] ingedrukt tijdens een combo en laat hem weer los om een extra aanval te doen.
+Houd [$0003] ingedrukt om een sterke aanval op te laden. Genees opgelopen schade met eten.
+Als je je buik vol gegeten hebt, duurt het minder lang om een sterke aanval op te laden.
+Als je [$0003] ingedrukt houdt tot je sterke aanval volledig is geladen, is deze extra krachtig.
+Gebruik [$0011] om de effecten van gebruikte Sheikah-krachten te activeren.
+In de ontwaakte vorm kun je direct sterke aanvallen gebruiken.
+Als je vijanden hebt omringd met licht, lopen ze extra schade op door lichtpijlen.
+In de koningsvorm zijn de slagen traag en krachtig, en in de oudemanvorm zijn ze snel.
+Als je tijdens een sterke aanval van vorm wisselt, voer je nog een sterke aanval uit.
+Sterke aanvallen creren bronnen met genezende kracht.
+Water van speciale of sterke aanvallen geneest nabije bondgenoten.
+Je kunt onder andere magmazuilen en platforms creren met [$0117].
+Als je de kracht van het magma opwekt, kun je magmazuilen en platforms laten ontploffen.
+Gebruik [$0011] om te landen als je je in de lucht bevindt.
+Grijp een vijand met [$0117] en gebruik [$0003] om een speciale aanval uit te voeren.
+Druk na een sterke aanval herhaaldelijk op [$0003] om je bliksemmeter te legen.
+Zie je vonken aan het eind van je [$0003]-aanval, laad dan je bliksemmeter op met [$0011].
+Je kunt symbolen absorberen met [$0117]. Elke keer dat je dat doet, creer je klonen.
+Als je de drie soorten symbolen absorbeert, is je volgende speciale aanval extra krachtig.
+Toon op het juiste moment je zelfvertrouwen bij een sterke aanval voor meer schade.
+Eet rotsbief om de beschermkracht te activeren en enkele sterke aanvallen te versterken.
+Het soort kracht verandert elke keer dat je deze of de verbeterde sterke aanval gebruikt.
+Toon je krijgerstrots en druk bij een sterke aanval herhaald op [$0003] om pijlen af te vuren.
+Patricia raast door als je [$0011] ingedrukt houdt.
+Verander Patricia van richting met [$0016] om vijanden in haar geraas te vangen.
+Koroks die naar je toe komen als je [$0011] gebruikt, vechten even aan je zij.
+Welke grote fee er verschijnt, hangt van de aanval af.
+De vechtersactie verschilt per grote fee.
+Terugslag van sterke aanvallen vermindert je energie. Zonder energie kun je niets meer.
+Je kunt bananen eten met [$0003] om je energie een beetje te herstellen.
+Absorbeer de kracht van geavanceerde overblijfselen die bij sterke aanvallen is ontstaan.
+Met [$0011] kun je geavanceerde kracht gebruiken en reusachtig worden.
+Na het transformeren vuur je met [$0003] lasers af. Met [$0004] neem je je originele vorm aan.
+Met [$0011] absorbeer je de Haat die door aanvallen verspreid is, en vul je de Haatmeter.
+De eerste aanval die je uitvoert na een sterke aanval, is krachtiger.
+Je kunt makkelijker ontwijken als je op het punt staat grote schade op te lopen.
+Er ontstaat een schokgolf als je een uitval doet.
+Verbetert de effecten van Sheikah-krachten.
+Laat je meer lichtpijlen afvuren.
+Vergroot je aanvalskracht door aan te vallen terwijl je van vorm wisselt.
+Je spat water rond als je een waterval beklimt. Hiermee breng je schade toe aan vijanden.
+Je kunt een lavasteen creren met [$0118].
+Als je je in de lucht bevindt, kun je een schadelijke wind op vijanden afsturen.
+Je bliksemmeter wordt twee keer zo lang.
+Als je op het juiste moment ontwijkt, voer je een ontwijkingsaanval uit.
+Druk na een sterke aanval op het juiste moment op [$0011]. Dan gooit de vijand je niet omver.
+De beschermkracht wordt vergroot.
+De kracht van de genadeslag van een sterke aanval wordt vergroot.
+Als je op [$0118] drukt, hul je jezelf in bliksem.
+Er verschijnen meer Koroks.
+Vechtersacties die met [$0011] worden uitgevoerd, zijn krachtiger.
+Terwijl jij bananen eet met [$0117], vecht je bende voor je.
+Als je tijdens een aanval ontwijkt, laat je ter plekke een ontploffende kloon achter.
+Als je getransformeerd bent, kun je je laser nog verder opladen.
+Je kunt Haat ook in de Onheilsvorm absorberen met [$0004].
+Vechtersactie
+Standaard luchtaanval
+Sterke luchtaanval
+Standaard ramaanval
+Sterke ramaanval
+Boog spannen/schieten
+Eten
+Naar een vijand in de buurt draaien en uitvallen
+Effecten van gebruikte Sheikah-krachten activeren
+De ontwaakte vorm aannemen
+Van vorm wisselen
+Teleporteer naar een bron en spring eruit omhoog
+De kracht van gecreerd magma opwekken
+Opstijgen
+De bliksemmeter vullen
+Een symbool aanbrengen op een vijand voor je
+Zelfvertrouwen uitstralen
+Rotsbief eten
+Krijgerstrots tonen
+Patricia laten razen
+Koroks laten verschijnen
+De vechtersacties van de feenzusters
+De Grote Gloeiknal bij veel stress
+Reusachtig worden
+Transformeren
+De Onheilsvorm aannemen met de Haatmeter
+Ontwaakte vorm
+Onheilsvorm
+Als je symbolen absorbeert met [$0003], creer je klonen.
+Absorbeer drie symbolen voor een extra krachtige speciale aanval.
+Neem een houding aan om jezelf meer kracht te geven.
+Druk vervolgens bij een sterke aanval op het juiste moment op [$0003] voor extra schade.
+Je kunt lasers afvuren met [$0011] tijdens standaard- en sterke aanvallen.
+Houd [$0011] ingedrukt om een extra krachtige laseraanval uit te voeren.
+Je kunt je laseraanvallen verder opladen.
+Een houding aannemen
+Een laseraanval uitvoeren
+De Grote Gloeiknal bij veel stress
+Terugslag van een sterke aanval vult je stressmeter. Zodra die vol is, kun je niets meer.
+Eet een banaan met [$0117] om te voorkomen dat je tijdelijk niks meer kunt van de stress.
+Druk op [$0011] voor een sterke aanval met terugslag in plaats van een sterke aanval ([$0003]).
+Eet met [$0117] om aan jezelf toegebrachte schade te genezen.
+Druk op [$0011] in plaats van [$0003] voor een krachtige sterke aanval. Genees schade met [$0003].
+Vul je verzadigingsmeter met [$0003]. Gebruik de meter om je hartjes aan te vullen.
+Druk op [$0011] om de vijand te bestormen.
+Je kunt je lans snel tevoorschijn halen, zelfs midden in een aanval.
+Druk herhaaldelijk op [$0003] tijdens een sterke aanval om een regen van pijlen af te vuren.
+Als je [$0011] ingedrukt houdt, wordt de pijl die je gaat afvuren steeds sterker.
+Druk in de Onheilsvorm op [$0011] om onbeperkt krachtige aanvallen uit te voeren.
+Druk in de Onheilsvorm op [$0004] om Haat te verspreiden en op [$0011] om het te absorberen.
+Voer een sterke aanval met terugslag uit.
+Je verliest tijdelijk hartjes voor een krachtige sterke aanval.
+Val uit naar de vijand.
+Wissel tussen de normale en ontwaakte vorm.
+Vuur een krachtige pijl af.
+Voor elk symbool dat je absorbeert met een sterke aanval, creer je klonen.
+Ontwaakte vorm
+Onheilsvorm

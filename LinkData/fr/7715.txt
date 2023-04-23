@@ -1,0 +1,11 @@
+quipe fixe
+Pas d'apparition d'obj. de rgnr.
+Dfaite au premier coup subi
+pes  une main uniquement
+pes  deux mains uniquement
+Lances uniquement
+Flches de lumire uniquement
+Temps limit
+Limite de temps extensible
+Apport/emport de baguettes interdit
+Interdiction d'utiliser tout objet

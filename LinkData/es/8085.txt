@@ -1,0 +1,94 @@
+Devuelve [t]%s[s0][/] del dao recibido al defenderse.
+Velocidad de ataque + [t]%s[s0][/].
+Velocidad de ataque + [t]%s[s0][/].
+Velocidad de ataque + [t]%s[s0][/].
+Alcance del ataque + [t]%s[s0][/].
+Alcance del ataque + [t]%s[s0][/].
+Alcance del ataque + [t]%s[s0][/].
+Probabilidad de KO + [t]%s[s0][/] contra enemigos dbiles.
+Esquivar + [t]%s[s0][/].
+Esquivar + [t]%s[s0][/].
+Esquivar + [t]%s[s0][/].
+Llena la barra especial un [t]%s[s0][/] ms rpido.
+Llena la barra especial un [t]%s[s0][/] ms rpido.
+Llena la barra especial un [t]%s[s0][/] ms rpido.
+[t]%s[s0][/] de probabilidad de defensa automtica.
+[t]%s[s0][/] de probabilidad de finta perfecta al defenderse.
+Ejecuta ataques areos imparables.
+Resistencia a todos los estados alterados.
+[t]%s[s0][/] de probabilidad de aterrizar con onda de choque.
+Dao contra un objetivo fijado + [t]%s[s0][/].
+Termina un ataque normal con un golpe crtico.
+EXP ganada en combate + [t]%s[s0][/].
+EXP ganada en combate + [t]%s[s0][/].
+EXP ganada en combate + [t]%s[s0][/].
+EXP por fusin + [t]%s[s0][/]
+EXP por fusin + [t]%s[s0][/]
+EXP por fusin + [t]%s[s0][/]
+Precio de venta mejorado.
+Precio de venta mejorado.
+Precio de venta mejorado.
+Percibe kolog cercanos.
+Percibe cofres cercanos.
+Encuentra mejores armas.
+Encuentra ms rupinejos.
+Partes de monstruos encontradas + [t]%s[s0][/].
+Partes de monstruos encontradas + [t]%s[s0][/].
+Partes de monstruos encontradas + [t]%s[s0][/].
+Materiales de combate encontrados + [t]%s[s0][/].
+Materiales de combate encontrados + [t]%s[s0][/].
+Materiales de combate encontrados + [t]%s[s0][/].
+Materiales ancestrales encontrados + [t]%s[s0][/].
+Materiales ancestrales encontrados + [t]%s[s0][/].
+Materiales ancestrales encontrados + [t]%s[s0][/].
+Materiales raros encontrados + [t]%s[s0][/].
+Gemas encontradas + [t]%s[s0][/].
+Materiales encontrados al cortar hierba + [t]%s[s0][/].
+Materiales encontrados al cortar hierba + [t]%s[s0][/].
+Materiales encontrados al cortar hierba + [t]%s[s0][/].
+Materiales localizados con sensor asignado + [t]%s[s0][/].
+Dao a enemigos en estado alterado + [t]%s[s0][/].
+Dao de ataques normales + [t]%s[s0][/].
+Dao de ataques normales + [t]%s[s0][/].
+Dao de ataques normales + [t]%s[s0][/].
+Dao de ataques fuertes + [t]%s[s0][/].
+Dao de ataques fuertes + [t]%s[s0][/].
+Dao de ataques fuertes + [t]%s[s0][/].
+Dao de ataques areos + [t]%s[s0][/].
+Dao de ataques areos + [t]%s[s0][/].
+Dao de ataques areos + [t]%s[s0][/].
+Dao de ataques en carrera + [t]%s[s0][/].
+Dao de ataques en carrera + [t]%s[s0][/].
+Dao de ataques en carrera + [t]%s[s0][/].
+Dao de ataques en serie + [t]%s[s0][/].
+Dao de ataques en serie + [t]%s[s0][/].
+Dao de ataques en serie + [t]%s[s0][/].
+Dao contra enemigos lanzados por los aires + [t]%s[s0][/].
+Dao contra enemigos lanzados por los aires + [t]%s[s0][/].
+Dao contra enemigos lanzados por los aires + [t]%s[s0][/].
+Dao de ataques especiales + [t]%s[s0][/].
+Dao de ataques especiales + [t]%s[s0][/].
+Dao de ataques especiales + [t]%s[s0][/].
+Dao + [t]%s[s0][/] con el mximo de corazones.
+Dao + [t]%s[s0][/] con el mximo de corazones.
+Dao + [t]%s[s0][/] con el mximo de corazones.
+Dao + [t]%s[s1][/] con [t]%s[s0][/] de corazones o menos.
+Dao + [t]%s[s1][/] con [t]%s[s0][/] de corazones o menos.
+Dao + [t]%s[s1][/] con [t]%s[s0][/] de corazones o menos.
+Dao + [t]%s[s1][/] por cada [t]%s[s0][/] KO.
+Dao + [t]%s[s1][/] por cada [t]%s[s0][/] KO.
+Dao + [t]%s[s1][/] por cada [t]%s[s0][/] KO.
+Absorbe parte del dao infligido como corazones.
+Recupera corazones con cada KO.
+Probabilidad de obtener objetos sanadores + [t]%s[s0][/].
+Probabilidad de obtener objetos sanadores + [t]%s[s0][/].
+Probabilidad de obtener objetos sanadores + [t]%s[s0][/].
+Efecto de objetos sanadores + [t]%s[s0][/].
+Efecto de objetos sanadores + [t]%s[s0][/].
+Efecto de objetos sanadores + [t]%s[s0][/].
+Dao enemigo sufrido - [t]%s[s0][/].
+Dao enemigo sufrido - [t]%s[s0][/].
+Dao enemigo sufrido - [t]%s[s0][/].
+Reduce los efectos de ataques elctricos.
+Reduce los efectos de ataques de fuego.
+Reduce los efectos de ataques de hielo.

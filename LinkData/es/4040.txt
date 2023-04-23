@@ -1,0 +1,22 @@
+Corazones + [t]%s[s0][/] al inicio del combate.
+Llena la barra especial un [t]%s[s0][/] %% ms rpido.
+Velocidad + [t]%s[s0][/] %%
+Esquivar + [t]%s[s0][/] %%
+Restaura algo de vitalidad por KO enemigo.
+El KO enemigo llena algo la barra especial.
+Recupera corazones cada [t]%s[s0][/] segundos.
+Dao infligido + [t]%s[s0][/] %%
+Dao recibido - [t]%s[s0][/] %%
+EXP ganada + [t]%s[s0][/] %%
+Dao por mdulos sheikah + [t]%s[s0][/] %%
+Eficacia de platos cocinados + [t]%s[s0][/] %%
+Rupias obtenidas + [t]%s[s0][/] %%
+Aparicin de materiales + [t]%s[s0][/] %%
+Aparicin de materiales raros + [t]%s[s0][/] %%
+Parmetros + [t]%s[s0][/] %%; corazones mximos - [t]%s[s1][/] %%
+Recuperacin total al quedarte sin corazones (1 vez).
+- [t]%s[s0][/] %% al dao por hielo recibido
+- [t]%s[s0][/] %% al dao por fuego recibido
+- [t]%s[s0][/] %% al dao elctrico recibido
+Rupias obtenidas + [t]%s[s0][/] %%; corazones mximos - [t]%s[s1][/]
+Rupias obtenidas + [t]%s[s0][/] %%

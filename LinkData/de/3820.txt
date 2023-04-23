@@ -1,0 +1,27 @@
+[eb][eg6][v]%s[s0][/][ec5] befindet sich in einem harten Kampf.
+In einem harten Kampf!
+[eb][eg3][v]%s[s0][/][ec4] droht die Niederlage!
+Drohende Niederlage!
+[eb][eg6][v]%s[s0][/][ec5] wurde besiegt.
+Geflohen!
+[eb][eg6][v]%s[s0][/][ec5] hat [eg1][v]%s[s1][/][ec2] besiegt.
+Besiegt!
+Der Vorposten wurde erobert.
+Erobert!
+Der Vorposten-Anfhrer ist erschienen.
+Anfhrer erschienen!
+Der Vorposten ist gefallen!
+Gefallen!
+Der Vorposten befindet sich in einem harten Kampf.
+Gefahr!
+Der Vorposten droht zu fallen!
+Hchste Gefahr!
+Das Hauptquartier befindet sich in einem harten Kampf.
+Gefahr!
+Das Hauptquartier droht zu fallen!
+Hchste Gefahr!
+Die Zeit ist um, du hast verloren!
+Nur noch [t]%s[s0][/][ec5] Minuten brig! Schnell, hole dir den Sieg!
+Anderes Ziel!
+Vorrcken aufgehalten!
+Route gendert!

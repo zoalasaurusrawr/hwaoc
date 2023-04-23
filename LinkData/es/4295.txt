@@ -1,0 +1,50 @@
+[eb][t]%s[s0][/]: combo adicional
+[eb][t]%s[s0][/]: accin exclusiva reforzada
+[eb][v]%s[s0][/]: corazones + [t]%s[s1][/]
+[eb][v]%s[s0][/]: barra especial + [t]%s[s1][/]
+Ms fcil vaciar el indicador de punto dbil
+Mejor recuperacin de la barra especial
+Mayor resistencia a desequilibrio
+Recuperacin de energa vital mejorada
+Dao recibido - [t]%s[s0][/] %%
+[t]%s[s0][/] %% EXP extra al derrotar enemigos
+Podrs volver a usar bombas antes.
+Podrs volver a usar el imn antes.
+Podrs volver a usar el paralizador antes.
+Podrs volver a usar el tmpano antes.
+Ranuras para armas + [t]%s[s0][/]
+[eb][t]%s[s0][/] disponible
+Llegada de mercaderes
+[t]%s[s0][/] %% de descuento en Hyrule oriental
+[t]%s[s0][/] %% de descuento en Hyrule occidental
+[t]%s[s1][/] %% de descuento en [eg1][t]%s[s0][/]
+Mayor probabilidad de megafusin
+Mejoras de arma posibles + 1
+Posibilidad de eliminar un sello a eleccin
+Posibilidad de eliminar todos los sellos
+Capacidad de limpiar el xido de las armas
+Obtencin de mejores armas tras limpiarlas
+Descuento en la Monstruoteca
+Nuevos productos en la monstruoteca
+Capacidad de usar el sensor sheikah
+Ms registros con el sensor sheikah
+Descuento en [eg1][t]%s[s0][/]
+Capacidad de cocinar
+Ranuras para platos cocinados + [t]%s[s0][/]
+Receta de [t]%s[s0][/]
+Prueba [eg4][v]%s[s0][/] disponible
+[t]%s[s0][/] x [t]%s[s1][/]
+Mayor probabilidad de obtener armas mejores
+Capacidad de reconocer kolog
+Capacidad de reconocer cofres
+Visualizacin de cofres en el minimapa
+Descuento en las tiendas de la regin
+[t]%s[s0][/] rupias
+[v]%s[s0][/] potenciada
+Reparacin de Terrak
+Usos de cetros + 1
+Corazones de todos los aliados + [t]%s[s0][/]
+[t]%s[s0][/]
+Nuevos colores en [t]%s[s0][/]
+[eb][t]%s[s0][/] disponible
+Espacio de manzanas + 1
