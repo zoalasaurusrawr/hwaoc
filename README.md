@@ -75,6 +75,12 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 - 4230: Location Names
 - 8015: HUD text
 
+**TODO**
+
+- Extract and process jp text sources
+- Process text from other asset locations in the ROM
+- Update files index with content info for all languages.
+
 ## Credits
 
 - VexIsRed
