@@ -1,0 +1,399 @@
+S010
+	EnemyBaseRiverside-A
+	EnemyBridge-A-DES
+	far-cliff-a-DES
+	far-cliff-c-DES
+	far-cliff-e-DES
+	far-ground-a-DES
+	far-ground-b-DES
+	far-ground-d-DES
+	RockGashamahi-A-DES
+	RockMoss-B-L-DES
+	RockMoss-B-LL-DES
+	RockMoss-B-M-DES
+	RockMoss-B-S-DES
+	RockYellow-A-L-DES
+	RockYellow-A-M-DES
+	Tree-Burned-A-DES
+	Tree-Burned-B-DES
+	TreeBroadleaf-A-L-DES
+	TreeBroadleaf-A-LL
+	TreeBroadleaf-A-LL-DES
+	TreeBroadleaf-A-LL-Nest-DES
+	TreeBroadleaf-B-L-DES
+	TreeConiferousDead-A-DES
+	TreeSet-A-DES
+	TreeSet-B-DES
+
+S014
+	BoneGiant-BackBone-A-DES
+	BoneGiant-Rib-A-DES
+	bridge-gerdo-A-DES
+	DesertRock-A-DES
+	DesertRuin-A-DES
+	fort-base-rock-DES
+	Gerdo-S-A-DES
+	Gerdo-SS-A-DES
+	GerdoFlagBase-A-DES
+	GerudoBase-A-DES
+	gim-rmpt-wall
+	gim-tower
+	RockPillar-A-DES
+	SecrerBaseRoot-A-DES
+	SecretBase-TorchStand-A-02
+	SecretBaseCloth-A-DES
+	SecretBaseFlag-A-DES
+	SecretBaseRatBack-A-DES
+	SecretBaseRockBlock-A-DES
+	SecretBaseRockBlock-B-DES
+	SecretBaseRockBlock-C-DES
+	SecretBaseRockBlock-D-DES
+	SecretBaseRockBlock-E-DES
+	SecretBaseRockBlock-G-DES
+	SecretBaseStoneStatue-A-DES
+	SmallOasisTent-A-DES
+	tree-b-leaf-Branch-A-DES
+	TreeBroadleafLow-A-DES
+	TreeCactusMini-A-DES
+	TreePalm-A-DES
+	TreePalmMini-A-DES
+
+S002
+	bf-army-tent-brk-DES
+	bf-bag-DES
+	bf-FenceWoodDamage-A-DES-01
+	bf-wood-brk-DES
+	brk-tent-DES
+	dead-tree-DES
+	dig-tent-DES
+	FenceWoodDamage-A-DES
+	FireWood-DES
+	gim-book
+	gim-dig-paper
+	gim-dig-vessel
+	gim-gabbage
+	gim-outside-desk
+	gim-wall-brk
+	HyliaWoodRuinShelter-A-DES
+	Hyrule-WallTorch-B-DES-01
+	rockset-DES
+	RockSetYellow-A-DES
+	ScaffoldWood-B-DES
+	StableHosteStocklYard-A-DES
+	StageGerdo-S-A-DES
+	StageGerdo-SS-A-DES
+	StageGerdoFence-A-DES
+	StageGerdoLadder-A-DES
+	wood-fence-01-5m-DES
+	wood-pole-DES
+	wood-pole-DES-01
+	wood-pole-DES-02
+	wood-tower-af-DES
+	wood-tower-DES
+
+S023
+	bridge-gim
+	com-gim
+	gim-bat-sandbag-br
+	gim-bat-target
+	gim-bat-wood-af
+	gim-bat-woodstand
+	gim-bat-woodstand-af
+	gim-com-table-af
+	gim-din-chair
+	gim-din-chair-af
+	gim-din-dish-af
+	gim-din-table
+	gim-din-table-af
+	gim-ent-pillar-af
+	gim-room-03-chair
+	gim-room-03-chair-af
+	gim-room-03-table
+	gim-room-03-table-af
+	gim-room-baggage
+	gim-room-lump
+	gim-TableTorch-A
+	room-03-gim-pillar-af
+	room-gim
+
+S019
+	bf-army-tent-brk-DES
+	bf-ballista-brk-DES
+	bf-cart-brk-DES
+	bf-trebuchet-brk-DES
+	bf-yagura-brk-DES
+	Bridge-Wd-Parts-A-DES
+	Bridge-Wd-Parts-B-DES
+	CliffGrayParts-A-DES
+	CliffWhite-A-DES
+	CliffWhiteWall-A-DES
+	EnemyBaseRiverside-A-DES
+	FenceWoodDamage-A-DES
+	fort-01-gate-brk-DES
+	fort-01-gate-pillar-brk-DES
+	fort-01-tower-DES-01
+	fort-01-wall-10m-brk-DES-01
+	fort-01-wall-10m-DES
+	fort-01-wall-20m-brk-DES
+	fort-01-wall-cnr-brk-DES
+	fort-02-wood-tower-DES
+	fort-02-wood-wall-DES
+	fort-base-rock-DES
+	fort-hateno-lookout-DES
+	RockGray-A-L-DES
+	RockSetGray-A-DES
+	RockSetGray-A-L-DES
+	ScaffoldWood-A-DES
+
+S004
+	Cliff-gray-B-DES
+	Cliff-gray-D-DES
+	Cliff-gray-E-DES
+	Cliff-white-A-DES
+	Cliff-white-E-DES
+	CliffZora-gim-A
+	CliffZoraGround-gim-A
+	CliffZoraWall-gim-A
+	EnemyLookout-gim-B
+	EnemyLookout-gim-C
+	FireWood
+	fort-gim
+	fort-rock-gim
+	MtSheikerPlant-A-M-DES
+	Plant-CypressLow-A-DES
+	Plant-Fern-B
+	Plant-Osmunda-A-DES
+	Plant-Shrub-A-DES
+	rock-fence-gim
+	Rock-gray-A-DES
+	Rock-gray-B-L-DES
+	Rock-white-A-DES
+	Rock-white-C-L-DES
+	RockSetWhite-gim-A
+	RockWhite-gim-A-L
+	RockZora-gim-A-L
+	RockZora-gim-A-M
+	RockZoraCliffWall-gim-A
+	RockZoraLump-gim-A
+	RockZoraSet-gim-A
+	SoilRockZora-gim-A-L
+	SoilRockZora-gim-A-M
+	TorchStandBone-A-01
+	TorchStandRiverside-A-01
+	TreeBroadleafLow-A-DES
+	TreeZoraLow-A-DES
+
+S026
+	gim-chair
+	gim-lamp
+
+gim
+	BoxWood-Desert-DES
+	Cmn-BoxWood-Jungle-A-DES
+	ExplosionRock-Korok
+	Fld-Cart-A
+	Pot-DES
+	S002-SkullRockBone-A
+	S025-fort-hateno-01-dr
+	Twn-SmallOasisChair-A
+	Wallcrack-DES
+
+s014
+	EnemyLookout-A
+	FenceWoodDamage-A
+	SkullRockBroken-A
+
+S006
+	Bokoblin-dr-DES
+	Bokoblin-gate-DES
+	Bokoblin-lookout-DES
+	bonegiant-DES
+	Bridge-A-DES
+	City-GoronBox-B-DES
+	City-GoronLight-A-DES
+	City-GoronLight-B-DES
+	cliff-arch-DES
+	CliffDeathMt-C-DES
+	CliffDeathMt-D-DES
+	CliffDeathMt-F-DES
+	DeathMtBigBridge-A-DES
+	Flag-A-DES
+	fort-metal-tower-DES
+	fort-wall-joint-DES
+	fort-wall-metal-DES-01
+	Gate-A-DES
+	gim-Goron-dr-DES
+	goron-canon-DES
+	Goron-gate-DES
+	GoronBridge-A-DES
+	Goronstronghold-DES-03
+	PickaxeStatue-A-DES
+	Pillar-A-DES
+	RockDeathMt-C-L-DES
+	RockDeathMt-D-L-DES
+	rockset-C-L-DES
+	RockSetDeathMt-A-DES
+	Tent-A-DES
+
+S009
+	bag-gim-brk
+	gim-chair-brk
+	gim-table-brk
+
+S022
+	DeathMtArtifactFlag-A-DES
+	EnemyBaseRiverside-A-DES
+	gim-Cliff-Arch
+	gim-Cliff-Broken
+	gim-ScaffoldWood-A
+
+Dgn
+	gim-BoxWood-A
+
+Cmn
+	BoxIron
+	BoxIronBreakable-A
+	BoxWood
+	BoxWood-Snowmountain
+	gim-Barrel
+	gim-BarrelOld-A
+	PlantCamelliaLeaf
+	RockSetDeathMt-C-L-DES
+	RockWhite-B-L-DES
+	TreeConiferous-A-01
+
+S015
+	gim-SecretBase-dr
+	gim-SecretBase-shelf
+	gim-SecretBase-shelf-DES
+	gim-SecretBase-target-DES
+	gim-SecretBase-trap
+
+S017
+	gim-csl-rubble-pillar
+	gim-csl-rubble-statue
+	gim-csl-rubble-wall
+	gim-HyruleCastleInside-pillar
+	gim-In-goods-bigpot-DES
+	gim-In-goods-book-DES
+	gim-In-goods-bookrest-DES
+	gim-In-goods-candle-DES
+	gim-In-goods-chair-DES
+	gim-In-goods-desk-02-DES
+	gim-In-goods-rollpaper
+	gim-In-Sofa-A-DES
+	gim-Library-ceil
+	gim-Library-floor
+	gim-second-rubble-wall
+	In-goods-chair
+	In-goods-clean-002
+	In-goods-desk-001
+	In-goods-table
+	In-goods-table-001
+	In-goods-TableSet-A-01
+	In-goods-TableSet-A-02
+
+S001
+	enemy-fort-DES
+	gim-MebeBucket-A
+	gim-MebeBucket-B
+	Mebe-goods-log
+	Mebe-scarecrow
+
+Fld
+	Cliff-Akkare-B-DES
+	Cliff-DeathMt-D-DES
+	Cliff-DeathMt-E-DES
+	Cliff-White-A-DES
+	Cliff-White-Lump-A-DES
+	EnemyBaseRiverside-A
+	EnemyBaseRiversideBridge-A
+	RockSetAkkare-A-DES
+	ScaffoldWood-B-DES
+	SkullRock-A
+	SkullRockMoss-Moss-A
+
+S021
+	enemy-fly-DES
+	enemy-fly-sn-DES
+	enemy-fort-DES
+	enemy-fort-sn-DES
+	enemy-lookout-B-sn-DES
+	enemy-pole-sn-DES
+	enemy-scaffold-A-sn-DES
+	enemy-scaffold-B-DES
+	enemy-scaffold-B-sn-DES
+	enemy-skull-A-DES
+	enemy-skull-A-sn-DES
+	gim-ScaffoldWood-A
+	RockSetSnow-A-DES
+	RockSetYellow-A-L-DES
+	RockSetYellow-A-L-sn-DES
+	SnowHouse-A-DES
+	TrBroadleaf-A-L
+	TrBroadleafLow-A-DES
+	TrBroadleafLow-sn-A-DES
+	TrConiferous-A-DES
+	TrConiferous-A-sn-DES
+	TrConiferous-C-DES
+	TrWhiteBirch-A-DES
+	Windmill-A-DES
+	WindmillWheel-A-DES
+	WoodHouse-A-DES
+	WoodRuin-A-DES
+	WoodRuinDebris-A-DES
+
+S013
+	com-board
+	gim-ancient-furnace
+	gim-baggage
+	gim-bat-wood
+	gim-din-dish
+	gim-pillar
+	gim-room-03-pillar
+	gim-sandbag
+	gim-table
+
+S024
+	guardian-walk-L-DES-01
+	guardian-walk-L-DES-02
+	guardian-walk-L-DES-03
+	guardian-walk-L-DES-04
+	HyliaWdRuinburn-A-DES
+	TorchStand-A-DES-01
+
+S007
+	gim-BridgeWoodThin-A
+	gim-RockBroken-A
+
+S005
+	ScaffoldIron-A-DES
+	SkullRock-B
+
+S016
+	EnemyBase-L
+	EnemyLookout-A-DES
+
+S028
+	gim-HyruleCastleInside-pillar
+	gim-In-din-table-DES
+
+S020
+	gim-RockBroken-A
+	IbutsuWind-DES
+
+S040
+	gim-Dgn-Pillar-A
+
+S027
+	gim-bench-brk
+
+S003
+	goods-pot
+
+B01
+	fence-DES
+
+S008
+	gim-battle-doll
+

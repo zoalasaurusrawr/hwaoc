@@ -14,6 +14,9 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 - es (Spanish)
 - fr (French)
 - it (Italian)
+- jp (Japanese)
+- cn (Chinese)
+- ko (Korean)
 
 ## Notable Files
 
@@ -68,6 +71,16 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 - 4155: Attack names
 - 4230: Location Names
 - 8015: HUD text
+
+**Japanese**
+- 5400: Mission names
+
+**Chinese**
+- 8010: Chinese Dialog
+- 8020: HUD text
+
+**Korean**
+- 5395: Mission names
 
 ## Credits
 

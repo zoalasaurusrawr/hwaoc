@@ -1,102 +1,299 @@
-[cs][es]2_5_1______monster[cm][es]1_5_1______monsters[ce]
-[cs][es]2_5_1______Hyrulean Army[cm][es]1_5_1______Hyrulean Armies[ce]
-[cs][es]2_5_1______Zora[cm][es]1_5_1______Zora[ce]
-[cs][es]2_5_1______Goron[cm][es]1_5_1______Gorons[ce]
-[cs][es]2_5_1______Rito[cm][es]1_5_1______Rito[ce]
-[cs][es]2_5_1______Gerudo[cm][es]1_5_1______Gerudo[ce]
-[cs][es]5_5_1______Yiga Clan[cm][es]5_5_1______Yiga Clan[ce]
-[cs][es]2_5_1______Divine Beast Pilot[cm][es]1_5_1______Divine Beast Pilots[ce]
-[cs][es]2_5_1______Champion[cm][es]1_5_1______Four Champions[ce]
-[cs][es]2_5_1______Divine Beast[cm][es]1_5_1______Divine Beasts[ce]
-[cs][es]2_5_1______monster holding the wall[cm][es]1_5_1______monsters holding the wall[ce]
-[cs][es]2_5_1______descendant[cm][es]1_5_1______descendants[ce]
-[cs][es]2_5_1______Hollow Champion[cm][es]1_5_1______Hollow Champions[ce]
-[cs][es]1_5_1______lava[cm][es]1_5_1______lava[ce]
-[cs][es]2_5_1______Hinox brother[cm][es]1_5_1______three Hinox brothers[ce]
-[cs][es]2_5_1______giant updraft[cm][es]1_5_1______giant updrafts[ce]
-[cs][es]2_5_1______key[cm][es]1_5_1______keys[ce]
-[cs][es]2_5_1______rockfall[cm][es]1_5_1______rockfalls[ce]
-[cs][es]2_5_1______lightning strike[cm][es]1_5_1______lightning strikes[ce]
-[cs][es]3_5_1______Akkala Citadel Guard[cm][es]1_5_1______Akkala Citadel Guards[ce]
-[cs][es]2_5_1______mysterious contraption[cm][es]1_5_1______mysterious contraptions[ce]
-[cs][es]2_5_1______warp point[cm][es]1_5_1______warp points[ce]
-[cs][es]2_5_1______missing soldier[cm][es]1_5_1______missing soldiers[ce]
-[cs][es]2_5_1______treasure chest[cm][es]1_5_1______treasure chests[ce]
-[cs][es]2_5_1______victim[cm][es]1_5_1______victims[ce]
-[cs][es]3_5_1______obstructive enemy[cm][es]1_5_1______obstructive enemies[ce]
-[cs][es]3_5_1______iron chest[cm][es]1_5_1______iron chests[ce]
-[cs][es]2_5_1______bomb barrel[cm][es]1_5_1______bomb barrels[ce]
-[cs][es]2_5_1______leader[cm][es]1_5_1______leaders[ce]
-[cs][es]2_5_1______pond[cm][es]1_5_1______ponds[ce]
-[cs][es]1_1_1______Miss Vai[cm][es]1_5_1______Miss Vai[ce]
-[cs][es]2_5_1______dancer[cm][es]1_5_1______dancers[ce]
-[cs][es]1_1_1______Team Champion[cm][es]1_1_1______Team Champion[ce]
-[cs][es]1_1_1______Team Future[cm][es]1_1_1______Team Future[ce]
-[cs][es]2_5_1______Malice swamp[cm][es]1_5_1______Malice swamps[ce]
-[cs][es]2_5_1______toppled tree[cm][es]1_5_1______toppled trees[ce]
-[cs][es]2_5_1______relic[cm][es]1_5_1______relics[ce]
-[cs][es]2_5_1______cannon[cm][es]1_5_1______cannons[ce]
-[cs][es]1_5_1______rubble[cm][es]1_5_1______rubble[ce]
-[cs][es]2_5_1______Wall of Malice[cm][es]1_5_1______Walls of Malice[ce]
-[cs][es]2_5_1______tornado[cm][es]1_5_1______tornadoes[ce]
-[cs][es]2_5_1______conflagration[cm][es]1_5_1______conflagrations[ce]
-[cs][es]2_5_1______monster horde[cm][es]1_5_1______monster hordes[ce]
-[cs][es]3_5_1______ally[cm][es]1_5_1______allies[ce]
-[cs][es]2_5_1______soldier[cm][es]1_1_1______all soldiers[ce]
-[cs][es]3_5_1______enemy[cm][es]1_5_1______enemies[ce]
-[cs][es]2_5_1______Rito army[cm][es]1_5_1______Rito armies[ce]
-[cs][es]3_5_1______archer[cm][es]1_5_1______archers[ce]
-[cs][es]2_5_1______fire monster[cm][es]1_5_1______fire monsters[ce]
-[cs][es]3_5_1______ice monster[cm][es]1_5_1______ice monsters[ce]
-[cs][es]3_5_1______electric monster[cm][es]1_5_1______electric monsters[ce]
-[cs][es]5_5_1______fire and ice monsters[cm][es]5_5_1______ice and fire monsters[ce]
-[cs][es]5_5_1______fire and electric monsters[cm][es]5_5_1______fire and electric monsters[ce]
-[cs][es]5_5_1______ice and electric monsters[cm][es]5_5_1______ice and electric monsters[ce]
-[cs][es]5_5_1______elementally infused monster[cm][es]5_5_1______elementally infused monsters[ce]
-[cs][es]2_5_1______fruit[cm][es]1_5_1______fruit[ce]
-[cs][es]2_5_1______wildberry[cm][es]1_5_1______wildberries[ce]
-[cs][es]2_5_1______apple[cm][es]1_5_1______apples[ce]
-[cs][es]2_5_1______banana[cm][es]1_5_1______bananas[ce]
-[cs][es]1_5_1______mighty bananas[cm][es]1_5_1______mighty bananas[ce]
-[cs][es]2_5_1______Hylian Soldier?[cm][es]1_5_1______Hylian Soldiers?[ce]
-[cs][es]2_5_1______scout[cm][es]1_5_1______scouts[ce]
-[es]1_1_1______all enemies
-[es]1_1_1______many enemies
-[cs][es]5_5_1______Master Sword[cm][es]5_5_1______Master Swords[ce]
-[cs][es]5_5_1______rain[cm][es]5_5_1______rain[ce]
-[cs][es]2_5_1______soldier[cm][es]1_5_1______soldiers[ce]
-[cs][es]2_5_1______Blight Ganon[cm][es]1_5_1______Blight Ganons[ce]
-[cs][es]1_5_1______Hollow[cm][es]1_5_1______Hollows[ce]
-[cs][es]2_5_1______hidden monster[cm][es]1_5_1______hidden monsters[ce]
-[cs][es]2_5_1______device[cm][es]1_5_1______devices[ce]
-[cs][es]3_5_1______ancient furnace[cm][es]1_5_1______ancient furnaces[ce]
-[cs][es]2_5_1______simple ancient furnace[cm][es]1_5_1______simple ancient furnaces[ce]
-[cs][es]1_1_1______Magnesis[cm][es]1_1_1______Magnesis[ce]
-[cs][es]1_1_1______Stasis[cm][es]1_1_1______Stasis[ce]
-[cs][es]1_1_1______Remote Bomb[cm][es]1_1_1______Remote Bombs[ce]
-[cs][es]1_1_1______Cryonis[cm][es]1_1_1______Cryonis[ce]
-[cs][es]2_5_1______treasure[cm][es]1_5_1______treasures[ce]
-[cs][es]2_5_1______fire rod[cm][es]1_5_1______fire rods[ce]
-[cs][es]3_5_1______ice rod[cm][es]1_5_1______ice rods[ce]
-[cs][es]2_5_1______lightning rod[cm][es]1_5_1______lightning rods[ce]
-[cs][es]2_5_1______Champion[cm][es]1_5_1______Champions[ce]
-[cs][es]1_5_1______east[cm][es]1_5_1______east[ce]
-[cs][es]1_5_1______west[cm][es]1_5_1______west[ce]
-[cs][es]1_5_1______north[cm][es]1_5_1______north[ce]
-[cs][es]1_5_1______south[cm][es]1_5_1______south[ce]
-[cs][es]1_5_1______southwest[cm][es]1_5_1______southwest[ce]
-[cs][es]1_5_1______northwest[cm][es]1_5_1______northwest[ce]
-[cs][es]1_5_1______southeast[cm][es]1_5_1______southeast[ce]
-[cs][es]1_5_1______northeast[cm][es]1_5_1______northeast[ce]
-[cs][es]1_5_1______obstacle[cm][es]1_5_1______obstacles[ce]
-[cs][es]2_5_1______magma bomb[cm][es]1_5_1______magma bombs[ce]
-[cs][es]2_5_1______Barrier of Malice[cm][es]1_5_1______Barriers of Malice[ce]
-[cs][es]2_5_1______barrier[cm][es]1_5_1______barriers[ce]
-[cs][es]2_5_1______monster holding the barrier[cm][es]1_5_1______monsters holding the barrier[ce]
-[cs][es]2_5_1______rupee[cm][es]1_5_1______rupees[ce]
-[cs][es]2_5_1______hydromelon[cm][es]1_5_1______hydromelons[ce]
-[cs][es]2_5_1______Miss Vai contender[cm][es]1_5_1______Miss Vai contenders[ce]
-[cs][es]2_5_1______controlled Guardian[cm][es]1_5_1______controlled Guardians[ce]
-[cs][es]2_5_1______training opponent[cm][es]1_5_1______training opponents[ce]
-[es]1_1_1______many training opponents
-[es]1_1_1______all training opponents
+Singluar: monster
+Plural: monsters
+
+Singluar: Hyrulean Army
+Plural: Hyrulean Armies
+
+Singluar: Zora
+Plural: Zora
+
+Singluar: Goron
+Plural: Gorons
+
+Singluar: Rito
+Plural: Rito
+
+Singluar: Gerudo
+Plural: Gerudo
+
+Singluar:  Yiga Clan
+Plural: Yiga Clan
+
+Singluar: Divine Beast Pilot
+Plural: Divine Beast Pilots
+
+Singluar: Champion
+Plural: Four Champions
+
+Singluar: Divine Beast
+Plural: Divine Beasts
+
+Singluar: monster holding the wall
+Plural: monsters holding the wall
+
+Singluar: descendant
+Plural: descendants
+
+Singluar: Hollow Champion
+Plural: Hollow Champions
+
+Singluar:  lava
+Plural: lava
+
+Singluar: Hinox brother
+Plural: three Hinox brothers
+
+Singluar: giant updraft
+Plural: giant updrafts
+
+Singluar: key
+Plural: keys
+
+Singluar: rockfall
+Plural: rockfalls
+
+Singluar: lightning strike
+Plural: lightning strikes
+
+Singluar:  Akkala Citadel Guard
+Plural: Akkala Citadel Guards
+
+Singluar: mysterious contraption
+Plural: mysterious contraptions
+
+Singluar: warp point
+Plural: warp points
+
+Singluar: missing soldier
+Plural: missing soldiers
+
+Singluar: treasure chest
+Plural: treasure chests
+
+Singluar: victim
+Plural: victims
+
+Singluar:  obstructive enemy
+Plural: obstructive enemies
+
+Singluar:  iron chest
+Plural: iron chests
+
+Singluar: bomb barrel
+Plural: bomb barrels
+
+Singluar: leader
+Plural: leaders
+
+Singluar: pond
+Plural: ponds
+
+Singluar:  Miss Vai
+Plural: Miss Vai
+
+Singluar: dancer
+Plural: dancers
+
+Singluar:  Team Champion
+Plural: Team Champion
+
+Singluar:  Team Future
+Plural: Team Future
+
+Singluar: Malice swamp
+Plural: Malice swamps
+
+Singluar: toppled tree
+Plural: toppled trees
+
+Singluar: relic
+Plural: relics
+
+Singluar: cannon
+Plural: cannons
+
+Singluar:  rubble
+Plural: rubble
+
+Singluar: WAll: all of Malice
+Plural: Walls of Malice
+
+Singluar: tornado
+Plural: tornadoes
+
+Singluar: conflagration
+Plural: conflagrations
+
+Singluar: monster horde
+Plural: monster hordes
+
+Singluar:  ally
+Plural: allies
+
+Singluar: soldier
+Plural: All: all soldiers
+
+Singluar:  enemy
+Plural: enemies
+
+Singluar: Rito army
+Plural: Rito armies
+
+Singluar:  archer
+Plural: archers
+
+Singluar: fire monster
+Plural: fire monsters
+
+Singluar:  ice monster
+Plural: ice monsters
+
+Singluar:  electric monster
+Plural: electric monsters
+
+Singluar:  fire and ice monsters
+Plural: ice and fire monsters
+
+Singluar:  fire and electric monsters
+Plural: fire and electric monsters
+
+Singluar:  ice and electric monsters
+Plural: ice and electric monsters
+
+Singluar:  elementally infused monster
+Plural: elementally infused monsters
+
+Singluar: fruit
+Plural: fruit
+
+Singluar: wildberry
+Plural: wildberries
+
+Singluar: apple
+Plural: apples
+
+Singluar: banana
+Plural: bananas
+
+Singluar:  mighty bananas
+Plural: mighty bananas
+
+Singluar: Hylian Soldier?
+Plural: Hylian Soldiers?
+
+Singluar: scout
+Plural: scouts
+
+All: all enemies
+Many: many enemies
+
+Singluar:  Master Sword
+Plural: Master Swords
+
+Singluar:  rain
+Plural: rain
+
+Singluar: soldier
+Plural: soldiers
+
+Singluar: Blight Ganon
+Plural: Blight Ganons
+
+Singluar:  Hollow
+Plural: Hollows
+
+Singluar: hidden monster
+Plural: hidden monsters
+
+Singluar: device
+Plural: devices
+
+Singluar:  ancient furnace
+Plural: ancient furnaces
+
+Singluar: simple ancient furnace
+Plural: simple ancient furnaces
+
+Singluar:  Magnesis
+Plural: Magnesis
+
+Singluar:  Stasis
+Plural: Stasis
+
+Singluar:  Remote Bomb
+Plural: Remote Bombs
+
+Singluar:  Cryonis
+Plural: Cryonis
+
+Singluar: treasure
+Plural: treasures
+
+Singluar: fire rod
+Plural: fire rods
+
+Singluar:  ice rod
+Plural: ice rods
+
+Singluar: lightning rod
+Plural: lightning rods
+
+Singluar: Champion
+Plural: Champions
+
+Singluar:  east
+Plural: east
+
+Singluar:  west
+Plural: west
+
+Singluar:  north
+Plural: north
+
+Singluar:  south
+Plural: south
+
+Singluar:  southwest
+Plural: southwest
+
+Singluar:  northwest
+Plural: northwest
+
+Singluar:  southeast
+Plural: southeast
+
+Singluar:  northeast
+Plural: northeast
+
+Singluar:  obstacle
+Plural: obstacles
+
+Singluar:  magma bomb
+Plural: magma bombs
+
+Singluar: Barrier of Malice
+Plural: Barriers of Malice
+
+Singluar: barrier
+Plural: barriers
+
+Singluar: monster holding the barrier
+Plural: monsters holding the barrier
+
+Singluar: rupee
+Plural: rupees
+
+Singluar: hydromelon
+Plural: hydromelons
+
+Singluar: Miss Vai contender
+Plural: Miss Vai contenders
+
+Singluar: controlled Guardian
+Plural: controlled Guardians
+
+Singluar: training opponent
+Plural: training opponents
+
+Many: many training opponents
+All: all training opponents
