@@ -1,0 +1,27 @@
+[eb][eg2][v]%s[s0][/][ec2] heeft het moeilijk.
+Heeft het zwaar!
+[eb][eg2][v]%s[s0][/][ec2] is bijna verslagen!
+Bijna verslagen!
+[eb][eg2][v]%s[s0][/][ec2] is verslagen.
+Op de vlucht!
+[eb][eg2][v]%s[s0][/][ec2] heeft [eg2][v]%s[s1][/][ec2] verslagen.
+Verslagen!
+Het kamp is veroverd.
+Veroverd!
+Het hoofd van het kamp is verschenen.
+Het hoofd verschijnt!
+Het kamp is gevallen.
+Gevallen!
+Het kamp zit in een benarde positie.
+In een benarde positie!
+Het kamp staat op het punt te vallen!
+Op het punt van vallen!
+De geallieerde basis zit in een benarde positie.
+In een benarde positie!
+De geallieerde basis staat op het punt te vallen!
+Op het punt van vallen!
+De tijd is om. Je hebt verloren.
+Je hebt nog maar [t]%s[s0][/][ec5] minuten! Probeer snel de overwinning te behalen!
+Doelwit veranderd!
+Opmars gestopt!
+Route veranderd!

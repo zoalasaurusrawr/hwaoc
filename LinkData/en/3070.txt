@@ -1,0 +1,116 @@
+Regular Attacks
+Strong Attacks
+Power up a Strong Attack by holding [$0003] when the attack starts and releasing at the end.
+Hold down [$0117] and then release to unleash an extra attack during a combo.
+Hold [$0003] to charge a strong attack. If you're damaged while charging, eat a meal to heal!
+Eat until you can't anymore, and strong attacks will take less time to charge.
+Hold [$0003] until fully charged, and your next strong attack will be extra powerful.
+Use [$0011] to trigger placed Sheikah rune effects.
+Deliver instant strong attacks while Luminescent, but the special-attack gauge drains.
+Enemies surrounded by rings of light take increased damage from Arrows of Light.
+Use king guise to deliver powerful blows, and use hermit guise to unleash quicker strikes.
+Changing guises during a strong attack will trigger an additional strong attack.
+Use strong attacks to create fountains imbued with healing power.
+Water from special or strong attacks will heal nearby allies.
+Press [$0117] after a regular attack to spawn objects like magma pillars or magma ramps.
+Call on the power of magma to make objects, like magma pillars and magma ramps, explode.
+Use [$0011] to land while flying.
+Grab an enemy with [$0117], then press [$0003] to unleash a special attack.
+Tap [$0003] repeatedly after a strong attack to deal damage using your lightning gauge.
+When sparks fly at the end of your [$0003] attack, press [$0011] to charge the lightning gauge.
+Absorb symbols by pressing [$0117]. Each time you do so, duplicates will spawn.
+Absorb all three types of symbols to greatly increase the power of the next special attack.
+Employ boundless optimism at the right time during a strong attack to increase its damage.
+Eat a rock roast to power up certain strong attacks and activate the power of Protection.
+The activated power and correlating enhanced strong attack will change with each use.
+Press [$0003] repeatedly during a strong attack to fire off a series of arrows.
+Continuously rampage with Patricia by holding down [$0011].
+Steer Patricia's rampage with [$0016], and drag more enemies into the fray.
+Press [$0011], and the Koroks who come will fight alongside you for a bit.
+Summon a different Great Fairy depending on the attack used.
+Each Great Fairy has their own unique action.
+Recoil from strong attacks will consume your vigor. If you run out of vigor, you'll faint.
+Press [$0003] to eat a banana and restore some vigor.
+Summon ancient relics with certain strong attacks, then break them to absorb their power.
+Press [$0011] to release ancient power and grow in size.
+After transforming, press [$0003] to fire lasers freely, or press [$0004] to revert to your original form.
+Press [$0011] to absorb the Malice produced by attacks, filling the Malice gauge.
+Do a strong attack, and the attack that follows will be enhanced.
+Perform dodges more easily before receiving major damage.
+Unleash a shock wave when performing a lunge.
+Your Sheikah runes have been strengthened.
+Your Arrow of Light capacity has been increased.
+Boost your attack strength by attacking while switching guises.
+Cause splash damage to nearby enemies when you emerge from a waterfall.
+Summon a magma bomb by pressing [$0118].
+While flying, damage enemies in your wake.
+The length of your lightning gauge has been doubled.
+Dodge with correct timing to perform a mid-dodge attack.
+Resist knock-back from strong attacks by pressing [$0011] at the right time.
+Your power of Protection has been increased.
+Your Strong Attack's finisher has been enhanced.
+Press [$0118] to wreathe yourself in lightning.
+The number of Koroks that appear has been increased.
+Your unique actions activated with [$0011] have been improved.
+Press [$0117] to entice Yiga Clan members to aid you during your banana break.
+Dodge during an attack and leave an exploding duplicate in your place.
+Your maximum charge for laser attacks when transformed has been increased.
+Absorb Malice by pressing [$0004] in Calamity form.
+Unique Action
+Midair Regular Attack
+Midair Strong Attack
+Dashing Regular Attack
+Dashing Strong Attack
+Loose a flurry of arrows.
+Eat Meal
+Lunge at Nearby Enemy
+Trigger placed Sheikah runes.
+Become Luminescent
+Switch between guises.
+Travel to a fountain and leap into the air.
+Cause summoned magma to explode.
+Take flight.
+Fill the lightning gauge.
+Apply a symbol to an enemy in front of you.
+Employ boundless optimism.
+Eat a rock roast.
+Fire Arrow Barrage
+Allow Patricia to rampage.
+Call Korok friends.
+Unleash unique attacks from each fairy.
+Unleash a Big Glowy Blast when at high stress.
+Become massive.
+Transform
+Expend Malice gauge to enter Calamity form.
+Luminescent
+Calamity Form
+Absorb symbols with [$0003] to create duplicates.
+Absorb three symbols to empower your next special attack.
+Strike a pose to power up.
+When powered up, press [$0003] with proper timing during a strong attack to increase damage.
+Fire lasers with [$0011] during regular and strong attacks.
+Hold [$0011] for a charged laser attack.
+Your maximum charge for laser attacks has been increased.
+Strike a Pose
+Fire lasers.
+Unleash a Big Glowy Blast when at high stress.
+Using strong attacks fills the stress gauge. If the gauge fills, you'll throw a brief, pathetic tantrum.
+Eat a banana with [$0117] to temporarily prevent a tantrum.
+Press [$0011] instead of [$0003] to do an attack so powerful, it hurts the user a bit.
+Press [$0117] to eat a meal, which heals self-inflicted damage.
+Press [$0011] instead of [$0003] to perform a powerful attack. Heal by pressing [$0003].
+Fill the gauge by pressing [$0003]. Consume the gauge to heal.
+Close the distance with an enemy by pressing [$0011] to charge forward.
+Allows for quick movement, even in the middle of attacks.
+Press [$0003] in the middle of a strong attack to unleash a flurry of arrows.
+Hold [$0011] to charge up an arrow. The more power you store, the greater the damage.
+Press [$0011] while in Calamity form to freely unleash powerful attacks.
+Press [$0004] in Calamity form to spread Malice, then press [$0011] to absorb it.
+Unleash a powerful blow that hurts the user a bit.
+Boost your strong attack, but take a little damage.
+Unleash a charging thrust toward the enemy.
+Switch between normal and Luminescent forms.
+Charge a powerful arrow.
+Absorb symbols with your strong attacks to spawn duplicates.
+Luminescent
+Calamity Form

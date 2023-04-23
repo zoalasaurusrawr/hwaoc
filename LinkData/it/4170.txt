@@ -1,0 +1,195 @@
+Torna al gioco [$0002]
+Cambia personaggio [$0004]  Torna al gioco [$0002]  Ordini [$0001]
+Muoviti [$0016]  Indietro [$0002]  Ordini [$0001]
+Torna al gioco [$0002]  Conferma [$0001]
+Annulla [$0002]  Seleziona [$0001]
+Annulla [$0002]
+Avanti [$0001]
+Avanti [$0001]
+Metti in ordine [$0004]  Vendi tutto [$0003]  Seleziona [$0001]
+Metti in ordine [$0004]  Conferma [$0003]  Annulla [$0002]  Seleziona [$0001]
+Metti in ordine [$0004]  Avanti [$0001]
+Verifica azione [$0003]
+Torna al gioco [$0002]  Ordini [$0001]
+Metti in ordine [$0004]  Indietro [$0002]  Equipaggia [$0001]
+Indietro [$0002]  Seleziona [$0001]
+Annulla [$0002]  Conferma [$0001]
+Indietro [$0002]  Seleziona [$0001]
+Annulla [$0002]  Conferma [$0001]
+Metti in ordine [$0004]  Indietro [$0002]  Seleziona [$0001]
+Metti in ordine [$0004]  Fondi [$0003]  Indietro [$0002]  Seleziona [$0001]
+Metti in ordine [$0004]  Conferma [$0003]  Indietro [$0002]  Seleziona [$0001]  Casuale [$0015]
+Metti in ordine [$0004]  Rimuovi tutti [$0003]  Indietro [$0002]  Rimuovi uno [$0001]
+Indietro [$0002]  Seleziona [$0001]
+Metti in ordine [$0004]  Vendi tutto [$0003]  Indietro [$0002]  Seleziona [$0001]
+Annulla ricerca [$0003]
+Indietro [$0002]  Cambia mappa [$0015]
+Indietro [$0002]
+Indietro [$0002]  Seleziona [$0001]
+Metti in ordine [$0004]  Indietro [$0002]  Seleziona [$0001]  Ruota [$0015]
+Muovi [$0016]  Zoom [$0017]
+Indietro [$0002]  Cambia personaggio [$0001]
+Metti in ordine [$0004]  Indietro [$0002]
+Metti in ordine [$0004]  Indietro [$0002]  Sintonizza ricerca [$0001]
+[$0012] Salta
+Metti in ordine [$0004]  Indietro [$0002]
+Seleziona [$0001]
+Avanti [$0001]
+Altro consiglio [$0001]
+Inizia battaglia [$0001]
+Dettagli battaglia [$0003]
+Sintonizza per ricerca materiali [$0003]
+Metti in ordine [$0004]  Conferma [$0003]  Annulla [$0002]  Seleziona [$0001]
+Torna al gioco [$0002]  Cambia mappa [$0015]
+Cambia personaggio [$0004]  Torna al gioco [$0002]  Ordini [$0001]  Cambia mappa [$0015]
+Muoviti [$0016]  Indietro [$0002]  Ordini [$0001]  Cambia mappa [$0015]
+Chiudi [$0002]
+Torna al gioco [$0002]  Ordini [$0001]  Cambia mappa [$0015]
+Camerino [$0003]
+Vedi prezzi [$0004]  Indietro [$0002]  Seleziona [$0001]
+Metti in ordine [$0004]  Indietro [$0002]  Seleziona [$0001]
+Indietro [$0002]  Seleziona [$0001]  Cambia visuale [$0015]
+Metti in ordine [$0004]  Indietro [$0002]  Seleziona [$0001]  Ruota [$0015]
+Indietro [$0002]  Seleziona [$0001]
+Cambia immagine personaggio [$0004]  Indietro [$0002]  Nascondi descrizione [$0001]
+Cambia immagine personaggio [$0004]  Indietro [$0002]  Mostra descrizione [$0001]
+Indietro [$0002]  Nascondi descrizione [$0001]
+Indietro [$0002]  Mostra descrizione [$0001]
+Indietro [$0002]  Guarda video [$0001]
+Indietro [$0002]  Narrazione storia [$0001]
+Indietro [$0002]
+Ripristina impostazioni iniziali [$0004]  Indietro [$0002]
+Ruota [$0017]
+Conferma
+Seleziona
+Avanti
+Ordini
+Rimuovi
+Equipaggia
+Sintonizza sensore
+Sintonizza sensore Sheikah
+Sintonizza sensore Sheikah
+Altro consiglio
+Inizia battaglia
+Nascondi descrizione
+Mostra descrizione
+Guarda video
+Narrazione storia
+Attiva
+Scendi in campo
+Teletrasporto
+Aiuta
+Fai rapporto
+Entra
+Indietro
+Torna al gioco
+Annulla
+Chiudi
+Annulla
+Conferma
+Fondi
+Vendi tutto
+Seleziona tutto
+Dettagli battaglia
+Sintonizza sensore
+Sintonizza sensore Sheikah
+Sintonizza sensore Sheikah
+Disattiva sensore
+Disattiva sensore Sheikah
+Rimuovi dal sensore Sheikah
+Conferma azione
+Camerino
+Prova
+Metti in ordine
+Vedi prezzi
+Cambia personaggio
+Cambia abbigliamento
+Ripristina impostazioni iniziali
+Muovi
+Battaglia successiva
+Zoom
+Ruota
+Informazioni arma
+Automatico
+Ruota
+Cambia visuale
+Cambia mappa
+Ingrandisci mappa
+Cambia
+Ingrandisci
+Salta
+Dettagli
+Menu
+Opzioni
+Muoviti
+Schivata
+Attacco normale
+Attacco forte
+Mossa speciale
+Strumenti Sheikah
+Bomba radiocomandata
+Stasys
+Glacyor
+Kalamitron
+Bacchetta
+Cambio
+Parata
+Resetta visuale
+Cambia personaggio
+Sposta visuale
+Aggancia
+Aggancia obiettivo
+Cambia mappa
+Opzioni
+Pausa
+Azione personaggio
+Attacco ravvicinato
+Intercettazione
+Difesa
+Resetta la mira
+Comandi mira
+(Tieni premuto)
+Comandi mira (giocatore 2)
+Attacco normale (giocatore 2)
+Potenzia
+Oggetti portatili
+Cambia oggetto portatile
+Usa oggetto portatile
+Ripristina
+Cambia categoria
+Cambia pagina
+Ottieni
+Potenzia
+Cambia personaggio
+Lingua della console
+Riproduci
+Interrompi
+Modifica sensore
+Modifica sensore Sheikah
+Modifica il sensore Sheikah
+Rimuovi uno
+Rimuovi tutti
+Dettagli ricette
+Vedi personaggio
+Consulta mappa
+Avanzamento automatico
+Avanzamento manuale
+Blocca
+Sblocca
+Partecipa
+Ritirati
+Applica equipaggiamento
+Non applicare equipaggiamento
+Cambia lista
+2 giocatori
+1 giocatore
+Pi dettagli
+Applica colore
+Non applicare colore
+Cambia info
+Riprendi
+Dall'inizio
+Continua
+Da battaglia normale
+Da battaglia del colosso
+Cambia punto di vista

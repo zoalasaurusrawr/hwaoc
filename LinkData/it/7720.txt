@@ -1,0 +1,11 @@
+Restrizione su squadra in campo
+Non appaiono oggetti di ripristino
+Perdi al primo colpo che subisci
+Solo spada
+Solo spadone a due mani
+Solo lancia
+Solo arco della luce
+Con limite di tempo
+Con limite di tempo estendibile
+Vietato portare/estrarre bacchette
+Vietato usare gli oggetti portatili

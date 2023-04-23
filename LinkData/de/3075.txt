@@ -1,0 +1,116 @@
+Normaler Angriff
+Starker Angriff
+Halte [$0003] gedrckt, um den Angriff strker zu machen.
+Halte whrend einer Kombo [$0117] gedrckt, lasse dann los fr einen Zusatzangriff.
+Halte [$0003] gedrckt, um einen starken Angriff aufzuladen. Heile dich falls ntig durch Essen.
+Wenn du satt bist, ldt dein starker Angriff schneller!
+Halte [$0003] bis zur vollen Ladung gedrckt, der nchste starke Angriff wird so noch strker!
+Lse mit [$0011] von dir platzierte Shiekah-Modul-Effekte aus.
+Die erwachte Form leert die Spezialangriffsleiste, aber starke Angriffe lsen sofort aus.
+Gegner, die du mit Lichtkreisen versehen hast, erleiden mehr Schaden durch Lichtpfeile.
+Als Knig fhrst du langsame, gewaltige Hiebe aus, als Einsiedler eine Reihe schneller Schlge.
+ndere dein Aussehen whrend eines starken Angriffs, um einen weiteren auszulsen.
+Starke Angriffe lassen Fontnen entstehen, in denen die Macht der Heilung enthalten ist.
+Aus starken Angriffen oder Spezialangriffen entstandenes Wasser heilt nahe Verbndete.
+Drcke [$0117], um Objekte wie Lavasulen und Sprungplattformen erscheinen zu lassen.
+Entfessle die Kraft der Lava: Objekte wie Lavasulen und Sprungplattformen explodieren!
+Drcke in der Luft [$0011], um zu landen.
+Greife einen Gegner mithilfe von [$0117] und drcke [$0003], um einen Spezialangriff auszufhren.
+Drcke nach einem starken Angriff mehrfach [$0003], um die Spannungsleiste zu entladen.
+Fliegen am Ende des Angriffs mit [$0003] Funken, drcke [$0011], um die Spannungsleiste zu laden.
+Drcke [$0117], um Symbole zu absorbieren, wodurch jeweils Doppelgnger erscheinen.
+Absorbierst du alle drei Symbolarten, wird dein nchster Spezialangriff besonders mchtig.
+Sporne dich im richtigen Moment an, um mehr Schaden zu verursachen.
+Iss Felsenfilet, um die Schirmkraft zu aktivieren und einige starke Angriffe zu verstrken.
+Die Art der Kraft und der verstrkte starke Angriff ndern sich jedes Mal.
+Zeige Kriegerstolz und drcke bei einem starken Angriff mehrfach [$0003] fr einen Pfeilhagel.
+Patrizia setzt ihre Raserei fort, whrend du [$0011] gedrckt hltst.
+ndere die Richtung von Patrizias Raserei mithilfe von [$0016], um Gegner einzufangen.
+Krogs, die mit [$0011] zu dir kommen, stehen dir eine Zeit lang im Kampf bei.
+Welche Groe Fee erscheint, hngt vom Angriff ab.
+Jede Groe Fee beherrscht eine anderen Charakter-Aktion.
+Der Rcksto starker Angriffe reduziert Lebenskraft. Ohne sie wirst du bewegungsunfhig.
+Iss mithilfe von [$0003] eine Banane, um deine Lebenskraft etwas aufzufrischen.
+Absorbiere antike Energie von mit starken Angriffen herbeigerufenen Relikten.
+Setze durch Drcken von [$0011] antike Energie frei, um zum Riesen zu werden.
+Verwandelt kannst du mit [$0003] Energiestrahlen feuern und dich mit [$0004] zurckverwandeln.
+Absorbiere durch Angriffe verbreiteten Zorn mithilfe von [$0011], um die Zornleiste zu fllen.
+Folgeangriff nach einem starken Angriff wird verstrkt.
+Erleichtert das Ausweichen, bevor du schweren Schaden erleidest.
+Lst eine Schockwelle aus, wenn du einen Ausfallschritt ausfhrst.
+Die Wirkung von Shiekah-Modulen ist strker.
+Ermglicht dir, mehr Lichtpfeile abzuschieen.
+Deine Angriffe werden strker, wenn du angreifst, whrend du dein Aussehen nderst.
+Erzeuge beim Fontnensprung einen Wassertmpel, der Gegnern schadet.
+Erzeuge mithilfe von [$0118] einen Lavabrocken.
+Fge in der Luft deinen Gegnern Schaden zu, indem du sie von Wind umtosen lsst.
+Verdopple die Lnge deiner Spannungsleiste.
+Weiche im richtigen Moment aus, um einen Gegenangriff auszufhren.
+Drcke nach einem starken Angriff rechtzeitig [$0011], damit der Gegner dich nicht umhaut.
+Die Schirmkraft ist verstrkt.
+Der Abschluss starker Angriffe ist strker.
+Drcke [$0118], um dich in Blitze zu hllen.
+Mehr Krogs erscheinen.
+Mit [$0011] ausgelste besondere Angriffe sind strker.
+Whrend du durch Drcken von [$0117] Bananen isst, kmpfen deine Schergen fr dich.
+Weiche whrend eines Angriffs aus, um einen explodierenden Doppelgnger zu hinterlassen.
+Erhalte zustzliche Ladung fr Energiestrahlen, whrend du verwandelt bist.
+Erhalte die Fhigkeit, auch in der Verheerungsgestalt mithilfe von [$0004] Zorn zu absorbieren.
+Charakter-Aktion
+Normaler Angriff (Luft)
+Starker Angriff (Luft)
+Normaler Angriff (Sprint)
+Starker Angriff (Sprint)
+Bogen bereit machen/schieen
+Mahlzeit verspeisen
+Mit Ausfallschritt auf Gegner in der Nhe strzen
+Platzierte Shiekah-Modul-Effekte auslsen
+In die erwachte Form wechseln
+Aussehen ndern
+Zu einer Fontne teleportieren und in die Luft springen
+Die Macht erschaffener Lava entfesseln
+In die Luft schwingen
+Die Spannungsleiste fllen
+Den Gegner vor dir mit einem Symbol versehen
+Anspornen
+Felsenfilet essen
+Kriegerstolz zeigen
+Patrizias Raserei
+Krogs herbeirufen
+Charakter-Aktionen aller Groen Feen entfesseln
+Bei hohem Stress einen Lichtstrahl erzeugen
+Zum Riesen werden
+Verwandlung
+Zornleiste leeren und zur Verheerungsgestalt wechseln
+Erwachte Form
+Verheerungsgestalt
+Absorbiere Symbole mithilfe von [$0003] und lasse Doppelgnger erscheinen.
+Absorbiere drei Symbole, um deinen nchsten Spezialangriff zu verstrken.
+Nimm deine charakteristische Pose ein, um strker zu werden.
+Bist du gestrkt, drcke whrend eines starken Angriffs rechtzeitig [$0003] fr Extra-Schaden.
+Mithilfe von [$0011] kannst du bei normalen und starken Angriffen Energiestrahlen schieen.
+Halte [$0011] gedrckt, um einen besonders mchtigen Energiestrahlenangriff auszufhren.
+Zustzliche Ladung fr Energiestrahlenangriffe.
+Pose einnehmen
+Energiestrahlenangriff
+Bei hohem Stress einen Lichtstrahl erzeugen
+Der Rcksto starker Angriffe fllt die Stressleiste. Ist sie voll, wirst du bewegungsunfhig.
+Iss mithilfe von [$0117] eine Banane, um nicht bewegungsunfhig zu werden.
+Drcke [$0011] fr einen Verzweiflungsangriff anstelle von [$0003] fr einen starken Angriff.
+Drcke [$0117], um etwas zu essen und selbst zugefgten Schaden zu heilen.
+Drcke [$0011] (statt [$0003]) fr einen extrem starken Angriff. Heile als Ausgleich mit [$0003].
+Flle die Sttigungsleiste mit [$0003]. Leere die Leiste als Ausgleich fr Herzen.
+Drcke [$0011], um die Distanz zum Gegner mit einem Ausfallschritt zu berwinden.
+Auch mitten in einem Angriff kannst du blitzschnell zustoen.
+Drcke [$0003] mehrfach whrend eines starken Angriffs, um einen Pfeilhagel abzuschieen.
+Je mehr Kraft du sammelst, indem du [$0011] gedrckt hltst, desto durchschlagender der Pfeil.
+Drcke in der Verheerungsgestalt [$0011], um nach Belieben mchtige Angriffe zu entfesseln.
+Verbreite in der Verheerungsgestalt Zorn mithilfe von [$0004] und absorbiere ihn mithilfe von [$0011].
+Fhre einen Verzweiflungsangriff aus.
+Herzen opfern und sehr starken Angriff ausfhren
+Mit einem Ausfallschritt auf den Gegner strzen
+Zwischen normaler/erwachter Form wechseln
+Einen Pfeil mit durchschlagender Wirkung abschieen
+Fr jedes mit einem starken Angriff absorbierte Symbol erscheinen Doppelgnger.
+Erwachte Form
+Verheerungsgestalt

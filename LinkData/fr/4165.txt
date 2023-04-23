@@ -1,0 +1,196 @@
+Retour au jeu [$0002]
+Changer de personnage [$0004]  Retour au jeu [$0002]  Ordre [$0001]
+Dplacement [$0016]  Retour [$0002]  Ordre [$0001]
+Retour au jeu [$0002]  Confirmer [$0001]
+Annuler [$0002]  Slectionner [$0001]
+Annuler [$0002]
+Suite [$0001]
+Suite [$0001]
+Rorganiser [$0004]  Tout vendre [$0003]  Slectionner [$0001]
+Rorganiser [$0004]  Confirmer [$0003]  Annuler [$0002]  Slectionner [$0001]
+Rorganiser [$0004]  Suite [$0001]
+Confirmer l'action [$0003]
+Retour au jeu [$0002]  Ordre [$0001]
+Rorganiser [$0004]  Retour [$0002]  quiper [$0001]
+Retour [$0002]  Slectionner [$0001]
+Annuler [$0002]  Confirmer [$0001]
+Retour [$0002]  Slectionner [$0001]
+Annuler [$0002]  Confirmer [$0001]
+Rorganiser [$0004]  Retour [$0002]  Slectionner [$0001]
+Rorganiser [$0004]  Fusionner [$0003]  Retour [$0002]  Slectionner [$0001]
+Rorganiser [$0004]  Confirmer [$0003]  Retour [$0002]  Slectionner [$0001]  Automatique [$0015]
+Rorganiser [$0004]  Les retirer tous [$0003]  Retour [$0002]  En retirer un [$0001]
+Retour [$0002]  Slectionner [$0001]
+Rorganiser [$0004]  Tout vendre [$0003]  Retour [$0002]  Slectionner [$0001]
+Annuler la recherche [$0003]
+Retour [$0002]  Changer de niveau [$0015]
+Retour [$0002]
+Retour [$0002]  Slectionner [$0001]
+Rorganiser [$0004]  Retour [$0002]  Slectionner [$0001]  Faire pivoter [$0015]
+Dplacement [$0016]  Zoom [$0017]
+Retour [$0002]  Changer de personnage [$0001]
+Rorganiser [$0004]  Retour [$0002]
+Rorganiser [$0004]  Retour [$0002]  Rechercher [$0001]
+[$0012] Passer
+Rorganiser [$0004]  Retour [$0002]
+Slectionner [$0001]
+Suite [$0001]
+Suite [$0001]
+Commencer la bataille [$0001]
+Informations sur la bataille [$0003]
+Rechercher le matriau [$0003]
+Rorganiser [$0004]  Confirmer [$0003]  Annuler [$0002]  Slectionner [$0001]
+Retour au jeu [$0002]  Changer de niveau [$0015]
+Changer de personnage [$0004]  Retour au jeu [$0002]  Ordre [$0001]  Changer de niveau [$0015]
+Dplacement [$0016]  Retour [$0002]  Ordre [$0001]  Changer de niveau [$0015]
+Fermer [$0002]
+Retour au jeu [$0002]  Ordre [$0001]  Changer de niveau [$0015]
+Vestiaire [$0003]
+Voir la liste des prix [$0004]  Retour [$0002]  Slectionner [$0001]
+Rorganiser [$0004]  Retour [$0002]  Slectionner [$0001]
+Retour [$0002]  Slectionner [$0001]  Changer de camra [$0015]
+Rorganiser [$0004]  Retour [$0002]  Slectionner [$0001]  Faire pivoter [$0015]
+Retour [$0002]  Slectionner [$0001]
+Changer d'illustration [$0004]  Retour [$0002]  Masquer la description [$0001]
+Changer d'illustration [$0004]  Retour [$0002]  Afficher la description [$0001]
+Retour [$0002]  Masquer la description [$0001]
+Retour [$0002]  Afficher la description [$0001]
+Retour [$0002]  Voir la cinmatique [$0001]
+Retour [$0002]  couter la narration [$0001]
+Retour [$0002]
+Rinitialiser [$0004]  Retour [$0002]
+Faire pivoter [$0017]
+Confirmer
+Slectionner
+Suite
+Instruction
+Retirer
+quiper
+Activer le dtecteur sheikah
+Activer le dtecteur sheikah
+Rechercher avec le dtecteur sheikah
+Suite
+Commencer la bataille
+Masquer la description
+Afficher la description
+Voir la cinmatique
+couter la narration
+Actionner
+Se mettre en route
+Se tlporter
+Aider
+Rapport
+Entrer
+Retour
+Retour au jeu
+Annuler
+Fermer
+Annuler
+Confirmer
+Fusionner
+Tout vendre
+Tout slectionner
+Informations sur la bataille
+Activer le dtecteur sheikah
+Activer le dtecteur sheikah
+Rechercher avec le dtecteur sheikah
+Dsactiver le dtecteur sheikah
+Dsactiver le dtecteur sheikah
+Arrter la dtection
+Confirmer l'action
+Vestiaire
+Essayer
+Rorganiser
+Liste des prix
+Changer de personnage
+Changer de tenue
+Rinitialiser
+Dplacement
+Bataille suivante
+Zoom
+Faire pivoter
+Informations sur l'arme
+Automatique
+Observer le personnage
+Changer de vue
+Changer la carte
+Zoom sur la carte
+Changer
+Zoom
+Passer
+Dtails
+Menu
+Options
+Se dplacer
+Esquiver
+Attaque standard
+Attaque forte
+Coup fatal
+Modules sheikahs
+Bombes  distance
+Cinetis
+Cryonis
+Polaris
+Baguettes
+Se dplacer
+Se protger
+Rinitialiser la camra
+Changer de perso
+Orienter la camra
+Verrouiller
+Cibler un ennemi
+Changer la carte
+Options
+Pause
+Action spcifique
+Attaque  courte porte
+Intercepter
+Dfendre
+Rinitialiser la vise
+Commandes de vise
+(maintenir)
+Commandes de vise (J2)
+Attaque standard (J2)
+Renforcer
+Objets
+Changer d'objet
+Utiliser l'objet transport
+Se rgnrer
+Utiliser
+Changer de catgorie
+Changer de page
+Rcuprer
+Renforcer
+Changer de personnage
+Langue de la console
+Lecture
+Arrt
+Modifier la dtection
+Modifier la dtection
+Modifier la dtection
+En retirer un
+Tout retirer
+Dtail de la recette
+Voir le personnage
+Consulter la carte 
+Lecture automatique 
+Lecture manuelle 
+Verrouiller 
+Dverrouiller 
+Participer 
+Se retirer 
+Adopter l'quipement 
+Ne pas adopter l'quipement 
+Changer de liste 
+Jouer  deux
+Jouer en solo
+Plus d'infos
+Appliquer le choix de couleur
+Ne pas appliquer le choix de couleur
+Changer l'affichage
+Reprendre
+Depuis le dbut
+Continuer
+Bataille normale
+Bataille en crature divine
+Changer de point de vue

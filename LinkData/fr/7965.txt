@@ -1,0 +1,38 @@
+Nombre total d'ennemis vaincus
+Ennemis vaincus en batailles normales
+Ennemis vaincus en batailles de cratures divines
+Temps de jeu
+Taux d'exploration de la carte
+Distance parcourue  pied
+Distance parcourue en planant
+Coups spciaux utiliss
+Coups point faible utiliss
+Changements de personnage
+Instructions donnes aux personnages
+Contres avec des modules sheikahs
+Attaques aux points faibles des ennemis puissants
+Esquives optimales russies
+Gardes optimales russies
+Sauts muraux effectus
+Prises d'avant-postes
+Destructions d'avant-postes bokoblins
+Tonneaux explosifs dtruits
+Ennemis brls avec une baguette
+Ennemis gels avec une baguette
+Ennemis foudroys avec une baguette
+Surface d'herbe coupe
+Surface d'herbe brle
+Points d'eau gels avec une baguette
+Points d'eau lectrifis avec une baguette
+Objets mtalliques lectrifis avec une baguette
+Utilisations des modules sheikahs
+Utilisations de baguettes
+Pommes manges
+Pommes grilles
+Plats mangs
+Coffres ouverts
+Rubis ramasss
+Rubis dpenss dans des achats
+Fusions d'armes effectues
+Temps pass dans les sources chaudes
+Arbres abattus
