@@ -31,8 +31,10 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 - 4105: Material type text
 - 4345: Mission descriptions
 - 4360: Mission names
+- 4370: Attire
 - 4375: Character/NPC Names (Singular and Pluralized)
 - 4490: Dye shop color names
+- 4755: Attire
 - 5645: Mission Dialogue
 - 7775: Character/NPC action descriptions
 - 7795: Location names

@@ -1,0 +1,145 @@
+Hylian Hood
+A hood woven using traditional Hyrulean methods.
+It's made from a sturdy material to protect travelers
+from the harsh sun and weather.
+Stealth Mask
+It may look like a regular cloth mask, but it was made
+using Sheikah crafting techniques to suppress the
+noisy rustling of clothes. Perfect for sneaking about.
+Soldier's Helm
+Headgear made from sturdy metals for frontline
+soldiers. These helmets look like they could take
+a serious beating.
+Snowquill Headdress
+A Rito accessory made from snow-bird feathers.
+It's adorned with a ruby, a gem that harnesses the
+power of fire to make cold climates more tolerable.
+Gerudo Veil
+A mask worn by Gerudo women. It protects the skin
+from the harsh sun, but don't expect it to protect much
+in combat...
+Desert Voe Headband
+Gerudo-made armor for males sold rarely by Gerudo
+retailers. It contains sapphire, a gem that harnesses
+the power of ice to make the heat more bearable.
+Radiant Mask
+A special mask for members of the Gerudo Secret Club.
+Painted with dye made from crushed luminous stones,
+it gives off a lurid, mysterious glow in the dark.
+Flamebreaker Helm
+Stone headgear made by Goron craftsmen to protect
+tourists visiting Goron City. As if its flame resistance isn't
+enough of a selling point, it also covers your entire head!
+Zora Helm
+Zora headgear made from dragon scales. It aids
+the wearer's movement in water???swimmers
+favor it for the supposed boost it provides.
+Ancient Helm
+This headgear is the result of Robbie's research.
+Its design heavily incorporates parts taken from
+ancient Guardians.
+Climber's Bandanna
+It may look like a regular bandanna, but it's actually infused
+with ancient technology that enhances core strength.
+This bandanna is coveted by mountain climbers.
+Rubber Helm
+A helmet made from ancient techniques. It's crafted
+from a something called "rubber," a material that
+can no longer be found.
+Barbarian Helm
+A helmet once worn by the warriors of an
+ancient warlike tribe from the Faron region.
+Wearing it draws out your inner animal.
+Cap of the Wild
+According to legend, this cap was crafted for a
+hero who travels the wild lands. Wearing it just
+feels so right.
+Dark Hood
+This headgear is the product of Skull Lake merchant's
+research. It was crafted with a monster born from the
+shadows in mind. The eyes glow an eerie red in the dark.
+Hyrule Warrior's Cap
+A cap said to have been a prized possession of
+many heroes across many worlds. For some reason,
+it fits perfectly.
+Thunder Helm
+A precious heirloom passed down among the Gerudo.
+It deflects lightning strikes and is traditionally worn only
+by the Gerudo chief.
+Bokoblin Mask
+The Skull Lake merchant's handmade Bokoblin headgear.
+It's almost charming in a cute, monstrous kind of way...
+Equip it to be one step closer to a true Bokoblin.
+Moblin Mask
+The Skull Lake merchant's handmade Moblin headgear.
+It's designed to replicate the Moblin's distinct long nose
+and large horn. It is quite realistic...
+Lizalfos Mask
+The Skull Lake merchant's handmade Lizalfos headgear.
+It's designed to replicate the unique tongue and horn
+of the Lizalfos. Equip it and live as a Lizalfos for a while.
+Lynel Mask
+The Skull Lake merchant's handmade Lynel headgear.
+It's almost as intimidating as the real thing. Wear it and
+pretend to be a proud Lynel, free to roam the world.
+Amber Earrings
+One of the items sold by the Gerudo jeweler. These earrings
+are made with amber, a gem that harnesses the power of
+the land and shines a honey-colored light in the sun.
+Opal Earrings
+Earrings sold at Gerudo jewelry shops. They contain opal,
+a gem that harnesses the power of water and casts a
+cool, elegant incandescence when held up to a light.
+Topaz Earrings
+Earrings made by Gerudo craft workers. They're made
+with topaz, a gem that harnesses the power of lightning
+and gives the earrings a distinctive flash.
+Ruby Circlet
+A headpiece made by Gerudo craft workers. It's set with
+a ruby, a gem that harnesses the power of fire. Such
+headpieces always catch the eye of astute fashionistas.
+Sapphire Circlet
+An intricate headpiece crafted with Gerudo goldsmith
+techniques. It's set with a sapphire, a gem that harnesses
+the power of ice to give the wearer a truly cool charm.
+Diamond Circlet
+A luxurious headpiece sold at Gerudo jewelry shops.
+It's decorated with a diamond and immediately
+captivates many who look upon it.
+Royal Guard Cap
+This spiffy cap is part of the uniform for Hyrule's Royal
+Guard. Its elegant ornamentation mirrors the crest.
+It's lighter than it appears and is easy to move about in.
+Prototype Ancient Helm
+This headgear is the result of Robbie's research. The
+use of Guardian parts makes it highly durable. It has
+potential, but there's still much room for improvement.
+Zelda's Ceremonial Robes
+Priestess robes of pure white that the princess of Hyrule
+wears during her spiritual training. This decorative vestment
+reflects some of the finest craftsmanship in Hyrule.
+Zelda's Royal Attire
+Formal attire of the royal family, this is often worn during
+public events or ceremonies in the castle. The gold trimmings
+stand out against the symbolic brilliant blue of the royal family.
+Zelda's Winter Clothes
+Clothing perfect for fighting the cold in the chilly
+regions of Hyrule. The coat is primarily a wintry
+white, except for the lining and ornament on the
+chest, which are the brilliant blue of the royal family.
+Mipha's Champion Garb
+A special garment given to each of the Champions.
+Crafted by Princess Zelda, she shared this item along
+with a prayer for the Champion's safety and success.
+Daruk's Champion Garb
+A special garment given to each of the Champions.
+Crafted by Princess Zelda, she shared this item along
+with a prayer for the Champion's safety and success.
+Revali's Champion Garb
+A special garment given to each of the Champions.
+Crafted by Princess Zelda, she shared this item along
+with a prayer for the Champion's safety and success.
+Urbosa's Champion Garb
+A special garment given to each of the Champions.
+Crafted by Princess Zelda, she shared this item along
+with a prayer for the Champion's safety and success.
