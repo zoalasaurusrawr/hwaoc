@@ -24,8 +24,11 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 - 3070: Attack descriptions
 - 3840: Attire
 - 4105: Material type text
+- 4345: Mission descriptions
 - 4360: Mission names
-- 7795: Map names
+- 4375: Character/NPC Names (Singular and Pluralized)
+- 4490: Dye shop color names
+- 7795: Location names
 - 7965: Mission stats text
 - 8090: Items
 
@@ -54,7 +57,7 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 - 4150: Attack descriptions
 - 4225: Game Text
 - 8010: HUD text
-- 4260: food names
+- 4260: Food names
 - 4470: Location Names
 - 4475: Location Names
 - 8110: Game Text

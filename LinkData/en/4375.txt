@@ -1,21 +1,92 @@
-[cs][es]1_1_1______Link[cm][es]5_5_1______Links[ce]
-[cs][es]1_1_1______Zelda[cm][es]5_5_1______Zeldas[ce]
-[cs][es]1_1_1______King Rhoam[cm][es]5_5_1______King Rhoams[ce]
-[cs][es]1_1_1______Mipha[cm][es]5_5_1______Miphas[ce]
-[cs][es]1_1_1______Daruk[cm][es]5_5_1______Daruks[ce]
-[cs][es]1_1_1______Revali[cm][es]5_5_1______Revalis[ce]
-[cs][es]1_1_1______Urbosa[cm][es]5_5_1______Urbosas[ce]
-[cs][es]1_1_1______Impa[cm][es]5_5_1______Impas[ce]
-[cs][es]1_1_1______Sidon[cm][es]5_5_1______Sidons[ce]
-[cs][es]1_1_1______Yunobo[cm][es]5_5_1______Yunobos[ce]
-[cs][es]1_1_1______Teba[cm][es]5_5_1______Tebas[ce]
-[cs][es]1_1_1______Riju[cm][es]5_5_1______Rijus[ce]
-[cs][es]1_1_1______Hestu[cm][es]5_5_1______Hestus[ce]
-[cs][es]5_5_1______Great Fairies[cm][es]5_5_1______Great Fairies[ce]
-[cs][es]1_1_1______Master Kohga[cm][es]5_5_1______Master Kohgas[ce]
-[cs][es]1_1_1______Monk Maz Koshia[cm][es]5_5_1______Monk Maz Koshias[ce]
-[cs][es]1_1_1______Terrako[cm][es]5_5_1______Terrakos[ce]
-[cs][es]1_1_1______Calamity Ganon[cm][es]5_5_1______Calamity Ganons[ce]
+Singular: Link
+Plural: Links
+
+Singular: Zelda
+Plural: Zeldas
+
+Singular: King Rhoam
+Plural: King Rhoams
+
+Singular: Mipha
+Plural: Miphas
+
+Singular: Daruk
+Plural: Daruks
+
+Singular: Revali
+Plural: Revalis
+
+Singular: Urbosa
+Plural: Urbosas
+
+Singular: Impa
+Plural: Impas
+
+Singular: Sidon
+Plural: Sidons
+
+Singular: Yunobo
+Plural: Yunobos
+
+Singular: Teba
+Plural: Tebas
+
+Singular: Riju
+Plural: Rijus
+
+Singular: Hestu
+Plural: Hestus
+
+Singular: Great Fairies
+Plural: Great Fairies
+
+Singular: Master Kohga
+Plural: Master Kohgas
+
+Singular: Monk Maz Koshia
+Plural: Monk Maz Koshias
+
+Singular: Terrako
+Plural: Terrakos
+
+Singular: Calamity Ganon
+Plural: Calamity Ganons
+
+Singular: Purah
+Plural: Purahs
+
+Singular: Robbie
+Plural: Robbies
+
+Singular: Astor
+Plural: Astors
+
+Singular: Sooga
+Plural: Soogas
+
+Singular: Cotera
+Plural: Coteras
+
+Singular: Kaysa
+Plural: Kaysas
+
+Singular: Mija
+Plural: Mijas
+
+Singular: Tera
+Plural: Teras
+
+Singular: Divine Beast Vah Ruta
+Plural: Divine Beast Vah Rutas
+
+Singular: Divine Beast Vah Rudania
+Plural: Divine Beast Vah Rudanias
+
+Singular: Divine Beast Vah Medoh
+Plural: Divine Beast Vah Medohs
+
+Singular: Divine Beast Vah Naboris
+Plural: Divine Beast Vah Naborises
 
 
 
@@ -23,149 +94,302 @@
 
 
 
+Singular: Hylian
+Plural: Hylians
 
+Singular: Hylian Soldier
+Plural: Hylian Soldiers
 
+Singular: Zora
+Plural: Zora
 
+Singular: Zora Soldier
+Plural: Zora Soldiers
 
-[cs][es]1_1_1______Purah[cm][es]5_5_1______Purahs[ce]
-[cs][es]1_1_1______Robbie[cm][es]5_5_1______Robbies[ce]
-[cs][es]1_1_1______Astor[cm][es]5_5_1______Astors[ce]
-[cs][es]1_1_1______Sooga[cm][es]5_5_1______Soogas[ce]
-[cs][es]1_1_1______Cotera[cm][es]5_5_1______Coteras[ce]
-[cs][es]1_1_1______Kaysa[cm][es]5_5_1______Kaysas[ce]
-[cs][es]1_1_1______Mija[cm][es]5_5_1______Mijas[ce]
-[cs][es]1_1_1______Tera[cm][es]5_5_1______Teras[ce]
+Singular: Goron
+Plural: Gorons
 
+Singular: Goron Soldier
+Plural: Goron Soldiers
 
-[cs][es]1_1_1______Divine Beast Vah Ruta[cm][es]5_5_1______Divine Beast Vah Rutas[ce]
-[cs][es]1_1_1______Divine Beast Vah Rudania[cm][es]5_5_1______Divine Beast Vah Rudanias[ce]
-[cs][es]1_1_1______Divine Beast Vah Medoh[cm][es]5_5_1______Divine Beast Vah Medohs[ce]
-[cs][es]1_1_1______Divine Beast Vah Naboris[cm][es]5_5_1______Divine Beast Vah Naborises[ce]
+Singular: Rito
+Plural: Rito
 
+Singular: Rito Soldier
+Plural: Rito Soldiers
 
+Singular: Gerudo
+Plural: Gerudo
 
+Singular: Gerudo Soldier
+Plural: Gerudo Soldiers
 
+Singular: Chuchu
+Plural: Chuchus
 
+Singular: Fire Chuchu
+Plural: Fire Chuchus
 
-[cs][es]2_5_1______Hylian[cm][es]1_5_1______Hylians[ce]
-[cs][es]2_5_1______Hylian Soldier[cm][es]1_5_1______Hylian Soldiers[ce]
-[cs][es]2_5_1______Zora[cm][es]1_5_1______Zora[ce]
-[cs][es]2_5_1______Zora Soldier[cm][es]1_5_1______Zora Soldiers[ce]
-[cs][es]2_5_1______Goron[cm][es]1_5_1______Gorons[ce]
-[cs][es]2_5_1______Goron Soldier[cm][es]1_5_1______Goron Soldiers[ce]
-[cs][es]2_5_1______Rito[cm][es]1_5_1______Rito[ce]
-[cs][es]2_5_1______Rito Soldier[cm][es]1_5_1______Rito Soldiers[ce]
-[cs][es]2_5_1______Gerudo[cm][es]1_5_1______Gerudo[ce]
-[cs][es]2_5_1______Gerudo Soldier[cm][es]1_5_1______Gerudo Soldiers[ce]
-[cs][es]2_5_1______Chuchu[cm][es]1_5_1______Chuchus[ce]
-[cs][es]2_5_1______Fire Chuchu[cm][es]1_5_1______Fire Chuchus[ce]
-[cs][es]3_5_1______Ice Chuchu[cm][es]1_5_1______Ice Chuchus[ce]
-[cs][es]3_5_1______Electric Chuchu[cm][es]1_5_1______Electric Chuchus[ce]
-[cs][es]2_5_1______Keese[cm][es]1_5_1______Keese[ce]
-[cs][es]2_5_1______Fire Keese[cm][es]1_5_1______Fire Keese[ce]
-[cs][es]3_5_1______Ice Keese[cm][es]1_5_1______Ice Keese[ce]
-[cs][es]3_5_1______Electric Keese[cm][es]1_5_1______Electric Keese[ce]
-[cs][es]2_5_1______Water Octorok[cm][es]1_5_1______Water Octoroks[ce]
-[cs][es]2_5_1______Forest Octorok[cm][es]1_5_1______Forest Octoroks[ce]
-[cs][es]2_5_1______Rock Octorok[cm][es]1_5_1______Rock Octoroks[ce]
-[cs][es]2_5_1______Snow Octorok[cm][es]1_5_1______Snow Octoroks[ce]
-[cs][es]2_5_1______Treasure Octorok[cm][es]1_5_1______Treasure Octoroks[ce]
-[cs][es]2_5_1______Bokoblin[cm][es]1_5_1______Bokoblins[ce]
-[cs][es]2_5_1______Blue Bokoblin[cm][es]1_5_1______Blue Bokoblins[ce]
-[cs][es]2_5_1______Black Bokoblin[cm][es]1_5_1______Black Bokoblins[ce]
-[cs][es]2_5_1______Stalkoblin[cm][es]1_5_1______Stalkoblins[ce]
-[cs][es]2_5_1______Silver Bokoblin[cm][es]1_5_1______Silver Bokoblins[ce]
-[cs][es]2_5_1______Lizalfos[cm][es]1_5_1______Lizalfos[ce]
-[cs][es]2_5_1______Blue Lizalfos[cm][es]1_5_1______Blue Lizalfos[ce]
-[cs][es]2_5_1______Black Lizalfos[cm][es]1_5_1______Black Lizalfos[ce]
-[cs][es]2_5_1______Stalizalfos[cm][es]1_5_1______Stalizalfos[ce]
-[cs][es]2_5_1______Fire-Breath Lizalfos[cm][es]1_5_1______Fire-Breath Lizalfos[ce]
-[cs][es]3_5_1______Ice-Breath Lizalfos[cm][es]1_5_1______Ice-Breath Lizalfos[ce]
-[cs][es]3_5_1______Electric Lizalfos[cm][es]1_5_1______Electric Lizalfos[ce]
-[cs][es]2_5_1______Silver Lizalfos[cm][es]1_5_1______Silver Lizalfos[ce]
-[cs][es]2_5_1______Yiga Footsoldier[cm][es]1_5_1______Yiga Footsoldiers[ce]
-[cs][es]2_5_1______Guardian Scout I[cm][es]1_5_1______Guardian Scouts I[ce]
-[cs][es]2_5_1______Guardian Scout II[cm][es]1_5_1______Guardian Scouts II[ce]
-[cs][es]2_5_1______Guardian Scout III[cm][es]1_5_1______Guardian Scouts III[ce]
-[cs][es]2_5_1______Guardian Scout IV[cm][es]1_5_1______Guardian Scouts IV[ce]
-[cs][es]2_5_1______Stone Pebblit[cm][es]1_5_1______Stone Pebblits[ce]
-[cs][es]3_5_1______Igneo Pebblit[cm][es]1_5_1______Igneo Pebblits[ce]
-[cs][es]2_5_1______Frost Pebblit[cm][es]1_5_1______Frost Pebblits[ce]
-[cs][es]2_5_1______Cursed Bokoblin[cm][es]1_5_1______Cursed Bokoblins[ce]
-[cs][es]2_5_1______Cursed Moblin[cm][es]1_5_1______Cursed Moblins[ce]
-[cs][es]2_5_1______Cursed Lizalfos[cm][es]1_5_1______Cursed Lizalfos[ce]
+Singular: Ice Chuchu
+Plural: Ice Chuchus
 
+Singular: Electric Chuchu
+Plural: Electric Chuchus
 
+Singular: Keese
+Plural: Keese
 
-[cs][es]3_5_1______Eye of Malice[cm][es]1_5_1______Eyes of Malice[ce]
+Singular: Fire Keese
+Plural: Fire Keese
 
+Singular: Ice Keese
+Plural: Ice Keese
 
+Singular: Electric Keese
+Plural: Electric Keese
 
+Singular: Water Octorok
+Plural: Water Octoroks
 
+Singular: Forest Octorok
+Plural: Forest Octoroks
 
+Singular: Rock Octorok
+Plural: Rock Octoroks
 
+Singular: Snow Octorok
+Plural: Snow Octoroks
 
+Singular: Treasure Octorok
+Plural: Treasure Octoroks
 
+Singular: Bokoblin
+Plural: Bokoblins
 
+Singular: Blue Bokoblin
+Plural: Blue Bokoblins
 
+Singular: Black Bokoblin
+Plural: Black Bokoblins
 
+Singular: Stalkoblin
+Plural: Stalkoblins
 
+Singular: Silver Bokoblin
+Plural: Silver Bokoblins
 
+Singular: Lizalfos
+Plural: Lizalfos
 
+Singular: Blue Lizalfos
+Plural: Blue Lizalfos
 
+Singular: Black Lizalfos
+Plural: Black Lizalfos
 
+Singular: Stalizalfos
+Plural: Stalizalfos
 
+Singular: Fire-Breath Lizalfos
+Plural: Fire-Breath Lizalfos
 
+Singular: Ice-Breath Lizalfos
+Plural: Ice-Breath Lizalfos
 
-[cs][es]2_5_1______Hylian Captain[cm][es]1_5_1______Hylian Captains[ce]
-[cs][es]2_5_1______Zora Captain[cm][es]1_5_1______Zora Captains[ce]
-[cs][es]2_5_1______Goron Captain[cm][es]1_5_1______Goron Captains[ce]
-[cs][es]2_5_1______Rito Captain[cm][es]1_5_1______Rito Captains[ce]
-[cs][es]2_5_1______Gerudo Captain[cm][es]1_5_1______Gerudo Captains[ce]
-[cs][es]2_5_1______Moblin[cm][es]1_5_1______Moblins[ce]
-[cs][es]2_5_1______Blue Moblin[cm][es]1_5_1______Blue Moblins[ce]
-[cs][es]2_5_1______Black Moblin[cm][es]1_5_1______Black Moblins[ce]
-[cs][es]2_5_1______Stalmoblin[cm][es]1_5_1______Stalmoblins[ce]
-[cs][es]2_5_1______Silver Moblin[cm][es]1_5_1______Silver Moblins[ce]
-[cs][es]2_5_1______Guardian[cm][es]1_5_1______Guardians[ce]
-[cs][es]2_5_1______Guardian[cm][es]1_5_1______Guardians[ce]
-[cs][es]2_5_1______Guardian[cm][es]1_5_1______Guardians[ce]
-[cs][es]2_5_1______Sentry[cm][es]1_5_1______Sentries[ce]
-[cs][es]3_5_1______Unearthed Guardian[cm][es]1_5_1______Unearthed Guardians[ce]
-[cs][es]2_5_1______Yiga Blademaster[cm][es]1_5_1______Yiga Blademasters[ce]
-[cs][es]2_5_1______Fire Wizzrobe[cm][es]1_5_1______Fire Wizzrobes[ce]
-[cs][es]3_5_1______Ice Wizzrobe[cm][es]1_5_1______Ice Wizzrobes[ce]
-[cs][es]3_5_1______Electric Wizzrobe[cm][es]1_5_1______Electric Wizzrobes[ce]
-[cs][es]2_5_1______Meteo Wizzrobe[cm][es]1_5_1______Meteo Wizzrobes[ce]
-[cs][es]2_5_1______Blizzrobe[cm][es]1_5_1______Blizzrobes[ce]
-[cs][es]2_5_1______Thunder Wizzrobe[cm][es]1_5_1______Thunder Wizzrobes[ce]
-[cs][es]1_1_1______Harbinger Ganon[cm][es]5_5_1______Harbinger Ganons[ce]
-[cs][es]2_5_1______Lynel[cm][es]1_5_1______Lynels[ce]
-[cs][es]2_5_1______Blue-Maned Lynel[cm][es]1_5_1______Blue-Maned Lynels[ce]
-[cs][es]2_5_1______White-Maned Lynel[cm][es]1_5_1______White-Maned Lynels[ce]
-[cs][es]2_5_1______Silver Lynel[cm][es]1_5_1______Silver Lynels[ce]
-[cs][es]2_5_1______Stone Talus[cm][es]1_5_1______Stone Taluses[ce]
-[cs][es]2_5_1______Stone Talus (Luminous)[cm][es]1_5_1______Stone Taluses (Luminous)[ce]
-[cs][es]2_5_1______Stone Talus (Rare)[cm][es]1_5_1______Stone Taluses (Rare)[ce]
-[cs][es]3_5_1______Igneo Talus[cm][es]1_5_1______Igneo Taluses[ce]
-[cs][es]2_5_1______Frost Talus[cm][es]1_5_1______Frost Taluses[ce]
-[cs][es]3_5_1______Igneo Talus Titan[cm][es]1_5_1______Igneo Talus Titans[ce]
-[cs][es]2_5_1______Hinox[cm][es]1_5_1______Hinoxes[ce]
-[cs][es]2_5_1______Blue Hinox[cm][es]1_5_1______Blue Hinoxes[ce]
-[cs][es]2_5_1______Black Hinox[cm][es]1_5_1______Black Hinoxes[ce]
-[cs][es]2_5_1______Stalnox[cm][es]1_5_1______Stalnoxes[ce]
-[cs][es]2_5_1______Molduga[cm][es]1_5_1______Moldugas[ce]
-[cs][es]2_5_1______Molduking[cm][es]1_5_1______Moldukings[ce]
-[cs][es]1_1_1______Dinraal[cm][es]5_5_1______Dinraals[ce]
-[cs][es]1_1_1______Naydra[cm][es]5_5_1______Naydras[ce]
-[cs][es]1_1_1______Farosh[cm][es]5_5_1______Faroshes[ce]
-[cs][es]1_1_1______Thunderblight Ganon[cm][es]5_5_1______Thunderblight Ganons[ce]
-[cs][es]1_1_1______Fireblight Ganon[cm][es]5_5_1______Fireblight Ganons[ce]
-[cs][es]1_1_1______Waterblight Ganon[cm][es]5_5_1______Waterblight Ganons[ce]
-[cs][es]1_1_1______Windblight Ganon[cm][es]5_5_1______Windblight Ganons[ce]
-[cs][es]1_1_1______Ruinous Thunderblight Ganon[cm][es]5_5_1______Ruinous Thunderblight Ganons[ce]
-[cs][es]1_1_1______Ruinous Fireblight Ganon[cm][es]5_5_1______Ruinous Fireblight Ganons[ce]
-[cs][es]1_1_1______Ruinous Waterblight Ganon[cm][es]5_5_1______Ruinous Waterblight Ganons[ce]
-[cs][es]1_1_1______Ruinous Windblight Ganon[cm][es]5_5_1______Ruinous Windblight Ganons[ce]
-[cs][es]1_1_1______Dark Beast Ganon[cm][es]5_5_1______Dark Beast Ganons[ce]
-[cs][es]1_1_1______Harbinger Ganon[cm][es]5_5_1______Harbinger Ganons[ce]
+Singular: Electric Lizalfos
+Plural: Electric Lizalfos
+
+Singular: Silver Lizalfos
+Plural: Silver Lizalfos
+
+Singular: Yiga Footsoldier
+Plural: Yiga Footsoldiers
+
+Singular: Guardian Scout I
+Plural: Guardian Scouts I
+
+Singular: Guardian Scout II
+Plural: Guardian Scouts II
+
+Singular: Guardian Scout III
+Plural: Guardian Scouts III
+
+Singular: Guardian Scout IV
+Plural: Guardian Scouts IV
+
+Singular: Stone Pebblit
+Plural: Stone Pebblits
+
+Singular: Igneo Pebblit
+Plural: Igneo Pebblits
+
+Singular: Frost Pebblit
+Plural: Frost Pebblits
+
+Singular: Cursed Bokoblin
+Plural: Cursed Bokoblins
+
+Singular: Cursed Moblin
+Plural: Cursed Moblins
+
+Singular: Cursed Lizalfos
+Plural: Cursed Lizalfos
+
+Singular: Eye of Malice
+Plural: Eyes of Malice
+
+Singular: Hylian Captain
+Plural: Hylian Captains
+
+Singular: Zora Captain
+Plural: Zora Captains
+
+Singular: Goron Captain
+Plural: Goron Captains
+
+Singular: Rito Captain
+Plural: Rito Captains
+
+Singular: Gerudo Captain
+Plural: Gerudo Captains
+
+Singular: Moblin
+Plural: Moblins
+
+Singular: Blue Moblin
+Plural: Blue Moblins
+
+Singular: Black Moblin
+Plural: Black Moblins
+
+Singular: Stalmoblin
+Plural: Stalmoblins
+
+Singular: Silver Moblin
+Plural: Silver Moblins
+
+Singular: Guardian
+Plural: Guardians
+
+Singular: Guardian
+Plural: Guardians
+
+Singular: Guardian
+Plural: Guardians
+
+Singular: Sentry
+Plural: Sentries
+
+Singular: Unearthed Guardian
+Plural: Unearthed Guardians
+
+Singular: Yiga Blademaster
+Plural: Yiga Blademasters
+
+Singular: Fire Wizzrobe
+Plural: Fire Wizzrobes
+
+Singular: Ice Wizzrobe
+Plural: Ice Wizzrobes
+
+Singular: Electric Wizzrobe
+Plural: Electric Wizzrobes
+
+Singular: Meteo Wizzrobe
+Plural: Meteo Wizzrobes
+
+Singular: Blizzrobe
+Plural: Blizzrobes
+
+Singular: Thunder Wizzrobe
+Plural: Thunder Wizzrobes
+
+Singular: Harbinger Ganon
+Plural: Harbinger Ganons
+
+Singular: Lynel
+Plural: Lynels
+
+Singular: Blue-Maned Lynel
+Plural: Blue-Maned Lynels
+
+Singular: White-Maned Lynel
+Plural: White-Maned Lynels
+
+Singular: Silver Lynel
+Plural: Silver Lynels
+
+Singular: Stone Talus
+Plural: Stone Taluses
+
+Singular: Stone Talus (Luminous)
+Plural: Stone Taluses (Luminous)
+
+Singular: Stone Talus (Rare)
+Plural: Stone Taluses (Rare)
+
+Singular: Igneo Talus
+Plural: Igneo Taluses
+
+Singular: Frost Talus
+Plural: Frost Taluses
+
+Singular: Igneo Talus Titan
+Plural: Igneo Talus Titans
+
+Singular: Hinox
+Plural: Hinoxes
+
+Singular: Blue Hinox
+Plural: Blue Hinoxes
+
+Singular: Black Hinox
+Plural: Black Hinoxes
+
+Singular: Stalnox
+Plural: Stalnoxes
+
+Singular: Molduga
+Plural: Moldugas
+
+Singular: Molduking
+Plural: Moldukings
+
+Singular: Dinraal
+Plural: Dinraals
+
+Singular: Naydra
+Plural: Naydras
+
+Singular: Farosh
+Plural: Faroshes
+
+Singular: Thunderblight Ganon
+Plural: Thunderblight Ganons
+
+Singular: Fireblight Ganon
+Plural: Fireblight Ganons
+
+Singular: Waterblight Ganon
+Plural: Waterblight Ganons
+
+Singular: Windblight Ganon
+Plural: Windblight Ganons
+
+Singular: Ruinous Thunderblight Ganon
+Plural: Ruinous Thunderblight Ganons
+
+Singular: Ruinous Fireblight Ganon
+Plural: Ruinous Fireblight Ganons
+
+Singular: Ruinous Waterblight Ganon
+Plural: Ruinous Waterblight Ganons
+
+Singular: Ruinous Windblight Ganon
+Plural: Ruinous Windblight Ganons
+
+Singular: Dark Beast Ganon
+Plural: Dark Beast Ganons
+
+Singular: Harbinger Ganon
+Plural: Harbinger Ganons
