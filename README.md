@@ -25,19 +25,25 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 **English**
 
 - 3070: Attack descriptions
+- 3815: HUD text
+- 3990: Blacksmith Dialogue
 - 3840: Attire
 - 4105: Material type text
 - 4345: Mission descriptions
 - 4360: Mission names
 - 4375: Character/NPC Names (Singular and Pluralized)
 - 4490: Dye shop color names
+- 5645: Mission Dialogue
+- 7775: Character/NPC action descriptions
 - 7795: Location names
+- 7875: Credits
 - 7965: Mission stats text
+- 8035: Mission Complete Text
 - 8090: Items
 
 **German**
 
-- 3075: Attack text
+- 3075: Attack descriptions
 - 3845: Attire
 - 4110: Material type text
 - 4365: Mission names
@@ -81,6 +87,12 @@ The folder "LinkData" will provide the bigger block of text from the game, with 
 
 **Korean**
 - 5395: Mission names
+
+**TODO**
+
+- Extract and process jp text sources
+- Process text from other asset locations in the ROM
+- Update files index with content info for all languages.
 
 ## Credits
 
