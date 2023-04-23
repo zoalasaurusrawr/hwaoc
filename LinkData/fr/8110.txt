@@ -1,0 +1,21 @@
+[cs][es]3_7_11_16_1_32_19_36_pe  une main[cm][es]4_8_12_17_1_33_19_37_pes  une main[ce]
+[cs][es]3_7_11_16_1_32_19_36_pe  deux mains[cm][es]4_8_12_17_1_33_19_37_pes  deux mains[ce]
+[cs][es]3_6_10_15_1_32_18_35_lance[cm][es]4_8_12_17_1_33_18_37_lances[ce]
+[es]3_6_10_15_1_32_18_35_tablette Sheikah
+[es]2_7_11_16_1_31_19_36_arc de lumire
+[es]1_1_13_18_1_31_18_38_Rhoam Bosphoramus
+[es]1_1_13_18_1_32_18_38_Mipha
+[es]1_1_13_18_1_31_18_38_Daruk
+[es]1_1_13_18_1_31_18_38_Revali
+[es]1_1_13_19_1_32_19_39_Urbosa
+[es]1_1_13_19_1_32_19_39_Impa
+[es]1_1_13_18_1_31_18_38_Sidon
+[es]1_1_13_18_1_31_18_38_Yunobo
+[es]1_1_13_18_1_31_18_38_Teba
+[es]1_1_13_18_1_32_18_38_Riju
+[es]1_1_13_18_1_31_18_38_Noa
+[es]4_8_12_17_8_33_18_37_grandes fes
+[es]5_5_9_14_5_31_18_34_grand Kohga
+[es]5_5_9_14_1_31_18_34_guide Miz'Kyosia
+[es]1_1_13_18_1_31_18_38_Terrako
+[es]5_5_9_14_1_31_18_34_Flau Ganon

@@ -1,0 +1,164 @@
+[es]6_6_10_15_10_32_18_35_mer d'Akkala
+[es]8_8_12_17_28_33_18_37_hauteurs d'Akkala
+[es]8_8_12_17_12_33_18_37_profondeurs d'Akkala
+[es]5_5_9_14_20_31_18_34_ravin d'Ordinn
+[es]6_6_10_15_26_32_18_35_chane d'Ordinn
+[es]8_8_12_17_28_33_18_37_hauteurs Gerudos
+[es]5_5_9_14_20_31_18_34_dsert Gerudo
+[es]6_6_10_15_21_32_18_35_prairie gele de Tabanta
+[es]8_8_12_17_12_33_18_37_confins de Tabanta
+[es]6_6_10_15_26_32_18_35_montagne de la Mort
+[es]7_7_11_16_11_31_19_36_ouest de Necluda
+[es]8_8_12_17_28_33_18_37_collines d'Hyrule
+[es]6_6_10_15_21_32_18_35_grande fort d'Hyrule
+[es]6_6_10_15_21_32_18_35_plaine d'Hyrule
+[es]5_5_9_14_9_31_18_34_lac Hylia
+[es]6_6_10_15_10_32_18_35_mer de Necluda
+[es]7_7_11_16_11_31_19_36_est de Necluda
+[es]6_6_10_15_10_32_18_35_mer de Firone
+[es]6_6_10_15_10_32_18_35_prairie de Firone
+[es]6_6_10_15_26_32_18_35_chane d'Hbra
+[es]6_6_10_15_10_32_18_35_mer de Lanelle
+[es]6_6_10_15_26_32_18_35_montagne de Lanelle
+[es]8_8_12_17_23_33_18_37_marcages de Lanelle
+[es]6_6_10_15_10_32_18_35_grande source de Lanelle
+[es]5_5_9_14_9_31_18_34_village de Cocorico
+[es]5_5_9_14_9_31_18_34_village d'Elimith
+[es]5_5_9_14_9_31_18_34_hameau des Anmones
+[es]5_5_9_14_9_31_18_34_domaine Zora
+[es]5_5_9_14_9_31_18_34_village d'Euzero
+[es]5_5_9_14_9_31_18_34_hameau de Malficio
+[es]5_5_9_14_9_31_18_34_village Goron
+[es]5_5_9_14_9_31_18_34_hameau de Rauru
+[es]5_5_9_14_9_31_18_34_chteau d'Hyrule
+[es]6_6_10_15_10_32_18_35_cit des Mouettes
+[es]5_5_9_14_9_31_18_34_village Piaf
+[es]5_5_9_14_9_31_18_34_village de Tabanta
+[es]6_6_10_15_21_32_18_35_cit Gerudo
+[es]5_5_9_14_9_31_18_34_village d'Adeya
+[es]5_5_9_14_9_31_18_34_village d'caraille
+[es]5_5_9_14_9_31_18_34_laboratoire antique royal
+[es]5_5_9_14_9_31_18_34_parc Sandine
+[es]6_6_10_15_21_32_18_35_valle du Nant
+[es]7_7_11_16_11_32_19_36_tape d'Hyrule
+[es]5_5_9_14_25_31_18_34_mont Gonggle
+[es]6_6_10_15_10_32_18_35_forteresse d'Akkala
+[es]5_5_9_14_20_31_18_34_repaire des Yigas
+[es]6_6_10_15_21_32_18_35_fort de Damsel
+[es]5_5_9_14_9_31_18_34_lac Ofroyd
+[es]6_6_10_15_10_32_18_35_muraille d'Elimith
+[es]5_5_9_14_25_31_18_34_plateau du Prlude
+[es]6_6_10_15_10_32_18_35_citadelle d'Hyrule
+[es]6_6_10_15_21_32_18_35_mine du sud
+[es]6_6_10_15_10_32_18_35_source du Courage
+[es]5_5_9_14_25_31_18_34_mont Rhoam
+[es]6_6_10_15_21_32_18_35_plaine de Stulys
+[es]6_6_10_15_10_32_18_35_gorge Tragite
+[es]5_5_9_14_9_31_18_34_sanctuaire de la Renaissance
+[es]6_6_10_15_10_32_18_35_fort Korogu
+[es]8_8_12_17_28_33_18_37_monts Gmins
+[es]6_6_10_15_10_32_18_35_plaine de Cernoir
+[es]5_5_9_14_20_31_18_34_temple des Sages
+[es]8_8_12_17_12_33_18_37_bois Perdus
+[es]5_5_9_14_25_31_18_34_mont de la Foudre
+[es]2_7_11_16_11_31_19_36_embarcadre
+[es]2_7_11_16_22_31_19_36_amphithtre
+[es]2_5_9_14_25_31_18_34_champ de manuvres
+[es]2_5_9_14_9_31_18_34_ranch
+[es]6_6_10_15_21_32_18_35_mine du nord
+[es]6_6_10_15_10_32_18_35_fontaine de Marlon
+[es]6_6_10_15_10_32_18_35_source de la Sagesse
+[es]6_6_10_15_10_32_18_35_source de la Force
+[es]6_6_10_15_10_32_18_35_fontaine de la grande fe
+[cs][es]2_7_11_16_22_31_19_36_avant-poste[cm][es]4_8_12_17_23_33_19_37_avant-postes[ce]
+[es]2_5_9_14_9_31_18_34_camp militaire
+[es]3_7_11_16_11_32_19_36_tape d'Hyrule
+[es]3_6_10_15_21_32_18_35_fort
+[es]3_6_10_15_10_32_18_35_caserne
+[es]3_6_10_15_26_32_18_35_place
+[es]2_5_9_14_9_31_18_34_pont
+[es]3_6_10_15_10_32_18_35_lune de sang
+[es]2_7_11_16_11_31_19_36_autel
+[es]8_8_12_17_12_33_18_37_seconds quartiers
+[es]8_8_12_17_12_33_18_37_troisimes quartiers
+[es]8_8_12_17_12_33_18_37_quartiers principaux
+[es]3_6_10_15_21_32_18_35_base allie
+[es]3_6_10_15_21_32_18_35_base ennemie
+[es]3_6_10_15_21_32_18_35_base allie du nord
+[es]2_5_9_14_9_31_18_34_laboratoire
+[es]2_5_9_14_20_31_18_34_passage secret
+[es]5_5_9_14_9_31_18_34_sommet du mont Rhoam
+[es]2_5_9_14_20_31_18_34_canal d'irrigation
+[es]4_8_12_17_23_33_18_37_oubliettes
+[es]2_5_9_14_9_31_18_34_repaire
+[es]3_6_10_15_10_32_18_35_porte secrte
+[es]3_6_10_15_10_32_18_35_ligne de dfense
+[es]4_8_12_17_23_33_18_37_avant-postes des monstres
+[cs][es]2_7_11_16_22_31_19_36_avant-poste gigantesque[cm][es]4_8_12_17_23_33_19_37_avant-postes gigantesques[ce]
+[es]2_5_9_14_9_31_18_34_domaine
+[es]4_8_12_17_12_33_18_37_sources chaudes
+[es]7_7_11_16_22_31_19_36_avant-poste du sud
+[es]3_6_10_15_10_32_18_35_tour sheikah
+[es]2_5_9_14_9_31_18_34_pont dtruit
+[es]5_5_9_14_20_31_18_34_repaire des Yigas
+[es]5_5_9_14_9_31_18_34_temple du Temps
+[es]7_7_11_16_11_31_19_36_intrieur du temple du Temps
+[cs][es]7_7_11_16_22_31_19_36_avant-poste de la ville[cm][es]4_8_12_17_23_33_19_37_avant-postes de la ville[ce]
+[es]1_1_13_18_24_33_18_38_tous les avant-postes
+[es]2_5_9_14_9_31_18_34_point de destination
+[es]2_7_11_16_22_31_19_36_avant-poste de destination
+[es]2_7_11_16_22_31_19_36_avant-poste principal
+[es]2_5_9_14_9_31_18_34_patrouille
+[es]5_5_9_14_9_31_18_34_pont du village Piaf
+[es]3_7_11_16_11_32_19_36_entre de derrire
+[es]2_5_9_14_9_31_18_34_point d'vasion
+[es]5_5_9_14_20_31_18_34_grand hall
+[cs][es]3_6_10_15_10_32_18_35_porte[cm][es]4_8_12_17_12_33_18_37_portes[ce]
+[es]2_5_9_14_9_31_18_34_chteau
+[es]3_6_10_15_10_32_18_35_voie d'vasion
+[es]2_5_9_14_9_31_18_34_point de l'objectif
+[es]4_8_12_17_12_33_18_37_points de l'objectif
+[es]3_6_10_15_10_32_18_35_sortie
+[es]6_6_10_15_10_32_18_35_porte du village
+[es]3_6_10_15_21_32_18_35_rserve
+[es]3_6_10_15_21_32_18_35_pice du fond
+[es]7_7_11_16_22_31_19_36_avant-poste du laboratoire
+[es]7_7_11_16_22_31_19_36_avant-poste de la route
+[es]2_5_9_14_9_31_18_34_point d'vacuation
+[es]6_6_10_15_10_32_18_35_porte de la ville
+[es]3_6_10_15_10_32_18_35_porte de destination
+[es]6_6_10_15_10_32_18_35_porte de la base ennemie
+[es]6_6_10_15_10_32_18_35_porte de l'avant-poste
+[es]3_6_10_15_21_32_18_35_forteresse
+[es]2_5_9_14_25_31_18_34_champ de bataille
+[es]2_5_9_14_9_31_18_34_laboratoire d'essais
+[es]2_5_9_14_25_31_18_34_pont
+[es]1_1_13_18_13_33_18_38_tous les ponts
+[es]1_1_13_18_24_33_18_38_plusieurs avant-postes
+[es]3_6_10_15_21_32_18_35_bibliothque
+[es]6_6_10_15_21_32_18_35_salle du trne
+[es]6_6_10_15_21_32_18_35_salle d'armes
+[es]6_6_10_15_21_32_18_35_grand-salle
+[es]6_6_10_15_10_32_18_35_porte principale
+[es]6_6_10_15_21_32_18_35_galerie est
+[es]3_6_10_15_10_32_18_35_cour
+[es]4_8_12_17_23_33_18_37_geles
+[es]6_6_10_15_21_32_18_35_salle de rception
+[es]6_6_10_15_21_32_18_35_galerie ouest
+[es]7_7_11_16_22_32_19_36_appartements de Zelda
+[es]7_7_11_16_22_32_19_36_tude de Zelda
+[es]2_7_11_16_22_31_19_36_observatoire
+[es]7_7_11_16_22_32_19_36_tude du roi
+[es]2_7_11_16_11_31_19_36_observatoire
+[es]6_6_10_15_21_32_18_35_salle des Prodiges
+[es]2_5_9_14_20_31_18_34_beffroi
+[es]2_5_9_14_20_31_18_34_clocher
+[es]6_6_10_15_21_32_18_35_salle d'armes
+[es]7_7_11_16_22_32_19_36_armurerie
+[es]2_5_9_14_20_31_18_34_passage
+[es]2_7_11_16_22_31_19_36_escalier
+[es]3_6_10_15_21_32_18_35_caverne souterraine
+[es]4_8_12_17_28_33_18_37_montagnes rocheuses
+[es]7_7_11_16_22_31_19_36_avant-poste de l'est
+[es]7_7_11_16_22_31_19_36_avant-poste de l'ouest
+[es]7_7_11_16_22_31_19_36_avant-poste du nord

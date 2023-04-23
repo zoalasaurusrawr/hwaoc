@@ -1,0 +1,164 @@
+[es]1_10_18_26_34_42_58_65_mar di Akkala
+[es]2_12_20_28_36_44_60_65_altopiano di Akkala
+[es]1_9_69_25_33_69_57_66_Akkala profonda
+[es]1_13_21_29_37_45_61_66_valle di Oldin
+[es]8_16_24_32_40_64_64_68_montagne di Oldin
+[es]1_10_18_26_34_42_58_65_grande altopiano Gerudo
+[es]1_10_18_26_34_42_58_65_deserto Gerudo
+[es]5_13_21_29_37_45_61_66_piana innevata di Colbacco
+[es]5_13_21_29_37_45_61_66_frontiera di Colbacco
+[es]1_10_18_26_34_42_58_65_Monte Morte
+[es]1_9_17_25_33_49_57_66_Necluda occidentale
+[es]8_16_24_32_40_64_64_68_colline di Hyrule
+[es]5_13_21_29_37_45_61_66_foresta di Hyrule
+[es]5_13_21_29_37_45_61_66_piana di Hyrule
+[es]1_10_18_26_34_42_58_65_lago Hylia
+[es]1_10_18_26_34_42_58_65_mar di Necluda
+[es]1_9_17_25_33_49_57_66_Necluda orientale
+[es]1_10_18_26_34_42_58_65_mar di Firone
+[es]8_16_24_32_40_48_64_68_praterie di Firone
+[es]8_16_24_32_40_64_64_68_montagne di Hebra
+[es]1_10_18_26_34_42_58_65_mar di Ranel
+[es]1_10_18_26_34_42_58_65_monte di Ranel
+[es]5_13_21_29_37_45_61_66_palude di Ranel
+[es]8_16_24_32_40_48_64_68_sorgenti di Ranel
+[es]1_10_18_26_34_42_58_65_villaggio Calbarico
+[es]1_10_18_26_34_42_58_65_villaggio Finterra
+[es]1_10_18_26_34_42_58_65_villaggio Goponga
+[es]1_10_18_26_34_42_58_65_villaggio degli Zora
+[es]1_10_18_26_34_42_58_65_villaggio Daccapo
+[es]1_10_18_26_34_42_58_65_villaggio Penumbra
+[es]5_13_21_29_37_45_61_66_citt dei Goron
+[es]1_10_18_26_34_42_58_65_villaggio di Raul
+[es]1_10_18_26_34_42_58_65_castello di Hyrule
+[es]1_10_18_26_34_42_58_65_villaggio Mabe
+[es]1_10_18_26_34_42_58_65_borgo dei Rito
+[es]1_10_18_26_34_42_58_65_villaggio Colbacco
+[es]5_13_21_29_37_45_61_66_cittadella Gerudo
+[es]1_10_18_26_34_42_58_65_villaggio di Adeya
+[es]1_10_18_26_34_42_58_65_villaggio Vappesca
+[es]2_12_20_28_36_44_60_65_antico laboratorio di corte
+[es]1_10_18_26_34_42_58_65_parco Sadino
+[es]1_10_18_26_34_42_58_65_crepaccio di Mortipher
+[es]5_13_21_29_37_45_61_66_stazione di posta di Hyrule
+[es]1_10_18_26_34_50_58_65_monte Fez
+[es]5_13_21_29_37_45_61_66_fortezza di Akkala
+[es]1_10_18_26_34_42_58_65_covo degli Yiga
+[es]5_13_21_29_37_45_61_66_selva Damsel
+[es]1_10_18_26_34_42_58_65_lago Poplo
+[es]13_13_21_29_37_53_61_66_muraglia di Finterra
+[es]2_12_20_28_36_44_60_65_altopiano delle origini
+[es]2_10_18_26_34_42_58_65_borgo di Hyrule
+[es]5_13_21_29_37_45_61_66_miniera a sud
+[es]5_13_21_29_37_45_61_66_fonte del coraggio
+[es]1_10_18_26_34_42_58_65_monte Rhoam
+[es]5_13_21_29_37_45_61_66_pianura Castan
+[es]5_13_21_29_37_45_61_66_gola Vapone
+[es]1_10_18_26_34_42_58_65_sacrario della rinascita
+[es]1_10_18_26_34_42_58_65_bosco dei Korogu
+[es]6_14_22_30_38_46_62_67_Monti Gemelli
+[es]5_13_21_29_37_45_61_66_piana Baccanera
+[es]1_10_18_26_34_42_58_65_tempio dei saggi
+[es]1_10_18_26_34_42_58_65_Bosco Perduto
+[es]1_10_18_26_34_42_58_65_Monte Tuono
+[es]2_10_18_26_34_50_58_65_molo
+[es]4_12_20_28_36_44_60_66_arena
+[es]2_10_18_26_34_42_58_65_campo di addestramento
+[es]5_13_21_29_37_45_61_66_fattoria della pianura
+[es]2_10_18_26_34_42_58_65_passaggio nord
+[es]5_13_21_29_37_45_61_66_fonte di Ippan
+[es]5_13_21_29_37_45_61_66_fonte della saggezza
+[es]5_13_21_29_37_45_61_66_fonte della forza
+[es]5_13_21_29_37_45_61_66_fonte della fata radiosa
+[cs][es]2_12_20_28_36_44_60_65_avamposto[cm][es]7_15_23_31_39_47_63_67_avamposti[ce]
+[es]2_10_18_26_34_42_58_65_presidio di Hyrule
+[es]5_13_21_29_37_45_61_66_stazione di posta di Hyrule
+[es]5_13_21_29_37_45_61_66_selva
+[es]5_13_21_29_37_45_61_66_caserma
+[es]5_13_21_29_37_45_61_66_piazza
+[es]2_10_18_26_34_42_58_65_ponte
+[es]5_13_21_29_37_45_61_66_luna rossa
+[es]2_10_18_26_34_42_58_65_padiglione cerimoniale
+[es]2_10_18_26_34_42_58_65_secondo torrione
+[es]2_10_18_26_34_42_58_65_terzo torrione
+[es]2_10_18_26_34_42_58_65_torrione principale
+[es]5_13_21_29_37_45_61_66_base alleata
+[es]5_13_21_29_37_45_61_66_base nemica
+[es]5_13_21_29_37_45_61_66_base alleata nord
+[es]2_10_18_26_34_42_58_65_laboratorio
+[es]2_10_18_26_34_42_58_65_passaggio segreto
+[es]5_13_21_29_37_45_61_66_cima del monte Rhoam
+[es]2_10_18_26_34_42_58_65_canale di irrigazione
+[es]2_10_18_26_34_42_58_65_sotterraneo
+[es]2_10_18_26_34_42_58_65_covo
+[es]2_12_20_28_36_44_60_65_ingresso nascosto
+[es]5_13_21_29_37_45_61_66_linea difensiva
+[es]2_10_18_26_34_42_58_65_gruppo di avamposti di mostri
+[cs][es]2_12_20_28_36_44_60_65_avamposto gigante[cm][es]7_15_23_31_39_47_63_67_avamposti giganti[ce]
+[es]2_10_18_26_34_42_58_65_villaggio
+[es]8_16_24_32_40_48_64_68_terme
+[es]2_12_20_28_36_44_60_65_avamposto sud
+[es]5_13_21_29_37_45_61_66_torre Sheikah
+[es]2_10_18_26_34_42_58_65_ponte crollato
+[es]2_10_18_26_34_42_58_65_covo degli Yiga
+[es]2_10_18_26_34_42_58_65_santuario del tempo
+[es]2_12_20_28_36_44_60_65_interno del santuario del tempo
+[cs][es]2_12_20_28_36_44_60_65_avamposto del borgo[cm][es]7_15_23_31_39_47_63_67_avamposti del borgo[ce]
+[cs][es]1_9_17_25_33_41_57_67_tutti gli avamposti[cm][es]1_9_17_25_33_41_57_67_tutti gli avamposti[ce]
+[es]5_13_21_29_37_45_61_66_destinazione
+[cs][es]2_12_20_28_36_44_60_65_avamposto indicato[cm][es]7_15_23_31_39_47_63_67_avamposti indicati[ce]
+[cs][es]2_12_20_28_36_44_60_65_avamposto principale[cm][es]7_15_23_31_39_47_63_67_avamposti principali[ce]
+[es]5_13_21_29_37_45_61_66_base di ricognizione
+[es]2_10_18_26_34_42_58_65_ponte per il borgo dei Rito
+[es]4_12_20_28_36_44_60_66_uscita sul retro
+[es]2_10_18_26_34_42_58_65_punto di fuga
+[es]2_10_18_26_34_42_58_65_salone
+[cs][es]5_13_21_29_37_45_61_66_porta[cm][es]8_16_24_32_40_48_64_68_porte[ce]
+[es]2_10_18_26_34_42_58_65_castello
+[es]5_13_21_29_37_45_61_66_via di ritirata
+[es]2_10_18_26_34_42_58_65_punto di avvistamento
+[cs][es]1_9_17_25_33_41_57_67_tutti i punti di avvistamento[cm][es]1_9_17_25_33_41_57_67_tutti i punti di avvistamento[ce]
+[es]4_12_20_28_36_44_60_66_uscita
+[cs][es]5_13_21_29_37_45_61_66_porta per il villaggio[cm][es]8_16_24_32_40_48_64_68_porte per il villaggio[ce]
+[es]2_10_18_26_34_42_58_65_deposito
+[es]5_13_21_29_37_45_61_66_parte in fondo
+[es]2_12_20_28_36_44_60_65_avamposto del laboratorio
+[es]2_12_20_28_36_44_60_65_avamposto sul tragitto
+[es]4_12_20_28_36_44_60_66_area d'evacuazione
+[cs][es]5_13_21_29_37_45_61_66_porta del borgo[cm][es]8_16_24_32_40_48_64_68_porte del borgo[ce]
+[cs][es]5_13_21_29_37_45_61_66_porta indicata[cm][es]8_16_24_32_40_48_64_68_porte indicate[ce]
+[cs][es]5_13_21_29_37_45_61_66_porta della base nemica[cm][es]8_16_24_32_40_48_64_68_porte della base nemica[ce]
+[cs][es]5_13_21_29_37_45_61_66_porta dell'avamposto[cm][es]8_16_24_32_40_48_64_68_porte dell'avamposto[ce]
+[es]2_10_18_26_34_42_58_65_fortezza
+[es]2_10_18_26_34_42_58_65_campo di battaglia
+[es]2_10_18_26_34_42_58_65_centro di ricerca sperimentale
+[es]2_10_18_26_34_42_58_65_ponte
+[cs][es]1_9_17_25_33_41_57_67_tutti i ponti[cm][es]1_9_17_25_33_41_57_67_tutti i ponti[ce]
+[es]2_10_18_26_34_42_58_65_gruppo di avamposti
+[es]5_13_21_29_37_45_61_66_biblioteca
+[es]5_13_21_29_37_45_61_66_sala del trono
+[es]5_13_21_29_37_45_61_66_zona di addestramento
+[es]5_13_21_29_37_45_61_66_sala da pranzo
+[es]5_13_21_29_37_45_61_66_porta principale
+[es]2_10_18_26_34_42_58_65_passaggio est
+[es]2_10_18_26_34_42_58_65_giardino
+[es]5_13_21_29_37_45_61_66_prigione
+[es]5_13_21_29_37_45_61_66_sala di ricevimento
+[es]2_10_18_26_34_42_58_65_passaggio ovest
+[es]5_13_21_29_37_45_61_66_stanza di Zelda
+[es]1_10_18_26_34_42_58_65_laboratorio di Zelda
+[es]2_12_20_28_36_44_60_65_osservatorio
+[es]3_11_19_27_35_43_59_65_studio del re
+[es]5_13_21_29_37_45_61_66_stazione d'osservazione
+[es]5_13_21_29_37_45_61_66_sala dei campioni
+[es]1_10_18_26_34_42_58_65_campanile
+[es]5_13_21_29_37_45_61_66_campana
+[es]5_13_21_29_37_45_61_66_zona di addestramento soldati
+[es]4_12_20_28_36_44_60_66_armeria
+[es]1_10_18_26_34_42_58_65_passaggio
+[cs][es]8_16_24_32_40_48_64_68_scale[cm][es]8_16_24_32_40_48_64_68_scale[ce]
+[es]5_13_21_29_37_45_61_66_caverna sotterranea
+[es]5_13_21_29_37_45_61_66_montagna rocciosa
+[es]2_12_20_28_36_44_60_65_avamposto est
+[es]2_12_20_28_36_44_60_65_avamposto ovest
+[es]2_12_20_28_36_44_60_65_avamposto nord
